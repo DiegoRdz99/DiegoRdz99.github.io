@@ -45,7 +45,7 @@ function transpose() {
             chords[i].innerHTML = chds_sp[mod(chds[base[i]]+trans, 12)];
             chord_names[i].innerHTML = chds_sp[mod(chds[base[i]]+trans, 12)]+qualities[i].innerHTML;
         }
-        diagrams[i].src = "./.chords/"+chds_ft[mod(chds[base[i]]+trans, 12)].replace('♭','b')+qualities[i].innerHTML+".svg";
+        diagrams[i].src = chds_ft[mod(chds[base[i]]+trans, 12)].replace('♭','b')+qualities[i].innerHTML+".svg";
     }
     if (capo){output.innerHTML = -trans;}
     else {output.innerHTML = sign(trans);}
