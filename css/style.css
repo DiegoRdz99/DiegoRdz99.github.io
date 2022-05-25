@@ -236,7 +236,7 @@ A.chordlink:hover {
 	visibility: visible;
   }
 
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 900px) {
 	/* For mobile phones: */
 	.control_bar {
 	  width: 100%;
