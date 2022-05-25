@@ -1,5 +1,11 @@
 from math import ceil
 
+class constants:
+    def __init__(self):
+        self.navbar = f'<body><div><div class="navbar">\n<a href="../Misa/index.html">Misa</a>\n<a href="../Hora_Santa/index.html">Hora Santa</a>\n<div class="dropdown">\n<button class="dropbtn">Dropdown<i class="fa fa-caret-down"></i>\n</button>\n<div class="dropdown-content">\n<a href="#">Link 1</a>\n<a href="#">Link 2</a>\n<a href="#">Link 3</a></div></div></div></div>\n<div class="main">\n'
+
+html_constants = constants()
+
 def chordify(chord):
     try:
         root = chord[0] # Root　根
@@ -25,7 +31,7 @@ class line:
             lst[0]=['']+lst[0] # For lines beginning with chords
         lst = [list(i) for i in zip(*lst)] # Transpose algorithm
         chords = [chordify(chord) for chord in lst[0]]
-        self.c_line = ''.join([f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="./.chords/{chord[0]}{chord[1]}.svg"></div></td>' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
+        self.c_line = ''.join([f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="../chords/{chord[0]}{chord[1]}.svg"></div></td>' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
         # Chord line table
         self.l_line = ''.join([f'<td>{frag}</td>' for frag in lst[1]])
 
@@ -94,29 +100,55 @@ class song:
                 teil.include_coro(self.Coro)
             except:
                 pass
-        head = f'<html><head>\n<title>{self.title}</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="./.css/style.css"></head>'
-        navbar = f'<body><div><div class="navbar">\n<a href="Acércate.html">Acércate</a>\n<a href="Qué_Alegría_I.html">Qué Alegría</a>\n<div class="dropdown">\n<button class="dropbtn">Dropdown<i class="fa fa-caret-down"></i>\n</button>\n<div class="dropdown-content">\n<a href="#">Link 1</a>\n<a href="#">Link 2</a>\n<a href="#">Link 3</a></div></div></div></div>\n<table class="main" border=0px width="100%">\n<col style="width:25%"><col style="width:30%"><col style="width:20%"><col style="width:20%"><tr><th colspan="3"><h1>{self.title}</h1></th></tr><tr><th><h2>{self.composer}</h2></th><th><h2>{self.subtitle}</h2></th><th><h2>Clave: {self.key}</h2></th></tr>\n</table>'
+        head = f'<html><head>\n<title>{self.title}</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="../css/style.css"></head>'
+        title_table = f'<table class="main" border=0px width="100%">\n<col style="width:25%"><col style="width:30%"><col style="width:20%"><col style="width:20%"><tr><th colspan="3"><h1>{self.title}</h1></th></tr><tr><th><h2>{self.composer}</h2></th><th><h2>{self.subtitle}</h2></th><th><h2>Clave: {self.key}</h2></th></tr>\n</table>'
         control_bar = f'<div>\n<div class="control_bar">\n<label id="up" onclick="tpup()"><div class="icon">+1</div></label>\n<label id="down" onclick="tpdown()"><div class="icon">-1</div></label>\n<label onclick="tr_capo()"><span class="icon" id="tr-capo">Transpose</span><sup id="count" class="super"></sup></label>\n<label onclick="ft_sp()" id="b_but"><span class="icon">&nbsp;&flat;&nbsp;</span></label>\n</div>\n</div>'
-        self.html_preamble = head + navbar + control_bar
-        self.html_footer = r'<script src="./.js/script.js"></script></body></html>'
+        self.html_preamble = head + html_constants.navbar + title_table + control_bar
+        self.html_footer = r'<script src="../js/script.js"></script></body></html>'
     def to_html(self):
         html = '\n'.join([teil.to_html() for teil in self.teile])
         return self.html_preamble + '\n' + html + '\n'+ self.html_footer
 
-def create_html(file_name):
-    name_ext = file_name.split('.')[0]
-    newfile = open(f'{name_ext}.html','w',encoding='utf-8')
-    newfile.write(song(file_name).to_html())
+def create_html(file_path):
+    file_name = file_path.split('\\')[-1][:-4]
+    # name_ext = file_name.split('.')[0]
+    name_ext = '\\'.join(file_path.split('\\')[:-1])
+    newfile = open(f'{name_ext}\\{file_name}.html','w',encoding='utf-8')
+    newfile.write(song(file_path).to_html())
     newfile.close()
+
+def create_index(folder_path):
+    folder_name = folder_path.split('\\')[-1]
+    head = f'<html><head>\n<title>{folder_name}</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="../css/style.css"></head>'
+    preamble = head + html_constants.navbar
+    dirs = os.listdir(folder_path)
+    songs = [i for i in dirs if i[-5:]=='.html']
+    if songs!=[]:
+        try:
+            songs.remove('index.html')
+        except:
+            pass
+        for song in songs:
+            preamble += f'<a href="{song}">{song[:-5]}</a><br>'
+        footer = '</div>\n</body>\n</html>'
+        html = preamble + footer
+        newfile = open(f'{folder_path}\\index.html','w',encoding='utf-8')
+        newfile.write(html)
+        newfile.close()
 
 
 import os
 import pathlib
 path = pathlib.Path(__file__).parent.resolve() # Automated path retriever
 dirs = os.listdir(path)
-files = [i for i in dirs if i[0]!='.']
-folders = [i for i in dirs if i[0]=='.']
-songs = [i for i in files if i[-4:]=='.txt']
+# files = [i for i in dirs if i.find('.')!=-1]
+folders = [str(path)+'\\'+i for i in dirs if i.find('.')==-1]
+for folder in folders:
+    create_index(folder)
+    dirs = os.listdir(folder)
+    songs = [i for i in dirs if i[-4:]=='.txt']
+    for s in songs:
+        create_html(folder+'\\'+s)
 
-for s in songs:
-    create_html(s)
+# for s in songs:
+#     create_html(s)
