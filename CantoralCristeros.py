@@ -36,10 +36,6 @@ class line:
     def table(self):
         return f'\n<table class="linewithchord" border="0" cellpadding="0" cellspacing="0">\n<tr class="chordline">{self.c_line}</tr>\n<tr class="lyricsline">{self.l_line}</tr>\n</table>'
 
-class chord_line(line):
-    def __init__(self,raw,backsteps):
-        super().__init__(raw,backsteps)
-
 
 class Chorus:
     def __init__(self,raw):
@@ -48,17 +44,6 @@ class Chorus:
     def to_html(self,backsteps):
         head = f'\n<br><span class="header chorus">Coro</span><br>\n<table class="chorus" border="0" cellpadding="0" cellspacing="0"><tr><td>'
         foot = '</td></tr></table>\n<br>\n'
-        lines = [line(raw,backsteps) for raw in self.raw.split('\n')]
-        html = '\n'.join([lin.table() for lin in lines])
-        return head + html + foot
-
-class verse:
-    def __init__(self,raw):
-        self.raw = raw.replace(' ','&nbsp;')
-    
-    def to_html(self,backsteps):
-        head = f'\n<br><span class="header verse">Verso</span><br>\n<table class="verse" border="0" cellpadding="0" cellspacing="0"><tr><td>'
-        foot = '</td></tr></table>'
         lines = [line(raw,backsteps) for raw in self.raw.split('\n')]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
@@ -73,12 +58,43 @@ class chorus:
     def to_html(self,backsteps):
         return self.coro.to_html(backsteps)
 
-class intro:
+class verse:
     def __init__(self,raw):
-        self.raw = raw.replace(' ','$nbsp;')
+        self.raw = raw.replace(' ','&nbsp;')
+        self.title = 'Verso'
+        self.klass = 'verse'
+    
+    def to_html(self,backsteps):
+        head = f'\n<br><span class="header {self.klass}">{self.title}</span><br>\n<table class="{self.klass}" border="0" cellpadding="0" cellspacing="0"><tr><td>'
+        foot = '</td></tr></table>'
+        lines = [line(raw,backsteps) for raw in self.raw.split('\n')]
+        html = '\n'.join([lin.table() for lin in lines])
+        return head + html + foot
+
+class prechorus(verse):
+    def __init__(self,raw):
+        super().__init__(raw)
+        self.title = 'Pre-coro'
+        self.klass = 'pre-chorus'
+
+class intermedio(verse):
+    def __init__(self,raw):
+        self.raw = raw.replace(' ','&nbsp;&nbsp;')
+        self.title = 'Intermedio'
+        self.klass = 'inst'
+
+class intro(intermedio):
+    def __init__(self,raw):
+        super().__init__(raw)
+        self.title = 'Intro'
+    
+class outro(intermedio):
+    def __init__(self,raw):
+        super().__init__(raw)
+        self.title = 'Outro'
 
 
-parts = {'Coro':Chorus,'coro':chorus,'verse':verse}
+parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro}
 
 class song:
     def __init__(self,file_name,backsteps):
@@ -91,7 +107,10 @@ class song:
         self.parts = self.raw.split('/')
         self.groups = [(self.parts[2*i-1],self.parts[2*i]) for i in range(1,ceil(len(self.parts)/2))]
         self.teile = [parts[group[0]](group[1]) for group in self.groups]
-        self.Coro = [teil for teil in self.teile if isinstance(teil,Chorus)][0]
+        try:
+            self.Coro = [teil for teil in self.teile if isinstance(teil,Chorus)][0]
+        except:
+            pass
         for teil in self.teile:
             try:
                 teil.include_coro(self.Coro)
@@ -139,7 +158,7 @@ def create_index(folder_path):
             newfile.write(html)
             newfile.close()
     else:
-        jscript = ''
+        jscript = 'function show(x) {\nif (x.style.display === "none") {\nx.style.display = "block";\n} else {\nx.style.display = "none";\n}\n}'
         for folder in folders:
             dirs = os.listdir(folder_path+'\\'+folder)
             songs = [i for i in dirs if i[-5:]=='.html']
@@ -148,14 +167,14 @@ def create_index(folder_path):
                     songs.remove('index.html')
                 except:
                     pass
-                ID = folder[:3]
-                funName = 'show'+'_'.join(folder.split(' '))
-                preamble += f'<ul>\n<label onclick="{funName}()"><li class="folder">{folder}</li></label>\n</ul>'
-                preamble += f'<ul id="{ID}">\n'
+                ID = folder[4:7]
+                funName = 'show'+'_'.join(folder[4:].split(' '))
+                preamble += f'<ul class="order">\n<label onclick="{funName}()"><li class="folder">{folder}</li></label>\n</ul>'
+                preamble += f'<ul style="display:none;" id="{ID}">\n'
                 for song in songs:
                     preamble += f'<a href="{folder}/{song}"><li>{song[:-5]}</li></a>\n'
                 preamble += '</ul>\n'
-                jscript += f'function {funName}() {{\nvar x = document.getElementById("{ID}");\nif (x.style.display === "none"){{\nx.style.display = "block";\n}} else {{\nx.style.display = "none";\n}}\n}}'
+                jscript += f'function {funName}() {{\nvar x = document.getElementById("{ID}");\nshow(x)}}\n'
                 footer = f'\n</div>\n</div>\n</body>\n<script>\n{jscript}\n</script></html>'
                 html = preamble + footer
                 newfile = open(f'{folder_path}\\index.html','w',encoding='utf-8')

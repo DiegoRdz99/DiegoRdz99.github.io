@@ -1,30 +1,30 @@
 /* Style for Header */
 .main {
-	margin-top:60px;
+	margin-top: 60px;
 }
 
 /* Control Bar */
 
 .control_bar {
 	overflow: hidden;
-	position:fixed;
-	background-color:#333;
-	color:#fff;
-	right:0;
-	bottom:0;
-	width:35%;
+	position: fixed;
+	background-color: #333;
+	color: #fff;
+	right: 0;
+	bottom: 0;
+	width: 35%;
 	box-shadow: 0 0 10px #333;
 	border-radius: 10px;
 }
 
 .control_bar label {
-	float:left;
+	float: left;
 	padding: 14px 16px;
 }
 
 .control_bar label:hover {
 	background: #ddd;
-  	color: #333;
+	color: #333;
 	font-weight: bold;
 	text-shadow: 0 0 2px #555;
 }
@@ -36,12 +36,12 @@
 .super {
 	font-size: 24px;
 	vertical-align: super;
-	color:#999;
+	color: #999;
 }
 
 .b_true {
 	background-color: #999;
-	color:#fff;
+	color: #fff;
 }
 
 .b_false {
@@ -55,7 +55,7 @@
 .navbar {
 	overflow: hidden;
 	background-color: #333;
-	position:fixed;
+	position: fixed;
 	top: 0;
 	width: 100%;
 }
@@ -126,6 +126,30 @@ A.chordlink:hover {
 	padding: 0 .5em;
 }
 
+.header.pre-chorus {
+	display: block;
+	font-size: 20px;
+	font-weight: 750;
+	/* width: 98%; */
+	color: white;
+	background-color: #5A5A5A;
+	border-radius: 10px;
+	box-shadow: 0 0 10px #333;
+	padding: 0 .5em;
+}
+
+.header.inst {
+	display: block;
+	font-size: 20px;
+	font-weight: 750;
+	/* width: 98%; */
+	color: white;
+	background-color: #5A5A5A;
+	border-radius: 10px;
+	box-shadow: 0 0 10px #333;
+	padding: 0 .5em;
+}
+
 .chorus {
 	border-left: solid;
 	display: block;
@@ -140,39 +164,40 @@ A.chordlink:hover {
 
 .chord {
 	position: relative;
-  }
-  
-  .chord .diagram {
+}
+
+.chord .diagram {
 	visibility: hidden;
 	width: 125px;
-	bottom:100%;
-	left:0%;
+	bottom: 100%;
+	left: 0%;
 	background-color: #111;
 	color: #aaa;
 	text-align: center;
 	border-radius: 10px;
 	box-shadow: 0 0 15px #333;
 	padding: 10px 5px;
-  
+
 	/* Position the tooltip */
 	position: absolute;
 	z-index: 1;
-  }
-  
-  .chord:hover .diagram {
+}
+
+.chord:hover .diagram {
 	visibility: visible;
-  }
+}
 
 ul {
 	list-style-type: none;
 }
-  .listing a {
-	  font-size: 20px;
-	  text-decoration: none;
-	  font-weight:bold;
-  }
 
-  .listing li {
+.listing a {
+	font-size: 20px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.listing li {
 	/* width: 100%; */
 	padding: 8px;
 	margin-bottom: 7px;
@@ -180,22 +205,35 @@ ul {
 	color: #ddd;
 	box-shadow: 0 0px 5px #333;
 	border-radius: 10px;
-  }
+}
 
-  .listing li:hover {
+.listing li:hover {
 	background-color: #A0A0A0;
 	color: #444;
-  }
+}
 
+.order li {
+	width: 50%;
+	background-color: #222;
+	color: #eee;
+	font-weight: bold;
+	font-size: 25px;
+}
 
-  @media only screen and (max-width: 768px) {
+.order li:hover {
+	background-color: #bbb;
+	color: #222;
+}
+
+@media only screen and (max-width: 768px) {
+
 	/* For mobile phones: */
 	.control_bar {
-	  width: 100%;
-	  margin:auto;
+		width: 100%;
+		margin: auto;
 	}
-	
+
 	.icon {
 		font-size: 25px;
 	}
-  }
+}
