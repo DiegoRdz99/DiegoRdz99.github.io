@@ -10,14 +10,37 @@
 <h1 style="text-align: center;">Misa</h1>
 <div class="listing">
 <ul>
-<a href="Acércate.html"><li>Acércate</li></a>
-<a href="Con Jesús en el Altar.html"><li>Con Jesús en el Altar</li></a>
-<a href="Día del Triunfo del Señor.html"><li>Día del Triunfo del Señor</li></a>
-<a href="Que Alegría II.html"><li>Que Alegría II</li></a>
-<a href="Qué Alegría I.html"><li>Qué Alegría I</li></a>
-<a href="Rendid Honor al Señor.html"><li>Rendid Honor al Señor</li></a>
+<label onclick="showEntrada()"><li class="folder">Entrada</li></label>
+</ul><ul id="Ent">
+<a href="Entrada/Acércate.html"><li>Acércate</li></a>
+<a href="Entrada/Con Jesús en el Altar.html"><li>Con Jesús en el Altar</li></a>
+<a href="Entrada/Día del Triunfo del Señor.html"><li>Día del Triunfo del Señor</li></a>
 </ul>
+<ul>
+<label onclick="showPiedad()"><li class="folder">Piedad</li></label>
+</ul><ul id="Pie">
+<a href="Piedad/Que Alegría II.html"><li>Que Alegría II</li></a>
+<a href="Piedad/Qué Alegría I.html"><li>Qué Alegría I</li></a>
+<a href="Piedad/Rendid Honor al Señor.html"><li>Rendid Honor al Señor</li></a>
+</ul>
+
 </div>
 </div>
 </body>
-</html>
+<script>
+function showEntrada() {
+var x = document.getElementById("Ent");
+if (x.style.display === "none"){
+x.style.display = "block";
+} else {
+x.style.display = "none";
+}
+}function showPiedad() {
+var x = document.getElementById("Pie");
+if (x.style.display === "none"){
+x.style.display = "block";
+} else {
+x.style.display = "none";
+}
+}
+</script></html>

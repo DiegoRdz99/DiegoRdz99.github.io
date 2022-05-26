@@ -9,6 +9,7 @@ var b_but = document.getElementById("b_but")
 var capo_label = document.getElementById("tr-capo")
 var qualities = document.getElementsByClassName("quality")
 var diagrams = document.getElementsByClassName("fig")
+var backsteps = (diagrams[0].src).split("chords")[0]
 var chord_names = document.getElementsByClassName("chord_name")
 var trans = 0 // sets Transposition value to 0
 var capo = false // sets transpose as standard (instead of capo)
@@ -45,7 +46,7 @@ function transpose() {
             chords[i].innerHTML = chds_sp[mod(chds[base[i]]+trans, 12)];
             chord_names[i].innerHTML = chds_sp[mod(chds[base[i]]+trans, 12)]+qualities[i].innerHTML;
         }
-        diagrams[i].src = "../chords/"+chds_ft[mod(chds[base[i]]+trans, 12)].replace('♭','b')+qualities[i].innerHTML+".svg";
+        diagrams[i].src = backsteps + "chords/"+chds_ft[mod(chds[base[i]]+trans, 12)].replace('♭','b')+qualities[i].innerHTML+".svg";
     }
     if (capo){output.innerHTML = -trans;}
     else {output.innerHTML = sign(trans);}
