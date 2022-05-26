@@ -2,7 +2,7 @@ from math import ceil
 
 class constants:
     def __init__(self):
-        self.navbar = f'<body><div><div class="navbar">\n<a href="../Misa/index.html">Misa</a>\n<a href="../Hora_Santa/index.html">Hora Santa</a>\n<div class="dropdown">\n<button class="dropbtn">Dropdown<i class="fa fa-caret-down"></i>\n</button>\n<div class="dropdown-content">\n<a href="#">Link 1</a>\n<a href="#">Link 2</a>\n<a href="#">Link 3</a></div></div></div></div>\n<div class="main">\n'
+        self.navbar = f'<body><div><div class="navbar">\n<a href="../Misa/index.html">Misa</a>\n<a href="../Hora Santa/index.html">Hora Santa</a>\n<a href="../index.html">Todos los Cantos</a></div></div>\n<div class="main">\n'
 
 html_constants = constants()
 
@@ -120,7 +120,7 @@ def create_html(file_path):
 def create_index(folder_path):
     folder_name = folder_path.split('\\')[-1]
     head = f'<html><head>\n<title>{folder_name}</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="../css/style.css"></head>'
-    preamble = head + html_constants.navbar
+    preamble = head + html_constants.navbar + f'<h1 style="text-align: center;">{folder_name}</h1>\n<div class="listing">\n<ul>\n'
     dirs = os.listdir(folder_path)
     songs = [i for i in dirs if i[-5:]=='.html']
     if songs!=[]:
@@ -129,8 +129,8 @@ def create_index(folder_path):
         except:
             pass
         for song in songs:
-            preamble += f'<a href="{song}">{song[:-5]}</a><br>'
-        footer = '</div>\n</body>\n</html>'
+            preamble += f'<a href="{song}"><li>{song[:-5]}</li></a>\n'
+        footer = '</ul>\n</div>\n</div>\n</body>\n</html>'
         html = preamble + footer
         newfile = open(f'{folder_path}\\index.html','w',encoding='utf-8')
         newfile.write(html)
@@ -143,12 +143,30 @@ path = pathlib.Path(__file__).parent.resolve() # Automated path retriever
 dirs = os.listdir(path)
 # files = [i for i in dirs if i.find('.')!=-1]
 folders = [str(path)+'\\'+i for i in dirs if i.find('.')==-1]
+abc_songs = []
 for folder in folders:
-    create_index(folder)
     dirs = os.listdir(folder)
     songs = [i for i in dirs if i[-4:]=='.txt']
     for s in songs:
         create_html(folder+'\\'+s)
+        abc_songs+=[(s,folder.split('\\')[-1]+'\\')]
+    create_index(folder)
+
+def create_global_index(songs,path):
+    head = f'<html><head>\n<title>Global Index</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="./css/style.css"></head>'
+    navbar = f'<body><div><div class="navbar">\n<a href="./Misa/index.html">Misa</a>\n<a href="./Hora Santa/index.html">Hora Santa</a>\n<a href="index.html">Todos los Cantos</a></div></div>\n<div class="main">\n<h1 style="text-align: center;">Índice Alfabético </h1>\n<div class="listing">\n<ul>\n'
+    preamble = head + navbar
+    for song in songs:
+        preamble += f'<a href="{song[1]}{song[0]}"><li>{song[0][:-5]}</li></a>\n'
+    footer = '</ul>\n</div>\n</div>\n</body>\n</html>'
+    html = preamble + footer
+    newfile = open(f'{path}\\index.html','w',encoding='utf-8')
+    newfile.write(html)
+    newfile.close()
+
+abc_songs.sort(key=lambda tup: tup[0])
+abc_songs = [(i[0].replace('.txt','.html'),i[1]) for i in abc_songs]
+create_global_index(abc_songs,path)
 
 # for s in songs:
 #     create_html(s)
