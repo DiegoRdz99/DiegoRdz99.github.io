@@ -69,16 +69,16 @@ chords = {
     'Bb':[6,8,8,7,6,6],
     'Eb':[x,6,5,3,4,3],
     'Db':[x,4,3,1,2,1],
-    'G&m':[4,6,6,4,4,4],
-    'C&m':[x,4,6,6,5,4],
-    'F&m':[2,4,4,2,2,2],
+    'Abm':[4,6,6,4,4,4],
+    'Bbm':[x,4,6,6,5,4],
+    'Gbm':[2,4,4,2,2,2],
     'F7':[2,4,2,3,2,2]
 }
 
 roots = ['A','Bb','B','C','Db','D','Eb','E','F','Gb','G','Ab']
 
 ochords = {}
-qualities = ['','m']
+qualities = ['','m','7']
 exchords = {}
 chords_by_root = {}
 for q in qualities:
@@ -89,28 +89,35 @@ ochords[''] = {
     'C':[x,3,2,0,1,0],
     'D':[x,x,0,2,3,2],
     'E':[0,2,2,1,0,0],
-    # 'G':[3,2,0,0,3,3],
+    'G':[3,2,0,0,3,3]
 }
 
 ochords['m'] = {
     'Am':[x,0,2,2,1,0],
     'Dm':[x,x,0,2,3,1],
-    'Em':[0,2,2,0,0,0],
+    'Em':[0,2,2,0,0,0]
 }
 
-for base in ochords['']:
-    indx = roots.index(base)
-    exchords[''][base] = {}
-    for i in range(12):
-        new = roots[(indx+i)%12]
-        cd = [st+i if st!=x else x for st in ochords[''][base]]
-        exchords[''][base][new] = cd
+ochords['7'] = {
+    'A7':[x,0,2,0,2,0],
+    'D7':[x,x,0,2,1,2],
+    'E7':[0,2,0,1,0,0],
+    'B7':[x,2,1,2,0,2]
+}
 
-for root in roots:
-    chords_by_root[root] = [exchords[''][base][root] for base in ochords['']]
+def get_chord_variants(ROOT,quality):
+    for base in ochords[quality]:
+        base_root = base.replace(quality,'')
+        indx = roots.index(base_root)
+        exchords[quality][base] = {}
+        for i in range(12):
+            new = roots[(indx+i)%12]
+            cd = [st+i if st!=x else x for st in ochords[quality][base]]
+            exchords[quality][base][new] = cd
 
-def get_chord_variants(CHORD):
-    prepared = [[i for i in form if i!=None] for form in chords_by_root[CHORD]]
+    for root in roots:
+        chords_by_root[root] = [exchords[quality][base][root] for base in ochords[quality]]
+    prepared = [[i for i in form if i!=None] for form in chords_by_root[ROOT]]
     indices = [min(form) for form in prepared]
     indices_copy = [min(form) for form in prepared]
     indx = []
@@ -118,18 +125,21 @@ def get_chord_variants(CHORD):
         j = min(indices_copy)
         indx+=[indices.index(j)]
         indices_copy.remove(j)
-    dic = {CHORD+'_'+str(i):chords_by_root[CHORD][indx[i]] for i in range(len(indx))}
-    dic[CHORD] = dic[CHORD+'_0']
-    return dic
-print(get_chord_variants('D'))
+    dic = {ROOT+quality+'_'+str(i):chords_by_root[ROOT][indx[i]] for i in range(len(indx))}
+    dic[ROOT+quality] = dic[ROOT+quality+'_0']
+    chords[ROOT+quality]=dic[ROOT+quality]
 
-# chords = {'C&':[9,11,11,10,9,9]
+for quality in qualities:
+    for ROOT in roots:
+        get_chord_variants(ROOT,quality)
+
+# chords = {'Db':[9,11,11,10,9,9]}
 #　お名前わ
 
 import pathlib
 path = str(pathlib.Path(__file__).parent.resolve()) # Automated path retriever
 
-for chord in chords:
+def create_Diagram(chord):
     d = draw.Drawing(w+2*pad, h+2*pad, origin='center', displayInline=False)
     # d.append(draw.Text(chord, 18, 0, (h+Δ)/2,center=1,fill='#aaa'))
     positions = [pos for pos in chords[chord] if pos!=None]
@@ -142,4 +152,7 @@ for chord in chords:
     d.fretboard(MIN,x0=-Δ/2)
     POS = [pos-MIN if pos!=x else x for pos in chords[chord]]
     d.fingers(POS,x0=-Δ/2)
-    d.saveSvg(path+'\\.chords\\'+f'{chord}.svg')
+    d.saveSvg(path+'\\chords\\'+f'{chord}.svg')
+
+for chord in chords:
+    create_Diagram(chord)

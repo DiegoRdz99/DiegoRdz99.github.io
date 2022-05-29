@@ -2,25 +2,30 @@ from math import ceil
 
 class constants:
     def __init__(self,backsteps):
-        self.navbar = f'<body><div><div class="navbar">\n<a href="{backsteps}Misa/index.html">Misa</a>\n<a href="{backsteps}Hora Santa/index.html">Hora Santa</a>\n<a href="{backsteps}index.html">Todos los Cantos</a></div></div>\n<div class="main">\n'
+        self.navbar = f'<body><div><div class="navbar">\n<a href="{backsteps}Misa/index.html">Misa</a>\n<a href="{backsteps}María/index.html">María</a>\n<a href="{backsteps}Hora Santa/index.html">Hora Santa</a>\n<a href="{backsteps}Himnos/index.html">Himnos</a>\n<a href="{backsteps}Alabanzas/index.html">Alabanzas</a>\n<a href="{backsteps}Semana Santa/index.html">Semana Santa</a>\n<a href="{backsteps}Villancicos/index.html">Villancicos</a>\n<a href="{backsteps}Adicionales/index.html">Adicionales</a>\n<a href="{backsteps}index.html">Todos los Cantos</a></div></div>\n<div class="main">\n'
 
 def chordify(chord):
     try:
         root = chord[0] # Root　根
         og_root = chord[0] # Root with # and b (kept for removing)
+        FLAT = True
         try:
             if chord[1]=='#':
                 root += '♯' # Sharp accidental
                 og_root += '#'
+                FLAT = False
             elif chord[1]=='b':
                 root+= '♭' # Flat accidental
                 og_root+= 'b'
             qual = chord.replace(og_root,'') # Remove root from chord
-            return [root,qual] # Root + Quality
+            return [root,qual,FLAT] # Root + Quality
         except:
-            return [root,''] # For Major Chords
+            return [root,'',FLAT] # For Major Chords
     except:
-        return ['',''] # Blank Chords
+        return ['','',False] # Blank Chords
+
+def iterate(root):
+    return chr((ord(root)-ord('A')+1)%7+ord('A'))
 
 class line:
     def __init__(self,raw,backsteps):
@@ -29,7 +34,7 @@ class line:
             lst[0]=['']+lst[0] # For lines beginning with chords
         lst = [list(i) for i in zip(*lst)] # Transpose algorithm
         chords = [chordify(chord) for chord in lst[0]]
-        self.c_line = ''.join([f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="{backsteps}chords/{chord[0]}{chord[1]}.svg"></div></td>' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
+        self.c_line = ''.join([f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="{backsteps}chords/{chord[0]}{chord[1]}.svg"></div></td>' if chord[2] else f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="{backsteps}chords/{iterate(chord[0][0])}b{chord[1]}.svg"></div></td>' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
         # Chord line table
         self.l_line = ''.join([f'<td>{frag}</td>' for frag in lst[1]])
 
@@ -77,6 +82,12 @@ class prechorus(verse):
         self.title = 'Pre-coro'
         self.klass = 'pre-chorus'
 
+class bridge(verse):
+    def __init__(self,raw):
+        super().__init__(raw)
+        self.title = 'Puente'
+        self.klass = 'pre-chorus'
+
 class intermedio(verse):
     def __init__(self,raw):
         self.raw = raw.replace(' ','&nbsp;&nbsp;')
@@ -94,7 +105,7 @@ class outro(intermedio):
         self.title = 'Outro'
 
 
-parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro}
+parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro,'bridge':bridge}
 
 class song:
     def __init__(self,file_name,backsteps):

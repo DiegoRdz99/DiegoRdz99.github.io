@@ -4,16 +4,43 @@
 <meta http-equiv="Content-Style-Type" content="text/css">
 <link rel="stylesheet" href="../css/style.css"></head><body><div><div class="navbar">
 <a href="../Misa/index.html">Misa</a>
+<a href="../María/index.html">María</a>
 <a href="../Hora Santa/index.html">Hora Santa</a>
+<a href="../Himnos/index.html">Himnos</a>
+<a href="../Alabanzas/index.html">Alabanzas</a>
+<a href="../Semana Santa/index.html">Semana Santa</a>
+<a href="../Villancicos/index.html">Villancicos</a>
+<a href="../Adicionales/index.html">Adicionales</a>
 <a href="../index.html">Todos los Cantos</a></div></div>
 <div class="main">
 <h1 style="text-align: center;">Hora Santa</h1>
 <div class="listing">
-<ul>
-<a href="Mirar al Señor.html"><li>Mirar al Señor</li></a>
-<a href="Un Dios Débil - Estación IV.html"><li>Un Dios Débil - Estación IV</li></a>
+<ul class="order">
+<label onclick="showRecibir_Santísimo()"><li class="folder">1 - Recibir Santísimo</li></label>
+</ul><ul style="display:none;" id="Rec">
+<a href="1 - Recibir Santísimo/Entraré.html"><li>Entraré</li></a>
 </ul>
+<ul class="order">
+<label onclick="showGratitud()"><li class="folder">2 - Gratitud</li></label>
+</ul><ul style="display:none;" id="Gra">
+<a href="2 - Gratitud/Encuentro Paz.html"><li>Encuentro Paz</li></a>
+</ul>
+
 </div>
 </div>
 </body>
-</html>
+<script>
+function show(x) {
+if (x.style.display === "none") {
+x.style.display = "block";
+} else {
+x.style.display = "none";
+}
+}function showRecibir_Santísimo() {
+var x = document.getElementById("Rec");
+show(x)}
+function showGratitud() {
+var x = document.getElementById("Gra");
+show(x)}
+
+</script></html>
