@@ -18,11 +18,11 @@ def chordify(chord):
                 root+= '♭' # Flat accidental
                 og_root+= 'b'
             qual = chord.replace(og_root,'') # Remove root from chord
-            return [root,qual,FLAT] # Root + Quality
+            return [root,qual,FLAT,og_root] # Root + Quality
         except:
-            return [root,'',FLAT] # For Major Chords
+            return [root,'',FLAT,og_root] # For Major Chords
     except:
-        return ['','',False] # Blank Chords
+        return ['','',False,''] # Blank Chords
 
 def iterate(root):
     return chr((ord(root)-ord('A')+1)%7+ord('A'))
@@ -34,7 +34,7 @@ class line:
             lst[0]=['']+lst[0] # For lines beginning with chords
         lst = [list(i) for i in zip(*lst)] # Transpose algorithm
         chords = [chordify(chord) for chord in lst[0]]
-        self.c_line = ''.join([f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="{backsteps}chords/{chord[0]}{chord[1]}.svg"></div></td>' if chord[2] else f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="{backsteps}chords/{iterate(chord[0][0])}b{chord[1]}.svg"></div></td>' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
+        self.c_line = ''.join([f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="{backsteps}chords/{chord[3]}{chord[1]}.svg"></div></td>' if chord[2] else f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="{backsteps}chords/{iterate(chord[0][0])}b{chord[1]}.svg"></div></td>' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
         # Chord line table
         self.l_line = ''.join([f'<td>{frag}</td>' for frag in lst[1]])
 

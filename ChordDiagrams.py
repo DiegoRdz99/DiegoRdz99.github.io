@@ -78,11 +78,15 @@ chords = {
 roots = ['A','Bb','B','C','Db','D','Eb','E','F','Gb','G','Ab']
 
 ochords = {}
-qualities = ['','m','7']
+qualities = ['','m', # Regular
+'7','9','11', # Extended major
+'m7', # Extended minor
+'add11', # Add
+'m7b5'
+]
+
 exchords = {}
 chords_by_root = {}
-for q in qualities:
-    exchords[q] = {}
 
 ochords[''] = {
     'A':[x,0,2,2,2,0],
@@ -104,6 +108,53 @@ ochords['7'] = {
     'E7':[0,2,0,1,0,0],
     'B7':[x,2,1,2,0,2]
 }
+
+ochords['9'] = {
+    'A9':[x,0,2,0,0,0],
+    'B9':[x,2,1,2,2,x],
+    'D9':[x,x,0,2,1,0]
+}
+
+ochords['11'] = {
+    'A11':[x,0,2,0,3,x],
+    'D11':[x,x,0,2,1,3],
+    'B11':[x,2,1,2,0,0],
+    'E11':[0,2,0,2,0,0]
+}
+
+ochords['m7'] = {
+    'Am7':[x,0,2,0,1,0],
+    'Dm7':[x,x,0,2,1,1],
+    'Em7':[0,2,0,0,0,0]
+}
+
+ochords['add11'] = {
+    'Gadd11':[3,2,0,0,1,x]
+}
+
+ochords['sus2'] = {
+    'Asus2':[x,0,2,2,0,0],
+    'Dsus2':[x,x,0,2,3,0]
+}
+
+ochords['sus4'] = {
+    'Asus4':[x,0,2,2,3,0],
+    'Dsus4':[x,x,0,2,3,3]
+}
+
+ochords['m7b5'] = {
+    'Am7b5':[x,0,1,0,1,x],
+    'Em7b5':[0,1,2,0,3,0]
+}
+
+ochords['°7'] = {
+    'B°7':[x,2,3,1,3,x],
+    'D°7':[x,x,0,1,0,1]
+}
+
+qualities = [key for key in ochords.keys()]
+for q in qualities:
+    exchords[q] = {}
 
 def get_chord_variants(ROOT,quality):
     for base in ochords[quality]:
