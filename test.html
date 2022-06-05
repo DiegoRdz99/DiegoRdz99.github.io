@@ -11,12 +11,13 @@
 <script>
   butClick = function() {
     var osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay("osmdCanvas");
-    console.log("RUN")
-  osmd.load("Komm_und_lobe_den_Herrn.xml").then(
-      function() {
-        osmd.render();
-      }
-    );
+      fetch("Komm_und_lobe_den_Herrn.xml").then(osmd.load().then(
+        function() {
+          //console.log("e.target.result: " + e.target.result);
+          // osmd.sheet.Transpose = 1;
+          osmd.render();
+        })
+      );
   }
 </script>
 
