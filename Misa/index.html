@@ -16,38 +16,16 @@
 <h1 style="text-align: center;">Misa</h1>
 <div class="listing">
 <ul class="order">
-<label onclick="showEntrada()"><li class="folder">1 - Entrada</li></label>
-</ul><ul style="display:none;" id="Ent">
-<a href="1 - Entrada/Acércate.html"><li>Acércate</li></a>
-<a href="1 - Entrada/Con Jesús en el Altar.html"><li>Con Jesús en el Altar</li></a>
-<a href="1 - Entrada/Día del Triunfo del Señor.html"><li>Día del Triunfo del Señor</li></a>
-</ul>
-<ul class="order">
-<label onclick="showPiedad()"><li class="folder">2 - Piedad</li></label>
-</ul><ul style="display:none;" id="Pie">
-<a href="2 - Piedad/Que Alegría II.html"><li>Que Alegría II</li></a>
-<a href="2 - Piedad/Qué Alegría I.html"><li>Qué Alegría I</li></a>
-<a href="2 - Piedad/Rendid Honor al Señor.html"><li>Rendid Honor al Señor</li></a>
-</ul>
-<ul class="order">
 <label onclick="showGloria()"><li class="folder">3 - Gloria</li></label>
 </ul><ul style="display:none;" id="Glo">
 <a href="3 - Gloria/Gloria Simple.html"><li>Gloria Simple</li></a>
 </ul>
 <ul class="order">
-<label onclick="showAleluya()"><li class="folder">4 - Aleluya</li></label>
-</ul><ul style="display:none;" id="Ale">
-<a href="4 - Aleluya/Aleluya Cristeros I.html"><li>Aleluya Cristeros I</li></a>
-</ul>
-<ul class="order">
-<label onclick="showOfertorio()"><li class="folder">5 - Ofertorio</li></label>
-</ul><ul style="display:none;" id="Ofe">
-<a href="5 - Ofertorio/Como la Uva.html"><li>Como la Uva</li></a>
-</ul>
-<ul class="order">
-<label onclick="showSanto()"><li class="folder">6 - Santo</li></label>
-</ul><ul style="display:none;" id="San">
-<a href="6 - Santo/Santo Solemne.html"><li>Santo Solemne</li></a>
+<label onclick="showPiedad()"><li class="folder">2 - Piedad</li></label>
+</ul><ul style="display:none;" id="Pie">
+<a href="2 - Piedad/Rendid Honor al Señor.html"><li>Rendid Honor al Señor</li></a>
+<a href="2 - Piedad/Qué Alegría I.html"><li>Qué Alegría I</li></a>
+<a href="2 - Piedad/Que Alegría II.html"><li>Que Alegría II</li></a>
 </ul>
 <ul class="order">
 <label onclick="showCordero()"><li class="folder">7 - Cordero</li></label>
@@ -55,14 +33,36 @@
 <a href="7 - Cordero/Cordero I.html"><li>Cordero I</li></a>
 </ul>
 <ul class="order">
-<label onclick="showComunión()"><li class="folder">8 - Comunión</li></label>
-</ul><ul style="display:none;" id="Com">
-<a href="8 - Comunión/Hazme Creer.html"><li>Hazme Creer</li></a>
+<label onclick="showEntrada()"><li class="folder">1 - Entrada</li></label>
+</ul><ul style="display:none;" id="Ent">
+<a href="1 - Entrada/Día del Triunfo del Señor.html"><li>Día del Triunfo del Señor</li></a>
+<a href="1 - Entrada/Con Jesús en el Altar.html"><li>Con Jesús en el Altar</li></a>
+<a href="1 - Entrada/Acércate.html"><li>Acércate</li></a>
+</ul>
+<ul class="order">
+<label onclick="showAleluya()"><li class="folder">4 - Aleluya</li></label>
+</ul><ul style="display:none;" id="Ale">
+<a href="4 - Aleluya/Aleluya Cristeros I.html"><li>Aleluya Cristeros I</li></a>
 </ul>
 <ul class="order">
 <label onclick="showSalida()"><li class="folder">9 - Salida</li></label>
 </ul><ul style="display:none;" id="Sal">
 <a href="9 - Salida/Ven y Sígueme.html"><li>Ven y Sígueme</li></a>
+</ul>
+<ul class="order">
+<label onclick="showComunión()"><li class="folder">8 - Comunión</li></label>
+</ul><ul style="display:none;" id="Com">
+<a href="8 - Comunión/Hazme Creer.html"><li>Hazme Creer</li></a>
+</ul>
+<ul class="order">
+<label onclick="showSanto()"><li class="folder">6 - Santo</li></label>
+</ul><ul style="display:none;" id="San">
+<a href="6 - Santo/Santo Solemne.html"><li>Santo Solemne</li></a>
+</ul>
+<ul class="order">
+<label onclick="showOfertorio()"><li class="folder">5 - Ofertorio</li></label>
+</ul><ul style="display:none;" id="Ofe">
+<a href="5 - Ofertorio/Como la Uva.html"><li>Como la Uva</li></a>
 </ul>
 
 </div>
@@ -75,32 +75,32 @@ x.style.display = "block";
 } else {
 x.style.display = "none";
 }
-}function showEntrada() {
-var x = document.getElementById("Ent");
+}function showGloria() {
+var x = document.getElementById("Glo");
 show(x)}
 function showPiedad() {
 var x = document.getElementById("Pie");
 show(x)}
-function showGloria() {
-var x = document.getElementById("Glo");
+function showCordero() {
+var x = document.getElementById("Cor");
+show(x)}
+function showEntrada() {
+var x = document.getElementById("Ent");
 show(x)}
 function showAleluya() {
 var x = document.getElementById("Ale");
 show(x)}
-function showOfertorio() {
-var x = document.getElementById("Ofe");
-show(x)}
-function showSanto() {
-var x = document.getElementById("San");
-show(x)}
-function showCordero() {
-var x = document.getElementById("Cor");
+function showSalida() {
+var x = document.getElementById("Sal");
 show(x)}
 function showComunión() {
 var x = document.getElementById("Com");
 show(x)}
-function showSalida() {
-var x = document.getElementById("Sal");
+function showSanto() {
+var x = document.getElementById("San");
+show(x)}
+function showOfertorio() {
+var x = document.getElementById("Ofe");
 show(x)}
 
 </script></html>

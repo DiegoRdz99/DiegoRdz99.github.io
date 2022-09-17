@@ -6,7 +6,7 @@ class constants:
 
 def chordify(chord):
     try:
-        root = chord[0] # Root　根
+        root = chord[0] # Root 根
         og_root = chord[0] # Root with # and b (kept for removing)
         FLAT = True
         try:
@@ -139,16 +139,16 @@ class song:
 
 def create_html(file_path):
     backsteps = rech_backsteps(path,file_path,is_file=True)
-    file_name = file_path.split('\\')[-1][:-4]
-    name_ext = '\\'.join(file_path.split('\\')[:-1])
-    newfile = open(f'{name_ext}\\{file_name}.html','w',encoding='utf-8')
+    file_name = file_path.split('/')[-1][:-4]
+    name_ext = '/'.join(file_path.split('/')[:-1])
+    newfile = open(f'{name_ext}/{file_name}.html','w',encoding='utf-8')
     newfile.write(song(file_path,backsteps).to_html(backsteps))
     newfile.close()
 
 def create_index(folder_path):
     backsteps = rech_backsteps(path,folder_path)
     html_constants = constants(backsteps)
-    folder_name = folder_path.split('\\')[-1]
+    folder_name = folder_path.split('/')[-1]
     head = f'<html><head>\n<title>{folder_name}</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="{backsteps}css/style.css"></head>'
     preamble = head + html_constants.navbar + f'<h1 style="text-align: center;">{folder_name}</h1>\n<div class="listing">\n'
     dirs = os.listdir(folder_path)
@@ -165,13 +165,13 @@ def create_index(folder_path):
                 preamble += f'<a href="{song}"><li>{song[:-5]}</li></a>\n'
             footer = '</ul>\n</div>\n</div>\n</body>\n</html>'
             html = preamble + footer
-            newfile = open(f'{folder_path}\\index.html','w',encoding='utf-8')
+            newfile = open(f'{folder_path}/index.html','w',encoding='utf-8')
             newfile.write(html)
             newfile.close()
     else:
         jscript = 'function show(x) {\nif (x.style.display === "none") {\nx.style.display = "block";\n} else {\nx.style.display = "none";\n}\n}'
         for folder in folders:
-            dirs = os.listdir(folder_path+'\\'+folder)
+            dirs = os.listdir(folder_path+'/'+folder)
             songs = [i for i in dirs if i[-5:]=='.html']
             if songs!=[]:
                 try:
@@ -188,7 +188,7 @@ def create_index(folder_path):
                 jscript += f'function {funName}() {{\nvar x = document.getElementById("{ID}");\nshow(x)}}\n'
                 footer = f'\n</div>\n</div>\n</body>\n<script>\n{jscript}\n</script></html>'
                 html = preamble + footer
-                newfile = open(f'{folder_path}\\index.html','w',encoding='utf-8')
+                newfile = open(f'{folder_path}/index.html','w',encoding='utf-8')
                 newfile.write(html)
                 newfile.close()
 
@@ -202,14 +202,14 @@ def rech_backsteps(path,sub_path,is_file=False):
     if str(path)==str(sub_path):
         return ''
     else:
-        backsteps = len(str(sub_path).split('\\'))-len(str(path).split('\\'))
+        backsteps = len(str(sub_path).split('/'))-len(str(path).split('/'))
         if is_file:
             backsteps -= 1
         pre = ''
         for i in range(backsteps):
             pre+='../'
         return pre
-folders = [str(path)+'\\'+i for i in dirs if i.find('.')==-1]
+folders = [str(path)+'/'+i for i in dirs if i.find('.')==-1]
 abc_songs = []
 for folder in folders:
     dirs = os.listdir(folder)
@@ -218,16 +218,16 @@ for folder in folders:
     sub_folders = [i for i in dirs if i.find('.')==-1]
     if sub_folders==[]:
         for s in songs:
-            create_html(folder+'\\'+s)
-            abc_songs+=[(s,folder.split('\\')[-1]+'\\')]
+            create_html(folder+'/'+s)
+            abc_songs+=[(s,folder.split('/')[-1]+'/')]
         create_index(folder)
     else:
         for sub_folder in sub_folders:
-            dirs = os.listdir(folder+'\\'+sub_folder)
+            dirs = os.listdir(folder+'/'+sub_folder)
             songs = [i for i in dirs if i[-4:]=='.txt']
             for s in songs:
-                create_html(folder+'\\'+sub_folder+'\\'+s)
-                abc_songs+=[(s,folder.split('\\')[-1]+'/'+sub_folder+'/')]
+                create_html(folder+'/'+sub_folder+'/'+s)
+                abc_songs+=[(s,folder.split('/')[-1]+'/'+sub_folder+'/')]
             create_index(folder)
 
 
@@ -240,7 +240,7 @@ def create_global_index(songs,path):
         preamble += f'<a href="{song[1]}{song[0]}"><li>{song[0][:-5]}</li></a>\n'
     footer = '</ul>\n</div>\n</div>\n</body>\n</html>'
     html = preamble + footer
-    newfile = open(f'{path}\\index.html','w',encoding='utf-8')
+    newfile = open(f'{path}/index.html','w',encoding='utf-8')
     newfile.write(html)
     newfile.close()
 
