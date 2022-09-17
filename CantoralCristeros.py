@@ -151,7 +151,7 @@ def create_index(folder_path):
     folder_name = folder_path.split('/')[-1]
     head = f'<html><head>\n<title>{folder_name}</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="{backsteps}css/style.css"></head>'
     preamble = head + html_constants.navbar + f'<h1 style="text-align: center;">{folder_name}</h1>\n<div class="listing">\n'
-    dirs = os.listdir(folder_path)
+    dirs = sorted(os.listdir(folder_path))
     folders = [i for i in dirs if i.find('.')==-1]
     if folders==[]:
         songs = [i for i in dirs if i[-5:]=='.html']
@@ -171,7 +171,7 @@ def create_index(folder_path):
     else:
         jscript = 'function show(x) {\nif (x.style.display === "none") {\nx.style.display = "block";\n} else {\nx.style.display = "none";\n}\n}'
         for folder in folders:
-            dirs = os.listdir(folder_path+'/'+folder)
+            dirs = sorted(os.listdir(folder_path+'/'+folder))
             songs = [i for i in dirs if i[-5:]=='.html']
             if songs!=[]:
                 try:
@@ -196,7 +196,7 @@ def create_index(folder_path):
 import os
 import pathlib
 path = pathlib.Path(__file__).parent.resolve() # Automated path retriever
-dirs = os.listdir(path)
+dirs = sorted(os.listdir(path))
 print(path)
 def rech_backsteps(path,sub_path,is_file=False):
     if str(path)==str(sub_path):
@@ -212,9 +212,9 @@ def rech_backsteps(path,sub_path,is_file=False):
 folders = [str(path)+'/'+i for i in dirs if i.find('.')==-1]
 abc_songs = []
 for folder in folders:
-    dirs = os.listdir(folder)
+    dirs = sorted(os.listdir(folder))
     songs = [i for i in dirs if i[-4:]=='.txt']
-    sub_dirs = os.listdir(folder)
+    sub_dirs = sorted(os.listdir(folder))
     sub_folders = [i for i in dirs if i.find('.')==-1]
     if sub_folders==[]:
         for s in songs:
@@ -223,7 +223,7 @@ for folder in folders:
         create_index(folder)
     else:
         for sub_folder in sub_folders:
-            dirs = os.listdir(folder+'/'+sub_folder)
+            dirs = sorted(os.listdir(folder+'/'+sub_folder))
             songs = [i for i in dirs if i[-4:]=='.txt']
             for s in songs:
                 create_html(folder+'/'+sub_folder+'/'+s)
