@@ -1,7 +1,9 @@
 Gloria II
 Niños
-C
+D
 -
+/intro/
+[D]  [A]  [A7]  [D]
 /Coro/
 [D]Gloria a [A]Dios, aleluya
 [A7]Gloria a [D]Dios, aleluya

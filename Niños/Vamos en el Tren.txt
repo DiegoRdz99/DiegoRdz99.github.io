@@ -2,6 +2,8 @@ Vamos en el Tren
 Niños
 E
 -
+/intro/
+[E]  [A] [B] [E]    [A] [B] [E]
 /Coro/
 [E]Uh-uh [A]vamos [B]en el [E]Tren
 [E]Uh-uh [A]vamos [B]en el Tren
@@ -9,7 +11,7 @@ E
 [E]Vamos en el tren a la patria celes[A]tial
 [B]Súbete amiguito que es un tren muy espe[E]cial
 Es el [E]tren del Evangelio vamos [E7]todos a su[A]bir
-Súbete amiguito que ya vamos a par[E]tir
+[B]Súbete amiguito que ya vamos a par[E]tir
 /coro/
 /verse/
 No me im[E]porta de donde tú vengas

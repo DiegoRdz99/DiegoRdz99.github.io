@@ -2,6 +2,8 @@ Viva la fe
 Niños
 D
 -
+/intro/
+[A]  [D]  [A]  [D]
 /Coro/
 Viva la [D]fe viva la esperanza
 Viva el a[A]mor

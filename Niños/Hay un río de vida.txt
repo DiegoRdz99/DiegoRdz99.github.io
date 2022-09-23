@@ -2,6 +2,8 @@ Hay un río de vida
 Niños
 E
 -
+/intro/
+[E]  [B]  [E]
 /verse/
 [E]Hay un río de vida
 Corriendo [A]por mi [E]ser

@@ -2,6 +2,8 @@ Soy yo quien llega
 Niños
 C
 -
+/intro/
+[F] [C] [G] [C] [F] [C] [G] [C]
 /Coro/
 Soy [C]yo soy yo quien llega
 De [G]cerca de [C]lejos

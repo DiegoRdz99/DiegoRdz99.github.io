@@ -2,8 +2,11 @@ Jesús tomó mi carga
 Niños
 C
 -
+/intro/
+[C]   [F] [C] [G] [C] [F] [C] [G] [C]
 /verse/
 [C]Santo, Santo, [F]Santo es el Se[C]ñor
+[C]
 Dios del universo llenos están
 El Cielo y la [G]Tie[C]rra
 [F]De su [G]Glo-[G7]o-[C]ria

@@ -2,6 +2,8 @@ Casi estás aquí
 Niños
 C
 -
+/intro/
+[C]  [F]  [F] [C] [G] [C]
 /verse/
 [C]Cierro los ojos y [F]pienso en Tí
 [G]Abro los ojos y te [C]veo aquí
