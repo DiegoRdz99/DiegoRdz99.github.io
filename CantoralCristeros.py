@@ -2,7 +2,7 @@ from math import ceil
 
 class constants:
     def __init__(self,backsteps):
-        self.navbar = f'<body><div><div class="navbar">\n<a href="{backsteps}Misa/index.html">Misa</a>\n<a href="{backsteps}María/index.html">María</a>\n<a href="{backsteps}Hora Santa/index.html">Hora Santa</a>\n<a href="{backsteps}Himnos/index.html">Himnos</a>\n<a href="{backsteps}Alabanzas/index.html">Alabanzas</a>\n<a href="{backsteps}Semana Santa/index.html">Semana Santa</a>\n<a href="{backsteps}Villancicos/index.html">Villancicos</a>\n<a href="{backsteps}Adicionales/index.html">Adicionales</a>\n<a href="{backsteps}Niños/index.html">Niños</a>\n<a href="{backsteps}index.html">Todos los Cantos</a></div></div>\n<div class="main">\n'
+        self.navbar = f'<body><div><div class="navbar">\n<a href="{backsteps}Misa/index.html">Misa</a>\n<a href="{backsteps}María/index.html">María</a>\n<a href="{backsteps}Hora Santa/index.html">Hora Santa</a>\n<a href="{backsteps}Himnos/index.html">Himnos</a>\n<a href="{backsteps}Alabanzas/index.html">Alabanzas</a>\n<a href="{backsteps}Semana Santa/index.html">Semana Santa</a>\n<a href="{backsteps}Villancicos/index.html">Villancicos</a>\n<a href="{backsteps}Adicionales/index.html">Adicionales</a>\n<a href="{backsteps}Niños/index.html">Originales</a>n<a href="{backsteps}Originales/index.html">Niños</a>\n<a href="{backsteps}index.html">Todos los Cantos</a></div></div>\n<div class="main">\n'
 
 def chordify(chord):
     try:
