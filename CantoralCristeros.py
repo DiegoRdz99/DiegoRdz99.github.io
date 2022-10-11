@@ -1,4 +1,5 @@
 from math import ceil
+from turtle import back
 
 class constants:
     def __init__(self,backsteps):
@@ -28,19 +29,47 @@ def iterate(root):
     return chr((ord(root)-ord('A')+1)%7+ord('A'))
 
 class line:
-    def __init__(self,raw,backsteps):
-        lst = [raw.split('[')[i].split(']') for i in range(len(raw.split('[')))] # Separate chords from text
-        if len(lst[0])==1:
-            lst[0]=['']+lst[0] # For lines beginning with chords
+    def __init__(self,raw,backsteps=0):
+        lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from tex
+        lst[0].insert(0,'') if len(lst[0])==1 else None # For lines beginning with chords
         lst = [list(i) for i in zip(*lst)] # Transpose algorithm
         chords = [chordify(chord) for chord in lst[0]]
-        self.c_line = ''.join([f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[-1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[-1]}</span><img class="fig" src="{backsteps}chords/{chord[3]}{chord[1]}.svg"></div></td>' if chord[2] else f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="{backsteps}chords/{iterate(chord[0][0])}b{chord[1]}.svg"></div></td>' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
+        self.set_c_line(chords,backsteps)
         # Chord line table
-        self.l_line = ''.join([f'<td>{frag}</td>' for frag in lst[1]])
+        self._l_line = self.set_line(lst[1])
+
+    def set_c_line(self,chords,backsteps):
+        self._c_line = ''.join([f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[-1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[-1]}</span><img class="fig" src="{backsteps}chords/{chord[3]}{chord[1]}.svg"></div></td>' if chord[2] else f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="{backsteps}chords/{iterate(chord[0][0])}b{chord[1]}.svg"></div></td>' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
+
+    def set_line(self,lst):
+        return ''.join([f'<td>{frag}</td>' for frag in lst])
 
     def table(self):
-        return f'\n<table class="linewithchord" border="0" cellpadding="0" cellspacing="0">\n<tr class="chordline">{self.c_line}</tr>\n<tr class="lyricsline">{self.l_line}</tr>\n</table>'
+        return f'\n<table class="linewithchord" border="0" cellpadding="0" cellspacing="0">\n<tr class="chordline">{self._c_line}</tr>\n<tr class="lyricsline">{self._l_line}</tr>\n</table>'
+    
+class double_line(line):
+    def __init__(self,raw,backsteps=0):
+        raw = raw.replace('{','')
+        lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from tex
+        lst[0].insert(0,'') if len(lst[0])==1 else None # For lines beginning with chords
+        for i in range(len(lst)):
+            app = lst[i].pop(1)
+            for a in app.split('|'):
+                lst[i].append(a)
+        for i in range(len(lst)):
+            lst[i].append('') if len(lst[i])!=3 else None # Add empty spaces in the second voice line
+        lst = [list(i) for i in zip(*lst)] # Transpose algorithm
+        chords = [chordify(chord) for chord in lst[0]]
+        self.set_c_line(chords,backsteps)
+        self._l_line = self.set_line(lst[1])
+        self._second_line = self.set_line(lst[2])
 
+    def table(self):
+        return f'\n<table class="linewithchord" border="0" cellpadding="0" cellspacing="0">\n<tr class="chordline">{self._c_line}</tr>\n<tr class="lyricsline">{self._l_line}</tr>\n<tr class="second_voice">{self._second_line}</tr>\n</table>'
+
+STRING = 'A[E]cércate y toma tu lugar en la [D]fiesta [A]'
+LINE = line(STRING,1)
+pass
 
 class Chorus:
     def __init__(self,raw):
@@ -49,7 +78,7 @@ class Chorus:
     def to_html(self,backsteps):
         head = f'\n<br><span class="header chorus">Coro</span><br>\n<table class="chorus" border="0" cellpadding="0" cellspacing="0"><tr><td>'
         foot = '</td></tr></table>\n<br>\n'
-        lines = [line(raw,backsteps) for raw in self.raw.split('\n')]
+        lines = [double_line(raw,backsteps) if (len(raw)!=0 and raw[0]=='{') else line(raw,backsteps) for raw in self.raw.split('\n')]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
 
@@ -72,7 +101,7 @@ class verse:
     def to_html(self,backsteps):
         head = f'\n<br><span class="header {self.klass}">{self.title}</span><br>\n<table class="{self.klass}" border="0" cellpadding="0" cellspacing="0"><tr><td>'
         foot = '</td></tr></table>'
-        lines = [line(raw,backsteps) for raw in self.raw.split('\n')]
+        lines = [double_line(raw,backsteps) if (len(raw)!=0 and raw[0]=='{') else line(raw,backsteps) for raw in self.raw.split('\n')]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
 
@@ -192,58 +221,59 @@ def create_index(folder_path):
                 newfile.write(html)
                 newfile.close()
 
-
-import os
-import pathlib
-path = pathlib.Path(__file__).parent.resolve() # Automated path retriever
-dirs = sorted(os.listdir(path))
-print(path)
-def rech_backsteps(path,sub_path,is_file=False):
-    if str(path)==str(sub_path):
-        return ''
-    else:
-        backsteps = len(str(sub_path).split('/'))-len(str(path).split('/'))
-        if is_file:
-            backsteps -= 1
-        pre = ''
-        for i in range(backsteps):
-            pre+='../'
-        return pre
-folders = [str(path)+'/'+i for i in dirs if i.find('.')==-1]
-abc_songs = []
-for folder in folders:
-    dirs = sorted(os.listdir(folder))
-    songs = [i for i in dirs if i[-4:]=='.txt']
-    sub_dirs = sorted(os.listdir(folder))
-    sub_folders = [i for i in dirs if i.find('.')==-1]
-    if sub_folders==[]:
-        for s in songs:
-            create_html(folder+'/'+s)
-            abc_songs+=[(s,folder.split('/')[-1]+'/')]
-        create_index(folder)
-    else:
-        for sub_folder in sub_folders:
-            dirs = sorted(os.listdir(folder+'/'+sub_folder))
-            songs = [i for i in dirs if i[-4:]=='.txt']
+if __name__=='__main__':
+    import os
+    import pathlib
+    path = pathlib.Path(__file__).parent.resolve() # Automated path retriever
+    dirs = sorted(os.listdir(path))
+    print(f'curent path: {path}')
+    def rech_backsteps(path,sub_path,is_file=False):
+        if str(path)==str(sub_path):
+            return ''
+        else:
+            backsteps = len(str(sub_path).split('/'))-len(str(path).split('/'))
+            if is_file:
+                backsteps -= 1
+            pre = ''
+            for i in range(backsteps):
+                pre+='../'
+            return pre
+    folders = [str(path)+'/'+i for i in dirs if i.find('.')==-1]
+    abc_songs = []
+    for folder in folders:
+        dirs = sorted(os.listdir(folder))
+        songs = [i for i in dirs if i[-4:]=='.txt']
+        sub_dirs = sorted(os.listdir(folder))
+        sub_folders = [i for i in dirs if i.find('.')==-1]
+        if sub_folders==[]:
             for s in songs:
-                create_html(folder+'/'+sub_folder+'/'+s)
-                abc_songs+=[(s,folder.split('/')[-1]+'/'+sub_folder+'/')]
+                create_html(folder+'/'+s)
+                abc_songs+=[(s,folder.split('/')[-1]+'/')]
             create_index(folder)
+        else:
+            for sub_folder in sub_folders:
+                dirs = sorted(os.listdir(folder+'/'+sub_folder))
+                songs = [i for i in dirs if i[-4:]=='.txt']
+                for s in songs:
+                    create_html(folder+'/'+sub_folder+'/'+s)
+                    abc_songs+=[(s,folder.split('/')[-1]+'/'+sub_folder+'/')]
+                create_index(folder)
 
 
-def create_global_index(songs,path):
-    backsteps = rech_backsteps(path,path)
-    head = f'<html><head>\n<title>Global Index</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="{backsteps}css/style.css"></head>'
-    html_constants = constants(backsteps)
-    preamble = head + html_constants.navbar + '<h1 style="text-align: center;">Índice General</h1>\n<div class="listing">\n<ul>\n'
-    for song in songs:
-        preamble += f'<a href="{song[1]}{song[0]}"><li>{song[0][:-5]}</li></a>\n'
-    footer = '</ul>\n</div>\n</div>\n</body>\n</html>'
-    html = preamble + footer
-    newfile = open(f'{path}/index.html','w',encoding='utf-8')
-    newfile.write(html)
-    newfile.close()
+    def create_global_index(songs,path):
+        backsteps = rech_backsteps(path,path)
+        head = f'<html><head>\n<title>Global Index</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="{backsteps}css/style.css"></head>'
+        html_constants = constants(backsteps)
+        preamble = head + html_constants.navbar + '<h1 style="text-align: center;">Índice General</h1>\n<div class="listing">\n<ul>\n'
+        for song in songs:
+            preamble += f'<a href="{song[1]}{song[0]}"><li>{song[0][:-5]}</li></a>\n'
+        footer = '</ul>\n</div>\n</div>\n</body>\n</html>'
+        html = preamble + footer
+        newfile = open(f'{path}/index.html','w',encoding='utf-8')
+        newfile.write(html)
+        newfile.close()
 
-abc_songs.sort(key=lambda tup: tup[0])
-abc_songs = [(i[0].replace('.txt','.html'),i[1]) for i in abc_songs]
-create_global_index(abc_songs,path)
+    abc_songs.sort(key=lambda tup: tup[0])
+    abc_songs = [(i[0].replace('.txt','.html'),i[1]) for i in abc_songs]
+    create_global_index(abc_songs,path)
+

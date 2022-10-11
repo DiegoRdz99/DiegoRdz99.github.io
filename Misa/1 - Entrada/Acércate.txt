@@ -3,10 +3,10 @@ Misa - Entrada
 E
 Jésed
 /Coro/
-A[E]cércate y toma tu lugar en la [D]fiesta [A]
-A[E]cércate pues hoy es Dios el que nos con[D]grega [A]
-A[E]cércate que somos tu familia la I[D]glesia [A]
-A[E]cércate pues Cristo dijo "vengan y [D]vean" [A]
+{A[E]cércate y toma tu lugar en la [D]fiesta|Toma tu lugar en la [A]|fiesta
+{A[E]cércate pues hoy es Dios el que nos con[D]grega|Hoy es Dios el que nos con[A]|grega
+{A[E]cércate que somos tu familia la I[D]glesia|Somos tu familia la I[A]|glesia
+{A[E]cércate pues Cristo dijo "vengan y [D]vean"|Cristo dijo "vengan y [A]|vean"
 /verse/
 Sa[E]luda a tu hermano, pues es bienvenido
 y [D]dale la paz, que vi[A]ene de Cristo
