@@ -1,5 +1,4 @@
 from math import ceil
-from turtle import back
 
 class constants:
     def __init__(self,backsteps):
@@ -18,7 +17,7 @@ def chordify(chord):
             elif chord[1]=='b':
                 root+= '♭' # Flat accidental
                 og_root+= 'b'
-            qual = chord.replace(og_root,'') # Remove root from chord
+            qual = chord.replace(og_root,'').replace('^','Δ') # Remove root from chord
             return [root,qual,FLAT,og_root,qual.replace('b','♭')] # Root + Quality
         except:
             return [root,'',FLAT,og_root,''] # For Major Chords
@@ -30,8 +29,11 @@ def iterate(root):
 
 class line:
     def __init__(self,raw,backsteps=0):
-        lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from tex
-        lst[0].insert(0,'') if len(lst[0])==1 else None # For lines beginning with chords
+        if raw[0]!='[':
+            raw='[]'+raw
+        lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from text
+        lst.pop(0)
+        # lst.pop(0) if lst[0]==[''] else lst[0].insert(0,'') if len(lst[0])==1 else None # For lines beginning with chords
         lst = [list(i) for i in zip(*lst)] # Transpose algorithm
         chords = [chordify(chord) for chord in lst[0]]
         self.set_c_line(chords,backsteps)
@@ -50,8 +52,10 @@ class line:
 class double_line(line):
     def __init__(self,raw,backsteps=0):
         raw = raw.replace('{','')
-        lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from tex
-        lst[0].insert(0,'') if len(lst[0])==1 else None # For lines beginning with chords
+        if raw[0]!='[':
+            raw='[]'+raw
+        lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from text
+        lst.pop(0)
         for i in range(len(lst)):
             app = lst[i].pop(1)
             for a in app.split('|'):
@@ -67,7 +71,9 @@ class double_line(line):
     def table(self):
         return f'\n<table class="linewithchord" border="0" cellpadding="0" cellspacing="0">\n<tr class="chordline">{self._c_line}</tr>\n<tr class="lyricsline">{self._l_line}</tr>\n<tr class="second_voice">{self._second_line}</tr>\n</table>'
 
-STRING = 'A[E]cércate y toma tu lugar en la [D]fiesta [A]'
+STRING = '[]A[E]cércate y toma tu lugar en la [D]fiesta [A]'
+LINE = line(STRING,1)
+STRING = '[G]Santo, [A]santo, [C]santo es [D]el Se[G]ñor'
 LINE = line(STRING,1)
 pass
 

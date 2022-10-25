@@ -40,19 +40,24 @@
 <a href="4 - Espíritu Santo/El Espíritu de Dios está aquí.html"><li>El Espíritu de Dios está aquí</li></a>
 </ul>
 <ul class="order">
-<label onclick="showAdoración()"><li class="folder">5 - Adoración</li></label>
+<label onclick="showEucarísticos()"><li class="folder">5 - Eucarísticos</li></label>
+</ul><ul style="display:none;" id="Euc">
+<a href="5 - Eucarísticos/Venimos a Adorar.html"><li>Venimos a Adorar</li></a>
+</ul>
+<ul class="order">
+<label onclick="showAdoración()"><li class="folder">6 - Adoración</li></label>
 </ul><ul style="display:none;" id="Ado">
-<a href="5 - Adoración/Dímelo Señor.html"><li>Dímelo Señor</li></a>
+<a href="6 - Adoración/Dímelo Señor.html"><li>Dímelo Señor</li></a>
 </ul>
 <ul class="order">
-<label onclick="showVocacionales()"><li class="folder">6 - Vocacionales</li></label>
+<label onclick="showVocacionales()"><li class="folder">7 - Vocacionales</li></label>
 </ul><ul style="display:none;" id="Voc">
-<a href="6 - Vocacionales/Te Buscaré.html"><li>Te Buscaré</li></a>
+<a href="7 - Vocacionales/Te Buscaré.html"><li>Te Buscaré</li></a>
 </ul>
 <ul class="order">
-<label onclick="showDespedir_Santísimo()"><li class="folder">7 - Despedir Santísimo</li></label>
+<label onclick="showDespedir_Santísimo()"><li class="folder">8 - Despedir Santísimo</li></label>
 </ul><ul style="display:none;" id="Des">
-<a href="7 - Despedir Santísimo/Gloria al Rey.html"><li>Gloria al Rey</li></a>
+<a href="8 - Despedir Santísimo/Gloria al Rey.html"><li>Gloria al Rey</li></a>
 </ul>
 
 </div>
@@ -76,6 +81,9 @@ var x = document.getElementById("Per");
 show(x)}
 function showEspíritu_Santo() {
 var x = document.getElementById("Esp");
+show(x)}
+function showEucarísticos() {
+var x = document.getElementById("Euc");
 show(x)}
 function showAdoración() {
 var x = document.getElementById("Ado");

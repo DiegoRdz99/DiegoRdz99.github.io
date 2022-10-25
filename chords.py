@@ -115,6 +115,10 @@ ochords['9'] = {
     'D9':[x,x,0,2,1,0]
 }
 
+ochords['Δ9'] = {
+    'DΔ9':[x,x,0,2,2,0]
+}
+
 ochords['11'] = {
     'A11':[x,0,2,0,3,x],
     'D11':[x,x,0,2,1,3],
@@ -137,6 +141,10 @@ ochords['sus2'] = {
     'Dsus2':[x,x,0,2,3,0]
 }
 
+ochords['sus2#5'] = {
+    'Dsus2#5':[x,x,0,3,3,0]
+}
+
 ochords['sus4'] = {
     'Asus4':[x,0,2,2,3,0],
     'Dsus4':[x,x,0,2,3,3]
@@ -147,10 +155,27 @@ ochords['m7b5'] = {
     'Em7b5':[0,1,2,0,3,0]
 }
 
+ochords['mΔ7'] = {
+    'EmΔ7':[0,2,1,0,0,0],
+    'DmΔ7':[x,x,0,2,2,1],
+    'AmΔ7':[x,0,2,1,1,0]
+}
+
+
 ochords['°7'] = {
     'B°7':[x,2,3,1,3,x],
     'D°7':[x,x,0,1,0,1]
 }
+
+ochords['7#9'] = {
+    'E7#9':[x,x,3,2,4,4]
+}
+
+ochords['+'] = {
+    'A+':[x,0,3,2,2,1],
+    'D+':[x,x,0,3,3,2]
+}
+
 
 qualities = [key for key in ochords.keys()]
 for q in qualities:
@@ -203,7 +228,9 @@ def create_Diagram(chord):
     d.fretboard(MIN,x0=-Δ/2)
     POS = [pos-MIN if pos!=x else x for pos in chords[chord]]
     d.fingers(POS,x0=-Δ/2)
-    d.saveSvg(path+'\\chords\\'+f'{chord}.svg')
+    d.saveSvg(f'{path}/chords/{chord}.svg')
+
+# print(chords)
 
 for chord in chords:
     create_Diagram(chord)
