@@ -29,7 +29,7 @@ def iterate(root):
 
 class line:
     def __init__(self,raw,backsteps=0):
-        if raw[0]!='[':
+        if len(raw)!=0 and raw[0]!='[':
             raw='[]'+raw
         lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from text
         lst.pop(0)
@@ -52,7 +52,7 @@ class line:
 class double_line(line):
     def __init__(self,raw,backsteps=0):
         raw = raw.replace('{','')
-        if raw[0]!='[':
+        if list(raw)[0]!='[':
             raw='[]'+raw
         lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from text
         lst.pop(0)
@@ -75,7 +75,6 @@ STRING = '[]A[E]cércate y toma tu lugar en la [D]fiesta [A]'
 LINE = line(STRING,1)
 STRING = '[G]Santo, [A]santo, [C]santo es [D]el Se[G]ñor'
 LINE = line(STRING,1)
-pass
 
 class Chorus:
     def __init__(self,raw):
@@ -84,7 +83,7 @@ class Chorus:
     def to_html(self,backsteps):
         head = f'\n<br><span class="header chorus">Coro</span><br>\n<table class="chorus" border="0" cellpadding="0" cellspacing="0"><tr><td>'
         foot = '</td></tr></table>\n<br>\n'
-        lines = [double_line(raw,backsteps) if (len(raw)!=0 and raw[0]=='{') else line(raw,backsteps) for raw in self.raw.split('\n')]
+        lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps) for raw in self.raw.split('\n') if len(raw)!=0]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
 
@@ -107,7 +106,7 @@ class verse:
     def to_html(self,backsteps):
         head = f'\n<br><span class="header {self.klass}">{self.title}</span><br>\n<table class="{self.klass}" border="0" cellpadding="0" cellspacing="0"><tr><td>'
         foot = '</td></tr></table>'
-        lines = [double_line(raw,backsteps) if (len(raw)!=0 and raw[0]=='{') else line(raw,backsteps) for raw in self.raw.split('\n')]
+        lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps) for raw in self.raw.split('\n') if len(raw)!=0]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
 
