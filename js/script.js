@@ -13,7 +13,7 @@ var backsteps = (diagrams[0].src).split("chords")[0]
 var chord_names = document.getElementsByClassName("chord_name")
 var trans = 0 // sets Transposition value to 0
 var capo = false // sets transpose as standard (instead of capo)
-var accidental = false // sets sharps as standard (instead of flats)
+var accidental = true // sets sharps as standard (instead of flats)
 output.innerHTML = trans;
 const base = []
 
@@ -81,10 +81,12 @@ function tr_capo(){
 function ft_sp(){
     accidental = !accidental
     if (accidental){
-        b_but.classList = "b_true"
+        b_but.innerHTML = '<span class="icon">&nbsp;&flat;&nbsp;</span>';
+        // b_but.classList = "b_true";
     }
     else {
-        b_but.classList = "b_false"
+        // b_but.classList = "b_false"
+        b_but.innerHTML = '<span class="icon">&nbsp;&sharp;&nbsp;</span>';
     }
     for (var i = 0; i < chords.length; i++) {
         if (chords[i].innerHTML.length!=1){
