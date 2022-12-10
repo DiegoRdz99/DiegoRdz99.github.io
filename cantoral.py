@@ -2,8 +2,59 @@ from math import ceil
 
 class constants:
     def __init__(self,backsteps):
-        self.navbar = f'<body><div><div class="navbar">\n<a href="{backsteps}Misa/index.html">Misa</a>\n<a href="{backsteps}María/index.html">María</a>\n<a href="{backsteps}Hora Santa/index.html">Hora Santa</a>\n<a href="{backsteps}Himnos/index.html">Himnos</a>\n<a href="{backsteps}Alabanzas/index.html">Alabanzas</a>\n<a href="{backsteps}Semana Santa/index.html">Semana Santa</a>\n<a href="{backsteps}Villancicos/index.html">Villancicos</a>\n<a href="{backsteps}Adicionales/index.html">Adicionales</a>\n<a href="{backsteps}Niños/index.html">Niños</a>\n<a href="{backsteps}Originales/index.html">Originales</a>\n<a href="{backsteps}index.html">Todos los Cantos</a></div></div>\n<div class="main">\n'
+        self.navbar = f''
+        self.navbar = f'''
+        <body>
+            <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                <div class="container-fluid">
+                    <a class="navbar-brand mb-0 h1" href="#">Coro Milites Christi</a>
 
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_navbar" aria-controls="collapse_navbar" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span> <!--This is the hamburger icon for the menu-->
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="collapse_navbar">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <a href="{backsteps}Misa/index.html" class="nav-link">Misa</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{backsteps}María/index.html" class="nav-link">María</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{backsteps}Hora Santa/index.html" class="nav-link">Hora Santa</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{backsteps}Himnos/index.html" class="nav-link">Himnos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{backsteps}Alabanzas/index.html" class="nav-link">Alabanzas</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{backsteps}Semana Santa/index.html" class="nav-link">Semana Santa</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{backsteps}Semana Santa/index.html" class="nav-link">Semana Santa</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{backsteps}Adicionales/index.html" class="nav-link">Adicionales</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{backsteps}Niños/index.html" class="nav-link">Niños</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{backsteps}Originales/index.html" class="nav-link">Originales</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{backsteps}index.html" class="nav-link">Todos los Cantos</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            '''
+
+# <a href="{backsteps}Misa/index.html">Misa</a>\n<a href="{backsteps}María/index.html">María</a>\n<a href="{backsteps}Hora Santa/index.html">Hora Santa</a>\n<a href="{backsteps}Himnos/index.html">Himnos</a>\n<a href="{backsteps}Alabanzas/index.html">Alabanzas</a>\n<a href="{backsteps}Semana Santa/index.html">Semana Santa</a>\n<a href="{backsteps}Villancicos/index.html">Villancicos</a>\n<a href="{backsteps}Adicionales/index.html">Adicionales</a>\n<a href="{backsteps}Niños/index.html">Niños</a>\n<a href="{backsteps}Originales/index.html">Originales</a>\n<a href="{backsteps}index.html">Todos los Cantos</a></div></div>\n<div class="main">\n
 def chordify(chord):
     try:
         root = chord[0] # Root 根
@@ -161,12 +212,44 @@ class song:
                 teil.include_coro(self.Coro)
             except:
                 pass
-        head = f'<html><head>\n<title>{self.title}</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="{backsteps}css/style.css"></head>'
-        title_table = f'<table class="main" border=0px width="100%">\n<col style="width:25%"><col style="width:30%"><col style="width:20%"><col style="width:20%"><tr><th colspan="3"><h1>{self.title}</h1></th></tr><tr><th><h2>{self.composer}</h2></th><th><h2>{self.subtitle}</h2></th><th><h2>Clave: {self.key}</h2></th></tr>\n</table>'
-        control_bar = f'<div>\n<div class="control_bar">\n<label id="up" onclick="tpup()"><div class="icon">+1</div></label>\n<label id="down" onclick="tpdown()"><div class="icon">-1</div></label>\n<label onclick="tr_capo()"><span class="icon" id="tr-capo">Transpose</span><sup id="count" class="super"></sup></label>\n<label onclick="ft_sp()" id="b_but"><span class="icon">&nbsp;&flat;&nbsp;</span></label>\n</div>\n</div>'
+        head = f'''
+        <html>
+            <head>
+                <title>{self.title}</title>
+                <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+                <meta http-equiv="Content-Style-Type" content="text/css">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <link rel="stylesheet" href="{backsteps}css/style.css"></head>
+                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+                '''
+        title_table = f'''
+        <table class="main" border=0px width="100%">
+            <col style="width:25%"><col style="width:30%">
+            <col style="width:20%"><col style="width:20%">
+            <tr>
+                <th colspan="3"><h1>{self.title}</h1></th>
+            </tr>
+            <tr>
+                <th><h2>{self.composer}</h2></th><th><h2>{self.subtitle}</h2></th><th><h2>Clave: {self.key}</h2></th>
+            </tr>
+        </table>
+        '''
+        control_bar = f'''
+        <div>
+            <div class="control_bar">
+                <label id="up" onclick="tpup()"><div class="icon">+1</div></label>
+                <label id="down" onclick="tpdown()"><div class="icon">-1</div></label>
+                <label onclick="tr_capo()"><span class="icon" id="tr-capo">Transpose</span><sup id="count" class="super"></sup></label>
+                <label onclick="ft_sp()" id="b_but"><span class="icon">&nbsp;&flat;&nbsp;</span></label>
+            </div>
+        </div>
+        '''
         html_constants = constants(backsteps)
         self.html_preamble = head + html_constants.navbar + title_table + control_bar
-        self.html_footer = f'<script src="{backsteps}js/script.js"></script></body></html>'
+        self.html_footer = f'''
+        <script src="{backsteps}js/script.js"></script></body></html>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+        '''
     def to_html(self,backsteps):
         html = '\n'.join([teil.to_html(backsteps) for teil in self.teile])
         return self.html_preamble + '\n' + html + '\n'+ self.html_footer
@@ -183,7 +266,16 @@ def create_index(folder_path):
     backsteps = rech_backsteps(path,folder_path)
     html_constants = constants(backsteps)
     folder_name = folder_path.split('/')[-1]
-    head = f'<html><head>\n<title>{folder_name}</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="{backsteps}css/style.css"></head>'
+    head = f'''
+    <html>
+        <head>
+            <title>{folder_name}</title>
+            <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+                <meta http-equiv="Content-Style-Type" content="text/css">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <link rel="stylesheet" href="{backsteps}css/style.css"></head>
+                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    '''
     preamble = head + html_constants.navbar + f'<h1 style="text-align: center;">{folder_name}</h1>\n<div class="listing">\n'
     dirs = sorted(os.listdir(folder_path))
     folders = [i for i in dirs if i.find('.')==-1]

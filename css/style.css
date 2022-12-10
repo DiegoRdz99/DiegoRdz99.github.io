@@ -58,9 +58,9 @@ html * {
 } */
 
 
-/* Navbar */
+/* Navbar (Removed to use the Bootstrap Navbar) */
 
-.navbar {
+/* .navbar {
 	overflow: hidden;
 	background-color: #333;
 	position: fixed;
@@ -75,7 +75,7 @@ html * {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-}
+} */
 
 
 /* Style for chords */
@@ -240,7 +240,7 @@ ul {
 	margin-left:10px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 968px) {
 
 	/* For mobile phones: */
 	.control_bar {
