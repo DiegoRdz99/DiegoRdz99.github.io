@@ -247,8 +247,12 @@ class song:
         html_constants = constants(backsteps)
         self.html_preamble = head + html_constants.navbar + title_table + control_bar
         self.html_footer = f'''
-        <script src="{backsteps}js/script.js"></script></body></html>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+<br>
+<br>
+<br>
+<br>
+<script src="{backsteps}js/script.js"></script></body></html>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
         '''
     def to_html(self,backsteps):
         html = '\n'.join([teil.to_html(backsteps) for teil in self.teile])
@@ -289,7 +293,13 @@ def create_index(folder_path):
             preamble += '<ul>\n'
             for song in songs:
                 preamble += f'<a href="{song}"><li>{song[:-5]}</li></a>\n'
-            footer = '</ul>\n</div>\n</div>\n</body>\n</html>'
+            footer = '''
+                            </ul>
+                        </div>
+                    </div>
+                </body>
+            </html>
+            '''
             html = preamble + footer
             newfile = open(f'{folder_path}/index.html','w',encoding='utf-8')
             newfile.write(html)
@@ -312,7 +322,15 @@ def create_index(folder_path):
                     preamble += f'<a href="{folder}/{song}"><li>{song[:-5]}</li></a>\n'
                 preamble += '</ul>\n'
                 jscript += f'function {funName}() {{\nvar x = document.getElementById("{ID}");\nshow(x)}}\n'
-                footer = f'\n</div>\n</div>\n</body>\n<script>\n{jscript}\n</script></html>'
+                footer = f'''
+                            </div>
+                        </div>
+                    </body>
+                    <script>
+                        {jscript}
+                    </script>
+                </html>
+                '''
                 html = preamble + footer
                 newfile = open(f'{folder_path}/index.html','w',encoding='utf-8')
                 newfile.write(html)
@@ -364,7 +382,12 @@ if __name__=='__main__':
         preamble = head + html_constants.navbar + '<h1 style="text-align: center;">Índice General</h1>\n<div class="listing">\n<ul>\n'
         for song in songs:
             preamble += f'<a href="{song[1]}{song[0]}"><li>{song[0][:-5]}</li></a>\n'
-        footer = '</ul>\n</div>\n</div>\n</body>\n</html>'
+        footer = '''</ul>
+                    </div>
+                </div>
+            </body>
+        </html>
+        '''
         html = preamble + footer
         newfile = open(f'{path}/index.html','w',encoding='utf-8')
         newfile.write(html)
