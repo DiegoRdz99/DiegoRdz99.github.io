@@ -293,7 +293,7 @@ def create_index(folder_path):
                 <link rel="stylesheet" href="{backsteps}css/style.css"></head>
                 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     '''
-    preamble = head + html_constants.navbar + f'''
+    preamble = head + html_constants.navbar.replace(f'">{folder_name}',f' active">{folder_name}') + f'''
     <h1 style="text-align: center;">{folder_name}</h1>
     '''
     dirs = sorted(os.listdir(folder_path))
