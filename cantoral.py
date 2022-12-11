@@ -2,12 +2,11 @@ from math import ceil
 
 class constants:
     def __init__(self,backsteps):
-        self.navbar = f''
         self.navbar = f'''
         <body>
             <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
                 <div class="container-fluid">
-                    <a class="navbar-brand mb-0 h1" href="#">Coro Milites Christi</a>
+                    <a class="navbar-brand mb-0 h1" href="{backsteps}index.html" >Coro Milites Christi</a>
 
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_navbar" aria-controls="collapse_navbar" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span> <!--This is the hamburger icon for the menu-->
@@ -132,8 +131,20 @@ class Chorus:
         self.raw = raw.replace(' ','&nbsp;') # Spaces in html
     
     def to_html(self,backsteps):
-        head = f'\n<br><span class="header chorus">Coro</span><br>\n<table class="chorus" border="0" cellpadding="0" cellspacing="0"><tr><td>'
-        foot = '</td></tr></table>\n<br>\n'
+        head = f'''
+<br>
+<span class="header chorus">Coro</span>
+<br>
+<table class="chorus" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+        '''
+        foot = '''
+</td>
+</tr>
+</table>
+<br>
+        '''
         lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps) for raw in self.raw.split('\n') if len(raw)!=0]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
@@ -213,14 +224,14 @@ class song:
             except:
                 pass
         head = f'''
-        <html>
-            <head>
-                <title>{self.title}</title>
-                <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-                <meta http-equiv="Content-Style-Type" content="text/css">
-                <meta name="viewport" content="width=device-width, initial-scale=1">
-                <link rel="stylesheet" href="{backsteps}css/style.css"></head>
-                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+<html>
+    <head>
+        <title>{self.title}</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <meta http-equiv="Content-Style-Type" content="text/css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="{backsteps}css/style.css"></head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
                 '''
         title_table = f'''
         <table class="main" border=0px width="100%">
@@ -251,8 +262,10 @@ class song:
 <br>
 <br>
 <br>
-<script src="{backsteps}js/script.js"></script></body></html>
+<script src="{backsteps}js/script.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
+</html>
         '''
     def to_html(self,backsteps):
         html = '\n'.join([teil.to_html(backsteps) for teil in self.teile])
@@ -280,7 +293,10 @@ def create_index(folder_path):
                 <link rel="stylesheet" href="{backsteps}css/style.css"></head>
                 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     '''
-    preamble = head + html_constants.navbar + f'<h1 style="text-align: center;">{folder_name}</h1>\n<div class="listing">\n'
+    preamble = head + html_constants.navbar + f'''
+    <h1 style="text-align: center;">{folder_name}</h1>
+    <div class="list-group">
+    '''
     dirs = sorted(os.listdir(folder_path))
     folders = [i for i in dirs if i.find('.')==-1]
     if folders==[]:
@@ -290,14 +306,13 @@ def create_index(folder_path):
                 songs.remove('index.html')
             except:
                 pass
-            preamble += '<ul>\n'
+            # preamble += '<ul>\n'
             for song in songs:
-                preamble += f'<a href="{song}"><li>{song[:-5]}</li></a>\n'
+                preamble += f'<a href="{song}" class="list-group-item list-group-item-action">{song[:-5]}</a>\n'
             footer = '''
-                            </ul>
-                        </div>
                     </div>
                 </body>
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
             </html>
             '''
             html = preamble + footer
@@ -377,15 +392,28 @@ if __name__=='__main__':
 
     def create_global_index(songs,path):
         backsteps = rech_backsteps(path,path)
-        head = f'<html><head>\n<title>Global Index</title>\n<meta http-equiv="Content-Type" content="text/html;charset=utf-8">\n<meta http-equiv="Content-Style-Type" content="text/css">\n<link rel="stylesheet" href="{backsteps}css/style.css"></head>'
+        head = f'''
+        <html>
+        <head>
+            <title>Global Index</title>
+            <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+            <meta http-equiv="Content-Style-Type" content="text/css">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" href="{backsteps}css/style.css">
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" 
+        </head>
+        '''
         html_constants = constants(backsteps)
-        preamble = head + html_constants.navbar + '<h1 style="text-align: center;">Índice General</h1>\n<div class="listing">\n<ul>\n'
+        preamble = head + html_constants.navbar + f'''
+    <h1 style="text-align: center;">Índice General</h1>
+    <div class="list-group">
+    '''
         for song in songs:
-            preamble += f'<a href="{song[1]}{song[0]}"><li>{song[0][:-5]}</li></a>\n'
-        footer = '''</ul>
-                    </div>
+            preamble += f'<a href="{song[1]}{song[0]}" class="list-group-item list-group-item-action">{song[0][:-5]}</a>\n'
+        footer = '''
                 </div>
             </body>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
         </html>
         '''
         html = preamble + footer
