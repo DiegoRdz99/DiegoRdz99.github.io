@@ -58,87 +58,133 @@
             </nav>
             
     <h1 style="text-align: center;">Hora Santa</h1>
-    <div class="list-group">
-    <ul class="order">
-<label onclick="showRecibir_Santísimo()"><li class="folder">1 - Recibir Santísimo</li></label>
-</ul><ul style="display:none;" id="Rec">
-<a href="1 - Recibir Santísimo/Entraré.html"><li>Entraré</li></a>
-</ul>
-<ul class="order">
-<label onclick="showGratitud()"><li class="folder">2 - Gratitud</li></label>
-</ul><ul style="display:none;" id="Gra">
-<a href="2 - Gratitud/Cuando Débil Soy.html"><li>Cuando Débil Soy</li></a>
-<a href="2 - Gratitud/Encuentro Paz.html"><li>Encuentro Paz</li></a>
-<a href="2 - Gratitud/Quien Sino Tu.html"><li>Quien Sino Tu</li></a>
-</ul>
-<ul class="order">
-<label onclick="showPerdón_y_Reconciliación()"><li class="folder">3 - Perdón y Reconciliación</li></label>
-</ul><ul style="display:none;" id="Per">
-<a href="3 - Perdón y Reconciliación/Agua de Vida.html"><li>Agua de Vida</li></a>
-</ul>
-<ul class="order">
-<label onclick="showEspíritu_Santo()"><li class="folder">4 - Espíritu Santo</li></label>
-</ul><ul style="display:none;" id="Esp">
-<a href="4 - Espíritu Santo/El Espíritu de Dios está aquí.html"><li>El Espíritu de Dios está aquí</li></a>
-</ul>
-<ul class="order">
-<label onclick="showEucarísticos()"><li class="folder">5 - Eucarísticos</li></label>
-</ul><ul style="display:none;" id="Euc">
-<a href="5 - Eucarísticos/Que bien se está aquí.html"><li>Que bien se está aquí</li></a>
-<a href="5 - Eucarísticos/Venimos a Adorar.html"><li>Venimos a Adorar</li></a>
-</ul>
-<ul class="order">
-<label onclick="showAdoración()"><li class="folder">6 - Adoración</li></label>
-</ul><ul style="display:none;" id="Ado">
-<a href="6 - Adoración/Dímelo Señor.html"><li>Dímelo Señor</li></a>
-</ul>
-<ul class="order">
-<label onclick="showVocacionales()"><li class="folder">7 - Vocacionales</li></label>
-</ul><ul style="display:none;" id="Voc">
-<a href="7 - Vocacionales/Te Buscaré.html"><li>Te Buscaré</li></a>
-<a href="7 - Vocacionales/Yo no soy nada.html"><li>Yo no soy nada</li></a>
-</ul>
-<ul class="order">
-<label onclick="showDespedir_Santísimo()"><li class="folder">8 - Despedir Santísimo</li></label>
-</ul><ul style="display:none;" id="Des">
-<a href="8 - Despedir Santísimo/Gloria al Rey.html"><li>Gloria al Rey</li></a>
-</ul>
+    <div class="accordion accordion-flush" id="accordionFolders">
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingRec">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRec" aria-expanded="true" aria-controls="collapseRec">
+        1 - Recibir Santísimo
+      </button>
+    </h2>
+    <div id="collapseRec" class="accordion-collapse collapse" aria-labelledby="headingRec" data-bs-parent="#accordionFolders">
+      <div class="accordion-body">
+      <div class="list-group">
+                <a href="1 - Recibir Santísimo/Entraré.html" class="list-group-item list-group-item-action">Entraré</a>
 
-                            </div>
-                        </div>
+                </div>
+                </div>
+    </div>
+  </div>
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingGra">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseGra" aria-expanded="true" aria-controls="collapseGra">
+        2 - Gratitud
+      </button>
+    </h2>
+    <div id="collapseGra" class="accordion-collapse collapse" aria-labelledby="headingGra" data-bs-parent="#accordionFolders">
+      <div class="accordion-body">
+      <div class="list-group">
+                <a href="2 - Gratitud/Cuando Débil Soy.html" class="list-group-item list-group-item-action">Cuando Débil Soy</a>
+<a href="2 - Gratitud/Encuentro Paz.html" class="list-group-item list-group-item-action">Encuentro Paz</a>
+<a href="2 - Gratitud/Quien Sino Tu.html" class="list-group-item list-group-item-action">Quien Sino Tu</a>
+
+                </div>
+                </div>
+    </div>
+  </div>
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingPer">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePer" aria-expanded="true" aria-controls="collapsePer">
+        3 - Perdón y Reconciliación
+      </button>
+    </h2>
+    <div id="collapsePer" class="accordion-collapse collapse" aria-labelledby="headingPer" data-bs-parent="#accordionFolders">
+      <div class="accordion-body">
+      <div class="list-group">
+                <a href="3 - Perdón y Reconciliación/Agua de Vida.html" class="list-group-item list-group-item-action">Agua de Vida</a>
+
+                </div>
+                </div>
+    </div>
+  </div>
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingEsp">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEsp" aria-expanded="true" aria-controls="collapseEsp">
+        4 - Espíritu Santo
+      </button>
+    </h2>
+    <div id="collapseEsp" class="accordion-collapse collapse" aria-labelledby="headingEsp" data-bs-parent="#accordionFolders">
+      <div class="accordion-body">
+      <div class="list-group">
+                <a href="4 - Espíritu Santo/El Espíritu de Dios está aquí.html" class="list-group-item list-group-item-action">El Espíritu de Dios está aquí</a>
+
+                </div>
+                </div>
+    </div>
+  </div>
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingEuc">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEuc" aria-expanded="true" aria-controls="collapseEuc">
+        5 - Eucarísticos
+      </button>
+    </h2>
+    <div id="collapseEuc" class="accordion-collapse collapse" aria-labelledby="headingEuc" data-bs-parent="#accordionFolders">
+      <div class="accordion-body">
+      <div class="list-group">
+                <a href="5 - Eucarísticos/Que bien se está aquí.html" class="list-group-item list-group-item-action">Que bien se está aquí</a>
+<a href="5 - Eucarísticos/Venimos a Adorar.html" class="list-group-item list-group-item-action">Venimos a Adorar</a>
+
+                </div>
+                </div>
+    </div>
+  </div>
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingAdo">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAdo" aria-expanded="true" aria-controls="collapseAdo">
+        6 - Adoración
+      </button>
+    </h2>
+    <div id="collapseAdo" class="accordion-collapse collapse" aria-labelledby="headingAdo" data-bs-parent="#accordionFolders">
+      <div class="accordion-body">
+      <div class="list-group">
+                <a href="6 - Adoración/Dímelo Señor.html" class="list-group-item list-group-item-action">Dímelo Señor</a>
+
+                </div>
+                </div>
+    </div>
+  </div>
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingVoc">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseVoc" aria-expanded="true" aria-controls="collapseVoc">
+        7 - Vocacionales
+      </button>
+    </h2>
+    <div id="collapseVoc" class="accordion-collapse collapse" aria-labelledby="headingVoc" data-bs-parent="#accordionFolders">
+      <div class="accordion-body">
+      <div class="list-group">
+                <a href="7 - Vocacionales/Te Buscaré.html" class="list-group-item list-group-item-action">Te Buscaré</a>
+<a href="7 - Vocacionales/Yo no soy nada.html" class="list-group-item list-group-item-action">Yo no soy nada</a>
+
+                </div>
+                </div>
+    </div>
+  </div>
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingDes">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDes" aria-expanded="true" aria-controls="collapseDes">
+        8 - Despedir Santísimo
+      </button>
+    </h2>
+    <div id="collapseDes" class="accordion-collapse collapse" aria-labelledby="headingDes" data-bs-parent="#accordionFolders">
+      <div class="accordion-body">
+      <div class="list-group">
+                <a href="8 - Despedir Santísimo/Gloria al Rey.html" class="list-group-item list-group-item-action">Gloria al Rey</a>
+
+                </div>
+                </div>
+    </div>
+  </div>
+    </div>
                     </body>
-                    <script>
-                        function show(x) {
-if (x.style.display === "none") {
-x.style.display = "block";
-} else {
-x.style.display = "none";
-}
-}function showRecibir_Santísimo() {
-var x = document.getElementById("Rec");
-show(x)}
-function showGratitud() {
-var x = document.getElementById("Gra");
-show(x)}
-function showPerdón_y_Reconciliación() {
-var x = document.getElementById("Per");
-show(x)}
-function showEspíritu_Santo() {
-var x = document.getElementById("Esp");
-show(x)}
-function showEucarísticos() {
-var x = document.getElementById("Euc");
-show(x)}
-function showAdoración() {
-var x = document.getElementById("Ado");
-show(x)}
-function showVocacionales() {
-var x = document.getElementById("Voc");
-show(x)}
-function showDespedir_Santísimo() {
-var x = document.getElementById("Des");
-show(x)}
-
-                    </script>
+                    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
                 </html>
                 

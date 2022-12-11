@@ -295,11 +295,11 @@ def create_index(folder_path):
     '''
     preamble = head + html_constants.navbar + f'''
     <h1 style="text-align: center;">{folder_name}</h1>
-    <div class="list-group">
     '''
     dirs = sorted(os.listdir(folder_path))
     folders = [i for i in dirs if i.find('.')==-1]
     if folders==[]:
+        preamble += '<div class="list-group">'
         songs = [i for i in dirs if i[-5:]=='.html']
         if songs!=[]:
             try:
@@ -320,7 +320,8 @@ def create_index(folder_path):
             newfile.write(html)
             newfile.close()
     else:
-        jscript = 'function show(x) {\nif (x.style.display === "none") {\nx.style.display = "block";\n} else {\nx.style.display = "none";\n}\n}'
+        preamble += '<div class="accordion accordion-flush" id="accordionFolders">'
+        # jscript = 'function show(x) {\nif (x.style.display === "none") {\nx.style.display = "block";\n} else {\nx.style.display = "none";\n}\n}'
         for folder in folders:
             dirs = sorted(os.listdir(folder_path+'/'+folder))
             songs = [i for i in dirs if i[-5:]=='.html']
@@ -330,20 +331,34 @@ def create_index(folder_path):
                 except:
                     pass
                 ID = folder[4:7]
-                funName = 'show'+'_'.join(folder[4:].split(' '))
-                preamble += f'<ul class="order">\n<label onclick="{funName}()"><li class="folder">{folder}</li></label>\n</ul>'
-                preamble += f'<ul style="display:none;" id="{ID}">\n'
+                # funName = 'show'+'_'.join(folder[4:].split(' '))
+                # preamble += f'<ul class="order">\n<label onclick="{funName}()"><li class="folder">{folder}</li></label>\n</ul>'
+
+                # preamble += f'<ul style="display:none;" id="{ID}">\n'
+                preamble += f'''
+<div class="accordion-item">
+    <h2 class="accordion-header" id="heading{ID}">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{ID}" aria-expanded="true" aria-controls="collapse{ID}">
+        {folder}
+      </button>
+    </h2>
+    <div id="collapse{ID}" class="accordion-collapse collapse" aria-labelledby="heading{ID}" data-bs-parent="#accordionFolders">
+      <div class="accordion-body">
+      <div class="list-group">
+                '''
                 for song in songs:
-                    preamble += f'<a href="{folder}/{song}"><li>{song[:-5]}</li></a>\n'
-                preamble += '</ul>\n'
-                jscript += f'function {funName}() {{\nvar x = document.getElementById("{ID}");\nshow(x)}}\n'
+                    preamble += f'<a href="{folder}/{song}" class="list-group-item list-group-item-action">{song[:-5]}</a>\n'
+                preamble += '''
+                </div>
+                </div>
+    </div>
+  </div>'''
+                # preamble += '</ul>\n'
+                # jscript += f'function {funName}() {{\nvar x = document.getElementById("{ID}");\nshow(x)}}\n'
                 footer = f'''
-                            </div>
-                        </div>
+    </div>
                     </body>
-                    <script>
-                        {jscript}
-                    </script>
+                    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
                 </html>
                 '''
                 html = preamble + footer
