@@ -269,3 +269,18 @@ ul {
 		font-size: 25px;
 	}
 }
+
+/* Custom Scrollbar */
+body::-webkit-scrollbar {
+	width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+	background: rgb(255, 255, 255);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+	background-color: rgb(108, 108, 109);    /* color of the scroll thumb */
+	border-radius: 50px;       /* roundness of the scroll thumb */
+	border: 3px solid rgb(255, 255, 255);  /* creates padding around scroll thumb */
+  }

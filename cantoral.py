@@ -33,9 +33,6 @@ class constants:
                                 <a href="{backsteps}Semana Santa/index.html" class="nav-link">Semana Santa</a>
                             </li>
                             <li class="nav-item">
-                                <a href="{backsteps}Semana Santa/index.html" class="nav-link">Semana Santa</a>
-                            </li>
-                            <li class="nav-item">
                                 <a href="{backsteps}Adicionales/index.html" class="nav-link">Adicionales</a>
                             </li>
                             <li class="nav-item">
@@ -416,7 +413,6 @@ if __name__=='__main__':
     def create_global_index(songs,path):
         backsteps = rech_backsteps(path,path)
         head = f'''
-        <html>
         <head>
             <title>Global Index</title>
             <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -428,7 +424,9 @@ if __name__=='__main__':
         '''
         html_constants = constants(backsteps)
         preamble = head + html_constants.navbar + f'''
-    <h1 style="text-align: center;">Índice General</h1>
+    <div class="container-fluid">
+      <p class="text-center fs-1 fw-bolder pt-2">Índice General</p>
+    </div>
     <div class="list-group">
     '''
         for song in songs:
