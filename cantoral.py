@@ -200,8 +200,14 @@ class outro(intermedio):
         super().__init__(raw)
         self.title = 'Outro'
 
+class locutor(verse):
+    def __init__(self,raw):
+        self.raw = raw.replace(' ','&nbsp;')
+        self.title = 'Locutor'
+        self.klass = 'locutor'
 
-parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro,'bridge':bridge}
+
+parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro,'bridge':bridge,'locutor':locutor}
 
 class song:
     def __init__(self,file_name,backsteps):
@@ -294,7 +300,9 @@ def create_index(folder_path):
                 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     '''
     preamble = head + html_constants.navbar.replace(f'">{folder_name}',f' active">{folder_name}') + f'''
-    <h1 style="text-align: center;">{folder_name}</h1>
+    <div class="container-fluid">
+      <p class="text-center fs-1 fw-bolder pt-2">{folder_name}</p>
+    </div>
     '''
     dirs = sorted(os.listdir(folder_path))
     folders = [i for i in dirs if i.find('.')==-1]
@@ -339,7 +347,7 @@ def create_index(folder_path):
 <div class="accordion-item">
     <h2 class="accordion-header" id="heading{ID}">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{ID}" aria-expanded="true" aria-controls="collapse{ID}">
-        {folder}
+      <div class="fs-5 fw-bold">{folder}</div>
       </button>
     </h2>
     <div id="collapse{ID}" class="accordion-collapse collapse" aria-labelledby="heading{ID}" data-bs-parent="#accordionFolders">

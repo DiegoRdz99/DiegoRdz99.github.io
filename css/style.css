@@ -137,6 +137,18 @@ A.chordlink:hover {
 	padding: 0 .5em;
 }
 
+.header.locutor {
+	display: block;
+	font-size: 20px;
+	font-weight: 750;
+	/* width: 98%; */
+	color: white;
+	background-color: #5A5A5A;
+	border-radius: 10px;
+	box-shadow: 0 0 10px #333;
+	padding: 0 .5em;
+}
+
 .header.pre-chorus {
 	display: block;
 	font-size: 20px;
@@ -237,6 +249,11 @@ ul {
 }
 
 .verse {
+	margin-left:10px;
+}
+
+.locutor {
+	color: rgb(158, 157, 157);
 	margin-left:10px;
 }
 
