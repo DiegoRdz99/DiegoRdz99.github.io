@@ -42,7 +42,7 @@ html * {
 }
 
 .super {
-	font-size: 24px;
+	font-size: 20px;
 	vertical-align: super;
 	color: #999;
 }
@@ -261,13 +261,14 @@ ul {
 
 	/* For mobile phones: */
 	.control_bar {
-		width: 100%;
-		margin: auto;
+		width: 70%;
+		margin:auto;
 	}
 
 	.icon {
 		font-size: 25px;
 	}
+
 }
 
 /* Custom Scrollbar */

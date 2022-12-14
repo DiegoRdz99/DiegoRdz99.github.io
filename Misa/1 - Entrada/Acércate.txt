@@ -3,27 +3,42 @@ Misa - Entrada
 E
 Jésed
 /Coro/
-{A[E]cércate y toma tu lugar en la [D]fiesta|Toma tu lugar en la [A]|fiesta
-{A[E]cércate pues hoy es Dios el que nos con[D]grega|Hoy es Dios el que nos con[A]|grega
-{A[E]cércate que somos tu familia la I[D]glesia|Somos tu familia la I[A]|glesia
-{A[E]cércate pues Cristo dijo "vengan y [D]vean"|Cristo dijo "vengan y [A]|vean"
+A[E]cércate y toma tu lugar en la
+{[D]fiesta|Toma tu lugar en la [A]|fiesta
+A[E]cércate pues hoy es Dios el que nos
+{Con[D]grega|Hoy es Dios el que nos con[A]|grega
+A[E]cércate que somos tu familia la
+{I-[D]glesia|Somos tu familia la I[A]|glesia
+A[E]cércate pues Cristo dijo:
+{"Vengan y [D]vean"|Cristo dijo "vengan y [A]|vean"
 /verse/
 Sa[E]luda a tu hermano, pues es bienvenido
 y [D]dale la paz, que vi[A]ene de Cristo
+{[]|Sa[E]|luda a tu hermano, pues es bienvenido
+{[]|y [D]|dale la paz, que vi[A]|ene de Cristo
 Le[E]vanta tus manos y alaba a Dios Padre
 y [D]abre los brazos y a[A]braza a tu hermano
+{[]|Le[E]|vanta tus manos y alaba a Dios Padre
+{[]|y [D]|abre los brazos y a[A]|braza a tu hermano
 /coro/
 /verse/
 De[E]jad que los niños se acerquen a Cristo
-pues [D]para ir al cielo hay que [A]ser como ellos
+Pues [D]para ir al cielo hay que [A]ser como ellos
+{[]|De[E]|jad que los niños se acerquen a Cristo
+{[]|Pues [D]|para ir al cielo hay que [A]|ser como ellos
 A[E]quellos que ayudan al pobre y hambriento
-ve[D]rán por sus obras el [A]Reino del Cielo
+Ve[D]rán por sus obras el [A]Reino del Cielo
+{[]|A[E]|quellos que ayudan al pobre y hambriento
+{[]Ve[D]|rán por sus obras el [A]|Reino del Cielo
 /coro/
 /verse/
 A[E]quí no se juzga, aquí se comulga
-a[D]quí practicamos la [A]misericordia
-[E]Este es un lugar de perdón y reconciliaci[D]ón [A]
+A[D]quí practicamos la [A]misericordia
+{[]|A[E]|quí no se juzga, aquí se comulga
+{[]|A[D]|quí practicamos la [A]|misericordia
+{[E]Este es un lugar de perdón []y reconciliaci|y reconciliaci[D]ón |ón [A]
 /coro/
 /verse/
-A[E]cércate, acércate a [D]Cristo pues tú eres la Igl[A]esia
-Acércate
+A[E]cércate
+Acércate a [D]Cristo pues tú eres la Igl[A]esia
+Acércate[E]

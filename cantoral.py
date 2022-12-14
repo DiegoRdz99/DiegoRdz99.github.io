@@ -1,10 +1,10 @@
 from math import ceil
 
 class constants:
-    def __init__(self,backsteps):
+    def __init__(self,backsteps,title=''):
         self.navbar = f'''
         <body>
-            <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+            <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
                 <div class="container-fluid">
                     <a class="navbar-brand mb-0 h1" href="{backsteps}index.html" >Coro Milites Christi</a>
 
@@ -18,7 +18,7 @@ class constants:
                                 <a href="{backsteps}Misa/index.html" class="nav-link">Misa</a>
                             </li>
                             <li class="nav-item">
-                                <a href="{backsteps}María/index.html" class="nav-link">María</a>
+                                <a href="{backsteps}Marchorusía/index.html" class="nav-link">María</a>
                             </li>
                             <li class="nav-item">
                                 <a href="{backsteps}Hora Santa/index.html" class="nav-link">Hora Santa</a>
@@ -49,6 +49,33 @@ class constants:
                 </div>
             </nav>
             '''
+
+        self.header = f'''
+        <html>
+            <head>
+                <title>{title}</title>
+                <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+                <meta http-equiv="Content-Style-Type" content="text/css">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <link rel="stylesheet" href="{backsteps}css/style.css"></head>
+                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+                '''
+
+        self.html_footer = f'''
+        <br><br><br><br>
+        <div class="btn-group btn-group-lg fixed-bottom mx-auto" style="width:70%;" role="group" aria-label="Basic example">
+            <button type="button" class="btn btn-dark" id="up" onclick="tpup()"><span class="icon">+1</span></button>
+            <button type="button" class="btn btn-dark" id="down" onclick="tpdown()"><span class="icon">-1</span></button>
+            <button type="button" class="btn btn-dark" onclick="tr_capo()"><span class="icon" id="tr-capo">Transpose</span><sup class="super" id="count"></sup></button>
+            <button type="button" class="btn btn-dark" onclick="ft_sp()" id="b_but"><span class="icon">&nbsp;&flat;&nbsp;</span></button>
+        </div>
+        <script src="{backsteps}js/script.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+        </body>
+        </html>
+        '''
+
+        
 
 # <a href="{backsteps}Misa/index.html">Misa</a>\n<a href="{backsteps}María/index.html">María</a>\n<a href="{backsteps}Hora Santa/index.html">Hora Santa</a>\n<a href="{backsteps}Himnos/index.html">Himnos</a>\n<a href="{backsteps}Alabanzas/index.html">Alabanzas</a>\n<a href="{backsteps}Semana Santa/index.html">Semana Santa</a>\n<a href="{backsteps}Villancicos/index.html">Villancicos</a>\n<a href="{backsteps}Adicionales/index.html">Adicionales</a>\n<a href="{backsteps}Niños/index.html">Niños</a>\n<a href="{backsteps}Originales/index.html">Originales</a>\n<a href="{backsteps}index.html">Todos los Cantos</a></div></div>\n<div class="main">\n
 def chordify(chord):
@@ -88,13 +115,34 @@ class line:
         self._l_line = self.set_line(lst[1])
 
     def set_c_line(self,chords,backsteps):
-        self._c_line = ''.join([f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[-1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[-1]}</span><img class="fig" src="{backsteps}chords/{chord[3]}{chord[1]}.svg"></div></td>' if chord[2] else f'<td class="chord"><span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span><div class="diagram"><span class="chord_name">{chord[0]}{chord[1]}</span><img class="fig" src="{backsteps}chords/{iterate(chord[0][0])}b{chord[1]}.svg"></div></td>' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
+        self._c_line = ''.join([f'''
+        <td class="chord">
+            <span class="root">{chord[0]}</span>
+            <span class="quality">{chord[-1]}</span>
+            <div class="diagram">
+                <span class="chord_name">{chord[0]}{chord[-1]}</span>
+                <img class="fig" src="{backsteps}chords/{chord[3]}{chord[1]}.svg">
+            </div>
+        </td>''' if chord[2] else f'''
+        <td class="chord">
+            <span class="root">{chord[0]}</span>
+            <span class="quality">{chord[1]}</span>
+            <div class="diagram">
+                <span class="chord_name">{chord[0]}{chord[1]}</span>
+                <img class="fig" src="{backsteps}chords/{iterate(chord[0][0])}b{chord[1]}.svg">
+            </div>
+        </td>''' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
 
     def set_line(self,lst):
         return ''.join([f'<td>{frag}</td>' for frag in lst])
 
     def table(self):
-        return f'\n<table class="linewithchord" border="0" cellpadding="0" cellspacing="0">\n<tr class="chordline">{self._c_line}</tr>\n<tr class="lyricsline">{self._l_line}</tr>\n</table>'
+        return f'''
+        <table class="linewithchord" border="0" cellpadding="0" cellspacing="0">
+            <tr class="chordline">{self._c_line}</tr>
+            <tr class="lyricsline">{self._l_line}</tr>
+        </table>
+        '''
     
 class double_line(line):
     def __init__(self,raw,backsteps=0):
@@ -116,12 +164,14 @@ class double_line(line):
         self._second_line = self.set_line(lst[2])
 
     def table(self):
-        return f'\n<table class="linewithchord" border="0" cellpadding="0" cellspacing="0">\n<tr class="chordline">{self._c_line}</tr>\n<tr class="lyricsline">{self._l_line}</tr>\n<tr class="second_voice">{self._second_line}</tr>\n</table>'
+        return f'''
+        <table class="linewithchord" border="0" cellpadding="0" cellspacing="0">
+            <tr class="chordline">{self._c_line}</tr>
+            <tr class="lyricsline">{self._l_line}</tr>
+            <tr class="second_voice">{self._second_line}</tr>
+        </table>
+        '''
 
-STRING = '[]A[E]cércate y toma tu lugar en la [D]fiesta [A]'
-LINE = line(STRING,1)
-STRING = '[G]Santo, [A]santo, [C]santo es [D]el Se[G]ñor'
-LINE = line(STRING,1)
 
 class Chorus:
     def __init__(self,raw):
@@ -129,18 +179,18 @@ class Chorus:
     
     def to_html(self,backsteps):
         head = f'''
-<br>
-<span class="header chorus">Coro</span>
-<br>
-<table class="chorus" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td>
-        '''
+        <br>
+        <span class="fs-2 fw-bold">Coro</span>
+        <br>
+        <table class="chorus" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+        <td>
+                '''
         foot = '''
-</td>
-</tr>
-</table>
-<br>
+        </td>
+        </tr>
+        </table>
+        <br>
         '''
         lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps) for raw in self.raw.split('\n') if len(raw)!=0]
         html = '\n'.join([lin.table() for lin in lines])
@@ -163,8 +213,19 @@ class verse:
         self.klass = 'verse'
     
     def to_html(self,backsteps):
-        head = f'\n<br><span class="header {self.klass}">{self.title}</span><br>\n<table class="{self.klass}" border="0" cellpadding="0" cellspacing="0"><tr><td>'
-        foot = '</td></tr></table>'
+        head = f'''
+        <br>
+        <span class="fs-2 fw-bold">{self.title}</span>
+        <br>
+        <table class="{self.klass}" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+        '''
+        foot = '''
+                </td>
+            </tr>
+        </table>
+        '''
         lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps) for raw in self.raw.split('\n') if len(raw)!=0]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
@@ -197,11 +258,23 @@ class outro(intermedio):
         super().__init__(raw)
         self.title = 'Outro'
 
-class locutor(verse):
+class locutor:
+    def __init__(self,raw):
+        self.title = 'Locutor'
+        self.raw = raw
+    
+    def to_html(self,backsteps):
+        html = f'''
+        <br>class locutor(verse):
     def __init__(self,raw):
         self.raw = raw.replace(' ','&nbsp;')
         self.title = 'Locutor'
         self.klass = 'locutor'
+        <span class="fs-2 fw-bold">{self.title}</span>
+        <br>
+        <p class="locutor">{self.raw}</p>
+        '''
+        return html
 
 
 parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro,'bridge':bridge,'locutor':locutor}
@@ -210,6 +283,9 @@ class song:
     def __init__(self,file_name,backsteps):
         self.raw = open(file_name,'r',encoding='utf-8').read()
         spt = self.raw.split('\n')
+        # meta = self.raw.split('{song}')[0].split('\n')[:-1]
+        # for entry in meta:
+            # self.__dict__[entry.split(' : ')[0]] = entry.split(' : ')[1]
         self.title = spt[0]
         self.subtitle = spt[1]
         self.key = spt[2]
@@ -226,16 +302,7 @@ class song:
                 teil.include_coro(self.Coro)
             except:
                 pass
-        head = f'''
-<html>
-    <head>
-        <title>{self.title}</title>
-        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-        <meta http-equiv="Content-Style-Type" content="text/css">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="{backsteps}css/style.css"></head>
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-                '''
+        
         title_table = f'''
         <table class="main" border=0px width="100%">
             <col style="width:25%"><col style="width:30%">
@@ -248,28 +315,9 @@ class song:
             </tr>
         </table>
         '''
-        control_bar = f'''
-        <div>
-            <div class="control_bar">
-                <label id="up" onclick="tpup()"><div class="icon">+1</div></label>
-                <label id="down" onclick="tpdown()"><div class="icon">-1</div></label>
-                <label onclick="tr_capo()"><span class="icon" id="tr-capo">Transpose</span><sup id="count" class="super"></sup></label>
-                <label onclick="ft_sp()" id="b_but"><span class="icon">&nbsp;&flat;&nbsp;</span></label>
-            </div>
-        </div>
-        '''
-        html_constants = constants(backsteps)
-        self.html_preamble = head + html_constants.navbar + title_table + control_bar
-        self.html_footer = f'''
-<br>
-<br>
-<br>
-<br>
-<script src="{backsteps}js/script.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
-</body>
-</html>
-        '''
+        html_constants = constants(backsteps,title=self.title)
+        self.html_preamble = html_constants.header + html_constants.navbar + title_table
+        self.html_footer = html_constants.html_footer
     def to_html(self,backsteps):
         html = '\n'.join([teil.to_html(backsteps) for teil in self.teile])
         return self.html_preamble + '\n' + html + '\n'+ self.html_footer
@@ -284,18 +332,9 @@ def create_html(file_path):
 
 def create_index(folder_path):
     backsteps = rech_backsteps(path,folder_path)
-    html_constants = constants(backsteps)
     folder_name = folder_path.split('/')[-1]
-    head = f'''
-    <html>
-        <head>
-            <title>{folder_name}</title>
-            <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-                <meta http-equiv="Content-Style-Type" content="text/css">
-                <meta name="viewport" content="width=device-width, initial-scale=1">
-                <link rel="stylesheet" href="{backsteps}css/style.css"></head>
-                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-    '''
+    html_constants = constants(backsteps,title=folder_name)
+    head = html_constants.header
     preamble = head + html_constants.navbar.replace(f'">{folder_name}',f' active">{folder_name}') + f'''
     <div class="container-fluid">
       <p class="text-center fs-1 fw-bolder pt-2">{folder_name}</p>
@@ -341,27 +380,27 @@ def create_index(folder_path):
 
                 # preamble += f'<ul style="display:none;" id="{ID}">\n'
                 preamble += f'''
-<div class="accordion-item">
-    <h2 class="accordion-header" id="heading{ID}">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{ID}" aria-expanded="true" aria-controls="collapse{ID}">
-      <div class="fs-5 fw-bold">{folder}</div>
-      </button>
-    </h2>
-    <div id="collapse{ID}" class="accordion-collapse collapse" aria-labelledby="heading{ID}" data-bs-parent="#accordionFolders">
-      <div class="accordion-body">
-      <div class="list-group">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading{ID}">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{ID}" aria-expanded="true" aria-controls="collapse{ID}">
+                    <div class="fs-5 fw-bold">{folder}</div>
+                    </button>
+                    </h2>
+                    <div id="collapse{ID}" class="accordion-collapse collapse" aria-labelledby="heading{ID}" data-bs-parent="#accordionFolders">
+                    <div class="accordion-body">
+                    <div class="list-group">
                 '''
                 for song in songs:
                     preamble += f'<a href="{folder}/{song}" class="list-group-item list-group-item-action">{song[:-5]}</a>\n'
                 preamble += '''
-                </div>
-                </div>
-    </div>
-  </div>'''
+                    </div>
+                    </div>
+                    </div>
+                </div>'''
                 # preamble += '</ul>\n'
                 # jscript += f'function {funName}() {{\nvar x = document.getElementById("{ID}");\nshow(x)}}\n'
                 footer = f'''
-    </div>
+                    </div>
                     </body>
                     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
                 </html>
@@ -424,10 +463,10 @@ if __name__=='__main__':
         '''
         html_constants = constants(backsteps)
         preamble = head + html_constants.navbar + f'''
-    <div class="container-fluid">
-      <p class="text-center fs-1 fw-bolder pt-2">Índice General</p>
-    </div>
-    <div class="list-group">
+        <div class="container-fluid">
+        <p class="text-center fs-1 fw-bolder pt-2">Índice General</p>
+        </div>
+        <div class="list-group">
     '''
         for song in songs:
             preamble += f'<a href="{song[1]}{song[0]}" class="list-group-item list-group-item-action">{song[0][:-5]}</a>\n'
