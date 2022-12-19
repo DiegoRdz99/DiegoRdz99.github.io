@@ -103,17 +103,16 @@ A.chordlink:hover {
 	text-decoration: underline;
 }
 
-.header.chorus {
+/* .header.chorus {
 	display: block;
 	font-size: 20px;
 	font-weight: 750;
-	/* width: 98%; */
 	color: #eee;
 	background-color: black;
 	border-radius: 10px;
 	box-shadow: 0 0 10px #333;
 	padding: 0 .5em;
-}
+} */
 
 .comment {
 	display: block;

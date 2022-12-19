@@ -3,8 +3,7 @@ from math import ceil
 class constants:
     def __init__(self,backsteps,title=''):
         self.navbar = f'''
-        <body>
-            <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
+        <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top shadow">
                 <div class="container-fluid">
                     <a class="navbar-brand mb-0 h1" href="{backsteps}index.html" >Coro Milites Christi</a>
 
@@ -18,7 +17,7 @@ class constants:
                                 <a href="{backsteps}Misa/index.html" class="nav-link">Misa</a>
                             </li>
                             <li class="nav-item">
-                                <a href="{backsteps}Marchorusía/index.html" class="nav-link">María</a>
+                                <a href="{backsteps}María/index.html" class="nav-link">María</a>
                             </li>
                             <li class="nav-item">
                                 <a href="{backsteps}Hora Santa/index.html" class="nav-link">Hora Santa</a>
@@ -48,22 +47,24 @@ class constants:
                     </div>
                 </div>
             </nav>
+            <body class="p-4">
             '''
 
         self.header = f'''
         <html>
-            <head>
-                <title>{title}</title>
-                <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-                <meta http-equiv="Content-Style-Type" content="text/css">
-                <meta name="viewport" content="width=device-width, initial-scale=1">
-                <link rel="stylesheet" href="{backsteps}css/style.css"></head>
-                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+        <head>
+            <title>{title}</title>
+            <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+            <meta http-equiv="Content-Style-Type" content="text/css">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" href="{backsteps}css/style.css">
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+        </head>
                 '''
 
         self.html_footer = f'''
         <br><br><br><br>
-        <div class="btn-group btn-group-lg fixed-bottom mx-auto" style="width:70%;" role="group" aria-label="Basic example">
+        <div class="btn-group btn-group-lg fixed-bottom mx-auto shadow" style="width:70%;" role="group" aria-label="Basic example">
             <button type="button" class="btn btn-dark" id="up" onclick="tpup()"><span class="icon">+1</span></button>
             <button type="button" class="btn btn-dark" id="down" onclick="tpdown()"><span class="icon">-1</span></button>
             <button type="button" class="btn btn-dark" onclick="tr_capo()"><span class="icon" id="tr-capo">Transpose</span><sup class="super" id="count"></sup></button>
@@ -75,9 +76,7 @@ class constants:
         </html>
         '''
 
-        
 
-# <a href="{backsteps}Misa/index.html">Misa</a>\n<a href="{backsteps}María/index.html">María</a>\n<a href="{backsteps}Hora Santa/index.html">Hora Santa</a>\n<a href="{backsteps}Himnos/index.html">Himnos</a>\n<a href="{backsteps}Alabanzas/index.html">Alabanzas</a>\n<a href="{backsteps}Semana Santa/index.html">Semana Santa</a>\n<a href="{backsteps}Villancicos/index.html">Villancicos</a>\n<a href="{backsteps}Adicionales/index.html">Adicionales</a>\n<a href="{backsteps}Niños/index.html">Niños</a>\n<a href="{backsteps}Originales/index.html">Originales</a>\n<a href="{backsteps}index.html">Todos los Cantos</a></div></div>\n<div class="main">\n
 def chordify(chord):
     try:
         root = chord[0] # Root 根
@@ -337,7 +336,7 @@ def create_index(folder_path):
     head = html_constants.header
     preamble = head + html_constants.navbar.replace(f'">{folder_name}',f' active">{folder_name}') + f'''
     <div class="container-fluid">
-      <p class="text-center fs-1 fw-bolder pt-2">{folder_name}</p>
+      <p class="text-center fs-1 fw-bolder pt-5">{folder_name}</p>
     </div>
     '''
     dirs = sorted(os.listdir(folder_path))
