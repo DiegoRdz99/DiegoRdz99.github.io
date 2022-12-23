@@ -188,6 +188,16 @@ A.chordlink:hover {
 	position: relative;
 }
 
+/* ARREGLAR PENDIENTE
+
+Geagjeoigaoñg
+gewhñaehgoj́ep
+gejgaejó
+*/
+.quality {
+	margin-left:-5px;
+}
+
 .chord .diagram {
 	visibility: hidden;
 	width: 125px;
