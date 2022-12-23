@@ -1,0 +1,34 @@
+title : La Palabra se Encarnó
+subtitle : Villancicos
+key : Bb
+liturgy : Navidad
+{song}
+/intro/
+[Dm]  [C]  [Bbsus2]
+/verse/
+[F]En el principio exis[C]tía la Pa[Dm]labra
+Y la pa[Bb]labra estaba con [F]Dios
+Y la pa[Gm]labra era [C]Dios
+[F]En la Palabra es[C]taba la [Dm]vida
+[Bb]  Y cuanto e[F]xiste se cre[Gm]ó
+Por la Pa[C]labra
+/Coro/
+La Pa[F]labra se encar[Cm]nó
+Y habi[Bb]tó entre no[Bbm]sotros
+Y [F]hemos contemplado su [C]Gloria
+[Dm]Gloria que recibe del [D#]Padre
+Como [F]unigénito
+[C]Lleno de gracia y ver[Dm]dad[C] [Bbsus2]
+/intermedio/
+[Dm]  [C]  [Bbsus2]
+/verse/
+La Pa[F]labra es luz
+Que [C]brilla en las ti[Dm]nieblas
+[Bb]Para iluminar a los [F]hombres
+Que [Gm]vienen a este [C]mundo
+Ha ve[F]nido a nosotros
+[C]Y al reci[Dm]birle
+[Bb]  Nos ha conce[F]dido ser
+[Gm]Hijos de [C]Dios
+/coro/
+/coro/

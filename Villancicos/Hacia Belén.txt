@@ -1,0 +1,44 @@
+title : Como en Belén
+subtitle : Villancicos
+key : Em
+liturgy : Navidad
+{song}
+/intro/
+[A]  [G]  [D]  [E]
+[A]  [G]  [D]  [E]
+/verse/
+[A]Dios es siempre [E]fiel a sus pro[F#m]mesas
+Y nos [D]prometió a [Bm]Cristo el salvad[E]or
+[A]Dios escucha el [E]llanto de su [F#m]pueblo
+Y [D]Jesús es la res[Bm]puesta de su a[E]mor
+Escu[A]chamos el a[E]nuncio de los [F#m]cielos
+A los [D]ángeles can[Bm]tar la gloria a [E]Dios
+Nuestros [A]corazones [E]gritan de ale[F#m]gría
+No po[D]demos conte[Bm]ner nuestra emo[E]ción
+/bridge/
+Corre[D]remos por el mundo ilumi[E]nado
+A encon[G]trarnos la pro[Bm]mesa del Se[E]ñor
+/Coro/
+Vamos [D]ya hacia Be[E]lén
+Nuestro [A]salvador a[E]hí ha de na[F#m]cer
+Vamos [D]ya sin demo[E]rar
+Ese [D]niño nuestra [E]vida ha de sal[A]var
+/intermedio/
+[A]  [G]  [D]  [E]
+[A]  [G]  [D]  [E]
+/verse/
+Y habrá [A]voces de en[E]gaño en el ca[F#m]mino
+Nos que[D]rrán desviar de [Bm]nuestra reden[E]ción
+Cuando la es[A]trella brilla en [E]nuestros cora[F#m]zones
+Siempre sa[D]bemos donde es[Bm]tá nuestro Se[E]ñor
+/bridge/
+Y lle[D]gando adoraremos a ese [E]niño
+Rey de re[G]yes y au[Bm]tor de la [E]creación
+/coro/
+En un pe[G]sebre encontrarán al niño
+[D]Arropado en pañales
+[A] Él el Jesús
+Ha ve[G]nido a redimir al mundo
+[D]Destruyendo las tinieblas
+[A] Que brille su luz
+/coro/

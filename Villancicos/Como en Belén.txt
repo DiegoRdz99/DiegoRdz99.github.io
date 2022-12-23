@@ -1,0 +1,40 @@
+title : Como en Belén
+subtitle : Villancicos
+key : Em
+liturgy : Navidad
+{song}
+/intro/
+[Em7]  [D]  [G]
+/verse/
+[Em]En un pesebre en una noche [D]fría
+[G]Nació a la luz de la Virgen María
+[Am]Era Belén el lugar escogido
+Quien [B7]recibiría al recién nacido
+[Em]Y una estrella guiaba a los [D]reyes
+[G]Quienes llegaron desde el oriente
+[Am]Con sus regalos para ofrendarlos al [B7]Rey
+/Coro/
+Allá en Be[G]lén, nació el salva[F]dor
+Quien dividi[C]ría la historia en [D]dos
+Y como en Be[G]lén, vuelve a na[F]cer
+Pero ahora el pe[C]sebre tu corazón [D]es
+Como en Be[F]lén
+/verse/
+An[Em]te los pastores se presentó un [D]ángel
+[G]Un nacimiento él fue a anunciarles
+De quien [Am]dividiría nuestra historia en [B7]dos
+Co[Em]mo las palabras que el profeta [D]dijo
+An[G]tes de nacer ya era perseguido
+[Am]Pero Dios quiso que venciera Emma[B7]nuel
+/coro/
+/intermedio/
+[F]  [Bb]  [C]  [C7]
+/bridge/
+[F]Gloria a [Bb]Dios en las al[C]tu-[C7]u-[F]ras
+[Am]Gloria a [Bb]Dios en las al[C]tu-[C7]u-[F]ras
+/coro/
+/coro/
+/outro/
+Nace Emma[G]nuel
+Como en Be[F]lén
+Nace Emma[G]nuel
