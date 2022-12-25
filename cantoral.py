@@ -50,7 +50,7 @@ class constants:
                     </div>
                 </div>
             </nav>
-            <body class="p-4">
+            <body class="p-4 content">
             '''
 
         self.header = f'''
@@ -468,7 +468,7 @@ if __name__=='__main__':
         html_constants = constants(backsteps)
         preamble = head + html_constants.navbar + f'''
         <div class="container-fluid">
-        <p class="text-center fs-1 fw-bolder pt-2">Índice General</p>
+        <p class="text-center fs-1 fw-bolder pt-5">Índice General</p>
         </div>
         <div class="list-group">
     '''
@@ -488,4 +488,5 @@ if __name__=='__main__':
     abc_songs.sort(key=lambda tup: tup[0])
     abc_songs = [(i[0].replace('.txt','.html'),i[1]) for i in abc_songs]
     create_global_index(abc_songs,path)
+    print('Done!')
 
