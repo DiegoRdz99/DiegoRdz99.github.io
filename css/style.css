@@ -234,6 +234,7 @@ ul {
 
 .toolbar {
 	opacity: 0.4;
+	width: 70%;
 }
 
 .toolbar:hover {
@@ -243,9 +244,9 @@ ul {
 @media only screen and (max-width: 968px) {
 
 	/* For mobile phones: */
-	.control_bar {
-		width: 70%;
-		margin: auto;
+	.toolbar {
+		width: 80%;
+		max-width: 500px;
 	}
 
 	.icon {

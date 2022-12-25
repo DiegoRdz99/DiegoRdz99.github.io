@@ -2,10 +2,11 @@ var chds = { "C":0, "C♯":1,"D♭":1,"D":2,"D♯":3,"E♭":3, "E":4, "F":5,"F�
 var chds_sp = { 0:"C", 1:"C♯",2:"D",3:"D♯", 4:"E", 5:"F",6:"F♯", 7:"G",8:"G♯", 9:"A",10:"A♯", 11:"B" }
 var chds_ft = { 0:"C",1:"D♭",2:"D",3:"E♭", 4:"E", 5:"F",6:"G♭", 7:"G",8:"A♭", 9:"A",10:"B♭", 11:"B" }
 var btos = {"C♯":"D♭","D♯":"E♭","F♯":"G♭","G♯":"A♭","A♯":"B♭","D♭":"C♯","E♭":"D♯","G♭":"F♯","A♭":"G♯","B♭":"A♯"}
-
 var output = document.getElementById("count")
 var chords = document.getElementsByClassName("root")
 var b_but = document.getElementById("b_but")
+var dark_but = document.getElementById("dark-toggle")
+var play_but = document.getElementById("play-but")
 var capo_label = document.getElementById("tr-capo")
 var qualities = document.getElementsByClassName("quality")
 var diagrams = document.getElementsByClassName("fig")
@@ -14,6 +15,8 @@ var chord_names = document.getElementsByClassName("chord_name")
 var trans = 0 // sets Transposition value to 0
 var capo = false // sets transpose as standard (instead of capo)
 var accidental = true // sets sharps as standard (instead of flats)
+var dark = false; // dark mode is set to false default;
+var play = false; // autoscroll is set to false default;
 output.innerHTML = trans;
 const base = []
 
@@ -68,11 +71,11 @@ function tr_capo(){
     if (trans<=0){
         capo = !capo
         if (capo) {
-            capo_label.innerHTML = "Capo"
+            capo_label.innerHTML = "Cp"
             output.innerHTML = -trans
         }
         else {
-            capo_label.innerHTML = "Transpose"
+            capo_label.innerHTML = "Tp"
             output.innerHTML = sign(trans)
         }
     }
@@ -81,12 +84,12 @@ function tr_capo(){
 function ft_sp(){
     accidental = !accidental
     if (accidental){
-        b_but.innerHTML = '<span class="icon">&nbsp;&flat;&nbsp;</span>';
+        b_but.innerHTML = '<span class="icon">&flat;</span>';
         // b_but.classList = "b_true";
     }
     else {
         // b_but.classList = "b_false"
-        b_but.innerHTML = '<span class="icon">&nbsp;&sharp;&nbsp;</span>';
+        b_but.innerHTML = '<span class="icon">&sharp;</span>';
     }
     for (var i = 0; i < chords.length; i++) {
         if (chords[i].innerHTML.length!=1){
@@ -103,16 +106,25 @@ function autoScroll() {
 }
 let scroll = true;
 function startInverval() {
-    if (scroll == true) {
+    if (scroll) {
+        play_but.innerHTML = '<span class="icon">&#x23f8;</span>'
         scrolldelay = setInterval(autoScroll, 100);
     }
     else {
+        play_but.innerHTML = '<span class="icon">&#9654;</span>'
         clearInterval(scrolldelay);
     }
-    scroll = scroll !== true;
+    scroll = !scroll;
 }
 
 function toggleDark() {
+    if (dark) {
+        dark_but.innerHTML = '<span class="icon">&#9788;</span>'
+    }
+    else {
+        dark_but.innerHTML = '<span class="icon">&#9789;</span>'
+    }
+    dark = !dark;
     var element = document.body;
     element.classList.toggle("dark-mode");
     var tds = document.getElementsByClassName("lyricsline")
