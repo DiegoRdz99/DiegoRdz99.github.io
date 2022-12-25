@@ -1,7 +1,7 @@
-Soy pecador ten piedad
-Misa - Piedad
-Am
--
+title : Soy pecador ten piedad
+key : Am
+liturgy : Ordinario
+{song}
 /Coro/
 Ten pie[Am]dad Se[Dm]ñor, ten pie[Am]dad
 Soy peca[F]dor [E]ten pie[Am]dad

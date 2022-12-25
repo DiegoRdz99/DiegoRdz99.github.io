@@ -1,7 +1,7 @@
-Una espiga dorada por el sol
-Misa - Ofertorio
-D
--
+title : Una espiga dorada por el sol
+key : D
+liturgy : Ordinario
+{song}
 /Coro/
 Una es[D]piga do[G]rada por el [D]sol
 El ra[D]cimo que [Bm]corta el viña[A7]dor

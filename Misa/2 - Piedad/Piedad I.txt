@@ -1,7 +1,7 @@
-Piedad Ι
-Misa - Piedad
-Em
--
+title : Piedad Ι
+key : Em
+liturgy : Ordinario
+{song}
 /Coro/
 Se[Em]ñor, ten pie[D]dad de no[C]so-[B7]o-[Em]tros
 Se[Em]ñor, ten pie[D]dad de no[C]so-[B7]o-[Em]tros [E7]

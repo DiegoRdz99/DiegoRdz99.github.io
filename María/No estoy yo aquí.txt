@@ -1,7 +1,7 @@
-No estoy yo aquí
-María
-MNM RCCES
-F
+title : No estoy yo aquí
+composer : MNM RCCES
+key : F
+{song}
 /verse/
 Mu[Bb]jer hermosa de la [C]gracia del Se[F]ñor
 Es[Bb]trella que guía mis [C]pasos al an[F]dar

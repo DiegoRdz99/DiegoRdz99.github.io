@@ -1,7 +1,7 @@
-Piedad Cuaresma
-Misa - Piedad
-Em
--
+title : Piedad Cuaresma
+key : Em
+liturgy : Cuaresma
+{song}
 /intro/
 [Em]
 /Coro/

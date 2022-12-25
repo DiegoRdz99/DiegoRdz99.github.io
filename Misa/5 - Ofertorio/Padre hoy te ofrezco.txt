@@ -1,7 +1,7 @@
-Padre Hoy te Ofrezco
-Misa - Ofertorio
-C
--
+title : Padre Hoy te Ofrezco}
+key : C
+liturgy : Ordinario
+{song}
 /verse/
 [C]Pa-[C^7]dre hoy te o[Dm]frezco estos dones  [Dm7]
 Y te [C]pi-[C^7]do bendi[Dm]gas mis labores[Dm7]

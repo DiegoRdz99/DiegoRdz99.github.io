@@ -1,7 +1,7 @@
-Como la Uva
-Misa - Ofertorio
-C
--
+title : Como la Uva
+key : C
+liturgy : Ordinario
+{song}
 /intro/
 [C]  [F]  [C]  [G]
 [C]  [F]  [C]  [G]

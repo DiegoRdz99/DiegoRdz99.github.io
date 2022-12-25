@@ -1,5 +1,5 @@
 title : Como en Belén
-subtitle : Villancicos
+composer : Jésed
 key : Em
 liturgy : Navidad
 {song}

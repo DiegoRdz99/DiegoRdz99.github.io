@@ -1,7 +1,7 @@
-Gloria Ruah
-Gloria
-D
--
+title : Gloria Ruah
+key : D
+liturgy : Ordinario
+{song}
 /Coro/
 [D]Gloria a [Bm]Dios en las al[F#m]turas
 Y [G]paz, [A]paz en la [D]Tierra  [Bm]

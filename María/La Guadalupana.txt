@@ -1,7 +1,7 @@
-La Guadalupana
-María
--
-E
+title : La Guadalupana
+key : E
+liturgy : Vírgen de Guadalupe
+{song}
 /Coro/
 Desde el [E]cielo una hermosa mañana
 Desde el [E]cielo una hermosa mañana

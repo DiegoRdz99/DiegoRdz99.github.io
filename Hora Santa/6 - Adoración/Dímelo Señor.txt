@@ -1,7 +1,7 @@
-Dímelo Señor
-Hora Santa - Adoración
-C
-MNM RCCES
+title : Dímelo Señor
+key : C
+composer : MNM RCCES
+{song}
 /intro/
 [Am]  [G]  [F]  [C]  [Dm]
 [G]  [C]  [Am]  [G]

@@ -1,7 +1,8 @@
-Viva la fe
-Niños
-D
--
+title : Viva la fe
+subtitle : Niños - Salida
+key : D
+liturgy : Ordinario
+{song}
 /intro/
 [A]  [D]  [A]  [D]
 /Coro/

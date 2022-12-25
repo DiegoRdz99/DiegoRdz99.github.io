@@ -1,7 +1,7 @@
-Ave Estrella
-María
-Pbro. Francisco Javier Alanís Páez
-A
+title : Ave Estrella
+composer : Pbro. Francisco Javier Alanís Páez
+key : A
+{song}
 /verse/
 Hoy la [A]vida no es [C#m]f+acil
 En el [F#m]mundo hay do[C#m]lor

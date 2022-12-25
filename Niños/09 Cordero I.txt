@@ -1,7 +1,8 @@
-Cordero I
-Niños
-A
--
+title : Cordero I
+subtitle : Niños - Cordero
+key : A
+liturgy : Ordinario
+{song}
 /intro/
 [A]  [E]  [A]
 /verse/

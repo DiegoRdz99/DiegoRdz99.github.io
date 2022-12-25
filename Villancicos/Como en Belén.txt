@@ -1,5 +1,5 @@
 title : Como en Belén
-subtitle : Villancicos
+composer : Alfareros
 key : Em
 liturgy : Navidad
 {song}

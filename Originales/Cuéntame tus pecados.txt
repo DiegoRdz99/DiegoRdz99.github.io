@@ -1,7 +1,7 @@
-Cuéntame tus pecados
-Originales 神の
-D
-Aldo Fabián
+title : Cuéntame tus pecados
+key : D
+composer : Aldo Fabián
+{song}
 /verse/
 Yo te he visto nacer, 
 Yo te he visto amar,

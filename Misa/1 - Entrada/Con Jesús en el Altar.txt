@@ -1,7 +1,7 @@
-Con Jesús en el Altar
-Misa - Entrada
-G
--
+title : Con Jesús en el Altar
+key : G
+liturgy : Ordinario
+{song}
 /verse/
 [G]  [Cadd9]  [G]  [Cadd9] 
 [G]Con Jesús en el al[Em]tar

@@ -1,6 +1,7 @@
-Piedad Fácil
-Misa - Piedad
-D
+title : Piedad Fácil
+key : D
+liturgy : Ordinario
+{song}
 -
 /verse/
 Se[D]ñor ten pie[Bm]dad de mí

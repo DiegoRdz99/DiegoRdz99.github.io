@@ -1,7 +1,7 @@
-Qué Alegría II
-Misa - Entrada
-G
--
+title : Qué Alegría II
+key : G
+liturgy : Ordinario
+{song}
 /Coro/
 Que ale[G]gría [C]cuando me di[G]jeron
 [Am]Vamos a la [A]casa del Se[D]ñor [D7]

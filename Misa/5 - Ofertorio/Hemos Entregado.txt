@@ -1,7 +1,7 @@
-Hemos Entregado
-Misa - Ofertorio
-C
--
+title : Hemos Entregado
+key : C
+liturgy : Ordinario
+{song}
 /verse/
 [C]  Hemos entre[G]gado nuestras [Am]vidas al Señor
 [F]  No hay mayor bendi[G]ción que ser de [C]É-[G]el

@@ -1,7 +1,7 @@
-Cuando Débil Soy
-Hora Santa - Gratitud
-A
-Martín Valverde
+title : Cuando Débil Soy
+key : A
+composer : Martín Valverde
+{song}
 /verse/
 [A] Cuando soy débil
 Yo soy testigo de tu [E]fuerza en mí

@@ -1,7 +1,7 @@
-Viva Cristo Rey
-Himnos
-G
-Jésed
+title : Viva Cristo Rey
+key : G
+composer : Jésed
+{song}
 /intro/
 [G]  [D]  [C]  [D]
 [G]  [D]  [C]  [D]

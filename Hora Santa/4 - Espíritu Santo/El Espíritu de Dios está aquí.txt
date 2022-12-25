@@ -1,7 +1,6 @@
-El Espíritu de Dios está aquí
-Hora Santa - Espíritu Santo
-D
--
+title : El Espíritu de Dios está aquí
+key : D
+{song}
 /verse/
 El Es[D]píritu de Dios es[G]tá en este lu[A]gar
 El Es[D]píritu de Dios se mu[G]eve en este lu[A]gar

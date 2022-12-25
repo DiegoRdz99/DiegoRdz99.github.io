@@ -1,7 +1,8 @@
-Padre Nuestro
-Niños
-C
--
+title : Padre Nuestro
+subtitle : Niños - Padre Nuestro
+key : C
+liturgy : Ordinario
+{song}
 /verse/
 Padre [C]Nuestro, que estás en el [Am]cielo
 Santifi[F]cado [Dm]  sea tu [G]nombre [G7]

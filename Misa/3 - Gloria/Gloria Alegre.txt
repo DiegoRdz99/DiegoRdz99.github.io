@@ -1,7 +1,7 @@
-Gloria Alegre
-Gloria
-D
--
+title : Gloria Alegre
+key : D
+liturgy : Ordinario
+{song}
 /intro/
 [D]  [G] [D]
 /Coro/

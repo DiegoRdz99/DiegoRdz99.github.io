@@ -1,7 +1,7 @@
-Piedad Oh Señor Ι
-Misa - Piedad
-G
--
+title : Piedad Oh Señor Ι
+key : G
+liturgy : Ordinario
+{song}
 /Coro/
 {Oh Se[G]ñor []|Oh Señor []ten pie[Em]dad []|ten piedad
 De no[C]sotros, ten pie[D]dad

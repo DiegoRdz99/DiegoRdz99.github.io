@@ -1,5 +1,5 @@
 title : Santo
-subtitle : Niños
+subtitle : Niños - Santo
 key : C
 liturgy : Ordinario
 {song}

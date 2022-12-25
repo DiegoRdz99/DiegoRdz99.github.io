@@ -1,7 +1,9 @@
-Un Dios Débil
-Viacrucis - Estación IV
-C
-Hakuna Group Music
+title : Un Dios Débil
+subtitle : Viacrucis - Estación IV
+key : C
+composer : Hakuna Group Music
+liturgy : Semana Santa
+{song}
 /verse/
 [C]    Esto sí que lo entiendo, ¡y cómo me g[F]usta!
 Ver "un Dios d[C]ébil", niño desnudo en tus br[F]azos.

@@ -1,7 +1,7 @@
-Hazme Creer
-Misa - Comunión
-A
--
+title : Hazme Creer
+key : A
+liturgy : Ordinario
+{song}
 /verse/
 [A]Hazme creer, hoy nece[D]sito yo de [E]Ti
 [A]Quiero confiar en que [D]todo, bien va a sa[E]lir

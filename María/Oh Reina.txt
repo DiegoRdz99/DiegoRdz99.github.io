@@ -1,7 +1,7 @@
-Oh Reina
-María
-Jésed
-G
+title : Oh Reina
+composer : Jésed
+key : G
+{song}
 /Coro/
 [G]Oh oh oh oh [D]oh
 Oh [C]reina, madre de [D]Dios

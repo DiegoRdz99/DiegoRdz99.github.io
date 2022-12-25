@@ -1,7 +1,8 @@
-Recibe Señor
-Misa - Ofertorio (Cuaresma)
-D
-Jésed
+title : Recibe Señor
+liturgy : Cuaresma
+key : D
+composer : Jésed
+{song}
 /intro/
 [D]  [C]  [G]  [A]
 /verse/

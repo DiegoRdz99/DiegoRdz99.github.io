@@ -1,7 +1,7 @@
-Fue Levantado
-Misa - Entrada
-E
--
+title : Fue Levantado
+key : E
+liturgy : Domingo de Resurrección
+{song}
 /verse/
 {Resuci[Am]tó[]|Resucitó[]Resucitó[]|Resucitó
 Y los [C]cielos se llenan de [G]gozo

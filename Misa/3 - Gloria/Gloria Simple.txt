@@ -1,7 +1,7 @@
-Gloria Simple
-Misa - Gloria
-G
--
+title : Gloria Simple
+key : G
+liturgy : Ordinario
+{song}
 /Coro/
 [G] Gloria a Dios en [Bm]cielo
 [C] Y en la Tierra [D]paz a los hombres

@@ -1,7 +1,7 @@
-Cordero I
-Misa - Cordero
-Em
--
+title : Cordero I
+key : Em
+liturgy : Ordinario
+{song}
 /intro/
 [Em]  [Em11] [Em]  [Em11] [Em]
 /verse/

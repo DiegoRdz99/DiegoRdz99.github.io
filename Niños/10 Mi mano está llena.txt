@@ -1,7 +1,8 @@
-Mi mano está llena
-Niños
-E
--
+title : Mi mano está llena
+subtitle : Niños - Comunión
+key : E
+liturgy : Ordinario
+{song}
 /intro/
 [E]  [B]  [B7]  [E]
 /verse/

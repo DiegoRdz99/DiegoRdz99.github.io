@@ -1,7 +1,7 @@
-Esto que te doy
-Misa - Ofertorio
--
-D
+title : Esto que te doy
+key : D
+liturgy : Ordinario
+{song}
 /verse/
 [D] Esto que te [F#m]soy
 Es [G]vino y pan Se[A]ñor

@@ -1,7 +1,6 @@
-Entraré
-Hora Santa - Recibir Santísimo
-G
--
+title : Entraré
+key : G
+{song}
 /verso/
 Entra[G]ré, entra[Em]ré, entra[C]ré a [Am]su pre[D]sencia
 En liber[G]tad, por su a[Em]mor, el Es[C]píri[Am]tu me ll[D]eva

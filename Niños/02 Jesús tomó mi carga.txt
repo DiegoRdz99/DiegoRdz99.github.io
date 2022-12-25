@@ -1,7 +1,8 @@
-Jesús tomó mi carga
-Niños
-A
--
+title : Jesús tomó mi carga
+subtitle : Niños - Piedad
+key : A
+liturgy : Ordinario
+{song}
 /intro/
 [D]    [A]  [E7]  [A]
 /Coro/

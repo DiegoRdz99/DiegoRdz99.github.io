@@ -1,7 +1,7 @@
-Qué Alegría
-Misa - Entrada
-D
--
+title : Qué Alegría
+key : D
+liturgy : Ordinario
+{song}
 /intro/
 [D] [A] [G] [A] [D] [A] [G] [A]
 /verse/

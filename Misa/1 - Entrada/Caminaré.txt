@@ -1,6 +1,7 @@
-Caminaré
-Misa - Entrada
--
+title : Caminaré
+liturgy : Difuntos
+{song}
+/intro/
 Em
 /Coro/
 [Em]Camina[Am]ré

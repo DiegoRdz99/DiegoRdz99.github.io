@@ -1,7 +1,7 @@
-Ven Libertador
-Misa - Entrada (Adviento)
-C
--
+title : Ven Libertador
+key : C
+liturgy : Adviento
+{song}
 /verse/
 [C] Que nuestras [F]manos fati[C]gadas  [Bb] [F]
 [C] Pronto se han [F]de fortale[G]cer

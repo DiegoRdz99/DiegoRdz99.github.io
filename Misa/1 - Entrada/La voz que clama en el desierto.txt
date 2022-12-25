@@ -1,7 +1,8 @@
-La voz que clama en el desierto
-Misa - Entrada
-G
-Jésed
+title : La voz que clama en el desierto
+composer : Jésed
+key : G
+liturgy : Adviento
+{song}
 /verse/
 La [G]voz del que [C]clama en el de[G]sierto
 [C]  ¡Abrid ca[Am]mino al Se[D]ñor!

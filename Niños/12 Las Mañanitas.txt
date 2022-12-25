@@ -1,7 +1,8 @@
-Las Mañanitas
-Niños
--
-F
+title : Las Mañanitas
+subtitle : Niños - Mañanitas
+key : F
+liturgy : Ordinario
+{song}
 /intro/
 [C7]  [Bb]  [F]  [C7]  [F]
 /verse/

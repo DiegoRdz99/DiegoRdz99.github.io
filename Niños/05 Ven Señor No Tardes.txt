@@ -1,7 +1,8 @@
-Ven Señor No Tardes
-Niños
-E
--
+title : Ven Señor No Tardes
+subtitle : Niños - Encendido de Vela
+key : E
+liturgy : Adviento
+{song}
 /intro/
 [E]    [B7]  [E] [A] [B7]
 /Coro/

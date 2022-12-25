@@ -1,7 +1,7 @@
-Santo I
-Misa - Santo
-G
--
+title : Santo I
+key : G
+liturgy : Ordinario
+{song}
 /verse/
 [G]Santo, [D]santo, [C]santo es el Se[D]ñor
 [G]Santo, [D]santo, [C]santo es el Se[D]ñor

@@ -1,7 +1,7 @@
-Aleluya PP
-Aleluya
-G
--
+title : Aleluya Padre Pako
+key : G
+liturgy : Ordinario
+{song}
 /intro/
 [C]  [D]  [G]
 /verse/

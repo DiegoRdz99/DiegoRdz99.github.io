@@ -1,7 +1,7 @@
-Agua de Vida
-Hora Santa - Perdón y Reconciliación
-C
-Jésed
+title : Agua de Vida
+key : C
+composer : Jésed
+{song}
 /intro/
 [C] [Em7] [Am7] [G] [F] [Dm7] [Gadd11] [G]
 /verse/

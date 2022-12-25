@@ -1,7 +1,7 @@
-El Mail
-Alabanzas
-G
-Santiago Benavides
+title : El Mail
+key : G
+composer : Santiago Benavides
+{song}
 /verse/
 [G]  Me pregunto y te pre[B7]gunto
 Todo el [Em]tiempo mi Se[Dm]ñor

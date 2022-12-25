@@ -1,7 +1,8 @@
-Gloria Jésed
-Misa - Gloria
-A
-Jésed
+title : Gloria Jésed
+key : A
+composer : Jésed
+liturgy : Ordinario
+{song}
 /Coro/
 {[A]Gloria [G]a Dios en el [A]cielo|Gloria [G]|a Dios en el
 {[A]Y en la |cielo[G]tierra a los hombres

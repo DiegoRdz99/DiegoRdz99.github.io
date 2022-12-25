@@ -1,7 +1,7 @@
-Honor y Gloria I
-Aleluya (Cuaresma)
-D
--
+title : Honor y Gloria I
+key : D
+liturgy : Cuaresma
+{song}
 /verse/
 Ho[D]nor y [A]Gloria a [Bm]Ti Se[F#m]ñor Je[G]sús, Se[A]ñor Je[D]sús
 Ho[D]nor y [A]Gloria a [Bm]Ti Se[F#m]ñor Je[G]sús, Se[A]ñor Je[D]sús

@@ -1,7 +1,6 @@
-Yo no soy nada
-Hora Santa - Vocacionales
-A
--
+title : Yo no soy nada
+key : A
+{song}
 /intro/
 [A]  [D]  [A]  [D]
 /verse/

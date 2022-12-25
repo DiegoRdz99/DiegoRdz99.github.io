@@ -1,7 +1,7 @@
-Dulce Madre
-María
-C
-Athenas
+title : Dulce Madre
+key : C
+composer : Athenas
+{song}
 /intro/
 [C]  [F]  [C]  [F]
 [C]  [F]  [C]  [F]

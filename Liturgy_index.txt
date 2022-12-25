@@ -1,0 +1,21 @@
+Green:
+- Ordinario
+
+Purple:
+- Adviento
+- Cuaresma
+- 
+
+White/Gold:
+- Pascua
+- Navidad
+- Domingo de Resurrección
+
+Red:
+- Viernes Santo
+
+Black:
+- Difuntos
+
+Blue:
+- Vírgen de Guadalupe

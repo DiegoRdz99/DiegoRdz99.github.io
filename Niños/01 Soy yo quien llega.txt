@@ -1,7 +1,8 @@
-Soy yo quien llega
-Niños
-C
--
+title : Soy yo quien llega
+subtitle : Niños - Entrada
+key : C
+liturgy : Ordinario
+{song}
 /intro/
 [F] [C] [G] [C] [F] [C] [G] [C]
 /Coro/

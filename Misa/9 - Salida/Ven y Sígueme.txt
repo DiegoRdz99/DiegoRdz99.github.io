@@ -1,7 +1,8 @@
-Ven y Sígueme
-Misa - Salida
-G
-Jésed
+title : Ven y Sígueme
+key : G
+composer : Jésed
+liturgy : Ordinario
+{song}
 /Coro/
 ¡Ven y sígue[G]me, no [D]mires atrá[Em]s!
 Que de[C]lante está el r[G]eino:

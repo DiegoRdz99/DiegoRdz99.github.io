@@ -1,7 +1,8 @@
-El Retorno del Señor
-Misa - Comunión
-D
-Jésed
+title : El Retorno del Señor
+key : D
+composer : Jésed
+liturgy : Adviento
+{song}
 /verse/
 [D] El la aur[A]ora de [G]tu amane[A]cer
 [D] Brila[A]rás, como [G]sol resplande[A]ciente

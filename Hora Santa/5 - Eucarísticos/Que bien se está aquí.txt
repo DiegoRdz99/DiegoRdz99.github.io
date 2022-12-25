@@ -1,7 +1,7 @@
-Que bien se está aquí
-Hora Santa - Eucarísticos
-A
-Athenas
+title : Que bien se está aquí
+key : A
+composer : Athenas
+{song}
 /intro/
 [A]  [Asus2]
 /verse/

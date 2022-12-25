@@ -1,7 +1,7 @@
-Un Mundo Hizo Dios
-Adicionales
-D
-Jésed
+title : Un Mundo Hizo Dios
+key : D
+composer : Jésed
+{song}
 /intro/
 [D]  [Em]  [D]  [Em]
 /verso/

@@ -1,7 +1,8 @@
-Piedad Cristeros
-Misa - Piedad
-Dm
-Coro Cristeros SJB
+title : Piedad Cristeros
+key : Dm
+composer : Coro Cristeros SJB
+liturgy : Ordinario
+{song}
 /Coro/
 Se[Dm]ñor pie[Bb]dad, ten pie[A7]dad  [Bb] [A7]
 Se[Dm]ñor pie[Bb]dad, ten pie[A7]dad  [Bb] [A7]

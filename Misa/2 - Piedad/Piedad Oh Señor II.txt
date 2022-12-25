@@ -1,7 +1,7 @@
-Piedad Oh Señor II
-Misa - Piedad
-D
--
+title : Piedad Oh Señor II
+key : D
+liturgy : Ordinario
+{song}
 /Coro/
 {[D] Oh Se[D#°7]ñor ten pie[Em]dad  [Em^7]|ten pie[A]|dad
 Ten pie[A7]dad de no[D]so[D^9]tros

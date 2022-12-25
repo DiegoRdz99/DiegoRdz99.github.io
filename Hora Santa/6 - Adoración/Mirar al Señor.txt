@@ -1,7 +1,7 @@
-Mirar al Señor
-Hora Santa - Adoración
-A
-Jésed
+title : Mirar al Señor
+key : A
+composer : Jésed
+{song}
 /verse/
 Des[E]pués de comul[G#m]gar es el mo[C#m]mento
 Ha[A]biendo reci[F#m]bido a mi Se[B]ñor

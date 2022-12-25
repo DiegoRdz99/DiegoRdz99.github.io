@@ -1,7 +1,8 @@
-Hoy te presentamos
-Niños
-E
--
+title : Hoy te presentamos
+subtitle : Niños - Ofertorio
+key : E
+liturgy : Ordinario
+{song}
 /intro/
 [A]  [B]  [E]  [C#m]  [A]  [B]  [E]
 /verse/

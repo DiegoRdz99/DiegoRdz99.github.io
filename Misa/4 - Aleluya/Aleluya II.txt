@@ -1,0 +1,8 @@
+title : Aleluya II
+key : E
+liturgy : Ordinario
+{song}
+/verse/
+[E]Aleluya
+[Am]Aleluya
+Ale[C]lu-[D]u-[E]ya

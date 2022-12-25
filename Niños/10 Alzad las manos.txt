@@ -1,7 +1,8 @@
-Alzad las Manos
-Niños
-C
--
+title : Alzad las Manos
+subtitle : Niños - Comunión
+key : C
+liturgy : Ordinario
+{song}
 /intro/
 [C]  [F] [C]
 [C]  [F] [C] [Am]    [G]  [C]

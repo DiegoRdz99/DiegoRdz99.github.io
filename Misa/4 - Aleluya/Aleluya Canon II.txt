@@ -1,7 +1,7 @@
-Aleluya Canon ΙI
-Aleluya
-D
--
+title : Aleluya Canon ΙI
+key : D
+liturgy : Ordinario
+{song}
 /verse/
 [D]Alelu[A]ya, ale[Bm]lu- alelu[F#m]
 [G]A-lelu[D]ya, ale[A]lu-[A7]ya

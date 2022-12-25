@@ -1,7 +1,6 @@
-Gloria al Rey
-Hora Santa - Despedir Santísimo
-G
--
+title : Gloria al Rey
+key : G
+{song}
 /verse/
 [G]Gloria al Rey, [C] Rey santo y [G]justo
 [C]Gloria al Ma[G]estro, [C]en su trono en [D]Sión

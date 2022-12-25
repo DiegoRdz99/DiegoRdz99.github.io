@@ -1,7 +1,8 @@
-Honor y Gloria II
-Aleluya (Cuaresma)
-D
-Jésed
+title : Honor y Gloria II
+key : D
+composer : Jésed
+liturgy : Cuaresma
+{song}
 /intro/
 [A]  [Asus4]  [A]
 /verse/

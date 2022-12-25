@@ -1,7 +1,7 @@
-Ave María Blues
-María
-Martín Valverde
-G
+title : Ave María Blues
+composer : Martín Valverde
+key : G
+{song}
 /intro/
 [G]  [Am]  [F]  [G]
 [Em7]  [Am]  [F]  [C]

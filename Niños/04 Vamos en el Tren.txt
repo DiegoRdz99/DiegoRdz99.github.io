@@ -1,7 +1,8 @@
-Vamos en el Tren
-Niños
-E
--
+title : Vamos en el Tren
+subtitle : Niños - Aleluya
+key : E
+liturgy : Ordinario
+{song}
 /intro/
 [E]  [A] [B] [E]    [A] [B] [E]
 /Coro/

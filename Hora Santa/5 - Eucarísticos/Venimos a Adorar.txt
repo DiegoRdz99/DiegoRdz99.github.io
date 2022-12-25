@@ -1,7 +1,6 @@
-Venimos a Adorar
-Hora Santa - Eucarísticos
-D
--
+title : Venimos a Adorar
+key : D
+{song}
 /verse/
 [D]  El [Dsus2]Rey del uni[Em]ver-[Em^7]so
 [A]  Y Se[Asus4]ñor de la crea-[D]ación [D^7]

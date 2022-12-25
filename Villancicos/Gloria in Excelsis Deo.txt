@@ -1,7 +1,6 @@
-Gloria in Excelsis Deo
-Villancicos
-E
--
+title : Gloria in Excelsis Deo
+liturgy : Navidad
+key : E
 {song}
 /Coro/
 [E]Glo-[E7]o-[A]o-[Am]o-[E]o-[C#m]o-[F#m]ori-[B7]a

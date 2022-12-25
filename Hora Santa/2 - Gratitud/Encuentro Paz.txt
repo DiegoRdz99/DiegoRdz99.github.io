@@ -1,7 +1,7 @@
-Encuentro Paz
-Hora Santa - Gratitud
-A
-Jésed
+title : Encuentro Paz
+key : A
+composer : Jésed
+{song}
 /verso/
 [A] Encuentro paz, [E] en el Señor
 [F#m] De Él viene mi salvaci[D]ón

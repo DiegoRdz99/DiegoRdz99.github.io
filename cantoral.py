@@ -284,17 +284,26 @@ class locutor:
 
 parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro,'bridge':bridge,'locutor':locutor}
 
+def subtitle_from_folder(folder):
+    mid = folder.split('/')
+    try:
+        mid[1] = mid[1][4:]
+    except:
+        pass
+    return ' - '.join(mid)
+
 class song:
-    def __init__(self,file_name,backsteps):
+    def __init__(self,file_name,backsteps,folder=''):
         self.raw = open(file_name,'r',encoding='utf-8').read()
-        spt = self.raw.split('\n')
-        # meta = self.raw.split('{song}')[0].split('\n')[:-1]
-        # for entry in meta:
-            # self.__dict__[entry.split(' : ')[0]] = entry.split(' : ')[1]
-        self.title = spt[0]
-        self.subtitle = spt[1]
-        self.key = spt[2]
-        self.composer = spt[3]
+        # spt = self.raw.split('\n')
+        meta = self.raw.split('{song}')[0].split('\n')[:-1]
+        # print(file_name)
+        for entry in meta:
+            self.__dict__[entry.split(' : ')[0]] = entry.split(' : ')[1]
+        # self.title = spt[0]
+        # self.subtitle = spt[1]
+        # self.key = spt[2]
+        # self.composer = spt[3]
         self.parts = self.raw.split('/')
         self.groups = [(self.parts[2*i-1],self.parts[2*i]) for i in range(1,ceil(len(self.parts)/2))]
         self.teile = [parts[group[0]](group[1]) for group in self.groups]
@@ -307,13 +316,15 @@ class song:
                 teil.include_coro(self.Coro)
             except:
                 pass
-        
-        metadata = f'''
-        <h1>{self.title}</h1>
-        <h2>{self.composer}</h2>
-        <h2>{self.subtitle}</h2>
-        <h2>Clave: {self.key}</h2>
-        '''
+        try:
+            self.subtitle
+        except:
+            self.subtitle = subtitle_from_folder(folder)
+        print('\n\n')
+        print([key for key in self.__dict__.keys()])
+        print('\n\n')
+        # metadata = f'<h1>{self.title}</h1>{"".join([f"<h2>{self.__dict__[key]}</h2>" for key in list(self.__dict__.keys())[1:]])}'
+        metadata = f'<h1>{self.title}</h1>'
         html_constants = constants(backsteps,title=self.title)
         self.html_preamble = html_constants.header + html_constants.navbar + metadata
         self.html_footer = html_constants.html_footer
@@ -326,7 +337,7 @@ def create_html(file_path):
     file_name = file_path.split('/')[-1][:-4]
     name_ext = '/'.join(file_path.split('/')[:-1])
     newfile = open(f'{name_ext}/{file_name}.html','w',encoding='utf-8')
-    newfile.write(song(file_path,backsteps).to_html(backsteps))
+    newfile.write(song(file_path,backsteps,file_path).to_html(backsteps))
     newfile.close()
 
 def create_index(folder_path):

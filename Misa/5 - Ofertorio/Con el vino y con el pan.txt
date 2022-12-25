@@ -1,7 +1,7 @@
-Con el vino y con el pan
-Misa - Ofertorio
-Bm
--
+title : Con el vino y con el pan
+key : Bm
+liturgy : Ordinario
+{song}
 /intro/
 [Bm]  [Asus2]  [Bm]  [Asus2]
 /verse/

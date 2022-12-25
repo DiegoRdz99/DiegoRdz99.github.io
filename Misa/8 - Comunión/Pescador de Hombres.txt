@@ -1,7 +1,7 @@
-Pescador de Hombres
-Misa - Comunión
--
-C
+title : Pescador de Hombres
+key : C
+liturgy : Difuntos
+{song}
 /intro/
 [C]  [Gadd11]  [Fadd9]  [Gadd11]
 /verse/

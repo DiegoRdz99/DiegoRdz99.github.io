@@ -1,7 +1,8 @@
-Acécrate
-Misa - Entrada
-E
-Jésed
+title : Acécrate
+key : E
+composer : Jésed
+liturgy : Ordinario
+{song}
 /Coro/
 A[E]cércate y toma tu lugar en la
 {[D]fiesta|Toma tu lugar en la [A]|fiesta

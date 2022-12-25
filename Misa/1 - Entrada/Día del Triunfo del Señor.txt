@@ -1,7 +1,7 @@
-Día del Triunfo del Señor
-Misa - Entrada (Pascua)
-E
--
+title : Día del Triunfo del Señor
+key : E
+liturgy : Pascua
+{song}
 /Coro/
 [E]Este es el [C#m]día del [A]triunfo del Se[B7]ñor
 Ale[A]lu[B7]ya, ale[G#m]lu[C#m]ya

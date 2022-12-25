@@ -1,7 +1,7 @@
-Santo Solemne
-Misa - Santo
-Bm
--
+title : Santo Solemne
+key : Bm
+liturgy : Ordinario
+{song}
 /intro/
 [Bm] 
 /verso/

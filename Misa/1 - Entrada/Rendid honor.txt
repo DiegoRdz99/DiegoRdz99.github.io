@@ -1,7 +1,7 @@
-Rendid honor
-Misa - Entrada
-G
--
+title : Rendid honor
+key : G
+liturgy : Ordinario
+{song}
 /intro/
 [G]  [D]  [Em]  [C]
 /Coro/

@@ -1,7 +1,6 @@
-Te Buscaré
-Hora Santa - Vocacionales
-C
--
+title : Te Buscaré
+key : C
+{song}
 /intro/
 [Em]  [Am]  [Em]  [Am]  [F]  [G]
 /verse/

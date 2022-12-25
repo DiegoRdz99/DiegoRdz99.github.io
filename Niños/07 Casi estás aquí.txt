@@ -1,7 +1,8 @@
-Casi estás aquí
-Niños
-C
--
+title : Casi estás aquí
+subtitle : Niños - Consagración
+key : C
+liturgy : Ordinario
+{song}
 /intro/
 [C]  [F]  [F] [C] [G] [C]
 /verse/

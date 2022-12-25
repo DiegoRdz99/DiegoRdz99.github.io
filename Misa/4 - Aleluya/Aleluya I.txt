@@ -1,7 +1,7 @@
-Aleluya I
-Aleluya
-D
--
+title : Aleluya I
+key : D
+liturgy : Ordinario
+{song}
 /verse/
 [D]A-le[F#m]luya
 {[G]  Alelu[A]ya-a al Se[D]ñor|A-le[F#m]|luya

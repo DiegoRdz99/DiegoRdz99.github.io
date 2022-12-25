@@ -1,7 +1,7 @@
-Gloria Solemne
-Gloria
-Em
--
+title : Gloria Solemne
+key : Em
+liturgy : Ordinario
+{song}
 /intro/
 [Em]
 /Coro/

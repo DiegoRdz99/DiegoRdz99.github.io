@@ -1,7 +1,7 @@
-Aleluya Canon Ι
-Aleluya
-D
--
+title : Aleluya Canon Ι
+key : D
+liturgy : Ordinario
+{song}
 /intro/
 [D] [Dsus4]  [D] [Dsus2]
 [D] [Dsus4]  [D] [Dsus2]

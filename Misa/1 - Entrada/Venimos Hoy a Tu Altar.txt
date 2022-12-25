@@ -1,7 +1,7 @@
-Venimos Hoy a Tu Altar
-Misa - Entrada
-G
--
+title : Venimos Hoy a Tu Altar
+key : G
+liturgy : Ordinario
+{song}
 /Coro/
 Ve[G]nimos hoy a tu al[Bm]tar, a can[C]tarte Se[D]ñor
 Pues [C]Tú eres la ale[G]gría, [D]de nuestro cora[G]zón [G7]
