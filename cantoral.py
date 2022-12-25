@@ -50,7 +50,8 @@ class constants:
                     </div>
                 </div>
             </nav>
-            <body class="p-4 content">
+            <body class="p-4 content pt-5">
+            <br>
             '''
 
         self.header = f'''
@@ -307,20 +308,14 @@ class song:
             except:
                 pass
         
-        title_table = f'''
-        <table class="main" border=0px width="100%">
-            <col style="width:25%"><col style="width:30%">
-            <col style="width:20%"><col style="width:20%">
-            <tr>
-                <th colspan="3"><h1>{self.title}</h1></th>
-            </tr>
-            <tr>
-                <th><h2>{self.composer}</h2></th><th><h2>{self.subtitle}</h2></th><th><h2>Clave: {self.key}</h2></th>
-            </tr>
-        </table>
+        metadata = f'''
+        <h1>{self.title}</h1>
+        <h2>{self.composer}</h2>
+        <h2>{self.subtitle}</h2>
+        <h2>Clave: {self.key}</h2>
         '''
         html_constants = constants(backsteps,title=self.title)
-        self.html_preamble = html_constants.header + html_constants.navbar + title_table
+        self.html_preamble = html_constants.header + html_constants.navbar + metadata
         self.html_footer = html_constants.html_footer
     def to_html(self,backsteps):
         html = '\n'.join([teil.to_html(backsteps) for teil in self.teile])
