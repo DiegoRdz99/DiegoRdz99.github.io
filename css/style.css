@@ -4,7 +4,16 @@ html * {
 	/* color: #2020131; */
 	/* font-family: Nunito, sans-serif; */
 	font-family: Nunito, sans-serif;
-  }
+}
+
+.dark-mode {
+	background-color: #282c34;
+	color: #abb2bf;
+}
+
+.dark-chord {
+	color: #98c379;
+}
 
 /* Style for Header */
 .main {
@@ -47,54 +56,24 @@ html * {
 	color: #999;
 }
 
-/* .b_true {
-	background-color: #999;
-	color: #fff;
-}
-
-.b_false {
-	background-color: inherit;
-	color: inherit;
-} */
-
-
-/* Navbar (Removed to use the Bootstrap Navbar) */
-
-/* .navbar {
-	overflow: hidden;
-	background-color: #333;
-	position: fixed;
-	top: 0;
-	width: 100%;
-}
-
-.navbar a {
-	float: left;
-	font-size: 16px;
-	color: white;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-} */
-
 
 /* Style for chords */
 
 
 .chord {
 	font-weight: 700;
-	/* color:#92D005; */
 	color: #707070;
 	padding-right: 1ex;
 }
 
-/* .chordline {
+.chord.dark-chord {
+	color: #61afef;
 }
-.lyricsline {
-} */
+
 .second_voice {
 	color: #505050;
 }
+
 A.chordlink {
 	text-decoration: none;
 }
@@ -103,16 +82,6 @@ A.chordlink:hover {
 	text-decoration: underline;
 }
 
-/* .header.chorus {
-	display: block;
-	font-size: 20px;
-	font-weight: 750;
-	color: #eee;
-	background-color: black;
-	border-radius: 10px;
-	box-shadow: 0 0 10px #333;
-	padding: 0 .5em;
-} */
 
 .comment {
 	display: block;
@@ -172,15 +141,14 @@ A.chordlink:hover {
 	padding: 0 .5em;
 }
 
-.chorus {
+/* .chorus {
 	border-left: solid;
 	display: block;
-	/* width: 100%; */
 	background-color: #D0D0D0;
 	border-radius: 10px;
 	box-shadow: 0 0 10px #aaa;
 	padding-left: 3ex;
-}
+} */
 
 /* Hovering */
 
@@ -195,7 +163,7 @@ gewhñaehgoj́ep
 gejgaejó
 */
 .quality {
-	margin-left:-5px;
+	margin-left: -5px;
 }
 
 .chord .diagram {
@@ -257,13 +225,18 @@ ul {
 	color: #222;
 }
 
-.verse {
-	margin-left:10px;
-}
 
 .locutor {
 	color: rgb(158, 157, 157);
-	margin-left:10px;
+	margin-left: 10px;
+}
+
+.toolbar { 
+	opacity: 0.4;
+}
+
+.toolbar:hover {
+	opacity: 1;
 }
 
 @media only screen and (max-width: 968px) {
@@ -271,7 +244,7 @@ ul {
 	/* For mobile phones: */
 	.control_bar {
 		width: 70%;
-		margin:auto;
+		margin: auto;
 	}
 
 	.icon {
@@ -282,15 +255,20 @@ ul {
 
 /* Custom Scrollbar */
 body::-webkit-scrollbar {
-	width: 12px;               /* width of the entire scrollbar */
-  }
-  
-  body::-webkit-scrollbar-track {
-	background: rgb(255, 255, 255);        /* color of the tracking area */
-  }
-  
-  body::-webkit-scrollbar-thumb {
-	background-color: rgb(108, 108, 109);    /* color of the scroll thumb */
-	border-radius: 50px;       /* roundness of the scroll thumb */
-	border: 3px solid rgb(255, 255, 255);  /* creates padding around scroll thumb */
-  }
+	width: 12px;
+	/* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+	background: rgb(255, 255, 255);
+	/* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+	background-color: rgb(108, 108, 109);
+	/* color of the scroll thumb */
+	border-radius: 50px;
+	/* roundness of the scroll thumb */
+	border: 3px solid rgb(255, 255, 255);
+	/* creates padding around scroll thumb */
+}

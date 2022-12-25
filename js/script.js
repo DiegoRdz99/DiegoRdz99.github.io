@@ -95,3 +95,32 @@ function ft_sp(){
         }
     }
 }
+
+
+
+function autoScroll() {
+    window.scrollBy(0, 1);
+}
+let scroll = true;
+function startInverval() {
+    if (scroll == true) {
+        scrolldelay = setInterval(autoScroll, 100);
+    }
+    else {
+        clearInterval(scrolldelay);
+    }
+    scroll = scroll !== true;
+}
+
+function toggleDark() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+    var tds = document.getElementsByClassName("lyricsline")
+    for (let i = 0; i<tds.length; i++) {
+        tds[i].classList.toggle("dark-mode");
+    }
+    var tds = document.getElementsByClassName("chord")
+    for (let i = 0; i<tds.length; i++) {
+        tds[i].classList.toggle("dark-chord");
+    }
+}
