@@ -246,7 +246,6 @@ ul {
 	/* For mobile phones: */
 	.toolbar {
 		width: 80%;
-		max-width: 500px;
 	}
 
 	.icon {
@@ -255,8 +254,6 @@ ul {
 
 	.super {
 		font-size: 14px;
-		vertical-align: super;
-		color: #999;
 	}
 
 }
