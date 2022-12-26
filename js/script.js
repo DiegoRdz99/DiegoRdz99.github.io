@@ -135,4 +135,8 @@ function toggleDark() {
     for (let i = 0; i<tds.length; i++) {
         tds[i].classList.toggle("dark-chord");
     }
+    var tds = document.getElementsByClassName("second_voice")
+    for (let i = 0; i<tds.length; i++) {
+        tds[i].classList.toggle("dark-2line");
+    }
 }

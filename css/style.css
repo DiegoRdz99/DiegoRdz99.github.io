@@ -12,10 +12,9 @@ html * {
 	color: #abb2bf;
 }
 
-.dark-chord {
+.second_voice.dark-2line {
 	color: #98c379;
 }
-
 /* Style for Header */
 .main {
 	margin-top: 60px;

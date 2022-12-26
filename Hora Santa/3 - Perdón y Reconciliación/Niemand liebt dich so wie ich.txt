@@ -1,0 +1,5 @@
+title : Niemand liebt dich so wie ich
+key : C
+composer : Martín Valverde
+{song}
+Wie lang hab ich auf dich gewartet
