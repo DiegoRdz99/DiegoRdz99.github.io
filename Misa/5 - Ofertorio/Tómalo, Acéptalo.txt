@@ -1,0 +1,22 @@
+title : Tómalo, Acéptalo
+liturgy : Ordinario
+key : D
+{song}
+/verse/
+[D]Hoy Se[A]ñor, [G] venimos [A]a ofrecerte
+[D]Este humilde [A]pan
+[G] Que es fruto [A]del trabajo [D]de la humani[A]dad
+[G] Y es signo [A]de fraterni[D]dad, [A]
+[G] Fe, espe[A]ranza y cari[D]dad  [D7]
+/Coro/
+[G] Tóma[A]lo, [F#m] acépta[Bm]lo
+[G] Por am[A]or transfórma[D]lo [D7]
+[G] En el [A]cuerpo [F#m]de Je[Bm]sús
+[G] Bendito s[A]eas Se[D]ñor
+/verse/
+[D]Hoy Se[A]ñor, [G] venimos [A]a ofrecerte
+El [D]vino que nos [A]das
+[G] Para que s[A]ea llevado [D]a tu santo al[A]tar
+[G] Y es signo [A]de fraterni[D]dad, [A]
+[G] Fe, espe[A]ranza y cari[D]dad  [D7]
+/coro/

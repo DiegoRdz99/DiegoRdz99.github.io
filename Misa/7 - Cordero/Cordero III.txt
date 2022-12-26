@@ -1,0 +1,16 @@
+title : Cordero III
+key : Em
+liturgy : Ordinario
+{song}
+/intro/
+[Em]
+/verse/
+[Em]Cordero, cordero
+Que [D]quits el pe[Em]cado
+Del [D]mundo ten pie[Em]dad
+[Em]Cordero, cordero
+Que [D]quits el pe[Em]cado
+Del [D]mundo ten pie[Em]dad
+[Em]Cordero, cordero
+[D]Danos la [Em]paz
+[D]Danos la [Em]paz

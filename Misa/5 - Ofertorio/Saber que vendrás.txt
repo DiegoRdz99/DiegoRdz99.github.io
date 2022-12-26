@@ -1,0 +1,24 @@
+title : Saber que vendrás
+key : D
+liturgy : Ordinario
+{song}
+/verse/
+[D]En este m[G]undo que [F#m]Cristo nos [Bm]da
+Ha[D]cemos la ofr[G]enda del [A]pan
+[D]El pan de nu[G]estro tra[F#m]bajo sin [Bm]fin
+Y el [D]vino de nu[G]estro can[A]tar
+[D]Traigo ante [G]ti nuestra [F#m]justa inquie[Bm]tud:
+Am[D]ar la jus[G]ticia y la [A]paz
+/Coro/
+Sa[G]ber que ven[A]drás, sa[F#m]ber que esta[Bm]rás
+Par[G]tiendo a los [A]pobres tu [D]pan  [D7]
+Sa[G]ber que ven[A]drás, sa[F#m]ber que esta[Bm]rás
+Par[G]tiendo a los [A]pobres tu [D]pan  [D7]
+/verse/
+[D]La sed de [G]todos los [F#m]hombres sin [Bm]luz
+La [D]pena y el [G]triste llo[A]rar
+[D]El odio [G]de los que mu[F#m]eren sin [Bm]fe
+Can[D]sados de [G]tanto luc[A]har
+[D]En la pa[G]tena de n[F#m]uestra obla[Bm]ción:
+A[D]cepta la [G]vida Se[A]ñor
+/coro/

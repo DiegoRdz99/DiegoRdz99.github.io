@@ -1,0 +1,17 @@
+title : Cordero IV
+liturgy : Ordinario
+key : D
+{song}
+/intro/
+[D]
+/verse/
+[D] Cordero de [F#m]Dio-o-[G]os
+Que quitas el pe[A]cado del [D]mundo  [F#m]
+[G] Ten piedad de no[A]sotros
+[D] Cordero de [F#m]Dio-o-[G]os
+Que quitas el pe[A]cado del [D]mundo  [F#m]
+[G] Ten piedad de no[A]sotros
+[D] Cordero de [F#m]Dio-o-[G]os
+Que quitas el pe[A]cado del [D]mundo  [Am]  [D7]
+[G] Danos la [A]paz, [F#m] danos la [Bm]paz
+[G]Da-a-[A]nos, la [D]pa-[G]a-[D]az

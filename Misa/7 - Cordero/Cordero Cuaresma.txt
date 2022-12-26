@@ -1,0 +1,18 @@
+title : Cordero Cuaresma
+key : G
+composer : Jésed
+liturgy : Cuaresma
+{song}
+/intro/
+[G]  [C] [D]
+/verse/
+[G]Co-or[D]dero de Di[Bm]os
+Tú que [C]quitas el pe[D]cado del [G]mundo
+Ten pie[B7]dad de no[Em]sotros  [C] [D]
+[G]Co-or[D]dero de Di[Bm]os
+Tú que [C]quitas el pe[D]cado del [G]mundo
+Ten pie[B7]dad de no[Em]sotros  [C] [D]
+[C]Co-or[D]dero de [Em]Dios
+[C]Da-[D]danos la [G]paz [Em]
+[C]Da-[D]danos la [Em]paz
+[C]Da-[F#°7]danos la [G]paz

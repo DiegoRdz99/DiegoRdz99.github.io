@@ -302,10 +302,6 @@ class song:
         # print(file_name)
         for entry in meta:
             self.meta[entry.split(' : ')[0]] = entry.split(' : ')[1]
-        # self.title = spt[0]
-        # self.subtitle = spt[1]
-        # self.key = spt[2]
-        # self.composer = spt[3]
         self.parts = self.raw.split('/')
         self.groups = [(self.parts[2*i-1],self.parts[2*i]) for i in range(1,ceil(len(self.parts)/2))]
         self.teile = [parts[group[0]](group[1]) for group in self.groups]
@@ -322,7 +318,7 @@ class song:
             self.meta['subtitle']
         except:
             self.meta['subtitle'] = subtitle_from_folder(folder)
-        print(folder)
+        # print(f'{folder}/{file_name}') # For debugging
         metadata = f'<h1>{self.meta["title"]}</h1><h2>{self.meta["subtitle"]}</h2>'
         try:
             metadata += "".join([f"<h2>{value}</h2>" for value in list(self.meta.values())[1:-1]])
@@ -352,7 +348,7 @@ def create_index(folder_path):
     head = html_constants.header
     preamble = head + html_constants.navbar.replace(f'">{folder_name}',f' active">{folder_name}') + f'''
     <div class="container-fluid">
-      <p class="text-center fs-1 fw-bolder pt-5">{folder_name}</p>
+      <p class="text-center fs-1 fw-bolder pt-2">{folder_name}</p>
     </div>
     '''
     dirs = sorted(os.listdir(folder_path))
@@ -480,7 +476,7 @@ if __name__=='__main__':
         html_constants = constants(backsteps)
         preamble = head + html_constants.navbar + f'''
         <div class="container-fluid">
-        <p class="text-center fs-1 fw-bolder pt-5">Índice General</p>
+        <p class="text-center fs-1 fw-bolder pt-2">Índice General</p>
         </div>
         <div class="list-group">
     '''
