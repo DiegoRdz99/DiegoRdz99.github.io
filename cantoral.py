@@ -77,8 +77,12 @@ class constants:
             <button type="button" class="btn btn-dark" onclick="toggleDark()" id="dark-toggle"><span class="icon">&#9788;</span></button>
             <button type="button" class="btn btn-dark" onclick="ft_sp()" id="b_but"><span class="icon">&flat;</span></button>
         </div>
+        <script src="{backsteps}js/abcweb-1.js"></script>
+        <script src="{backsteps}js/abc2svg-1.js"></script>
+        <script src="{backsteps}js/snd-1.js"></script>
         <script src="{backsteps}js/script.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+        <style>svg {{display: block}}</style>
         </body>
         </html>
         '''
@@ -294,7 +298,7 @@ def subtitle_from_folder(folder):
     return ' - '.join(mid)
 
 class song:
-    def __init__(self,file_name,backsteps,folder=''):
+    def __init__(self,file_name,backsteps,folder='',abc_sheet=None):
         self.raw = open(file_name,'r',encoding='utf-8').read()
         # spt = self.raw.split('\n')
         meta = self.raw.split('{song}')[0].split('\n')[:-1]
@@ -318,6 +322,14 @@ class song:
             self.meta['subtitle']
         except:
             self.meta['subtitle'] = subtitle_from_folder(folder)
+        if abc_sheet:
+            abc_sheet = f'''
+            <script type="text/vnd.abc">
+            {abc_sheet}
+            </script>
+            '''
+        else:
+            abc_sheet = ''
         # print(f'{folder}/{file_name}') # For debugging
         metadata = f'<h1>{self.meta["title"]}</h1><h2>{self.meta["subtitle"]}</h2>'
         try:
@@ -327,7 +339,7 @@ class song:
         # metadata = f'<h1>{self.title}</h1>'
         html_constants = constants(backsteps,title=self.meta['title'])
         self.html_preamble = html_constants.header + html_constants.navbar + metadata
-        self.html_footer = html_constants.html_footer
+        self.html_footer = abc_sheet + html_constants.html_footer
     def to_html(self,backsteps):
         html = '\n'.join([teil.to_html(backsteps) for teil in self.teile])
         return self.html_preamble + '\n' + html + '\n'+ self.html_footer
@@ -336,8 +348,13 @@ def create_html(file_path):
     backsteps = rech_backsteps(path,file_path,is_file=True)
     file_name = file_path.split('/')[-1][:-4]
     name_ext = '/'.join(file_path.split('/')[:-1])
+    try:
+        with open(f'{name_ext}/{file_name}.abc','r') as abc_file:
+            abc_sheet = abc_file.read()
+    except:
+        abc_sheet = None
     newfile = open(f'{name_ext}/{file_name}.html','w',encoding='utf-8')
-    newfile.write(song(file_path,backsteps,folder=name_ext.split('.io/')[1]).to_html(backsteps))
+    newfile.write(song(file_path,backsteps,folder=name_ext.split('.io/')[1],abc_sheet=abc_sheet).to_html(backsteps))
     # "name_ext.split('.io/')[1]" retrieves the relative path, i.e. only the part next to DiegoRdz99.github.io
     newfile.close()
 

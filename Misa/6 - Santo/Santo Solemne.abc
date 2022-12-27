@@ -1,0 +1,23 @@
+%abc-2.2
+%%MIDI program 20
+%%pagewidth 8cm
+%%bgcolor white
+%%topspace 0
+%%composerspace 0
+%%leftmargin 0.8cm
+%%rightmargin 0.8cm
+
+X:1
+F:Gloria_1
+C:
+S:
+%M:C
+L:1/8
+%Q:1/4=72
+K:C
+%
+%
+    c2 | "C"c2 g2 g4
+%%vskip 0
+w: A-cér-ca-te
+%

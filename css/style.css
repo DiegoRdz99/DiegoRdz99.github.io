@@ -1,10 +1,11 @@
-html * {
+/* html * {
 	font-family: Nunito, sans-serif;
-}
+} */
 
 .content {
 	max-width: 700px;
 	margin: auto;
+	font-family: Nunito, sans-serif;
 }
 
 .dark-mode {
