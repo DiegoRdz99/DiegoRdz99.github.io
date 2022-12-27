@@ -7611,6 +7611,8 @@ if(down2>.01)
 vskip(down2);xy_str(0,0,info.P);down2=0}
 vskip(down2+cfmt.musicspace)}
 var output="",style='\
+\n.f1 {font-family: Nunito, sans-serif;font-weight: bold;}\
+\n.f2 {font-family: Nunito, sans-serif;font-weight: normal;}\
 \n.stroke{stroke:currentColor;fill:none}\
 \n.bW{stroke:currentColor;fill:none;stroke-width:1}\
 \n.bthW{stroke:currentColor;fill:none;stroke-width:3}\

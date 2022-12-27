@@ -1,23 +1,37 @@
 %abc-2.2
 %%MIDI program 20
-%%pagewidth 8cm
-%%bgcolor white
+%%pagewidth 16cm
+%bgcolor white
 %%topspace 0
 %%composerspace 0
-%%leftmargin 0.8cm
-%%rightmargin 0.8cm
+%leftmargin 0.8cm
+%rightmargin 0.8cm
 
 X:1
 F:Gloria_1
 C:
 S:
 %M:C
-L:1/8
-%Q:1/4=72
-K:C
+L:1/4
+Q:1/2=60
+K:D
 %
 %
-    c2 | "C"c2 g2 g4
+    "B7"F3 E/2F/2 | "Em"G3 z | "A"C D A G | "D"F2 z2 |
 %%vskip 0
-w: A-cér-ca-te
+w: Sa-a-an-to Sa-a-a-an-to
+    "Bm"B, B,/2-B,/2 G F | "Em"E2 E E | "F#7"F2 F2 | "Bm"F2 F2 |
+w: San-to es el Se-ñor Dios del U-ni-ver-so
+    "B7"F3 E/2F/2 | "Em"G3 D | "A"C D A G | "D"F2 F2 |
+w: Lle-nos es-tán el cie-lo y la tie-rra
+    "Bm"B,2 G F | "Em"E2 E E | "F#7"F4 | "Bm"B,3 |
+w: De su-u Glo-ria Ho-sa-nna
+    "B7"B A G F | "Em"G3 z | "A"A G F E | "D"F3 z |
+w: Ho-o-sa-a-nna Ho-o-sa-a-nna
+    "Bm"G F E D | "Em"E3 z | "F#7"F2 F2 | "Bm"F2 F2 |
+w: Ho-o-sa-a-nna En el cie-lo
+    "B7"B A G F | "Em"G3 z | "A"A G F E | "D"F3 z |
+w: Ho-o-sa-a-nna Ho-o-sa-a-nna
+    "Bm"G F E D | "Em"E3 z | "F#7"F2 F2 | "Bm"B,2 B,2 |
+w: Ho-o-sa-a-nna En el cie-lo
 %
