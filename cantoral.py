@@ -111,7 +111,11 @@ def iterate(root):
     return chr((ord(root)-ord('A')+1)%7+ord('A'))
 
 class line:
-    def __init__(self,raw,backsteps=0):
+    def __init__(self,raw,backsteps=0,instrumental=False):
+        if instrumental:
+            self.add_class = 'px-1'
+        else:
+            self.add_class = ''
         if len(raw)!=0 and raw[0]!='[':
             raw='[]'+raw
         lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from text
@@ -125,17 +129,15 @@ class line:
 
     def set_c_line(self,chords,backsteps):
         self._c_line = ''.join([f'''
-        <td class="chord">
-            <span class="root">{chord[0]}</span>
-            <span class="quality">{chord[-1]}</span>
+        <td class="chord {self.add_class}">
+            <span class="root">{chord[0]}</span><span class="quality">{chord[-1]}</span>
             <div class="diagram">
                 <span class="chord_name">{chord[0]}{chord[-1]}</span>
                 <img class="fig" src="{backsteps}chords/{chord[3]}{chord[1]}.svg">
             </div>
         </td>''' if chord[2] else f'''
         <td class="chord">
-            <span class="root">{chord[0]}</span>
-            <span class="quality">{chord[1]}</span>
+            <span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span>
             <div class="diagram">
                 <span class="chord_name">{chord[0]}{chord[1]}</span>
                 <img class="fig" src="{backsteps}chords/{iterate(chord[0][0])}b{chord[1]}.svg">
@@ -156,6 +158,7 @@ class line:
 class double_line(line):
     def __init__(self,raw,backsteps=0):
         raw = raw.replace('{','')
+        self.add_class = ''
         if list(raw)[0]!='[':
             raw='[]'+raw
         lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from text
@@ -220,6 +223,7 @@ class verse:
         self.raw = raw.replace(' ','&nbsp;')
         self.title = 'Verso'
         self.klass = 'verse'
+        self.instrumental = False
     
     def to_html(self,backsteps):
         head = f'''
@@ -235,7 +239,7 @@ class verse:
             </tr>
         </table>
         '''
-        lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps) for raw in self.raw.split('\n') if len(raw)!=0]
+        lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps,self.instrumental) for raw in self.raw.split('\n') if len(raw)!=0]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
 
@@ -256,10 +260,13 @@ class intermedio(verse):
         self.raw = raw.replace(' ','&nbsp;&nbsp;')
         self.title = 'Intermedio'
         self.klass = 'inst'
+        self.instrumental = True
 
 class intro(intermedio):
     def __init__(self,raw):
         super().__init__(raw)
+        self.raw = raw.replace(' ','&nbsp;&nbsp;')
+        self.instrumental = True
         self.title = 'Intro'
     
 class outro(intermedio):
@@ -274,11 +281,7 @@ class locutor:
     
     def to_html(self,backsteps):
         html = f'''
-        <br>class locutor(verse):
-    def __init__(self,raw):
-        self.raw = raw.replace(' ','&nbsp;')
-        self.title = 'Locutor'
-        self.klass = 'locutor'
+        <br>
         <span class="fs-2 fw-bold">{self.title}</span>
         <br>
         <p class="locutor">{self.raw}</p>

@@ -76,7 +76,8 @@ svg {
 .chord {
 	font-weight: 700;
 	color: #707070;
-	padding-right: 1ex;
+	position: relative;
+
 }
 
 .chord.dark-chord {
@@ -87,6 +88,15 @@ svg {
 	color: #505050;
 }
 
+.inst {
+	display: inline;
+}
+
+.chord.inst {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
 A.chordlink {
 	text-decoration: none;
 }
@@ -95,89 +105,7 @@ A.chordlink:hover {
 	text-decoration: underline;
 }
 
-
-.comment {
-	display: block;
-	font-size: 20px;
-	font-weight: 750;
-	/* width: 95%; */
-	color: white;
-	background-color: black;
-	padding: 0 .5em;
-}
-
-.header.verse {
-	display: block;
-	font-size: 20px;
-	font-weight: 750;
-	/* width: 98%; */
-	color: white;
-	background-color: #5A5A5A;
-	border-radius: 10px;
-	box-shadow: 0 0 10px #333;
-	padding: 0 .5em;
-}
-
-.header.locutor {
-	display: block;
-	font-size: 20px;
-	font-weight: 750;
-	/* width: 98%; */
-	color: white;
-	background-color: #5A5A5A;
-	border-radius: 10px;
-	box-shadow: 0 0 10px #333;
-	padding: 0 .5em;
-}
-
-.header.pre-chorus {
-	display: block;
-	font-size: 20px;
-	font-weight: 750;
-	/* width: 98%; */
-	color: white;
-	background-color: #5A5A5A;
-	border-radius: 10px;
-	box-shadow: 0 0 10px #333;
-	padding: 0 .5em;
-}
-
-.header.inst {
-	display: block;
-	font-size: 20px;
-	font-weight: 750;
-	/* width: 98%; */
-	color: white;
-	background-color: #5A5A5A;
-	border-radius: 10px;
-	box-shadow: 0 0 10px #333;
-	padding: 0 .5em;
-}
-
-/* .chorus {
-	border-left: solid;
-	display: block;
-	background-color: #D0D0D0;
-	border-radius: 10px;
-	box-shadow: 0 0 10px #aaa;
-	padding-left: 3ex;
-} */
-
 /* Hovering */
-
-.chord {
-	position: relative;
-}
-
-/* ARREGLAR PENDIENTE
-
-Geagjeoigaoñg
-gewhñaehgoj́ep
-gejgaejó
-*/
-.quality {
-	margin-left: -5px;
-}
 
 .chord .diagram {
 	visibility: hidden;
@@ -203,41 +131,6 @@ gejgaejó
 ul {
 	list-style-type: none;
 }
-
-.listing a {
-	font-size: 20px;
-	text-decoration: none;
-	font-weight: bold;
-}
-
-.listing li {
-	/* width: 100%; */
-	padding: 8px;
-	margin-bottom: 7px;
-	background-color: #444;
-	color: #ddd;
-	box-shadow: 0 0px 5px #333;
-	border-radius: 10px;
-}
-
-.listing li:hover {
-	background-color: #A0A0A0;
-	color: #444;
-}
-
-.order li {
-	width: 50%;
-	background-color: #222;
-	color: #eee;
-	font-weight: bold;
-	font-size: 25px;
-}
-
-.order li:hover {
-	background-color: #bbb;
-	color: #222;
-}
-
 
 .locutor {
 	color: rgb(158, 157, 157);
@@ -272,7 +165,7 @@ ul {
 
 /* Custom Scrollbar */
 body::-webkit-scrollbar {
-	width: 12px;
+	width: 8px;
 	/* width of the entire scrollbar */
 }
 
@@ -286,6 +179,6 @@ body::-webkit-scrollbar-thumb {
 	/* color of the scroll thumb */
 	border-radius: 50px;
 	/* roundness of the scroll thumb */
-	border: 3px solid rgb(255, 255, 255);
+	border: 1px solid rgb(255, 255, 255);
 	/* creates padding around scroll thumb */
 }
