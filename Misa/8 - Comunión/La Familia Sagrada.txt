@@ -1,0 +1,38 @@
+title : La Familia Sagrada
+liturgy : Sagrada Familia
+key : A
+composer : Jésed
+{song}
+/intro/
+[A]  [C] [G] [A]
+/verse/
+[A]En un rincón, del establo más
+[E]Pobre en Belén
+Una madre que a[D]rrulla un bebé
+Con un canto de [E]adoración [E7]
+Admirada de p[A]oder tener
+[E] En sus brazos a [A]su salvador [A7]
+/verse/
+[D]Duerme Jesús,
+Que la aur[E]ora ya ll[A]ega a Belén
+Una estrella te vi[E]ene a alumbrar
+Para que todos [E7]te puedan ver
+Duerme ya mi Je[A]sús Emmanuel
+[E7]  Mi tesoro y m[A]i salvador [A7]
+/verse/
+[D]Mira José,
+Que pe[E]queños sus [A]manos y pies
+Y pensar que es el R[E]ey de Israel
+El caudillo que [E7]vino a salvar
+A su pueblo de la[A] oscuridad
+[E7]  Ese niño es mi [A]Dios y mi rey
+/verse/
+Y[A]a sí siguió,
+Arrullando Ma[E]ría a Jesús
+Acunando en sus [D]brazos a Dios
+Y José conmo[E]vido también
+Se asombra de [A]poder formar
+[E]  La Familia Sa[A]grada con Él [A7]
+/outro/
+[D]    [E]  [A]    [E]    [E7]
+[A]    [E]    [A]

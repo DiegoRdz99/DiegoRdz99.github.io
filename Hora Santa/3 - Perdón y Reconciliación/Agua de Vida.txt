@@ -3,7 +3,7 @@ key : C
 composer : Jésed
 {song}
 /intro/
-[C] [Em7] [Am7] [G] [F] [Dm7] [Gadd11] [G]
+[C] [Cadd9*B] [Am7] [G] [F] [Dm7] [Gadd11] [G]
 /verse/
 [C] Vengan a [Em7]mi los sedie[Am7]ntos
 [G]Y los que s[F]ufren, [Dm7]dice el Señ[Gadd11]or  [G]
