@@ -44,6 +44,9 @@ class constants:
                                 <a href="{backsteps}Originales/index.html" class="nav-link">Originales</a>
                             </li>
                             <li class="nav-item">
+                                <a href="{backsteps}Salmos/index.html" class="nav-link">Salmos</a>
+                            </li>
+                            <li class="nav-item">
                                 <a href="{backsteps}index.html" class="nav-link">Todos los Cantos</a>
                             </li>
                         </ul>
@@ -335,10 +338,17 @@ class song:
         # print(f'{folder}/{file_name}') # For debugging
         metadata = f'<h1>{self.meta["title"]}</h1><h2>{self.meta["subtitle"]}</h2>'
         try:
-            metadata += "".join([f"<h2>{value}</h2>" for value in list(self.meta.values())[1:-1]])
+            metadata += f'<h2>Clave: {self.meta["key"]}</h2>'
         except:
             pass
-        # metadata = f'<h1>{self.title}</h1>'
+        try:
+            metadata += f'<h4>Autor: {self.meta["composer"]}</h4>'
+        except:
+            pass
+        try:
+            metadata += f'<h4>Tiempo: {self.meta["liturgy"]}</h4>'
+        except:
+            pass
         html_constants = constants(backsteps,title=self.meta['title'])
         self.html_preamble = html_constants.header + html_constants.navbar + metadata
         self.html_footer = abc_sheet + html_constants.html_footer

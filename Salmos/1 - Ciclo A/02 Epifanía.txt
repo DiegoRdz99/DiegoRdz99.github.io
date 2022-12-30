@@ -1,0 +1,10 @@
+title : Salmo 71
+composer : U. Ochoa
+subtitle : La Epifanía del Señor
+liturgy : Navidad
+{song}
+/verse/
+Que te a[F]doren Se[C]ñor
+[F]Todos los [C7]pueblos
+[F]Que te a[Bb]doren Se[C]ñor
+[F]To-[Bb]dos los [C7]pue-[F]blos

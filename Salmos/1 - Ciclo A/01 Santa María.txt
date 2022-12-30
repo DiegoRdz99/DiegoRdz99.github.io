@@ -1,0 +1,8 @@
+title : Salmo 66
+subtitle : Santa María, Madre de Dios
+liturgy : Navidad
+{song}
+/verse/
+Ten pie[Dm]dad de no[G]sotros Se[F]ñor
+[Gm]Y ben[A7]díce[Dm]nos
+[Bb]Y ben[Am]díce[Dm]nos
