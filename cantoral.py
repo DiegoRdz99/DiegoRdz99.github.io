@@ -246,17 +246,43 @@ class verse:
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
 
+class general:
+    def __init__(self,raw):
+        self.raw = raw.replace(' ','&nbsp;')
+        self.klass = 'verse'
+        self.instrumental = False
+    
+    def to_html(self,backsteps):
+        head = f'''
+        <br>
+        <table class="{self.klass}" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+        '''
+        foot = '''
+                </td>
+            </tr>
+        </table>
+        '''
+        lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps,self.instrumental) for raw in self.raw.split('\n') if len(raw)!=0]
+        html = '\n'.join([lin.table() for lin in lines])
+        return head + html + foot
+
+
 class prechorus(verse):
     def __init__(self,raw):
         super().__init__(raw)
         self.title = 'Pre-coro'
-        self.klass = 'pre-chorus'
 
 class bridge(verse):
     def __init__(self,raw):
         super().__init__(raw)
         self.title = 'Puente'
-        self.klass = 'pre-chorus'
+
+class resp(verse):
+    def __init__(self,raw):
+        super().__init__(raw)
+        self.title = 'Respuesta'
 
 class intermedio(verse):
     def __init__(self,raw):
@@ -291,8 +317,18 @@ class locutor:
         '''
         return html
 
+class salmo:
+    def __init__(self,raw):
+        self.lines = raw.replace('\n','\n<br>')
+        if self.lines[-4:]=='<br>':
+            self.lines = self.lines[:-4]
+    def to_html(self,backsteps):
+        foot = '<b>&nbsp;R.</b>\n<br>\n'
+        return self.lines + foot
 
-parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro,'bridge':bridge,'locutor':locutor}
+
+
+parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro,'bridge':bridge,'locutor':locutor,'resp':resp,'respuesta':resp,'salmo':salmo,'gen':general}
 
 def subtitle_from_folder(folder):
     mid = folder.split('/')

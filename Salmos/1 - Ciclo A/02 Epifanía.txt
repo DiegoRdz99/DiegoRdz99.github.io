@@ -3,8 +3,28 @@ composer : U. Ochoa
 subtitle : La Epifanía del Señor
 liturgy : Navidad
 {song}
-/verse/
+/resp/
 Que te a[F]doren Se[C]ñor
 [F]Todos los [C7]pueblos
 [F]Que te a[Bb]doren Se[C]ñor
 [F]To-[Bb]dos los [C7]pue-[F]blos
+/salmo/
+Comunica, Señor, al rey tu juicio,
+y tu justicia al que es hijo de reyes;
+así tu siervo saldrá en defensa de tus pobres
+y regirá a tu pueblo justamente.
+/salmo/
+Florecerá en sus días la justicia
+y reinará la paz, era tras era.
+De mar a mar se extenderá su reino
+y de un extremo al otro de la tierra.
+/salmo/
+Los reyes de occidente y de las islas
+le ofrecerán sus dones
+Ante él se postrarán todos los reyes
+y todas las naciones.
+/salmo/
+Al débil librará del poderoso
+y ayudará al que se encuentra sin amparo;
+se apiadará del desvalido y pobre
+y salvará la vida al desdichado.

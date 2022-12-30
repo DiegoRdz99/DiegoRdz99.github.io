@@ -2,7 +2,22 @@ title : Salmo 66
 subtitle : Santa María, Madre de Dios
 liturgy : Navidad
 {song}
-/verse/
-Ten pie[Dm]dad de no[G]sotros Se[F]ñor
+/resp/
+Ten pie[Dm]dad de no[C]sotros Se[F]ñor
 [Gm]Y ben[A7]díce[Dm]nos
 [Bb]Y ben[Am]díce[Dm]nos
+/salmo/
+Ten piedad de nosotros y bendícenos.
+vuelve, Señor, tus ojos a nosotros.
+Que conozca la tierra tu bondad
+y los pueblos tu obra salvadora.
+/salmo/
+Las naciones con júbilo te canten,
+porque juzgas al mundo con justicia;
+con equitad tú juzgas a los pueblos
+y riges en la tierra a las naciones.
+/salmo/
+Que te alaben, Señor, todos los pueblos,
+que los pueblos te aclamen todos juntos.
+Que nos bendiga Dios
+y que le rinda honor el mundo entero.

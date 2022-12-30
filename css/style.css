@@ -15,6 +15,7 @@
 
 svg {
 	display: block;
+	/* display: inline; */
 	margin: auto;
 	max-width: 650px;
 }
