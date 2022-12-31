@@ -5,7 +5,7 @@ class constants:
         self.navbar = f'''
         <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top shadow">
                 <div class="container-fluid">
-                    <a class="navbar-brand mb-0 h1" href="{backsteps}index.html" >Coro Milites Christi</a>
+                    <a class="navbar-brand mb-0 h1" href="{backsteps}index.html"><img src="{backsteps}Logo.svg" width="20px" height="20px"></img> Coro Milites Christi</a>
 
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_navbar" aria-controls="collapse_navbar" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span> <!--This is the hamburger icon for the menu-->
@@ -321,9 +321,9 @@ class salmo:
     def __init__(self,raw):
         self.lines = raw.replace('\n','\n<br>')
         if self.lines[-4:]=='<br>':
-            self.lines = self.lines[:-4]
+            self.lines = self.lines[:-5]
     def to_html(self,backsteps):
-        foot = '<b>&nbsp;R.</b>\n<br>\n'
+        foot = '<b>&nbsp;&nbsp;R.</b>\n<br>\n'
         return self.lines + foot
 
 
