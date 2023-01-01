@@ -32,9 +32,6 @@ class constants:
                                 <a href="{backsteps}Semana Santa/index.html" class="nav-link">Semana Santa</a>
                             </li>
                             <li class="nav-item">
-                                <a href="{backsteps}Adicionales/index.html" class="nav-link">Adicionales</a>
-                            </li>
-                            <li class="nav-item">
                                 <a href="{backsteps}Niños/index.html" class="nav-link">Niños</a>
                             </li>
                             <li class="nav-item">

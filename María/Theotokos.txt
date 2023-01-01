@@ -1,0 +1,32 @@
+title : Theotokos (Θεοτόκος)
+composer : Jésed
+liturgy : Santa María, Madre de Dios
+key : G
+{song}
+/intro/
+[G]  [D]  [G]  [C]  [G]  [D]
+/verse/
+¡S[G]alve, Ma[D]rí-i[Em]a
+Theo[C]tokos, la [G]Madre de Di[D]os!
+¡S[G]alve, Ma[D]rí-i[Em]a
+Siempre V[C]irgen y [G]Madre de Di[D]os!
+/bridge/
+En [C]ti vemos [G]ya nuestra, [D]ressurrec[Em]ción,
+A[C]sunta al [G]Cielo es[D]tás
+/verse/
+¡S[G]alve, Ma[D]rí-i[Em]a
+Theo[C]tokos, la [G]Madre de Di[D]os!
+¡S[G]alve, Ma[D]rí-i[Em]a
+La R[C]eina del [G]cielo, la [D]madre de Di[C]os!
+/bridge/
+[B7]  En [C°7]ti se rego[Em]cija
+[D]  Toda la crea[Em]ción
+[C]  Pues por ti ya lle[G]gó
+La Palabra de Di[D]os
+Nuestra salvaci[Am]o  -  [Bm]o  -  [C]o - [Em]o  -  [D]on
+/verse/
+¡S[G]alve, Ma[D]rí-i[Em]a
+Theo[C]tokos, la [G]Madre de Di[D]os!
+¡S[G]alve, Ma[D]rí-i[Em]a
+La R[C]eina del [G]cielo
+La [D]ma - adre de Di[C]os! [Cm]  [G]

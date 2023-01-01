@@ -1,0 +1,48 @@
+title : Aquí hay un muchacho
+composer : Jésed
+key : D
+{song}
+/intro/
+[D]  [Dsus4] [Dsus2]  [D] [Dsus4] [D]
+[Bm7]  [F#m]  [G]  [D]
+[Em]  [A]  [D]  [F#m]
+[Bm7]  [F#m]  [G]  [D]
+[Em]  [A]  [D]  [Dsus4]  [Dsus2]
+/verse/
+A[D]aquí hay un mu[A]chacho
+Que [Bm]solamente ti[F#m]ene cinco p[G]ane[G^7]s y dos p[D]eces
+Más, ¿qué es [G]eso para t[A]anta ge[A7]nte?
+A[D]aquí hay un mu[A]chacho
+Que [Bm]solamente ti[F#m]ene un coraz[G]ón dis[G^7]puesto a d[D]ar
+Más, ¿qué es [G]eso para t[A]anta ge[C#°7]nte?
+/bridge/
+A[Bm]quí está este [F#m]corazón
+Que [G]quiere serte fi[D]el
+Más, ¿qué es [Em]eso si [A]no te tiene a [Bm7]Ti?
+[G]  Si [A]no te tiene a [D]Ti  [A7]
+/Coro/
+[D]Toma  [A]  este [Bm]corazón
+[G]Toma  [A]  cuanto te[D]ngo y cuanto [A]soy
+[G]Toma mi pas[A]ado, mi pre[Bm7]sente y mi futur[F#m]o
+[G]Todo cuanto te[A]ngo tómal[D]o
+/verse/
+Mi [D]corazón to[A]maste
+Mis [Bm]panes bendi[F#m]jiste,
+A la ge[G]nte repart[D]iste
+Y a [G]todos alcan[A]zó
+Mi [G]vida está en tus [A]manos
+Si [Bm]quieres repart[F#m]irla como hic[G]iste con mis p[E7]anes
+Aquel [A]día oh Señor  [A7]
+A[D]quí están mis pa[A]labras
+A[Bm]quí están mis acci[F#m]ones,
+Aquí es[G]tán mis ilusi[D]ones
+Más, ¿qué es [G]eso para t[A]anta ge[C#°7]nte?
+/bridge/
+A[Bm]quí está este [F#m]corazón
+Mis p[G]anes y mis p[D]eces
+Toma [Em]todo y re[Bm7]pártelo Se[D]ñor  [A7]
+/Coro/
+/Coro/
+/outro/
+[G]Todo cuanto ten[A]go tómal[D]o
+A[D]quí hay un mu[D^7]chacho
