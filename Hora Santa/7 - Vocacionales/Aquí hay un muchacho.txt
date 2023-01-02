@@ -12,11 +12,11 @@ key : D
 A[D]aquí hay un mu[A]chacho
 Que [Bm]solamente ti[F#m]ene cinco p[G]ane[G^7]s y dos p[D]eces
 Más, ¿qué es [G]eso para t[A]anta ge[A7]nte?
-A[D]aquí hay un mu[A]chacho
-Que [Bm]solamente ti[F#m]ene un coraz[G]ón dis[G^7]puesto a d[D]ar
-Más, ¿qué es [G]eso para t[A]anta ge[C#°7]nte?
+A[D]quí hay un mu[A]chacho
+Que [Bm]solamente ti[F#m]ene un corazó[G]n dis[G^7]puesto a d[D]ar
+Más, ¿qué es [G]eso para t[A]anta ge[A#°7]nte?
 /bridge/
-A[Bm]quí está este [F#m]corazón
+A[Bm]quí está este c[F#m]orazón
 Que [G]quiere serte fi[D]el
 Más, ¿qué es [Em]eso si [A]no te tiene a [Bm7]Ti?
 [G]  Si [A]no te tiene a [D]Ti  [A7]
@@ -25,6 +25,9 @@ Más, ¿qué es [Em]eso si [A]no te tiene a [Bm7]Ti?
 [G]Toma  [A]  cuanto te[D]ngo y cuanto [A]soy
 [G]Toma mi pas[A]ado, mi pre[Bm7]sente y mi futur[F#m]o
 [G]Todo cuanto te[A]ngo tómal[D]o
+/intermedio/
+[D] [Dsus4] [D] [Dsus2]
+[D] [Dsus4] [D] [Dsus2]
 /verse/
 Mi [D]corazón to[A]maste
 Mis [Bm]panes bendi[F#m]jiste,
@@ -36,13 +39,17 @@ Aquel [A]día oh Señor  [A7]
 A[D]quí están mis pa[A]labras
 A[Bm]quí están mis acci[F#m]ones,
 Aquí es[G]tán mis ilusi[D]ones
-Más, ¿qué es [G]eso para t[A]anta ge[C#°7]nte?
+Más, ¿qué es [G]eso sin tu am[A]or Se[A#°7]ñor?
 /bridge/
 A[Bm]quí está este [F#m]corazón
-Mis p[G]anes y mis p[D]eces
-Toma [Em]todo y re[Bm7]pártelo Se[D]ñor  [A7]
-/Coro/
-/Coro/
+Que [G]quiere serte fi[D]el
+Más, ¿qué es [Em]eso si [A]no te tiene a [Bm7]Ti?
+[G]  Si [Em]no te tiene a [A]Ti  [A#°7]
+A[Bm]quí está este c[F#m]orazón
+Con mis p[G]anes y mis p[D]eces
+Toma [Em]todo y re[A]pártelo Se[D]ñor  [A7]
+/coro/
+/coro/
 /outro/
 [G]Todo cuanto ten[A]go tómal[D]o
 A[D]quí hay un mu[D^7]chacho
