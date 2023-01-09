@@ -113,7 +113,7 @@ const initializer = () => {
                         richtigZähler++;
                         if (richtigZähler == charArray.length) {
                             resultText.innerHTML = `<h2 class='win-msg'>Du hast gewonnen!!</h2><p>Das Wort war eigentlich <b>${chosenWord}</b></p>`;
-
+                            henkerBox.classList.add('blur');
                             blocker();
                         }
                     }
