@@ -193,7 +193,7 @@ const canvasCreator = () => {
     const initialDrawing = () => {
         context.clearRect(0, 0, context.canvas.width, context.canvas.height);
         //bottom line
-        drawLine(10, 130, 130, 130);
+        drawLine(10, 130, 80, 130);
         drawLine(10, 10, 10, 130);
         drawLine(10, 10, 70, 10);
         drawLine(70, 10, 70, 20);
