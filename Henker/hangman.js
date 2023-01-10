@@ -167,7 +167,7 @@ const canvasCreator = () => {
     const head = () => {
         base_image = new Image();
         Person = Charaktere[Math.floor(Math.random() * Charaktere.length)];
-        base_image.src = `/Bilder/${Person}.png`;
+        base_image.src = `Bilder/${Person}.png`;
         base_image.onload = function () {
             context.drawImage(base_image, 40, 15, 60, 60);
         }
