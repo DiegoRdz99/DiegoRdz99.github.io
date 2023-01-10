@@ -11,7 +11,9 @@ const henkerBox = document.getElementById('henker-box');
 
 let options = {
     Länder: ['Deutschland', 'Mexiko', 'Kolumbien', 'Kanada', 'Brasilien', 'Spanien', 'Argentinien', 'Österreich', 'Japan', 'China', 'England', 'Italien'],
-    Farben: ['rot', 'gelb', 'blau']
+    Farben: ['rot', 'gelb', 'blau', 'grau', 'grün', 'braun', 'lila', 'rosa'],
+    Generell: ['heiße','bin','Jahren','alt','wer','wie','ist','bist','du','ich'],
+    Zahlen: ['zwanzig','zehn','eins','drei','zwölf','elf','vier','fünf','sechs','sieben','acht','neun','zwei','zehn','einhundertfünfundsiebzig','sechsunddreißig','dreißig','vierzehn','siebzig','siebzehn','dreizehn']
 }
 
 let Charaktere = ['messi','isabel','elsa','peppa','cr7','mbappe','backyardigan','harry','chatnoir','ladybug'];
@@ -197,7 +199,7 @@ const canvasCreator = () => {
     const initialDrawing = () => {
         context.clearRect(0, 0, context.canvas.width, context.canvas.height);
         //bottom line
-        drawLine(10, 130, 130, 130);
+        drawLine(10, 130, 80, 130);
         drawLine(10, 10, 10, 130);
         drawLine(10, 10, 70, 10);
         drawLine(70, 10, 70, 20);
