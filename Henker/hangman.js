@@ -16,7 +16,7 @@ let options = {
     Zahlen: ['zwanzig','zehn','eins','drei','zwölf','elf','vier','fünf','sechs','sieben','acht','neun','zwei','zehn','einhundertfünfundsiebzig','sechsunddreißig','dreißig','vierzehn','siebzig','siebzehn','dreizehn']
 }
 
-let Charaktere = ['messi','isabel','elsa','peppa','cr7','mbappe','backyardigan','harry','chatnoir','ladybug','santa'];
+let Charaktere = ['messi','isabel','elsa','peppa','cr7','mbappe','backyardigan','harry','chatnoir','ladybug'];
 
 //
 let richtigZähler = 0;
@@ -167,7 +167,7 @@ const canvasCreator = () => {
     const head = () => {
         base_image = new Image();
         Person = Charaktere[Math.floor(Math.random() * Charaktere.length)];
-        base_image.src = `Bilder/${Person}.png`;
+        base_image.src = `${Person}.png`;
         base_image.onload = function () {
             context.drawImage(base_image, 40, 15, 60, 60);
         }
