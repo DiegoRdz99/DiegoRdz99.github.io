@@ -14,10 +14,13 @@ let options = {
     Farben: ['rot', 'gelb', 'blau']
 }
 
+let Charaktere = ['messi','isabel','elsa','peppa','cr7','mbappe','backyardigan','harry','chatnoir','ladybug'];
+
 //
 let richtigZähler = 0;
 let zähler = 0;
-let zielWort = ''
+let zielWort = '';
+let Person = '';
 
 //
 const displayOptions = () => {
@@ -65,12 +68,12 @@ const generateWord = (optionValue) => {
 
     let optionArray = options[optionValue];
     // zufälliges Zahl auswählen
-    chosenWord = optionArray[Math.floor(Math.random() * optionArray.length)];
-    chosenWord = chosenWord.toUpperCase();
-    // console.log(chosenWord);
+    zielWort = optionArray[Math.floor(Math.random() * optionArray.length)];
+    zielWort = zielWort.toUpperCase();
+    console.log(zielWort);
 
     // jede Buchstabe durch ein Span mit einem Unterstrich
-    let displayItem = chosenWord.replace(/./g, '<span class="dashes">-</span>');
+    let displayItem = zielWort.replace(/./g, '<span class="dashes">-</span>');
 
     // jedes Element zeigen
     userInputSection.innerHTML = displayItem;
@@ -102,7 +105,7 @@ const initializer = () => {
         button.classList.add('letters');
         // character click
         button.addEventListener('click', () => {
-            let charArray = chosenWord.split('');
+            let charArray = zielWort.split('');
             let dashes = document.getElementsByClassName('dashes');
             //falls das Array das geclicktes Buchstabe enthaltet, die dazugehörige Dashes durch diese Buchstabe ersetzen
             if (charArray.includes(button.innerText)) {
@@ -112,8 +115,8 @@ const initializer = () => {
                         // richtigZähler erhöhen
                         richtigZähler++;
                         if (richtigZähler == charArray.length) {
-                            resultText.innerHTML = `<h2 class='win-msg'>Du hast gewonnen!!</h2><p>Das Wort war eigentlich <b>${chosenWord}</b></p>`;
-                            henkerBox.classList.add('blur');
+                            resultText.innerHTML = `<h2 class='win-msg'>Du hast gewonnen!!</h2><p>Das Wort war eigentlich <b>${zielWort}</b></p>`;
+
                             blocker();
                         }
                     }
@@ -126,7 +129,7 @@ const initializer = () => {
                 drawMan(zähler);
                 // Mit 6 Fehler wird es schon verloren (1 Kopf, 2 Körper, 3 rechter Arm, 4 linker Arm, 5 rechtes Bein, 6 linkes Bein)
                 if (zähler == 6) {
-                    resultText.innerHTML = `<h2 class='lose-msg'>Pech gehabt!</h2><p>Das Wort war eigentlich <b>${chosenWord}</b></p>`;
+                    resultText.innerHTML = `<h2 class='lose-msg'>Pech gehabt!</h2><p>Das Wort war eigentlich <b>${zielWort}</b></p>`;
                     henkerBox.classList.add('blur');
                     blocker();
                 }
@@ -161,7 +164,8 @@ const canvasCreator = () => {
 
     const head = () => {
         base_image = new Image();
-        base_image.src = 'messi.png';
+        Person = Charaktere[Math.floor(Math.random() * Charaktere.length)];
+        base_image.src = `${Person}.png`;
         base_image.onload = function () {
             context.drawImage(base_image, 40, 15, 60, 60);
         }
@@ -193,13 +197,13 @@ const canvasCreator = () => {
     const initialDrawing = () => {
         context.clearRect(0, 0, context.canvas.width, context.canvas.height);
         //bottom line
-        drawLine(10, 130, 80, 130);
+        drawLine(10, 130, 130, 130);
         drawLine(10, 10, 10, 130);
         drawLine(10, 10, 70, 10);
         drawLine(70, 10, 70, 20);
     };
 
-    return { initialDrawing, head, body, leftArm, rightArm, leftLeg, rightLeg };
+    return { initialDrawing, head, body, leftArm, rightArm, leftLeg, rightLeg};
 };
 
 // Das Mann zeichnen
