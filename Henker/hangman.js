@@ -16,7 +16,7 @@ let options = {
     Zahlen: ['zwanzig','zehn','eins','drei','zwölf','elf','vier','fünf','sechs','sieben','acht','neun','zwei','zehn','einhundertfünfundsiebzig','sechsunddreißig','dreißig','vierzehn','siebzig','siebzehn','dreizehn']
 }
 
-let Charaktere = ['messi','isabel','elsa','peppa','cr7','mbappe','backyardigan','harry','chatnoir','ladybug','Santa'];
+let Charaktere = ['messi','isabel','elsa','peppa','cr7','mbappe','backyardigan','harry','chatnoir','ladybug','santa'];
 
 //
 let richtigZähler = 0;
@@ -71,7 +71,7 @@ const generateWord = (optionValue) => {
     let optionArray = options[optionValue];
     // zufälliges Zahl auswählen
     zielWort = optionArray[Math.floor(Math.random() * optionArray.length)];
-    zielWort = zielWort.toLocaleLowerCase('de');
+    zielWort = zielWort;
     console.log(zielWort);
 
     // jede Buchstabe durch ein Span mit einem Unterstrich
