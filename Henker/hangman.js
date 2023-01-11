@@ -71,7 +71,6 @@ const generateWord = (optionValue) => {
     let optionArray = options[optionValue];
     // zufälliges Zahl auswählen
     zielWort = optionArray[Math.floor(Math.random() * optionArray.length)];
-    zielWort = zielWort;
     console.log(zielWort);
 
     // jede Buchstabe durch ein Span mit einem Unterstrich
