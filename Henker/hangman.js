@@ -112,7 +112,7 @@ const initializer = () => {
             if (charArray.includes(button.innerText)) {
                 charArray.forEach((char, index) => {
                     console.log(char.toLocaleLowerCase('de'));
-                    console.log(button.innerText.toLocaleLowerCase('de');
+                    console.log(button.innerText.toLocaleLowerCase('de'));
                     if (char.toLocaleLowerCase('de') === button.innerText.toLocaleLowerCase('de')) {
                         dashes[index].innerText = char;
                         // richtigZähler erhöhen
