@@ -109,10 +109,8 @@ const initializer = () => {
             let charArray = zielWort.split('');
             let dashes = document.getElementsByClassName('dashes');
             //falls das Array das geclicktes Buchstabe enthaltet, die dazugehörige Dashes durch diese Buchstabe ersetzen
-            if (charArray.includes(button.innerText)) {
+            if (charArray.includes(button.innerText.toLocaleLowerCase('de')) or charArray.includes(button.innerText.toLocaleUpperCase('de'))) {
                 charArray.forEach((char, index) => {
-                    console.log(char.toLocaleLowerCase('de'));
-                    console.log(button.innerText.toLocaleLowerCase('de'));
                     if (char.toLocaleLowerCase('de') === button.innerText.toLocaleLowerCase('de')) {
                         dashes[index].innerText = char;
                         // richtigZähler erhöhen
