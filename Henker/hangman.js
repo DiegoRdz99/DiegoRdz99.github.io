@@ -11,12 +11,14 @@ const henkerBox = document.getElementById('henker-box');
 
 let options = {
     Länder: ['Deutschland', 'Mexiko', 'Kolumbien', 'Kanada', 'Brasilien', 'Spanien', 'Argentinien', 'Österreich', 'Japan', 'China', 'England', 'Italien'],
-    Farben: ['rot', 'gelb', 'blau', 'grau', 'grün', 'braun', 'lila', 'rosa'],
-    Generell: ['heiße','bin','Jahren','alt','wer','wie','ist','bist','du','ich'],
-    Zahlen: ['zwanzig','zehn','eins','drei','zwölf','elf','vier','fünf','sechs','sieben','acht','neun','zwei','zehn','einhundertfünfundsiebzig','sechsunddreißig','dreißig','vierzehn','siebzig','siebzehn','dreizehn']
+    Farben: ['rot', 'gelb', 'blau', 'grau', 'grün', 'braun', 'lila', 'rosa','hellblau','dunkelgrün'],
+    Nomen: ['Mann','Männer','Frau','Hund','Junge','Kind','Mädchen','Handy','Katze','Zahl','Frauen','Tier','Frage'],
+    Zahlen: ['zwanzig','zehn','eins','drei','zwölf','elf','vier','fünf','sechs','sieben','acht','neun','zwei','zehn','einhundertfünfundsiebzig','sechsunddreißig','dreißig','vierzehn','siebzig','siebzehn','dreizehn'],
+    Berufe: ['Superheld','Hexe','Feuerwehrmann','Schauspielerin','Schauspieler','Architekt','Psychologin','Bauer','Holzfäller','Fußballspieler','Schurke','Bergmann','Arzt','Ärztin'],
+    Verben: ['gehen','kommen','sehen','fotografieren','schlafen','fahren','haben','lesen','essen','arbeiten']
 }
 
-let Charaktere = ['messi','isabel','elsa','peppa','cr7','mbappe','backyardigan','harry','chatnoir','ladybug','santa'];
+let Charaktere = ['messi','isabel','elsa','peppa','cr7','mbappe','backyardigan','harry','chatnoir','ladybug','santa','drajuguetes','shrek','chase',];
 
 //
 let richtigZähler = 0;
