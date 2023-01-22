@@ -1,0 +1,15 @@
+title : Las Mañanitas Alegres
+subtitle : Niños - Mañanitas 
+key : Bb
+liturgy : Ordinario
+{song}
+/intro/
+[Eb] [F7] [Bb]  [F7]  [Bb]
+[Eb] [F7] [Bb]  [F7]  [Bb]
+/verse/
+Felici[Bb]dades, felicid[F7]ades
+Hoy te tra[F7]emos las mañan[Bb]itas
+Que te la p[Eb]ases con ale[Bb]gría
+Y sobre [F7]todo lleno de [Bb]dicha
+Que te la p[Eb]ases con ale[Bb]gría
+Y sobre [F7]todo lleno de [Bb]dicha
