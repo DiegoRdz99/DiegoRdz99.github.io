@@ -1,5 +1,6 @@
 title : Los peces en el río
 key : A
+liturgy : Navidad
 {song}
 /verse/
 L[Am]a Virgen se está pein[E]ando

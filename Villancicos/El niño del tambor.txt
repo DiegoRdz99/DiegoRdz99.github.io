@@ -1,5 +1,6 @@
 title : El niño del tambor
 key : E
+liturgy : Navidad
 {song}
 /verse/
 [E]El camino que ll[A]eva a Bel[E]én,

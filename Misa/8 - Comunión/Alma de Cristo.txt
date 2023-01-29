@@ -6,20 +6,20 @@ liturgy : Ordinario
 /intro/
 [C]  [F]  [C]  [F]
 /verse/
-{[C]Alma de Cristo, [F]| Santifícame
-{[C]Cuerpo de Cristo, [F]| Sálvame
-{[C]Sangre de Cristo, [F]| Embriágame
-[Dm]Agua del cos[Dm7]tado de [G7]Cristo, láv[C]ame
+{[C]Alma de Cristo, [F]|  Santifícame
+{[C]Cuerpo de Cristo, [F]|  Sálvame
+{[C]Sangre de Cristo, [F]|  Embriágame
+[Dm]Agua del cos[Dm7]tado de [G7]Cristo, láva[C]-ame
 /verse/
-{[C]Pasión de Cristo, [F]| Confórtame
-{[C]Oh, mi buen Jesús, [F]| Óyeme
-{[C]Dentro de tus llagas, [F]| escóndeme
+{[C]Pasión de Cristo, [F]|  Confórtame
+{[C]Oh, mi buen Jesús, [F]|  Óyeme
+{[C]Dentro de tus llagas, [F]|  escóndeme
 [Dm]No per[Dm7]mitas que me a[G7]parte de-[C]e Ti
 /Coro/
-[Gm] [C7] Del ma[F]ligno ene[G]migo
-De[C]fiéndeme [Em7]  [Am]
+[Gm]        [C7]  Del ma[F]ligno ene[G]migo
+De[C]fiéndeme [Em7]         [Am]
 En la [Am7]hora de mi [F]muerte, [G]  llá[C]mame
-[Gm] [C7] Y [F]mándame ir a [G]Ti
+[Gm]        [C7]   Y [F]mándame ir a [G]Ti
 Para [C]que con tus [Em7]santos te a[Am]labe
 [Am7] Por los [F]siglos de los [G]siglos
 A[C]mén

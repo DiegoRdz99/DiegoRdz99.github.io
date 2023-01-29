@@ -1,5 +1,6 @@
 title : Campana sobre campana
-key : E 
+key : E
+liturgy : Navidad
 {song}
 /verse/
 C[E]ampana sobre camp[B7]ana

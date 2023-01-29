@@ -1,0 +1,23 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:Castillo B.P. 1543
+S:
+M:2/4
+L:1/8
+Q:1/4=60
+K:F
+%
+%
+    S "Dm"z D "Gm"A G | "Dm"A2 A2-|A2 "C"c d | "F"c A "Bb"G F | "Gm"D2 E2 | "Dm"D4 |]
+%%vskip 0
+w: El jus-to bri-lla_ co-mo luz en las ti-nie--blas
+%

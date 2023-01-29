@@ -1,5 +1,6 @@
 title : Noche de paz
 key : A
+liturgy : Navidad
 {song}
 /verse/
 N[A]oche de paz, noche de amor

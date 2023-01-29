@@ -1,0 +1,22 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:L. Martínez B.P. 1541
+S:
+M:2/4
+L:1/8
+Q:1/4=60
+K:Bb
+%
+%
+    S G | "Gm"B B A3/2 G/2 || [M:3/4] "Cm"c4 c d |[M:2/4] B A F G | G4 |]
+%%vskip 0
+w: A-quí es-toy Se-ñor, pa-ra~ha-cer tu vo-lun-tad

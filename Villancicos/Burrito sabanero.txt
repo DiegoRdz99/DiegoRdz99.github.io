@@ -1,5 +1,6 @@
 title : Burrito sabanero
-key : G 
+key : G
+liturgy : Navidad
 {song}
 /verse/
 [G] Con mi burrito saban[C]ero voy cam[D7]ino de Bel[G]én

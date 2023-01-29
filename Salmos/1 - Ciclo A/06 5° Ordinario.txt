@@ -1,0 +1,25 @@
+title : Salmo 111
+composer : B. Carrillo B.P. 1543
+liturgy : Ordinario
+key : Gm
+subtitle : 5° Domingo del T. Ordinario
+{song}
+/resp/
+[Dm]  El [Gm]justo [Dm]brilla
+[C]Como [F]luz en [Bb]las ti[Gm]nie-[Dm]blas
+/salmo/
+Quien es justo, clemente y compasivo,
+como una luz en las tinieblas brilla.
+Quienes, compadecidos, prestan
+y llevan su negocio honradamente,
+jamás se desviarán.
+/salmo/
+El justo no vacilará;
+vivirá su recuerdo para siempre.
+No temerá malas noticias,
+porque en el Señor vive confiadamente.
+/salmo/
+Firme está y sin temor su corazón.
+Al pobre da limosna,
+obra siempre conforma a la justicia;
+su frente se alzará llena de gloria.

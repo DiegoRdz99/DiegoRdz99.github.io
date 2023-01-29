@@ -10,9 +10,12 @@ White/Gold:
 - Pascua
 - Navidad
 - Domingo de Resurrección
+- Santa María, Madre de Dios
+- Sagrada Familia
 
 Red:
 - Viernes Santo
+- Semana Santa
 
 Black:
 - Difuntos

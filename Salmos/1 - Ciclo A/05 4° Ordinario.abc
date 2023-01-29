@@ -1,0 +1,26 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:B.P. 1542
+S:
+M:2/4
+L:1/8
+Q:1/4=60
+K:C
+%
+%
+    S E | "Am"A2 c B | "Em"G2 E G | "Am"A3 E | E2 D E | 
+%%vskip 0
+w: Di-cho-sos los po-bres de~es-pí-ri-tu, por-que
+%
+    "Dm"F F F G | "F"A c "Em"B G | "Am"A2 A2 |]
+w: de~e-llos es el Rei-no de los cie-los
+%

@@ -58,6 +58,7 @@ class constants:
         <html>
         <head>
             <title>{title}</title>
+            <link rel="icon" type="image/x-icon" href="{backsteps}Logo.svg">
             <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
             <meta http-equiv="Content-Style-Type" content="text/css">
             <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -327,6 +328,23 @@ class salmo:
 
 parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro,'bridge':bridge,'locutor':locutor,'resp':resp,'respuesta':resp,'salmo':salmo,'gen':general}
 
+# colors
+GOLD = '#d9b225'
+GREEN = '#1ba640'
+LILA = '#a421b5'
+RED = '#d93a25'
+BLUE = '#3b71db'
+BLACK = '#242424'
+
+liturgy_colors = {
+    'Ordinario': GREEN, # green
+    'Adviento': LILA, 'Cuaresma':LILA, # purple
+    'Pascua': GOLD, 'Navidad':GOLD, 'Domingo de Resurrección':GOLD, 'Santa María, Madre de Dios': GOLD, 'Sagrada Familia':GOLD, # gold
+    'Viernes Santo':RED, 'Semana Santa' : RED, # red
+    'Difuntos':BLACK, # black
+    'Vírgen de Guadalupe':BLUE # blue
+}
+
 def subtitle_from_folder(folder):
     mid = folder.split('/')
     try:
@@ -379,9 +397,12 @@ class song:
         except:
             pass
         try:
-            metadata += f'<h4>Tiempo: {self.meta["liturgy"]}</h4>'
+            metadata += f'<h4 style="color:{liturgy_colors[self.meta["liturgy"]]};">Tiempo: {self.meta["liturgy"]}</h4>'
         except:
-            pass
+            try:
+                print(f'missed {self.meta["liturgy"]}')
+            except:
+                pass
         html_constants = constants(backsteps,title=self.meta['title'])
         self.html_preamble = html_constants.header + html_constants.navbar + metadata
         self.html_footer = abc_sheet + html_constants.html_footer
@@ -527,6 +548,7 @@ if __name__=='__main__':
         head = f'''
         <head>
             <title>Global Index</title>
+            <link rel="icon" type="image/x-icon" href="{backsteps}Logo.svg">
             <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
             <meta http-equiv="Content-Style-Type" content="text/css">
             <meta name="viewport" content="width=device-width, initial-scale=1">
