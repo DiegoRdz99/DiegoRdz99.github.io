@@ -68,7 +68,48 @@ class constants:
         </head>
                 '''
 
+        self.comunion_header = f'''
+        <html>
+        <head>
+            <title>{title}</title>
+            <link rel="icon" type="image/x-icon" href="{backsteps}Logo.svg">
+            <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+            <meta http-equiv="Content-Style-Type" content="text/css">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+            <link rel="stylesheet" href="{backsteps}css/style.css">
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+            <script>
+                $(
+                    function () {{
+                    $("#alma-de-cristo").load("AlmaDeCristo.html");
+                }});
+            </script>
+        </head>
+                '''
+
         self.html_footer = f'''
+        <br><br><br><br>
+        <div class="btn-group btn-group-lg fixed-bottom mx-auto shadow toolbar" role="group" aria-label="Basic example">
+            <button type="button" class="btn btn-dark" id="up" onclick="tpup()"><span class="icon">+1</span></button>
+            <button type="button" class="btn btn-dark" id="down" onclick="tpdown()"><span class="icon">-1</span></button>
+            <button type="button" class="btn btn-dark" onclick="tr_capo()"><span class="icon" id="tr-capo">Tp</span><sup class="super" id="count"></sup></button>
+            <button type="button" class="btn btn-dark" onclick="startInverval()" id="play-but"><span class="icon">&#9654;</span></button>
+            <button type="button" class="btn btn-dark" onclick="toggleDark()" id="dark-toggle"><span class="icon">&#9788;</span></button>
+            <button type="button" class="btn btn-dark" onclick="ft_sp()" id="b_but"><span class="icon">&flat;</span></button>
+        </div>
+        <script src="{backsteps}js/abcweb-1.js"></script>
+        <script src="{backsteps}js/abc2svg-1.js"></script>
+        <script src="{backsteps}js/snd-1.js"></script>
+        <script src="{backsteps}js/script.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+        </body>
+        </html>
+        '''
+
+        self.html_comunion_footer = f'''
+        <div id="alma-de-cristo"></div>
         <br><br><br><br>
         <div class="btn-group btn-group-lg fixed-bottom mx-auto shadow toolbar" role="group" aria-label="Basic example">
             <button type="button" class="btn btn-dark" id="up" onclick="tpup()"><span class="icon">+1</span></button>
@@ -354,7 +395,7 @@ def subtitle_from_folder(folder):
     return ' - '.join(mid)
 
 class song:
-    def __init__(self,file_name,backsteps,folder='',abc_sheet=None):
+    def __init__(self,file_name,backsteps,folder='',abc_sheet=None,comunion=False):
         self.raw = open(file_name,'r',encoding='utf-8').read()
         # spt = self.raw.split('\n')
         meta = self.raw.split('{song}')[0].split('\n')[:-1]
@@ -404,13 +445,17 @@ class song:
             except:
                 pass
         html_constants = constants(backsteps,title=self.meta['title'])
-        self.html_preamble = html_constants.header + html_constants.navbar + metadata
-        self.html_footer = abc_sheet + html_constants.html_footer
+        if comunion:
+            self.html_preamble = html_constants.comunion_header + html_constants.navbar + metadata
+            self.html_footer = abc_sheet + html_constants.html_comunion_footer
+        else:
+            self.html_preamble = html_constants.header + html_constants.navbar + metadata
+            self.html_footer = abc_sheet + html_constants.html_footer
     def to_html(self,backsteps):
         html = '\n'.join([teil.to_html(backsteps) for teil in self.teile])
         return self.html_preamble + '\n' + html + '\n'+ self.html_footer
 
-def create_html(file_path):
+def create_html(file_path,comunion = False):
     backsteps = rech_backsteps(path,file_path,is_file=True)
     file_name = file_path.split('/')[-1][:-4]
     name_ext = '/'.join(file_path.split('/')[:-1])
@@ -420,7 +465,7 @@ def create_html(file_path):
     except:
         abc_sheet = None
     newfile = open(f'{name_ext}/{file_name}.html','w',encoding='utf-8')
-    newfile.write(song(file_path,backsteps,folder=name_ext.split('.io/')[1],abc_sheet=abc_sheet).to_html(backsteps))
+    newfile.write(song(file_path,backsteps,folder=name_ext.split('.io/')[1],abc_sheet=abc_sheet,comunion=comunion).to_html(backsteps))
     # "name_ext.split('.io/')[1]" retrieves the relative path, i.e. only the part next to DiegoRdz99.github.io
     newfile.close()
 
@@ -538,7 +583,12 @@ if __name__=='__main__':
                 dirs = sorted(os.listdir(folder+'/'+sub_folder))
                 songs = [i for i in dirs if i[-4:]=='.txt']
                 for s in songs:
-                    create_html(folder+'/'+sub_folder+'/'+s)
+                    if sub_folder == '8 - Comunión':
+                        comunion = True
+                    else:
+                        comunion = False
+                    print(sub_folder,comunion)
+                    create_html(folder+'/'+sub_folder+'/'+s,comunion=comunion)
                     abc_songs+=[(s,folder.split('/')[-1]+'/'+sub_folder+'/')]
                 create_index(folder)
 

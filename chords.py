@@ -144,6 +144,10 @@ ochords['add11'] = {
     'Gadd11':[3,2,0,0,1,x]
 }
 
+ochords['add9'] = {
+    'Gadd9':[3,2,0,2,3,x]
+}
+
 ochords['sus2'] = {
     'Asus2':[x,0,2,2,0,0],
     'Dsus2':[x,x,0,2,3,0]
