@@ -75,9 +75,10 @@ svg {
 
 
 .chord {
-	font-weight: 700;
+	font-weight: 800;
 	color: #707070;
 	position: relative;
+	padding-right: 1em;
 
 }
 
