@@ -81,9 +81,9 @@ class constants:
             <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
             <script>
-                $(
+                $(document).ready(
                     function () {{
-                    $("#alma-de-cristo").load("AlmaDeCristo.html");
+                    $("#alma-de-cristo").load("AlmaDeCristo.xd");
                 }});
             </script>
         </head>
@@ -109,6 +109,7 @@ class constants:
         '''
 
         self.html_comunion_footer = f'''
+        <br><br>
         <div id="alma-de-cristo"></div>
         <br><br><br><br>
         <div class="btn-group btn-group-lg fixed-bottom mx-auto shadow toolbar" role="group" aria-label="Basic example">
@@ -587,7 +588,6 @@ if __name__=='__main__':
                         comunion = True
                     else:
                         comunion = False
-                    print(sub_folder,comunion)
                     create_html(folder+'/'+sub_folder+'/'+s,comunion=comunion)
                     abc_songs+=[(s,folder.split('/')[-1]+'/'+sub_folder+'/')]
                 create_index(folder)
