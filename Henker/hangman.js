@@ -12,7 +12,9 @@ const henkerBox = document.getElementById('henker-box');
 let options = {
     Länder: ['Deutschland', 'Mexiko', 'Kolumbien', 'Kanada', 'Brasilien', 'Spanien', 'Argentinien', 'Österreich', 'Japan', 'China', 'England', 'Italien'],
     Farben: ['rot', 'gelb', 'blau', 'grau', 'grün', 'braun', 'lila', 'rosa','hellblau','dunkelgrün'],
-    Nomen: ['Mann','Männer','Frau','Hund','Junge','Kind','Mädchen','Handy','Katze','Zahl','Frauen','Tier','Frage'],
+    Tageszeiten: ['Morgen','Vormittag','Mittag','Nachmittag','Abend','Nacht'],
+    // Nomen: ['Mann','Männer','Frau','Hund','Junge','Kind','Mädchen','Handy','Katze','Zahl','Frauen','Tier','Frage'],
+    Wochentage: ['Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Sonntag','Samstag'],
     Zahlen: ['zwanzig','zehn','eins','drei','zwölf','elf','vier','fünf','sechs','sieben','acht','neun','zwei','zehn','einhundertfünfundsiebzig','sechsunddreißig','dreißig','vierzehn','siebzig','siebzehn','dreizehn'],
     Berufe: ['Superheld','Hexe','Feuerwehrmann','Schauspielerin','Schauspieler','Architekt','Psychologin','Bauer','Holzfäller','Fußballspieler','Schurke','Bergmann','Arzt','Ärztin'],
     Verben: ['gehen','kommen','sehen','fotografieren','schlafen','fahren','haben','lesen','essen','arbeiten']
