@@ -1,0 +1,31 @@
+title : Estás Aquí
+composer : Jésed
+key : C
+liturgy : Ordinario
+{song}
+/verse/
+Es[C]tás a[G]quí, aunque [F]no te pueda v[G]er
+Pues es[Dm]condes tu [F]gloria y majes[G]tad  [G7]
+Es[C]tás a[G]quí, reves[F]tido solam[Dm]ente del am[G]or
+[F]Bajo la [G]forma de un [C]pan
+/bridge/
+[G]  [Em]
+Con tu [Am]senci[Em]llez te me [F]vienes a entre[C]gar
+Y en [G]mi inte[Am]rior vas ha[F]ciendo mara[C]vi - [G]llas
+Cora[F]zón con cora[G]zón en pro[C]funda [G]comu[Am]nión
+Me haces [F]templo de la S[G]anta Trinid[C]ad [G]
+/Coro/
+[C]Ven y cena con[G]migo
+[F]Ven y mnora en mi ho[G]gar
+[C]Ven y nunca me [G]dejes
+Pues sin [F]Ti me mori[G]ría [E7]
+Me has he[Am]rido con tu a[Em]mor
+Ven y [F]mora en mi inte[C]rior
+De ti [Dm]quiero comul[G]gar, Se[C]ñor
+/bridge/
+[G]  [Em]
+Con tu [Am]senci[Em]llez te me [F]vienes a entre[C]gar
+Y en [G]mi inte[Am]rior vas ha[F]ciendo mara[C]vi - [G]llas
+Cora[F]zón con cora[G]zón en pro[C]funda [G]comu[Am]nión
+Me haces [F]templo de la S[G]anta Trinid[C]ad [G]
+Me haces [F]templo de la S[Fm]anta Trinid[C]ad [C^7]
