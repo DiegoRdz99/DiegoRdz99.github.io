@@ -32,13 +32,16 @@ class constants:
                     <a href="{backsteps}Semana Santa/index.html" class="nav-link">Semana Santa</a>
                 </li>
                 <li class="nav-item">
-                    <a href="{backsteps}Niños/index.html" class="nav-link">Niños</a>
-                </li>
-                <li class="nav-item">
                     <a href="{backsteps}Villancicos/index.html" class="nav-link">Villancicos</a>
                 </li>
                 <li class="nav-item">
                     <a href="{backsteps}Originales/index.html" class="nav-link">Originales</a>
+                </li>
+                <li class="nav-item">
+                    <a href="{backsteps}Niños/index.html" class="nav-link">Niños</a>
+                </li>
+                <li class="nav-item">
+                    <a href="{backsteps}Clásicas/index.html" class="nav-link">Clásicas</a>
                 </li>
                 <li class="nav-item">
                     <a href="{backsteps}Salmos/index.html" class="nav-link">Salmos</a>
