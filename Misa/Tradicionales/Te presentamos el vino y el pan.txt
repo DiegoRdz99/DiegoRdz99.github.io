@@ -1,0 +1,19 @@
+title : Te Presentamos el Vino y el Pan
+key : C
+composer : Indefinido
+{song}
+/Coro/
+T[C]e present[Am]amos el v[F]ino y el p[C]an
+Bend[F]ito s[C]eas por si[G7]empre, Señ[C]or
+/verse/
+Bend[C]ito s[F]eas, Señ[C]or
+Por [F]este pan que nos d[C]iste [C7]
+Fr[F]uto de la tierra
+Y del trab[C]ajo de los h[G7]ombres
+/coro/
+/verse/
+Bend[C]ito s[F]eas, Señ[C]or
+El v[F]ino Tú nos lo d[C]iste [C7]
+Fr[F]uto de la tierra
+Y del trab[C]ajo de los h[G7]ombres
+/coro/

@@ -1,0 +1,23 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:E. Loarca B.P. 1544
+S:
+M:3/4
+L:1/8
+Q:1/4=60
+K:G
+%
+%
+    S D2 | "C"E2 E2 G A | "G"B2 G2 "Am"(3cBA | "C"G2 "Am"E2 "D7"F2 | "G"G6 |]
+%%vskip 0
+w: Di-cho-so el que cum-ple la vo-lun-tad del Se-ñor
+%

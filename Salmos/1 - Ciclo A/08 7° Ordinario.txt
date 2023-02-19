@@ -1,0 +1,30 @@
+title : Salmo 102
+composer : E. Loarca B.P. 1545
+liturgy : Ordinario
+key : Eb
+subtitle : 7° Domingo del T. Ordinario
+{song}
+/resp/
+El Se[Eb]ñor es compa[Gm]si-[Cm]vo
+[Fm]Y [Abm]misericor[Bb]dio-[Eb]so
+[Fm7]Misericor[Bb7]dio-[Eb]so
+/salmo/
+Bendice al Señor, alma mía,
+que todo mi ser bendiga tu santo nombre.
+Bendice al Señor, alma mía,
+y no te olvides de sus beneficios.
+/salmo/
+El Señor perdona tus pecados
+y cura tus enfermedades;
+él rescata tu vida del sepulcro
+y te colma de amor y de ternura.
+/salmo/
+El Señor es compasivo y misericordioso,
+lento para enojarse y generoso para perdonar.
+No nos trata como merecen nuestras culpas,
+ni nos paga según nuestros pecados.
+/salmo/
+Como dista el oriente del ocaso,
+así aleja de nosotros nuestros delitos;
+como un padre es compasivo con sus hijos,
+así es compasivo el Señor con quien lo ama.

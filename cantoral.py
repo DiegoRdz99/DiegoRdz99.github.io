@@ -23,9 +23,6 @@ class constants:
                     <a href="{backsteps}Hora Santa/index.html" class="nav-link">Hora Santa</a>
                 </li>
                 <li class="nav-item">
-                    <a href="{backsteps}Himnos/index.html" class="nav-link">Himnos</a>
-                </li>
-                <li class="nav-item">
                     <a href="{backsteps}Alabanzas/index.html" class="nav-link">Alabanzas</a>
                 </li>
                 <li class="nav-item">
@@ -39,9 +36,6 @@ class constants:
                 </li>
                 <li class="nav-item">
                     <a href="{backsteps}Niños/index.html" class="nav-link">Niños</a>
-                </li>
-                <li class="nav-item">
-                    <a href="{backsteps}Clásicas/index.html" class="nav-link">Clásicas</a>
                 </li>
                 <li class="nav-item">
                     <a href="{backsteps}Salmos/index.html" class="nav-link">Salmos</a>

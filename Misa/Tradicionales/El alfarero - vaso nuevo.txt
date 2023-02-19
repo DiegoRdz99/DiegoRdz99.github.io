@@ -1,4 +1,4 @@
-title : El Alfarero Vaso Nuevo
+title : El Alfarero - Vaso Nuevo
 key : C
 {song}
 /verse/

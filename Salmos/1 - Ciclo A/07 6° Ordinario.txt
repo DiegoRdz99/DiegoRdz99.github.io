@@ -1,0 +1,29 @@
+title : Salmo 118
+composer : E. Loarca B.P. 1544
+liturgy : Ordinario
+key : G
+subtitle : 6° Domingo del T. Ordinario
+{song}
+/resp/
+Di[C]choso el que [G]cumple
+[Am]La volun[C]tad [Am]del [D7]Se-[G]ñor
+/salmo/
+Dichoso el hombre de conducta intachable,
+que cumple la ley del Señor.
+Dichoso el que es fiel a sus enseñanzas
+y lo busca de todo corazón.
+/salmo/
+Tú, Señor, has dado tus preceptos
+para que te observen exactamente.
+Ojalá que mis pasos se encaminen
+al cumplimiento de tus mandamientos.
+/salmo/
+Favorece a tu siervo
+para que viva y observe tus palabras.
+Ábreme los ojos para ver
+las maravillas de tu voluntad.
+/salmo/
+Muéstrame, Señor, el camino de tus leyes
+y yo lo seguiré con cuidado.
+Enséñame a cumplir tu voluntad
+y a guardarla de todo corazón.
