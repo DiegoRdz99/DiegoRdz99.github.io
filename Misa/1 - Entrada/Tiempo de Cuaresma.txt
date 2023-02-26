@@ -1,0 +1,31 @@
+title : Tiempo de Cuaresma
+composer : Moisés Alejandro Saenz
+liturgy : Cuaresma
+key : Dm
+{song}
+/intro/
+[Dm]
+/verse/
+Ha lleg[Dm]ado el t[C]iempo favor[F]able
+Verda[Gm]dero sacr[C]ament[F]al
+Como I[Gm]glesia peregrina recorr[Dm]emos
+El cam[A7]ino cuaresm[Dm]al [D7]
+Como I[Gm]glesia pere[C]grina recorr[Dm]emos
+El cam[A7]ino cuaresm[Dm]al
+/Coro/
+[D]   [A7]Es el [D]tiempo [A]de la gr[Bm]acia
+[G]Yo te es[A]cucha - [D]ré
+[A7]Ha lle[D]gado a[A]hora el d[Bm]ía
+[G]De la [A]salva - [D]ción
+[A7]Es el [D]tiempo [A]de la gr[Bm]acia
+[G]Yo te es[A]cucha - [D]ré
+[A7]Ha lle[D]gado a[A]hora el d[Bm]ía
+[G]De la [A]salva - [D]ción
+/verse/
+Dios es[Dm]tá lla[C]mando a su [F]pueblo
+Que se [Gm]deje pu[C]rifi[F]car
+Con la [Gm]penitencia y el a[Dm]yuno
+La ora[A7]ción y la cari[Dm]dad  [D7]
+Con la [Gm]penitencia y el a[Dm]yuno
+La ora[A7]ción y la cari[Dm]dad
+/coro/

@@ -1,5 +1,6 @@
 title : Un Joven Galileo
 liturgy : Cuaresma
+key : D
 {song}
 /intro/
 [D]  [Am]  [G]  [Gm]  [Em7b5]  [D]  [A]  [A+]
