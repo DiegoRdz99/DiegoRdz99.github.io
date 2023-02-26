@@ -141,7 +141,7 @@ def chordify(chord):
                 root+= '♭' # Flat accidental
                 og_root+= 'b'
             qual = chord.replace(og_root,'').replace('^','Δ').replace('*','/') # Remove root from chord
-            return [root,qual,FLAT,og_root,qual.replace('b','♭')] # Root + Quality
+            return [root,qual.replace('#','s'),FLAT,og_root,qual.replace('b','♭').replace('#','♯')] # Root + Quality
         except:
             return [root,'',FLAT,og_root,''] # For Major Chords
     except:

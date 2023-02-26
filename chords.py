@@ -153,8 +153,8 @@ ochords['sus2'] = {
     'Dsus2':[x,x,0,2,3,0]
 }
 
-ochords['sus2#5'] = {
-    'Dsus2#5':[x,x,0,3,3,0]
+ochords['sus2s5'] = {
+    'Dsus2s5':[x,x,0,3,3,0]
 }
 
 ochords['sus4'] = {
@@ -179,17 +179,13 @@ ochords['°7'] = {
     'D°7':[x,x,0,1,0,1]
 }
 
-ochords['7#9'] = {
-    'E7#9':[x,x,3,2,4,4]
+ochords['7s9'] = {
+    'E7s9':[x,x,3,2,4,4]
 }
 
 ochords['+'] = {
     'A+':[x,0,3,2,2,1],
     'D+':[x,x,0,3,3,2]
-}
-
-ochords['sus2#5'] = {
-    'Dsus2#5':[x,x,0,3,3,0],
 }
 
 ochords['5'] = {
