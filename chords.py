@@ -188,6 +188,16 @@ ochords['+'] = {
     'D+':[x,x,0,3,3,2]
 }
 
+ochords['sus2#5'] = {
+    'Dsus2#5':[x,x,0,3,3,0],
+}
+
+ochords['5'] = {
+    'D5':[x,x,0,2,3,5],
+    'E5':[0,2,2,x,x,x]
+}
+
+
 
 qualities = [key for key in ochords.keys()]
 for q in qualities:
