@@ -17,12 +17,20 @@ Q:1/2=80
 K:Dm
 %
 %
-   D2 E | "Dm"F3 F2 F | "C"G2 G F2 G | "F"A3 A3 | z3 G2 A |
+   D2E | "Dm"F3 F2F | "C"G2G F2G | "F"A3 A3 | z3 G2A |
 %%vskip 0
 w: Ha lle-ga-do el tiem-po fa-vo-ra-ble ver-da
-   B3 B2 A | G2 B3 A-|A6 | z3 A2 A | G2 G G2 G | G2 G A2 E | 
+   "Gm"B3 B2A | "C"G2 B3 A-|"F"A6 | z3 A2A | "Gm"G2G G2G | G2G A2E | 
 w: de-ro sa-cra-men-tal_ co-mo~I-gle-sia pe-re-gri-na re-co-
-   G3 F3 | z3 F2 F | E3 E3 | F2 E3 A-| A6 | z3 A2 A | G2 G G2 G | G2 G A2 E | 
+   "Dm"G3 F3 | z3 F2F | "A7"E3 E3 | F2 E3 A-| "Dm"A6 | "D7"z3 A2A | "Gm"G2G G2G | "C"G2G A2E | 
 w: rre-mos el ca-mi-no cua-res-mal_ co-mo~I-gle-sia pe-re-gri-na re-co-
-   G3 F3 | z3 F2 F | E3 E3 | F2 E3 D-| D6 |
+   "Dm"G3 F3 | z3 F2 F | "A7"E3 E3 | F2 E3 D-|"Dm"D6 |z6 ||
 w: rre-mos el ca-mi-no cua-res-mal_
+   [K:D]"D"z6 |: "A7"D3 E3 | "D"F3 F3 | "A7"E2 F3 E-|"Bm"E2 D4-|
+w: Es el tiem-po de la gra--cia
+   "Bm/A"D3 z3 | "G"E3 E3 | "A7"D2 E4 |"D"F3 z3 |
+w: _ Yo te~es-cu-cha-ré
+   "A7"D3 E3 | "D"F3 F3 | "A7"E2 F3 E-|"Bm"E2 D4-|
+w: Ha lle-ga-do~a-hora el dí--a
+   "Bm/A"D3 z3 | "G"E3 E3 | "A7"D2 C4 |"D"D3 z3 :|
+w: _ De la sal-va-ción
