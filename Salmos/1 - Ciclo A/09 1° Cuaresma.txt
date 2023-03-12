@@ -1,0 +1,29 @@
+title : Salmo 50
+composer : J. García B.P. 1516
+liturgy : Cuaresma
+key : Eb
+subtitle : 1° Domingo de Cuaresma
+{song}
+/resp/
+[Cm]Miseri[Ab]cordia Se[Fm]ñor
+[Fm]Hemos pe[Cm]ca-[G]a-[Gm]do
+/salmo/
+Por tu inmensa compasión y misericordia,
+Señor, apiádate de mí y olvida mis ofensas.
+Lávame bien de todos mis delitos
+y purifícame de mis pecados.
+/salmo/
+Puesto que reconozco mis culas,
+tengo siempre presentes mis pecados.
+Contra si tolo pequé, Señor,
+haciendo lo que a tus ojos era malo.
+/salmo/
+Crea en mí, Señor, un corazón puro,
+un espíritu nuevo para cumplir tus mandamientos
+No me arrojes, Señor, lejos de ti,
+ni retires de mí tu santo espíritu.
+/salmo/
+Devuélveme tu salvación, que regocija,
+y mantén en mí un alma generosa.
+Señor, abre mis labios
+y cantará mi boca tu alabanza.

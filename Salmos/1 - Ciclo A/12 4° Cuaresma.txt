@@ -1,0 +1,9 @@
+title : Salmo 22
+subtitle : 4° Domingo de Cuaresma
+composer : V.M. Amaral B.P. 1736
+key : Bb
+liturgy : Cuaresma
+{song}
+/resp/
+[Bb]El Se[Eb]ñor es [F7]mi pas-[Bb]tor,
+Nada me [F7]falta[Bb]rá

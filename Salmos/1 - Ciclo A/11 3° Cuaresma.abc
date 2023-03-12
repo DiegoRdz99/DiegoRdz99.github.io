@@ -1,0 +1,22 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:J. García B.P. 1518
+S:
+M:2/4
+L:1/8
+Q:1/4=60
+K:A
+%
+%
+    C | "F#m"F3 F | "D"FGAF | "C#m7"EECE | "F#m"F4 |]
+%%vskip 0
+w: Se-ñor, que no se-a-mos sor-dos a tu voz.

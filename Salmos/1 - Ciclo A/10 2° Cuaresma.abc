@@ -1,0 +1,22 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:M. Ramírez B.P. 1517
+S:
+M:2/4
+L:1/8
+Q:1/4=60
+K:G
+%
+%
+    "Em"(E2 F2) | "Am"G4 | "F#°7"AGFE | "B7"GFE^D | "Em"E2 E2-| E4 |]
+%%vskip 0
+w: Se--ñor, ten mi-se-ri-cor-dia de no-so-tros._

@@ -1,0 +1,23 @@
+title : Salmo 94
+subtitle : 3° Domingo de Cuaresma
+composer : J. García B.P. 1518
+liturgy : Cuaresma
+key : A
+{song}
+/resp/
+Se[F#m]ñor, que [D]no seamos [C#m7]sordos a tu [F#m]voz.
+/salmo/
+Vengan, lancemos vivas al Señor,
+aclamemos al Dios que nos salva.
+Acerquémonos a él, llenos de júbilo,
+y démosle gracias.
+/salmo/
+Vengan, y puestos de rodillas,
+adoremos y bendigamos al Señor, que nos hizo,
+pues él es nuestro Dios y nosotros, su pueblo;
+él es nuestro pastor y nosotros, sus ovejas.
+/salmo/
+"No endurezcan su corazón,
+comoe l día de la rebelión en el desierto,
+cuando sus padres dudaron de mí,
+aunque habían visto mis obras".

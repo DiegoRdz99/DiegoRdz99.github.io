@@ -1,0 +1,9 @@
+title : Contigo María
+composer : Athenas
+key : D
+{song}
+/intro/
+[D]  [Dsus2]    [G]  [G^7]
+[D]  [Dsus2]    [G]  [G^7]
+/verse/
+[D] Quiero caminar contigo Ma[G]ría [G^7]

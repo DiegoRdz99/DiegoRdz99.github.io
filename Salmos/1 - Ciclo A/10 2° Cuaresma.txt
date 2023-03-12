@@ -1,0 +1,23 @@
+title : Salmo 32
+subtitle : 2° Domingo de Cuaresma
+composer : M. Ramírez B.P. 1517
+liturgy : Cuaresma
+key : G
+{song}
+/resp/
+[Em]Se-e-[Am]ñor,[F#°7]ten miseri[B7]cordia de no[Em]sotros
+/salmo/
+Sincera es la palabra del Señor
+y todas sus acciones son leales.
+Él ama la justicia y el derecho,
+la tierra llena está de sus bondades.
+/salmo/
+Cuida el Señor de aquellos que lo temen
+y en su bondad confían;
+los salva de la muerte
+y en épocas de hambre les da vida.
+/salmo/
+En el Señor está nuestra esperanza,
+pues él es nuestra ayuda y nuestro amparo.
+Muéstrate bondadoso con nosotros,
+puesto que en ti, Señor, hemos confiado.
