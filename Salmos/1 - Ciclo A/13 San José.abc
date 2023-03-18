@@ -1,0 +1,22 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:H. Ramírez B.P. 1580
+S:
+M:3/4
+L:1/8
+Q:1/4=80
+K:D
+%
+%
+    "D"z3 ABA | "A7/F#"G2 FE"Em"GF | "A"A2-"G"A GFE || [M:2/4] "A7"(F2 E2) | "D"D4 |]
+%%vskip 0
+w: Su des-cen-den-cia per-du-ra-rá_ e-ter-na-men--te.

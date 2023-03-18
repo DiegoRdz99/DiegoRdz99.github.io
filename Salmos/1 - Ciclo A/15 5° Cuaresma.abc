@@ -1,0 +1,22 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:C. Gálvez B.P. 1520
+S:
+M:C
+L:1/8
+Q:1/4=80
+K:F
+%
+%
+    D |: "Dm"FF"A7"EF"Dm"D3 G | [1"Bb"FEDC "Dm"D2 z D] :| [2"Bb"FE"Gm"DC "Dm"D3 |]
+%%vskip 0
+w: Per-dó-na-nos, Se-ñor, y vi-vi-re--mos Per-vi-vi-re-mos.

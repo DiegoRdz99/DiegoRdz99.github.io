@@ -1,0 +1,29 @@
+title : Salmo 39
+subtitle : Anunciación del Señor
+composer : L. Martínez B.P. 1541
+liturgy : Anunciación del Señor
+key : Gm
+{song}
+/resp/
+A[Gm]quí estoy Se[Cm]ñor,
+Para ha[Em]cer tu [Dm]volun[Gm]tad
+/salmo/
+Sacrificios, Señor, tú no quisiste,
+abriste, en cambio, mis oídos a tu voz.
+No exigiste holocaustos por la culpa,
+así que dije: "Aquí estoy".
+/salmo/
+En tus libros se me ordena
+hacer tu voluntad;
+esto es, Señor, lo que deseo:
+tu ley en medio de mi corazón.
+/salmo/
+He anunciado tu justicia
+en la gran asamblea;
+no he cerrado mis labios,
+tú lo sabes, Señor.
+/salmo/
+No callé tu justicia,
+antes bien, proclamé tu lealtad y tu auxilio.
+Tu amor y tu lealtad no los he ocultado
+a la gran asamblea.

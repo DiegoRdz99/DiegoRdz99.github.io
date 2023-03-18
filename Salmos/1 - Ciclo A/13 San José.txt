@@ -1,0 +1,24 @@
+title : Salmo 88
+subtitle : San José, esposo de la santísima Virgen María
+composer : H. Ramírez B.P. 1580
+key : D
+liturgy : San José
+{song}
+/resp/
+[D]  Su descen[A7*F#]dencia per[Em]dura[A]rá
+[G]  Eterna[A7]men-[D]te
+/salmo/
+Proclamaré sin cesar la misericordia del Señor
+y daré a conocer que su fidelidad es eterna,
+pues el Señor ha dicho: "Mi amor es para siempre
+y mi lealtad, más firme que los cielos.
+/salmo/
+Un juramento hice a David, mi servidor,
+una alianza pacté con mi elegido:
+'Consolidaré tu dinastía para siempre
+y afianzaré tu trono eternamente'.
+/salmo/
+Él me podrá decir: 'Tú eres mi padre,
+el Dios que me protege y que me salva'.
+Yo jamás le retiraré mi amor
+ni violaré el juramento que le hice".
