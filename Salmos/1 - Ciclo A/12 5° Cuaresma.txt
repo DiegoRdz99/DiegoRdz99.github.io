@@ -1,0 +1,30 @@
+title : Salmo 129
+subtitle : 5° Domingo de Cuaresma
+composer : C. Gálvez B.P. 1520
+liturgy : Cuaresma
+key : Dm
+{song}
+/resp/
+Per[Dm]dóna[A7]nos, Se[Dm]ñor, y [Bb]vivire-e[Dm]mos
+Per[Dm]dóna[A7]nos, Se[Dm]ñor, y [Bb]vivi[Gm]re-e[Dm]mos
+/salmo/
+Desde el abismo de mis pecados clamo a ti;
+Señor, escucha mi clamor;
+que estén atentos tus oídos
+a mi voz suplicante.
+/salmo/
+Si conservaras el recuerdo de las culpas,
+¿quién habría, Señor, que se salvara?
+Pero de ti precede el perdón,
+por eso con amor te veneramos.
+/salmo/
+Confío en el Señor,
+mi alma espera y confía en su palabra;
+mi alma aguarda al Señor,
+mucho más que a la aurora el centinela.
+/salmo/
+Como aguarda a la aurora el centinela,
+aguarda Israel al Señor,
+porque del Señor viene la misericordia
+y la abundancia de la redención,
+de todas sus inquidades.
