@@ -1,0 +1,29 @@
+title : Salmo 21
+subtitle : Domingo de Ramos de la pasión del Señor
+composer : B. Carrillo B.P. 1521
+key : Gm
+liturgy : Domingo de Ramos
+{song}
+/resp/
+Dios [Bb]mío, Dios [Gm]mío
+¿Por [Eb]qué [F]me has abando[Gm]nado?
+/salmo/
+Todos los que me ven, de mí se burlan;
+me hacen gestos y dicen:
+"Confiaba en el Señor, pues que él lo salve;
+si de veras lo ama, que lo libre".
+/salmo/
+Los malvados me cercan por doquiera
+como rabiosos perros.
+Mis manos y mis pies han taladrado
+y se pueden contar todos mis huesos.
+/salmo/
+Reparten entre sí mis vestiduras
+y se juegan mi túnica a los dados.
+Señor, auxilio mío, ven y ayúdame,
+no te quedes de mí tan alejado.
+/salmo/
+A mis hermanos contaré tu gloria
+y en la asamblea alabaré tu nombre.
+Que alaben al Señor los que lo temen.
+Que el pueblo de Israel siempre lo adore.

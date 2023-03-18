@@ -1,0 +1,22 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:B. Carrillo B.P. 1524
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:D
+%
+%
+    A, | "D"FEFG | A4 | "G"B2 "Em"GF | "A"E4 | "D"D4 |]
+%%vskip 0
+w: Ben-di-ce al Se-ñor, al-ma_ mí-a.

@@ -1,0 +1,22 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:B. Carrillo B.P. 1522
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:Em
+%
+%
+    "B"(B3 A) | "Em"G2 GF | EEEF | G2 EG | "F#"F3 E | "B"F4 |]
+%%vskip 0
+w: Pa--dre, en tus ma-nos en-co-mien-do mi~es-pí-ri-tu.

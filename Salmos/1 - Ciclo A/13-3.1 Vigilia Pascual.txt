@@ -1,0 +1,33 @@
+title : Salmo 103
+subtitle : Vigilia Pascual en la noche Santa
+composer : B. Carrillo B.P. 1524
+key : D
+liturgy : Vigilia Pascual
+{song}
+/resp/
+Ben[D]dice al Señor, [G]al-[Em]ma [A]mí-[D]a
+/salmo/
+Bendice al Señor, alma mía;
+Señor y Dios mío, inmensa es tu grandeza.
+Te vistes de belleza y majestad,
+la luz te envuelve como un manto.
+/salmo/
+Sobre bases inconmovibles
+asentaste la tierra para siempre.
+Con un vestido de mares la cubriste
+y las agaus en los montes concentraste.
+/salmo/
+En los valles haces brotar las fuentes,
+que van corriendo entre montañas;
+junto al arroyo vienen a vivir las aves,
+que cantan entre las ramas.
+/salmo/
+Desde tu cielo riegas los montes
+y sacias la tierra del fruto de tus manos;
+haces brotar hierba para los ganados
+y pasto para los que sirven al hombre.
+/salmo/
+¡Qué numerosas son tus obras, Señor,
+y todas las hiciste con maestría!
+La tierra está llena de tus creaturas.
+Bendice al Señor, alma mía.

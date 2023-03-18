@@ -377,10 +377,15 @@ BLACK = '#242424'
 
 liturgy_colors = {
     'Ordinario': GREEN, # green
+
     'Adviento': LILA, 'Cuaresma':LILA, # purple
-    'Pascua': GOLD, 'Navidad':GOLD, 'Domingo de Resurrección':GOLD, 'Santa María, Madre de Dios': GOLD, 'Sagrada Familia':GOLD, 'San José':GOLD, 'Anunciación del Señor':GOLD, # gold
-    'Viernes Santo':RED, 'Semana Santa' : RED, # red
+
+    'Pascua': GOLD, 'Navidad':GOLD, 'Domingo de Resurrección':GOLD, 'Santa María, Madre de Dios': GOLD, 'Sagrada Familia':GOLD, 'San José':GOLD, 'Anunciación del Señor':GOLD, 'Jueves Santo':GOLD, 'Vigilia Pascual':GOLD, # gold
+
+    'Viernes Santo':RED, 'Semana Santa' : RED, 'Domingo de Ramos' : RED, 'Viernes Santo':RED, # red
+
     'Difuntos':BLACK, # black
+
     'Vírgen de Guadalupe':BLUE # blue
 }
 

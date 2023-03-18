@@ -1,0 +1,22 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:B. Carrillo B.P. 1522
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:Gm
+%
+%
+    "A"A2 "D"F3/2 E/2 | "Bm"D2 "G"B,D | GGAB | "A"A4 | "D"A4 |]
+%%vskip 0
+w: Gra-cias, Se-ñor, por tu san-gre que nos la-va.

@@ -1,0 +1,24 @@
+title : Salmo 115
+subtitle : Jueves Santo de la Cena del Señor
+composer : B. Carrillo B.P. 1522
+key : D
+liturgy : Jueves Santo
+{song}
+/resp/
+[A]Gra-[D]cias, Se[Bm]ñor,
+[G]Por tu sangre que nos [A]la-[D]va
+/salmo/
+¿Cómo le pagaré al Señor
+todo el bien que me ha hecho?
+Levantaré el cáliz de salvación
+e invocaré el nombre del Señor.
+/salmo/
+A los ojos del Señor es muy penoso
+que mueran sus amigos.
+De la muerte, Señor, me has librado,
+a mí, tu esclavo e hijo de tu esclava.
+/salmo/
+Te ofreceré con gratitud un sacrificio
+e invocaré tu nombre.
+Cumpliré mis promesas al Señor
+ante todo su pueblo.

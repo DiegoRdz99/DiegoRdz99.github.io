@@ -1,0 +1,22 @@
+%abc-2.2
+%%MIDI program 74
+%%pagewidth 18cm
+%bgcolor white
+%%topspace 0
+%%composerspace 0
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+F:
+C:C. Gálvez B.P. 1520
+S:
+M:2/4
+L:1/8
+Q:1/4=70
+K:Gm
+%
+%
+    D | "Bb"F2 FD | "Gm"G2 GG | [M:3/4] "Eb"B2 "F"AGFA | "Gm"G2 G2 z2 |]
+%%vskip 0
+w: Dios mí-o, Dios mí-o, ¿por qué me~has a-ban-do-na-do?
