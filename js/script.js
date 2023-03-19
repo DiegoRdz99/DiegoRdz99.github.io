@@ -20,12 +20,6 @@ var play = false; // autoscroll is set to false default;
 output.innerHTML = trans;
 const base = [];
 
-var abcScore = document.getElementById('abc-score');
-if (window.innerWidth < 500) {
-    abcScore.innerHTML.replace('pagewidth 18cm','pagewidth 10cm');
-    console.log('xd')
-}
-
 
 function sign(a) {
     if (a < 0) {

@@ -4213,7 +4213,6 @@ AAAAAN2HW+gAAAAA0ZciFwAAAADeLXWv\
     var font_tb = [], font_st = {}, font_scale_tb = { serif: 1, serifBold: 1, 'sans-serif': 1, 'sans-serifBold': 1, Palatino: 1.1, monospace: 1.35 }, txt_ff = "Nunito", fmt_lock = {}
     var PageWidth;
     if (window.innerWidth < 500) {
-        console.log(window.innerWidth)
         PageWidth = 9;
     } else {
         PageWidth = 18;
