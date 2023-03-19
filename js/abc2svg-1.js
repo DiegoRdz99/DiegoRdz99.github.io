@@ -4214,7 +4214,7 @@ AAAAAN2HW+gAAAAA0ZciFwAAAADeLXWv\
     var PageWidth;
     if (window.innerWidth < 500) {
         console.log(window.innerWidth)
-        PageWidth = 10;
+        PageWidth = 9;
     } else {
         PageWidth = 18;
     }
@@ -4225,7 +4225,7 @@ S "Source: "\n\
 D "Discography: "\n\
 N "Notes: "\n\
 Z "Transcription: "\n\
-H "History: "', infospace: 0, keywarn: true, leftmargin: 1.4 * CM, lineskipfac: 1.1, linewarn: true, maxshrink: .65, maxstaffsep: 2000, maxsysstaffsep: 2000, measrepnb: 1, measurefont: { name: txt_ff, style: "italic", size: 10 }, measurenb: -1, musicfont: { name: "music", src: musicfont, size: 24 }, musicspace: 6, partsfont: { name: txt_ff, size: 15 }, parskipfac: .4, partsspace: 8, pagewidth: PageWidth * CM, "propagate-accidentals": "o", printmargin: 0, rightmargin: 1.4 * CM, rbmax: 4, rbmin: 2, repeatfont: { name: txt_ff, size: 9 }, scale: 1, slurheight: 1.0, spatab: new Float32Array([10.2, 13.3, 17.3, 22.48, 29.2, 38, 49.4, 64.2, 83.5, 108.5]), staffsep: 46, stemheight: 21, stretchlast: .25, stretchstaff: true, subtitlefont: { name: txt_ff, size: 16 }, subtitlespace: 3, sysstaffsep: 34, tempofont: { name: txt_ff, weight: "bold", size: 12 }, textfont: { name: txt_ff, size: 16 }, textspace: 14, tieheight: 1.0, titlefont: { name: txt_ff, size: 20 }, titlespace: 6, titletrim: true, topspace: 22, tuplets: [0, 0, 0, 0], tupletfont: { name: txt_ff, style: "italic", size: 12 }, vocalfont: { name: txt_ff, weight: "bold", size: 13 }, vocalspace: 10, voicefont: { name: txt_ff, weight: "bold", size: 13 }, writefields: "CMOPQsTWw", wordsfont: { name: txt_ff, size: 16 }, wordsspace: 5, "writeout-accidentals": "n"
+H "History: "', infospace: 0, keywarn: true, leftmargin: 0.2 * CM, lineskipfac: 1.1, linewarn: true, maxshrink: .65, maxstaffsep: 2000, maxsysstaffsep: 2000, measrepnb: 1, measurefont: { name: txt_ff, style: "italic", size: 10 }, measurenb: -1, musicfont: { name: "music", src: musicfont, size: 24 }, musicspace: 6, partsfont: { name: txt_ff, size: 15 }, parskipfac: .4, partsspace: 8, pagewidth: PageWidth * CM, "propagate-accidentals": "o", printmargin: 0, rightmargin: 0.2 * CM, rbmax: 4, rbmin: 2, repeatfont: { name: txt_ff, size: 9 }, scale: 1, slurheight: 1.0, spatab: new Float32Array([10.2, 13.3, 17.3, 22.48, 29.2, 38, 49.4, 64.2, 83.5, 108.5]), staffsep: 46, stemheight: 21, stretchlast: .25, stretchstaff: true, subtitlefont: { name: txt_ff, size: 16 }, subtitlespace: 3, sysstaffsep: 34, tempofont: { name: txt_ff, weight: "bold", size: 12 }, textfont: { name: txt_ff, size: 16 }, textspace: 14, tieheight: 1.0, titlefont: { name: txt_ff, size: 20 }, titlespace: 6, titletrim: true, topspace: 22, tuplets: [0, 0, 0, 0], tupletfont: { name: txt_ff, style: "italic", size: 12 }, vocalfont: { name: txt_ff, weight: "bold", size: 13 }, vocalspace: 10, voicefont: { name: txt_ff, weight: "bold", size: 13 }, writefields: "CMOPQsTWw", wordsfont: { name: txt_ff, size: 16 }, wordsspace: 5, "writeout-accidentals": "n"
     }
     var sfmt = { bardef: true, barsperstaff: true, beamslope: true, breaklimit: true, bstemdown: true, cancelkey: true, dynalign: true, flatbeams: true, gracespace: true, hyphencont: true, keywarn: true, maxshrink: true, maxstaffsep: true, measrepnb: true, rbmax: true, rbmin: true, shiftunison: true, slurheight: true, squarebreve: true, staffsep: true, stemheight: true, stretchlast: true, stretchstaff: true, tieheight: true, timewarn: true, vocalspace: true }
     function get_bool(param) { return !param || !/^(0|n|f)/i.test(param) }
