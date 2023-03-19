@@ -1,0 +1,16 @@
+%abc-2.2
+%%MIDI program 74
+
+X:1
+F:
+C:B. Carrillo B.P. 1528
+S:
+M:6/8
+L:1/8
+Q:1/4=80
+K:F
+%
+%
+    z "C"CC GFG | "Gm"BAG "Bb"F2 A | "C"G3 z3 |]
+%%vskip 0
+w: El Se-ñor es mi Dios y mi sal-va-dor.

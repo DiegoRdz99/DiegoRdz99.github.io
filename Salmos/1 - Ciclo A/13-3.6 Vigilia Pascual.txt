@@ -1,0 +1,29 @@
+title : Salmo 18
+subtitle : Vigilia Pascual, Sexta Lectura
+composer : B. Carrillo B.P. 1529
+key : E
+liturgy : Vigilia Pascual
+{song}
+/resp/
+Tú [E]tienes, Se[B]ñor,
+pa[C#m]labras de [A]vida eter[E]na.
+/salmo/
+La ley del Señor es perfecta del todo
+y reconforta el alma;
+inmutables son las palabras del Señor
+y hacen sabio al sencillo.
+/salmo/
+En los mandamientos del Señor hay rectitud
+y alegría para el corazón;
+son luz los preceptos del Señor
+para alumbrar el camino.
+/salmo/
+La voluntad de Dios es santa
+y para siempre estable;
+los mandatos del Señor son verdaderos
+y enteramente justos.
+/salmo/
+Más deseables que el oro y las piedras preciosas,
+las normas del Señor,
+y más dulces que la miel
+de un panal que gotea.
