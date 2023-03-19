@@ -4211,12 +4211,12 @@ bmlFQ0E5B3VuaUVDQjcAAAAAAAAB//8AAgABAAAAAAAAAAwAFAAEAAAAAgAAAAEAAAABAAAAAAAB\
 AAAAAN2HW+gAAAAA0ZciFwAAAADeLXWv\
 ") format("truetype")'
     var font_tb = [], font_st = {}, font_scale_tb = { serif: 1, serifBold: 1, 'sans-serif': 1, 'sans-serifBold': 1, Palatino: 1.1, monospace: 1.35 }, txt_ff = "Nunito", fmt_lock = {}
-    var PageWidth;
-    if (window.innerWidth < 500) {
-        PageWidth = 9;
-    } else {
-        PageWidth = 18;
-    }
+    // var PageWidth;
+    // if (window.innerWidth < 500) {
+    //     PageWidth = 9;
+    // } else {
+    //     PageWidth = 18;
+    // }
     var cfmt = {
         "abc-version": "1", annotationfont: { name: "text,sans-serif", size: 12 }, aligncomposer: 1, beamslope: .4, bardef: { "[": "", "[]": "", "|:": "[|:", "|::": "[|::", "|:::": "[|:::", ":|": ":|]", "::|": "::|]", ":::|": ":::|]", "::": ":][:" }, breaklimit: .7, breakoneoln: true, cancelkey: true, composerfont: { name: txt_ff, style: "italic", size: 14 }, composerspace: 6, decoerr: true, dynalign: true, footerfont: { name: txt_ff, size: 16 }, fullsvg: '', gchordfont: { name: "text,sans-serif", size: 12 }, gracespace: new Float32Array([6, 8, 11]), graceslurs: true, headerfont: { name: txt_ff, size: 16 }, historyfont: { name: txt_ff, size: 16 }, hyphencont: true, indent: 0, infofont: { name: txt_ff, style: "italic", size: 14 }, infoname: 'R "Rhythm: "\n\
 B "Book: "\n\
@@ -4224,7 +4224,7 @@ S "Source: "\n\
 D "Discography: "\n\
 N "Notes: "\n\
 Z "Transcription: "\n\
-H "History: "', infospace: 0, keywarn: true, leftmargin: 0.2 * CM, lineskipfac: 1.1, linewarn: true, maxshrink: .65, maxstaffsep: 2000, maxsysstaffsep: 2000, measrepnb: 1, measurefont: { name: txt_ff, style: "italic", size: 10 }, measurenb: -1, musicfont: { name: "music", src: musicfont, size: 24 }, musicspace: 6, partsfont: { name: txt_ff, size: 15 }, parskipfac: .4, partsspace: 8, pagewidth: PageWidth * CM, "propagate-accidentals": "o", printmargin: 0, rightmargin: 0.2 * CM, rbmax: 4, rbmin: 2, repeatfont: { name: txt_ff, size: 9 }, scale: 1, slurheight: 1.0, spatab: new Float32Array([10.2, 13.3, 17.3, 22.48, 29.2, 38, 49.4, 64.2, 83.5, 108.5]), staffsep: 46, stemheight: 21, stretchlast: .25, stretchstaff: true, subtitlefont: { name: txt_ff, size: 16 }, subtitlespace: 3, sysstaffsep: 34, tempofont: { name: txt_ff, weight: "bold", size: 12 }, textfont: { name: txt_ff, size: 16 }, textspace: 14, tieheight: 1.0, titlefont: { name: txt_ff, size: 20 }, titlespace: 6, titletrim: true, topspace: 22, tuplets: [0, 0, 0, 0], tupletfont: { name: txt_ff, style: "italic", size: 12 }, vocalfont: { name: txt_ff, weight: "bold", size: 13 }, vocalspace: 10, voicefont: { name: txt_ff, weight: "bold", size: 13 }, writefields: "CMOPQsTWw", wordsfont: { name: txt_ff, size: 16 }, wordsspace: 5, "writeout-accidentals": "n"
+H "History: "', infospace: 0, keywarn: true, leftmargin: 0.2 * CM, lineskipfac: 1.1, linewarn: true, maxshrink: .65, maxstaffsep: 2000, maxsysstaffsep: 2000, measrepnb: 1, measurefont: { name: txt_ff, style: "italic", size: 10 }, measurenb: -1, musicfont: { name: "music", src: musicfont, size: 24 }, musicspace: 6, partsfont: { name: txt_ff, size: 15 }, parskipfac: .4, partsspace: 8, pagewidth: window.innerWidth*0.8, "propagate-accidentals": "o", printmargin: 0, rightmargin: 0.2 * CM, rbmax: 4, rbmin: 2, repeatfont: { name: txt_ff, size: 9 }, scale: 1, slurheight: 1.0, spatab: new Float32Array([10.2, 13.3, 17.3, 22.48, 29.2, 38, 49.4, 64.2, 83.5, 108.5]), staffsep: 46, stemheight: 21, stretchlast: .25, stretchstaff: true, subtitlefont: { name: txt_ff, size: 16 }, subtitlespace: 3, sysstaffsep: 34, tempofont: { name: txt_ff, weight: "bold", size: 12 }, textfont: { name: txt_ff, size: 16 }, textspace: 14, tieheight: 1.0, titlefont: { name: txt_ff, size: 20 }, titlespace: 6, titletrim: true, topspace: 22, tuplets: [0, 0, 0, 0], tupletfont: { name: txt_ff, style: "italic", size: 12 }, vocalfont: { name: txt_ff, weight: "bold", size: 13 }, vocalspace: 10, voicefont: { name: txt_ff, weight: "bold", size: 13 }, writefields: "CMOPQsTWw", wordsfont: { name: txt_ff, size: 16 }, wordsspace: 5, "writeout-accidentals": "n"
     }
     var sfmt = { bardef: true, barsperstaff: true, beamslope: true, breaklimit: true, bstemdown: true, cancelkey: true, dynalign: true, flatbeams: true, gracespace: true, hyphencont: true, keywarn: true, maxshrink: true, maxstaffsep: true, measrepnb: true, rbmax: true, rbmin: true, shiftunison: true, slurheight: true, squarebreve: true, staffsep: true, stemheight: true, stretchlast: true, stretchstaff: true, tieheight: true, timewarn: true, vocalspace: true }
     function get_bool(param) { return !param || !/^(0|n|f)/i.test(param) }
