@@ -5,15 +5,19 @@ liturgy : Ordinario
 {song}
 /Coro/
 A[E]cércate y toma tu lugar en la
-{[D]fiesta|Toma tu lugar en la [A]|fiesta
+{[D]fiesta|Toma tu lugar
+{|en la [A]|fiesta
 A[E]cércate pues hoy es Dios el que nos
-{Con[D]grega|Hoy es Dios el que nos con[A]|grega
+{Con[D]grega|Hoy es Dios el que nos
+{|con[A]|grega
 A[E]cércate que somos tu familia la
-{I-[D]glesia|Somos tu familia la I[A]|glesia
+{I-[D]glesia|Somos tu familia la
+{|I[A]|glesia
 A[E]cércate pues Cristo dijo:
-{"Vengan y [D]vean"|Cristo dijo "vengan y [A]|vean"
+{"Vengan y [D]vean"|Cristo dijo
+{|"vengan y [A]|vean"
 /verse/
-Sa[E]luda a tu hermano, pues es bienvenido
+Sa[E]luda a tu hermano,pues es bienvenido
 y [D]dale la paz, que vi[A]ene de Cristo
 {[]|Sa[E]|luda a tu hermano, pues es bienvenido
 {[]|y [D]|dale la paz, que vi[A]|ene de Cristo
@@ -37,9 +41,11 @@ A[E]quí no se juzga, aquí se comulga
 A[D]quí practicamos la [A]misericordia
 {[]|A[E]|quí no se juzga, aquí se comulga
 {[]|A[D]|quí practicamos la [A]|misericordia
-{[E]Este es un lugar de perdón []y reconciliaci|y reconciliaci[D]ón |ón [A]
+{[E]Este es un lugar de perdón
+{[]y reconciliaci|y reconciliaci[D]ón |ón [A]
 /coro/
 /verse/
 A[E]cércate
-Acércate a [D]Cristo pues tú eres la Igl[A]esia
+Acércate a [D]Cristo
+pues tú eres la Igl[A]esia
 Acércate[E]

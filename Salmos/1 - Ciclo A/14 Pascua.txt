@@ -5,7 +5,8 @@ key : F
 liturgy : Pascua
 {song}
 /resp/
-[F]Este es el [Bb]día del [Gm]triunfo [C7]del Se[F]ñor.
+[F]Este es el [Bb]día
+del [Gm]triunfo [C7]del Se[F]ñor.
 [C]Alelu[Dm]ya, [Gm]ale[C7]lu - [F]ya.
 /salmo/
 Te damos gracias, Señor, porque eres bueno,
