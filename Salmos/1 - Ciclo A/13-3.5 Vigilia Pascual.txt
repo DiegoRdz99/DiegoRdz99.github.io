@@ -2,7 +2,7 @@ title : Isaías 12
 subtitle : Vigilia Pascual, Quinta Lectura
 composer : B. Carrillo B.P. 1528
 key : F
-liturgy : Viglia Pascual
+liturgy : Vigilia Pascual
 {song}
 /resp/
 [C]El Señor es mi [Gm]Dios y mi [Bb]salva[C]dor.
