@@ -1,0 +1,25 @@
+title : Salmo 117
+subtitle : Vigilia Pascual, Aleluya
+composer : B. Carrillo B.P. 1531
+key : D
+liturgy : Vigilia Pascual
+{song}
+/resp/
+[D]Ale[G]lu - u - [A]ya,
+[Bm]Ale[F#m]lu - u - [Bm]ya,
+[G]Alelu[A]ya - [G]a
+/salmo/
+Te damos gracias, Señor, porque eres bueno,
+porque tu misericordia es eterna.
+Diga la casa de Istael:
+"Su misericordia es eterna".
+/salmo/
+La diestra del Señor es poderosa,
+la diestra del Señor es nuestro orgullo.
+No moriré, continuaré viviendo,
+para contar lo que el Señor ha hecho.
+/salmo/
+La piedra que desecharon los constructores,
+es ahora la piedra angular.
+Esto es obra de la mano del Señor,
+es un milagro patente.

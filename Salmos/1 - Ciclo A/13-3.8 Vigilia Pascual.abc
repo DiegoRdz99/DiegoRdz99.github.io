@@ -1,0 +1,16 @@
+%abc-2.2
+%%MIDI program 74
+
+X:1
+F:
+C:B. Carrillo B.P. 1531
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:D
+%
+%
+    "D"dA "G"(B/2A/2G/2F/2) | "A"A4 | "Bm"BF "F#m"(B/2A/2F/2E/2) | "Bm"F4 | "G"E (E/2B/2) (AG) | "A"A4- | "D"A4 |]
+%%vskip 0
+w: A-le-lu----ya. a-le-lu----ya, a-le--lu-ya._

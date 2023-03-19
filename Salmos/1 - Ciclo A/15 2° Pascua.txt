@@ -1,0 +1,25 @@
+title : Salmo 117
+subtitle : 2° Domingo de Pascua o de la Divina Misericordia
+composer : B. Carrillo y Javier M.-R. B.P. 1533
+key : D
+liturgy : Pascua
+{song}
+/resp/
+[D]La mise[A]ri[D]cordia del Señor [G]es e[D]terna.
+A[G]le[D]lu - [A]u - [D]ya.
+/salmo/
+Diga la casa de Israel: "Su misericordia es eterna".
+Diga la casa de Aarón: "Su misericordia es eterna".
+Digan los que temen al Señor: "Su misericordia es eterna".
+/salmo/
+Querían a empujones derribarme,
+pero Dios me ayudó.
+El Señor es mi fuerza y mi alegría,
+El Señor es mi salvación.
+/salmo/
+La piedra que desecharon los constructores,
+es ahora la piedra angular.
+Esto es obra de la mano del Señor,
+es un milagro patente.
+Éste es el día del triunfo del Señor,
+día de júbilo y de gozo.

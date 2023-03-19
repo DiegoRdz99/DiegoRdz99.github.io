@@ -1,0 +1,23 @@
+title : Salmo 117
+subtitle : Domingo de Pascua de la Resurrección del Señor
+composer : B.P. 1532
+key : F
+liturgy : Pascua
+{song}
+[F]Este es el [Bb]día del [Gm]triunfo [C7]del Se[F]ñor.
+[C]Alelu[Dm]ya, [Gm]ale[C7]lu - [F]ya.
+/salmo/
+Te damos gracias, Señor, porque eres bueno,
+porque tu misericordia es eterna.
+Diga la casa de Israel:
+"Su misericordia es eterna".
+/salmo/
+La diestra del Señor es poderosa,
+la diestra del Señor es nuestro orgullo.
+No moriré, continuaré viviendo
+para contar lo que el Señor ha hecho.
+/salmo/
+La piedra que desecharon los constructores,
+es ahora la piedra angular.
+Esto es obra de la mano del Señor,
+es un milagro patente.
