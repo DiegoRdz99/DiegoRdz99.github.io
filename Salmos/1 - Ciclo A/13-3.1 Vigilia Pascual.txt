@@ -1,5 +1,5 @@
 title : Salmo 103
-subtitle : Vigilia Pascual en la noche Santa
+subtitle : Vigilia Pascual, Primera Lectura
 composer : B. Carrillo B.P. 1524
 key : D
 liturgy : Vigilia Pascual

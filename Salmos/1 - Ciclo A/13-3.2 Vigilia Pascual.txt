@@ -1,0 +1,22 @@
+title : Salmo 15
+subtitle : Vigilia Pascual, Segunda Lectura
+composer : B. Carrillo B.P. 1525
+key : G
+liturgy : Vigilia Pascual
+{song}
+/resp/
+Pro[G]tégeme, Se[C]ñor, [Am]porque me refugio en [G]ti.
+/salmo/
+El señor es la parte que me ha tocado en herencia:
+mi vida está en sus manos.
+Tengo siempre presente al Señor
+y con él a mi lado, jamás tropezaré.
+/salmo/
+Por eso se me alegran el corazón y el alma
+y mi cuerpo vivirá tranquilo,
+porque tú no me abandonarás a la muerte,
+ni dejarás que sufra yo la corrupción.
+/salmo/
+Enséñame el camino de la vida,
+sáciame de gozo en tu presencia
+y de alegría perpetua junto a ti.
