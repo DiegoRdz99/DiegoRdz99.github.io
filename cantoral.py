@@ -140,15 +140,37 @@ def chordify(chord):
             elif chord[1]=='b':
                 root+= '♭' # Flat accidental
                 og_root+= 'b'
-            qual = chord.replace(og_root,'').replace('^','Δ').replace('*','/') # Remove root from chord
-            return [root,qual.replace('#','s'),FLAT,og_root,qual.replace('b','♭').replace('#','♯')] # Root + Quality
+            try:
+                bass = chord.split('_')[1]
+                qual = chord.split('_')[0].replace(og_root,'').replace('^','Δ').replace('*','/') # Remove root from chord
+                return {'root' : root, 'svg' : qual.replace('#','s') + '_' + bass,
+                        'flat' : FLAT, 'og_root' : og_root,
+                        'quality' : (qual + '/' + iterate_key(og_root,bass)).replace('b','♭').replace('#','♯') + ('' if len(root)==1 else root[1]), 'bass' : bass} # Root + Quality
+
+            except:
+                qual = chord.replace(og_root,'').replace('^','Δ').replace('*','/') # Remove root from chord
+                return {'root' : root, 'svg' : qual.replace('#','s'),
+                        'flat' : FLAT, 'og_root' : og_root,
+                        'quality' : qual.replace('b','♭').replace('#','♯')} # Root + Quality
         except:
-            return [root,'',FLAT,og_root,''] # For Major Chords
+            return {'root' : root,'svg' : '', 'flat' : FLAT, 'og_root' : og_root, 'quality' : ''} # For Major Chords
     except:
-        return ['','',False,'',''] # Blank Chords
+        return {'root' : '', 'flat' : False} # Blank Chords
 
 def iterate(root):
     return chr((ord(root)-ord('A')+1)%7+ord('A'))
+
+circle_of_fifths = ['Fb','Cb','Gb','Db','Ab','Eb','Bb','F','C','G','D','A','E','B','F#','C#','G#','D#','A#']
+
+def iterate_key(root,num):
+    if len(num) == 1:
+        quality , num = None , int(num)
+    else:
+        quality , num = num[0] , int(num[1])
+    key = circle_of_fifths[circle_of_fifths.index(root)-1:circle_of_fifths.index(root)+6]
+    key.sort()
+    suf = key[(key.index(root)+num-1)%7]
+    return ((suf+'b') if len(suf)==1 else suf.replace('#','')) if quality=='m' else suf # for minor intervals
 
 class line:
     def __init__(self,raw,backsteps=0,instrumental=False):
@@ -160,7 +182,6 @@ class line:
             raw='[]'+raw
         lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from text
         lst.pop(0)
-        # lst.pop(0) if lst[0]==[''] else lst[0].insert(0,'') if len(lst[0])==1 else None # For lines beginning with chords
         lst = [list(i) for i in zip(*lst)] # Transpose algorithm
         chords = [chordify(chord) for chord in lst[0]]
         self.set_c_line(chords,backsteps)
@@ -170,19 +191,19 @@ class line:
     def set_c_line(self,chords,backsteps):
         self._c_line = ''.join([f'''
         <td class="chord {self.add_class}">
-            <span class="root">{chord[0]}</span><span class="quality">{chord[-1]}</span>
+            <span class="root">{chord["root"]}</span><span class="quality">{chord["quality"]}</span>
             <div class="diagram">
-                <span class="chord_name">{chord[0]}{chord[-1]}</span>
-                <img class="fig" src="{backsteps}chords/{chord[3]}{chord[1]}.svg">
+                <span class="chord_name">{chord["root"]}{chord["quality"]}</span>
+                <img class="fig" src="{backsteps}chords/{chord["og_root"]}{chord["svg"]}.svg">
             </div>
-        </td>''' if chord[2] else f'''
+        </td>''' if chord["flat"] else f'''
         <td class="chord">
-            <span class="root">{chord[0]}</span><span class="quality">{chord[1]}</span>
+            <span class="root">{chord["root"]}</span><span class="quality">{chord["svg"]}</span>
             <div class="diagram">
-                <span class="chord_name">{chord[0]}{chord[1]}</span>
-                <img class="fig" src="{backsteps}chords/{iterate(chord[0][0])}b{chord[1]}.svg">
+                <span class="chord_name">{chord["root"]}{chord["svg"]}</span>
+                <img class="fig" src="{backsteps}chords/{iterate(chord["root"][0])}b{chord["svg"]}.svg">
             </div>
-        </td>''' if chord[0]!='' else f'<td class="chord">{chord[0]}</td>' for chord in chords])
+        </td>''' if chord["root"]!='' else f'<td></td>' for chord in chords])
 
     def set_line(self,lst):
         return ''.join([f'<td>{frag}</td>' for frag in lst])

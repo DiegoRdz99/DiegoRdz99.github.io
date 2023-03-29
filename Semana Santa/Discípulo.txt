@@ -1,0 +1,58 @@
+title : Discípulo
+composer : Martín Valverde
+liturgy : Semana Santa
+key : G
+{song}
+/intro/
+[G]  [D_3]  [Em]    [Am]  [C_5]  [D_3]
+/verse/
+[G]Sí, yo estuve a[D_3]hí en aquel mo[Em]mento
+En que Él sal[Am]vaba al mundo
+[C_5]  en aquella cruz[Dsus2_3]
+[D]  [D11] Oh sí[G]
+Yo estuve a[D_3]hí en aquel mo[Em]mento
+En que a[Am]ún a sus enem[C_5]igos
+Perdon[Dsus2_3]ó  [D]  [D11] Oh sí[G]
+Yo estuve a[D_3]hí yo soy tes[Em]tigo
+Soy tes[Am]tigo de lo [C_5]grande
+De su a[Dsus2_3]mor   [D]
+/bridge/
+Cuando so - [C]olo se quedó[G]
+Como un cor[C#sus2b5]dero,
+se entre[Am]gó  [C]  [Em]  [D]
+/verse/
+[D11] Yo no me a - [G]aparté de É[D]l
+ni un se[Em]gundo  [Em7]
+Yo quer[Am]ía verlo y que É[C_5]l
+me viera a m[D]í  [D11]
+Y fue ent[G]onces cuando en [D]mí
+fijó sus [Em]ojos   [Em7]
+Y con l[Am]ágrimas, llo[C_5]rando
+[D] me dijo:
+/Coro/
+[Bm] "Hijo... [F#] te la doy por [Bm]madre
+[Bm] á[A] - ma - [D]la y cu[A7]ídala
+po - [D11]or mí"  [D7]
+/intermedio/
+[G]    [D]    [Em]    [Em7]
+[Am]    [C_5]    [D]    [D]  [D11]
+[G]    [D]    [Em]    [Em7]
+[Am]    [C_5]    [D]    [D]  [D11]
+/verse/
+Y sus o[G]jos me mi[D]raban supli[Em]cantes
+[Em7]   Al entre[Am]garme aquello
+más be[C_5]llo, para [D]Él
+/Coro/
+[Bm] Cuídala - [F#]a por mí disc[Bm]ípulo
+[Bm] á[A] - ma - [D]la,
+[A7] pues tu [A]madre e - [D11]es  [D7]
+/verse/
+[G]Sí, [D_3] yo soy aquel di[Em]scípulo
+Y e - [Am]ella, [C_5] ella mi madr[Dsus2_3]e
+/bridge/
+[D]  la recib[C]í,
+[Am7b5]  feliz vi[G]ví - [D_3]i  [Em]
+Re[D]cí - [C]be - [Am]la  [Am7b5]
+Tu madre e - [G]es... [C]  Discípulo
+/outro/
+[G]   [Bm7b5]      [Esus4]    [E7]

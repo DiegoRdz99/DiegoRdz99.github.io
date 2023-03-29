@@ -78,8 +78,7 @@ svg {
 	font-weight: 800;
 	color: #707070;
 	position: relative;
-	/* padding-right: 1em; */
-
+	padding-right: 1em;
 }
 
 .chord.dark-chord {

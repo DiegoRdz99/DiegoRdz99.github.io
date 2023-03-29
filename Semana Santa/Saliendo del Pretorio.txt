@@ -1,0 +1,23 @@
+title : Saliendo del Pretorio
+composer : Ruth Ríos
+key : D
+liturgy : Semana Santa
+{song}
+/verse/
+Sa[D]liendo [D9]del pret[G]orio,
+[G^7]marcha una proce[A]sión
+Con rumbo al calv[F#m]ario,
+su[F#7]friendo va un va[Bm]rón
+La c[Bm_m7]ruz sobre su es[G6]palda,
+llagándole es[A]tá
+No puede cami[D]nar
+/Coro/
+[Am]  No p[D7]uede dar un [G]paso,
+y[G^7] cae por el ca[A]mino
+Recibe un lati[F#m]gazo
+sobre su cuerpo he[Bm]rido
+No [Bm_m7]puede avan[G6]zar,
+se escucha solo un [A]grito:
+"!Levántate mal[D]ito!"
+[Am]No, no [D7]puede ser mal[G]dito,
+[G^7]aquel que en su do[A]lor

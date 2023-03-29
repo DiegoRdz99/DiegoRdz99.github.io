@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="140" height="140" viewBox="-70.0 -70.0 140 140">
+<defs>
+</defs>
+<circle cx="-10.0" cy="-0.0" r="3" stroke-width="0" fill="gray" fill-opacity="0.5" />
+<circle cx="-10.0" cy="40.0" r="3" stroke-width="0" fill="gray" fill-opacity="0.5" />
+<path d="M-60.0,-50.0 L40.0,-50.0" stroke="gray" stroke-width="1" fill="none" />
+<path d="M-60.0,-30.0 L40.0,-30.0" stroke="gray" stroke-width="1" fill="none" />
+<path d="M-60.0,-10.0 L40.0,-10.0" stroke="gray" stroke-width="1" fill="none" />
+<path d="M-60.0,10.0 L40.0,10.0" stroke="gray" stroke-width="1" fill="none" />
+<path d="M-60.0,30.0 L40.0,30.0" stroke="gray" stroke-width="1" fill="none" />
+<path d="M-60.0,50.0 L40.0,50.0" stroke="gray" stroke-width="1" fill="none" />
+<path d="M-60.0,-50.5 L-60.0,50.5" stroke="#555" stroke-width="3.0" fill="none" />
+<path d="M-40.0,-50.5 L-40.0,50.5" stroke="#555" stroke-width="2.5871559633027523" fill="none" />
+<path d="M-20.0,-50.5 L-20.0,50.5" stroke="#555" stroke-width="2.284403669724771" fill="none" />
+<path d="M0.0,-50.5 L0.0,50.5" stroke="#555" stroke-width="2.064220183486239" fill="none" />
+<path d="M20.0,-50.5 L20.0,50.5" stroke="#555" stroke-width="1.926605504587156" fill="none" />
+<path d="M40.0,-50.5 L40.0,50.5" stroke="#555" stroke-width="1.651376146788991" fill="none" />
+<circle cx="-60.0" cy="-0.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<circle cx="-40.0" cy="-0.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<circle cx="-20.0" cy="-20.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<circle cx="0.0" cy="-60.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<circle cx="20.0" cy="-40.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<circle cx="40.0" cy="-60.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+</svg>
