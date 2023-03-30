@@ -3,18 +3,32 @@ key : A
 composer : Jésed
 {song}
 /verso/
-[A] Encuentro paz, [E] en el Señor
+[A] Encuentro paz, [E_3] en el Señor
 [F#m] De Él viene mi salvaci[D]ón
-[E] Él mi roca y Se[A]ñor, [Bm] solo Él mi salvaci[E]ón
-[A] Encuentro paz, [E] en el Señor
+[E] Él mi roca y Se[A]ñor
+[Bm] Solo Él mi salvaci[E]ón
+[A] Encuentro paz, [E_3] en el Señor
 [F#m] Mi esperanza tengo el [D]Él
-[E] Sólo Él es mi fue[F#m]rza, [D]Él mi confi[A]anza
+[E_3] Sólo Él es mi fue[F#m]rza
+[D]Él mi confi[A]anza
 [D]Nada me [E]turba
 /Coro/
-[D]Solo Dios es mi ro[E]ca y [D°7]no teme[F#m]ré
+[D]Solo Dios es mi ro[E]ca
+y [D°7]no teme[F#m]ré
 Mi re[D]fugio está en [E]Él
-[D] Él mi fuerza y mi es[E]cudo, vida d[D]el corazón[A]
+[D] Él mi fuerza y mi es[E]cudo
+Vida d[D]el corazón[A]
 Te dar[D]é siempre gr[E]acias Se[A]ñor
 /intermedio/
 [A]  [E]  [F#m]  [D] [Dm] [A]  [E]
 /verso/
+[A] Has sido tú [E_3] mi protector
+[F#m] De enemigos destruc[D]tor
+[E_3]  Mi ayuda en la confusi[A]ón
+[Bm] Mi gozo en [D]tiempos de afli[E]cción
+[A] Al escuchar [E_3] mi llanto oh Dios
+[F#m] Atendiste a mi lla[D]mado
+[E_3]  Desde lejos mi vo[F#m]z se oirá:
+[D]"Quiero estar con Di[A]os"
+Sé que [D]Tú me guia[E]rás
+/coro/

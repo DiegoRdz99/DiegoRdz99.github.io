@@ -1,0 +1,25 @@
+title : Todo es Gracia
+composer : MNM RCCES
+key : G
+{song}
+/intro/
+[G]    [G7]    [C]    [Cm]
+[G]  [D]  [Em]    [C]    [D]
+/verse/
+A[G]quí está tu mano, Se[C]ño - [D]or
+No [G]puedo negar tu gran a[C]mo - [D]or
+Por tu [C]gran amor Se[D]ñor
+Trazaste un [G]plan,  [D]  pen[Em]sando en mí
+Y a[C]ún a pesar de [D5]mí
+Contemplo [G]que a mi al[D]reded[Em]or
+Todo es [C]bueno, Se[D]ñor
+Gracias [G] ti
+/Coro/
+[G7]  Me ca[C]í, y me levant[D]aste
+Me per[G]dí y [D]me encontr[Em]aste
+Y cuando n[C]o tenía más fuer[D5]zas
+En tus [G]brazos [D]me lle[Em]vaste
+[D]Todo es [C]gracia, Señor
+Gracias [G]a tí  [G7]
+[C]    [Cm]    [G]  [D]  [Em]
+[C]    [D]    [G]

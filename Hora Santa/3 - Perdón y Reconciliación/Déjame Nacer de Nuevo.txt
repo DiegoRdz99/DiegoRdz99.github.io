@@ -1,0 +1,36 @@
+title : Déjame Nacer de Nuevo
+key : C
+{song}
+/intro/
+[C]    [C^7]    [C]    [C^7]
+/verse/
+Tú co[C]noces la dur[F]eza
+en mi senti[C]r
+Y la [F]terquedad
+que hay [G]en mi cora[C]zón
+Son las [F]cosas que me a[G]lejaron
+de [C]Ti - [C_7]i Se[Am]ñor
+[Dm7]Hazme rena[G]cer
+en tu a[C]mor  [C7]
+/Coro/
+Déjame na[F]cer de n[G]uevo
+Déjame na[C]cer [C_7] de [Am]nuevo
+[Am7_m7]Déjame na[Dm]cer
+de [G]nuevo, oh Se[C]ñor  [C7]
+No importa le e[F]dad que [G]tenga
+Tú no la tie[C]nes [C_7] en cu[Am]enta
+[Am7_m7]Déjame na[Dm]cer
+de [G]nuevo, oh Se[C]ñor
+/verse/
+[F]  Tú co[C]noces el pe[F]cado
+que hay en [C]mí
+Y el do[F]ñpr que este
+de[G]jó en mi cora[C]zón  [C7]
+Por la [F]muerte que ha cau[G]sado
+vuelvo a [C]Ti, [C_7] Se[Am]ñor
+[F]Dame vida nu[G]eva
+Con tu a[C]mor  [C7]
+/coro/
+/outro/
+[C#°7]  Déjame na[Dm7]cer
+de [Dm7b5]nuevo, oh Se[C^7]ñor

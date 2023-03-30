@@ -1,0 +1,93 @@
+title : Bella Dama
+key : G
+composer : Martín Valverde
+{song}
+/intro/
+[D°7]      [C]      [C#°7]
+[G]   [D_3]   [Em7]      [A]      [D]
+[G]   [Am]   [C]   [D]
+[G]   [Am]   [C]   [D]
+/Coro/
+[G]      [F]   [C]   [D]
+[G]      [F]   [C]   [D]
+[G]Santa Madre de Dios, Virgen de las vírgenes
+Rei[F]na de los ángeles
+y [C]de los pat[D]riarcas
+[G]Virgen venerable, virgen poderosa
+Es[F]pejo de justicia, va[C]so espiritual
+To[Am]rre de David, Rei[D]na de la paz
+Bella Da[G]ma,  [Am]   [C]
+[D]Bella Da[G]ma,  [Am]   [C]   [D]
+/verse/
+[G]  Con la luna puesta de[C]bajo sus pies
+[D]  Y con dos estrellas
+que so[G]n su co[D]rona
+[Em]  Una gran señal en el [A]cielo se vio
+[C]  Era una mujer que de [D]Sol Dios vistió
+[G]  Vino sobre ella el Es[C]píritu Santo
+[D]  Y con su poder el Al[G]tísimo
+[D]la acobi[Em]jó
+Por eso es la m[A]adre
+del Hijo de [D]Dios  [D_m7]  [D_6]
+/bridge/
+[D_5]Bella Da[G]ma,  [Am]   [C]
+[D]Bella Da[G]ma,  [Am]   [C]   [D]
+[D]Bella Da[G]ma,  [Am]   [C]   [D]
+/verse/
+[G]  Dios quedó pregnado de [C]su sencillez
+[D]  Quedó enamorado
+de [G]la humil[D]dad de su es[Em]clava
+Y tú y yo le can[A]tamos:
+!Bienaventu[D]ra - [D_m7]da!  [D_6]  [D_5]
+[G]  Cuando ella abre su [C]boca nos canta
+[D]  Engrandece al Se[G]ñor con su [D]alma
+[Em]  Y nos llena el Es[A]píritu Santo
+[C]Madre de mi Se[A]ñor,
+¿quién soy [C]yo para que me vi[D]sites
+/bridge/
+{[D_5]Bella Da[G]ma, []|Dichosa 
+{[Am]|tú que has cre[C]|ído
+{[D]Bella Da[G]ma, []|En las 
+{|pro[Am]|mesas de [C]|Cristo
+[D°7]Ruega por no[C]sotros
+[C#°7]Santa madre de [G]Dio - [D]o - [Em]os
+Ahora y en [A]la hora
+de nuestra [D]muerte
+/intermedio/
+{Bella Da[Gm]ma - a |Be - e - ella Da[Dm7]|ma - a - 
+{[Eb^7]  Bella Da[Bb]ma []|Bella Da[Cm]Be - e - ella|ma
+{[Bb]|Be - e - ella [Am7b5]be - e - e[D7]lla
+{Bella Da[Gm]ma - a |Be - e - ella Da[Dm7]|ma - a - 
+{[Eb^7]  Bella Da[Bb]ma []|Bella Da[Cm]Be - e - ella|ma
+{[Bb]|Be - e - ella [Am7b5]be - e - e[D7]lla
+/coro/
+/verse/
+[G]  De entre las mujeres tú e[C]res la más bella
+Ben[D]dita entre todas
+y [G]de gracia ll[D]ena
+[Em]  Bendito es el fruto que [A]crece en tu vientre
+Mu[C]juer de mujeres, rei[D]na de las madres
+[G]  Haz que con mi vida pre[C]dique a tu Hijo
+[D]  Hacer lo que Él dice
+y s[G]er su disc[D]ípulo
+[Em]  Reina de los Ángeles,
+[A]ayúdame a se[D]guirlo[D_m7]  [D_6]
+/bridge/
+{[D_5]Bella Da[G]ma, []|Dichosa 
+{[Am]|tú que has cre[C]|ído
+{[D]Bella Da[G]ma, []|En las 
+{|pro[Am]|mesas de [C]|Cristo
+[D°7]Ruega por no[C]sotros
+[C#°7]Santa madre de [G]Dio - [D]o - [Em]os
+Ahora y en [A]la hora
+de nuestra [D]muerte
+{[D_5]Bella Da[G]ma, []|Dichosa 
+{[Am]|tú que has cre[C]|ído
+{[D]Bella Da[G]ma, []|En las 
+{|pro[Am]|mesas de [C]|Cristo
+[D°7]Ruega por no[C]sotros
+[C#°7]Santa madre de [G]Dio - [D]o - [Em]os
+Ahora y en [A]la hora
+de nuestra [D]muerte
+/outro/
+Bella Da[G]ma, bella Dama, bella Da[G]ma
