@@ -1,0 +1,43 @@
+title : Me Levantaré
+composer : Jésed
+key : F
+{song}
+/intro/
+[Fsus2]    [Dm7]    [Bbsus2]   [Cadd11]  [C]
+[Fsus2]    [Dm7]    [Bbsus2]   [Cadd11]  [C]
+/Coro/
+[F]  Me levantaré, [Dm7]  e iré a mi Pa - adre
+[Bbsus2]  Le di[Gm]ré que he pe[C]cado
+[F]  Me levantaré, [Dm7]  e iré a mi Pa - adre
+[Bbsus2]  Le di[Gm]ré que he pe[C]cado
+/verse/
+[A7_7] [Dm]  Me has mirado
+desde [Am]lejos
+[Bb]  Y me es[C]trechas en tus [F]brazos [A7]
+[Dm]  No me dejas decir: "lo [Am]siento"
+[Bb]  Y un anillo [C]pones en mi [F]mano
+/coro/
+[A7_7] [Dm]  He pecado
+contra el [Am]cielo,
+[Bb]  He pe[C]cado contra [F]ti [A7]
+[Dm]  No merezco llamarme [Am]hijo
+[Bm]Trátame como a [Gm]uno de tus si[C]ervos
+/coro/
+/intermedio/
+[Fsus2]    [Dm7]    [Bbsus2]    [Cadd11]  [C]
+[Fsus2]    [Dm7]    [Bbsus2]    [Cadd11]  [C]
+/verse/
+[A7_7] [Dm]  Me recibes en tu [Am]casa
+[Bb]  En me[C]dio de una gran [F]fiesta [A7]
+[Dm]  Y me vistes con tus r[Am]opas
+[Bb]  En un [C]gesto de indul[F]gencia
+/outro/
+[F]  Había muerto
+[Dm]  Y he vuelto a la vida[Am]
+[Bb]  Estaba per[Gm]dido y me encon[C]traste
+[F]  Lleno de amor
+[Dm]  Y misericordia [Am]
+[Bb]  He vuelto a [C]casa de mi [F]Padre
+/outro/
+[Fsus2]    [Dm7]    [Bbsus2]    [Cadd11]  [C]
+[Fsus2]    [Dm7]    [Bbsus2]    [Cadd11]  [C]

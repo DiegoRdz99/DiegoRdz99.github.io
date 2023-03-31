@@ -1,0 +1,63 @@
+title : Dónde estás Señor
+composer : Jésed
+key : Dm
+{song}
+/intro/
+[D5]  [Cadd9]  [Bbsus2]    [Gm]  [A7]
+/verse/
+No enc[Dm]uentro de[Cadd9]leite en mi [Bb]vida
+No hay [Dm]nada que [Cadd9]cause aleg[Bb]ría
+[D5]Todo se me h[C]ace bas[Bb]ura
+y no [D°7]puedo se[A7]guir
+/verse/
+[Dm]Busco res[C]puesta en el [Bb]mundo
+[Dm]En las pa[C]siones del [Bb]cuerpo
+[Dm]Solo es [C]tiempo per[Bb]dido
+y me [D°7]falta el a[A+]mo - [A7]or
+/prechorus-1/
+[Gm]Mi corazón nece[Dm]sita de fe
+[A7]Pero mi mete no [Dm]puede cre[D7]er
+[Gm]Cuando te busco Se[Dm]ñor guíame
+[Bb]Te necesito, y necesito sa[C]ber:
+/Coro-1/
+[F]¿Cómo pedirte que vengas a mí?
+[Cm7]¿Cómo invitarte a que mores en mí?
+[Bb]¿Dónde estás Señor?
+Dime, ¿[Bbm]dónde estás Señor?
+[F]Mi pequeñez no puede contener
+[Cm7]La inmensidad de tu gloria y poder
+[Bb]¿Dónde estás Señor?
+Dime, ¿[Bbm]dónde estás Señor?
+/verse/
+[Dm]Mi cora[Cadd9]zón quebran[Bb]tado
+[Dm]En mi ra[Cadd9]zón defrau[Bb]dado
+[D5]Cada sen[C]dero que [Bb]busco
+me [D°7]pierde aun [A+]má - [A7]as
+/prechorus-2/
+Es[Gm]toy sin salida en [Dm]la oscuridad
+[A7]Solo un milagro
+me ha [Dm]de levan[D7]tar
+[Gm]Estoy sediento de [Dm]tu manantial
+[Bb]Estoy muriendo,
+Tú me puedes sal[C]va - ar
+/coro/
+/bridge/
+[Gm]  ¿Estarás esperando
+entoncrarme va[Eb]cío - [F]o?
+[Gm]  ¿Estarás aguardando
+el momento per[Eb]fecto - [F]o?
+[Cm7]  De manifestarte
+a este cuerpo aba[Eb^7]tido - [F]o
+[Cm]  Que yo me de cuenta
+que siempre eres [Bb]Tú
+Quien me ha es[F]tado espe[Eb]rando
+/Coro-2/
+[Bb]Quiero pedirte que vengas a mí
+[Fm7]Quiero invitarte a que mores en mí
+A[Eb]quí estoy Señor, a[Ebm]quí estoy Señor
+[Bb]Quiero ser yo el que viva en Ti
+{[Fm]Te necesito - []o - o|para ser f[]a|e[Eb]quí estoy Señor|liz
+A[Cm7b5]quí estoy Señor
+{[Bb]|Aquí estoy Se[Fm7]|ño -
+{[]Aquí estoy Se|or[Eb]ñor
+[Ebm]   Aquí estoy Se[Bb]ñor

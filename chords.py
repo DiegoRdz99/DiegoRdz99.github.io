@@ -228,6 +228,10 @@ ochords['m_m7'] = {
     'Am_m7' : [3,x,2,2,1,0]
 }
 
+ochords['m_2'] = {
+    'Am_2' : [x,2,2,2,1,0]
+}
+
 ochords['m7_m7'] = {
     'Bm7_m7' : [x,0,4,2,3,2],
     'Dm7_m7' : [x,3,x,2,1,1],
@@ -248,7 +252,12 @@ ochords['_5'] = {
 }
 
 ochords['_7'] = {
-    'C_7' : [x,2,x,0,1,0]
+    'C_7' : [x,2,x,0,1,0],
+    'A_7' : [x,4,2,2,2,0]
+}
+
+ochords['7_7'] = {
+    'A7_7' : [x,4,2,0,2,0]
 }
 
 ochords['_m7'] = {
@@ -258,7 +267,6 @@ ochords['_m7'] = {
 ochords['_6'] = {
     'D_6' : [x,2,x,2,3,2]
 }
-
 
 qualities = [key for key in ochords.keys()]
 for q in qualities:

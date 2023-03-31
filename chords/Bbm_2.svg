@@ -19,9 +19,9 @@
 <path d="M40.0,-50.5 L40.0,50.5" stroke="#555" stroke-width="1.651376146788991" fill="none" />
 <path d="M-65.0,-55.0 L-55.0,-65.0" stroke="gray" stroke-width="2" fill="none" />
 <path d="M-65.0,-65.0 L-55.0,-55.0" stroke="gray" stroke-width="2" fill="none" />
-<circle cx="-40.0" cy="40.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<circle cx="-40.0" cy="-0.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
 <circle cx="-20.0" cy="-0.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
 <circle cx="0.0" cy="-0.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
-<circle cx="20.0" cy="-0.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<circle cx="20.0" cy="-20.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
 <circle cx="40.0" cy="-40.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
 </svg>

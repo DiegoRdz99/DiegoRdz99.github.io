@@ -1,0 +1,33 @@
+title : Haz Llover
+key : D
+{song}
+/intro/
+[D]  [F#m]  [G]  [A]  [D]
+/verse/
+[D]Ven, Es[A]píritu [Bm]ven
+[G]Ven y llena [A]hoy mi [Bm]ser
+[G]Ven y llea [A]hoy
+Mi [D]co - [F#m]ra - [Bm]zón
+[G]Ven, Es[A]píritu [D]ven
+[D]Ven, Es[A]píritu [Bm]ven
+[G]Ven y llena [A]hoy mi [Bm]ser
+[G]Ven y llea [A]hoy
+Mi [D]co - [F#m]ra - [Bm]zón
+[G]Ven, Es[A]píritu [D]ven
+/Coro/
+Haz llo[A]ver, haz llo[Bm]ve - er
+[G]Ríos de agua vi - [A]iva haz llo[D]ver
+Haz llo[A]ver, haz llo[Bm]ve - er
+[G]Ríos de agua vi - [A]iva haz llo[D]ver
+/verse/
+[D]Ven, Es[A]píritu [Bm]ven
+[G]Ven y llena [A]hoy mi [Bm]ser
+[G]Ven y llea [A]hoy
+Mi [D]co - [F#m]ra - [Bm]zón
+[G]Ven, Es[A]píritu [D]ven
+[D]Ven, Es[A]píritu [Bm]ven
+[G]Ven y llena [A]hoy mi [Bm]ser
+[G]Ven y llea [A]hoy
+Mi [D]co - [F#m]ra - [Bm]zón
+[G]Ven, Es[A]píritu [D]ven
+/coro/

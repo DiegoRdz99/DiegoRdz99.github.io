@@ -247,13 +247,14 @@ class double_line(line):
 
 
 class Chorus:
-    def __init__(self,raw):
+    def __init__(self,raw,part_id = ''):
         self.raw = raw.replace(' ','&nbsp;') # Spaces in html
+        self.id = (' ' + part_id) if part_id != '' else '' 
     
     def to_html(self,backsteps):
         head = f'''
         <br>
-        <span class="fs-2 fw-bold">Coro</span>
+        <span class="fs-2 fw-bold">Coro{self.id}</span>
         <br>
         <table class="chorus" border="0" cellpadding="0" cellspacing="0">
         <tr>
@@ -270,7 +271,7 @@ class Chorus:
         return head + html + foot
 
 class chorus:
-    def __init__(self,raw):
+    def __init__(self,raw,part_id = ''):
         self.raw = raw.replace(' ','&nbsp;')
 
     def include_coro(self,Coro):
@@ -280,16 +281,17 @@ class chorus:
         return self.coro.to_html(backsteps)
 
 class verse:
-    def __init__(self,raw):
+    def __init__(self,raw,part_id = ''):
         self.raw = raw.replace(' ','&nbsp;')
         self.title = 'Verso'
         self.klass = 'verse'
         self.instrumental = False
+        self.id = (' ' + part_id) if part_id != '' else '' 
     
     def to_html(self,backsteps):
         head = f'''
         <br>
-        <span class="fs-2 fw-bold">{self.title}</span>
+        <span class="fs-2 fw-bold">{self.title}{self.id}</span>
         <br>
         <table class="{self.klass}" border="0" cellpadding="0" cellspacing="0">
             <tr>
@@ -305,7 +307,7 @@ class verse:
         return head + html + foot
 
 class general:
-    def __init__(self,raw):
+    def __init__(self,raw,part_id = ''):
         self.raw = raw.replace(' ','&nbsp;')
         self.klass = 'verse'
         self.instrumental = False
@@ -328,41 +330,42 @@ class general:
 
 
 class prechorus(verse):
-    def __init__(self,raw):
-        super().__init__(raw)
+    def __init__(self,raw,part_id = ''):
+        super().__init__(raw,part_id)
         self.title = 'Pre-coro'
 
 class bridge(verse):
-    def __init__(self,raw):
-        super().__init__(raw)
+    def __init__(self,raw,part_id = ''):
+        super().__init__(raw,part_id)
         self.title = 'Puente'
 
 class resp(verse):
-    def __init__(self,raw):
+    def __init__(self,raw,part_id = ''):
         super().__init__(raw)
         self.title = 'Respuesta'
 
 class intermedio(verse):
-    def __init__(self,raw):
+    def __init__(self,raw,part_id = ''):
         self.raw = raw.replace(' ','&nbsp;&nbsp;')
         self.title = 'Intermedio'
         self.klass = 'inst'
         self.instrumental = True
+        self.id = (' ' + part_id) if part_id != '' else '' 
 
 class intro(intermedio):
-    def __init__(self,raw):
-        super().__init__(raw)
+    def __init__(self,raw,part_id = ''):
+        super().__init__(raw,part_id)
         self.raw = raw.replace(' ','&nbsp;&nbsp;')
         self.instrumental = True
         self.title = 'Intro'
     
 class outro(intermedio):
-    def __init__(self,raw):
-        super().__init__(raw)
+    def __init__(self,raw,part_id = ''):
+        super().__init__(raw,part_id)
         self.title = 'Outro'
 
 class locutor:
-    def __init__(self,raw):
+    def __init__(self,raw,part_id = ''):
         self.title = 'Locutor'
         self.raw = raw
     
@@ -376,7 +379,7 @@ class locutor:
         return html
 
 class salmo:
-    def __init__(self,raw):
+    def __init__(self,raw,part_id = ''):
         self.lines = raw.replace('\n','\n<br>')
         if self.lines[-4:]=='<br>':
             self.lines = self.lines[:-5]
@@ -429,7 +432,7 @@ class song:
             self.meta[entry.split(' : ')[0]] = entry.split(' : ')[1]
         self.parts = self.raw.split('/')
         self.groups = [(self.parts[2*i-1],self.parts[2*i]) for i in range(1,ceil(len(self.parts)/2))]
-        self.teile = [parts[group[0]](group[1]) for group in self.groups]
+        self.teile = [parts[group[0].split('-')[0]](group[1],'' if len(group[0].split('-')) == 1 else group[0].split('-')[1]) for group in self.groups]
         try:
             self.Coro = [teil for teil in self.teile if isinstance(teil,Chorus)][0]
         except:

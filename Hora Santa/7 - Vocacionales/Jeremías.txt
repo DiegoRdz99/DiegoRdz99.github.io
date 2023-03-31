@@ -1,0 +1,56 @@
+title : Jeremías
+composer : Jésed
+key : Em
+{song}
+/intro/
+[Em]     [C]  [D]  [Em]
+[C]  [D]  [Em]
+[C]  [D]  [Em]
+[C]  [D]  [Em]
+/verse/
+[C]  Antes [D]de darte vi - [Em]ida
+[C]  Ya te ha[D]bía aparta - [Em]ado
+[C]  Ya te ha[D]bía escogido
+Desde [C]antes de nace - [D]er
+Para se - [Em]er
+Pro[D]feta de las na[Em]ciones
+/intermedio/
+  [C]  [D]  [Em]
+/verse/
+[C]  A - [D]a - ay Se[Em]ñor
+[C]  Sabes [D]que muy joven [Em]soy
+[C]  A - [D]a - ay Se[G]ñor
+Y no [C]sé domar mi vo - [D]oz
+Y él contes[Em]tó  [C]  [D]
+/Coro/
+[C]No, no me [D]digas: "soy muy j[G]oven"
+Irás [B7]a donde te ma[Em]nde
+Y eje[C]cutarás mi o - [D]orden
+[C]No, no le [D]temerás a [G]nadie
+Proteg[B7]iéndote estaré[Em]
+La pa[C]labra que hoy te doy
+Está en pie[Em]
+/intermedio/
+[Em]  [C]  [D]
+/verse/
+En[C]tonces [D]el Se[G]ñor
+Su [C]mano [D]extendí - [Em]ia
+[C]  Y con [D]ella
+mis [G]la - [D]bios tocó  [Em]
+[C]  Y al mis[D]mo tiempo decí - [Em]ia
+[C]  Mira que he pu[D]esto mi pa[Em]labra
+[C]  E - en [D]tu pa[Em]labra
+[C]  Y desde ho - [D]oy
+Tienes au[G]to - [D]ridad  [Em]
+[C]  Sobre [D]reinos y naci[Em]ones
+[C]  Y desde ho - [D]oy
+Tienes au[G]to - [D]ridad  [Em] [D]
+[C]  Sobre [D]reinos y naci[G]one - 
+[C]e - [D]es
+/coro/
+/intermedio/
+[Em]  [C]  [D]
+/coro/
+/outro/
+[Em]  [C]  [D]
+[Em]  [C]  [D]

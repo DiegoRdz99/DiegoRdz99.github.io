@@ -1,0 +1,44 @@
+title : Estoy a la puerta y llamo
+composer : Jésed
+key : C
+{song}
+/intro/
+[Am]    [G]    [Am]    [G]
+/verse-1/
+Es[C]toy a la [G]puerta y [F]llamo
+[C]  Espe[G]rando a que me [F]a - bras
+[Dm]  Ábre[F]me que quiero en[G]trar
+Que es[F]toy a la [G]puerta y [F]llamo
+/intermedio/
+[Am]    [G]    [Am]    [G]
+/verse-2/
+El [C]cora[G]zón que te he [F]dado
+[C]  Es mo[G]rada que yo an[F]helo
+[Dm]  Pero es tan [F]digno y sa[G]grado
+Que es[F]toy a la [G]puerta y [F]llamo
+/Coro/
+[C]  Si me abres, entra[G]ré
+[Dm]  Y yo cenaré con[Am]tigo
+[G]  [F]  Si no me abres
+Seguir[C]é - [Em]e - [Am]e - [G]e
+[F]  Afuer[Dm]a como un men[G]digo
+/intermedio/
+[Am]    [G]    [Am]    [G]
+/verse-1/
+Es[C]toy a la [G]puerta y [F]llamo
+[C]  Espe[G]rando a que me [F]a - bras
+[Dm]  Ábre[F]me que quiero en[G]trar
+Que es[F]toy a la [G]puerta y [F]llamo
+/intermedio/
+[Am]    [G]    [Am]    [G]
+/verse-2/
+El [C]cora[G]zón que te he [F]dado
+[C]  Es mo[G]rada que yo an[F]helo
+[Dm]  Pero es tan [F]digno y sa[G]grado
+Que es[F]toy a la [G]puerta y [F]llamo
+/coro/
+/coro/
+/outro/
+Lla[C]mando, [Em]  lla[F]mando - [G]o
+Lla[C]mando, [Em]  lla[F]mando - [G]o
+Lla[C]mando, [Em]  lla[F]mando - [C]o
