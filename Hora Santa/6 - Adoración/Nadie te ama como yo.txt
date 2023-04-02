@@ -1,0 +1,15 @@
+title : Nadie te ama como yo
+key : C
+composer : Martín Valverde
+{song}
+/intro/
+[C]  [G]  [Am]    [Dm7]  [F]  [Dm9]  [G]  [Dm7]
+[C]  [G]  [Am]    [F]  [D7_3]  [G]  [G7]
+[C]  [G]  [E7_3] [Am7]  [C7]
+[F]  [D7_3]  [G]
+[C]  [G]  [Am7]   [F] [C]
+[C]  [G]  [Am7]   [F] [C]
+/verse/
+[C] Cuanto he espe[Em7]rado este mo[Am]mento
+[Am9] [Am] [Dm7]  Cuanto he espe[F]rado
+Que estu[Dm9]vieras a[G]sí  [Dm7]

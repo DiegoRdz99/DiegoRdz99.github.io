@@ -339,6 +339,11 @@ class bridge(verse):
         super().__init__(raw,part_id)
         self.title = 'Puente'
 
+class outro_verse(verse):
+    def __init__(self,raw,part_id = ''):
+        super().__init__(raw,part_id)
+        self.title = 'Outro'
+
 class resp(verse):
     def __init__(self,raw,part_id = ''):
         super().__init__(raw)
@@ -389,7 +394,7 @@ class salmo:
 
 
 
-parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro,'bridge':bridge,'locutor':locutor,'resp':resp,'respuesta':resp,'salmo':salmo,'gen':general}
+parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'outro':outro,'bridge':bridge,'locutor':locutor,'resp':resp,'respuesta':resp,'salmo':salmo,'gen':general,'outro_verse':outro_verse}
 
 # colors
 GOLD = '#d9b225'

@@ -1,0 +1,39 @@
+title : No Temas
+composer : Padre Pako Cantú
+key : C
+{song}
+/intro/
+[C]  [Em]  [Am]    [F^7]    [C]  [G]
+[C]  [Em]  [Am]    [F^7]    [C]  [G]
+/verse/
+[C] ¿Por qué me dices, [Em] que tienes miedo?
+[F] ¿Por qué duda[Dm]r, de entre[G]garte a mí?
+[Am]  ¿Que no ves, cuánto te [Em]quiero?
+[F]  Solo [G]mira la cru[C] - uz  [G_3]  [Em]
+[Am]  Por más [Am]que tropiec[G]es,
+[F]  Aún cuando [F]caiga[Em]s
+[Dm7]  Mi amor por [F]ti permanece[G]rá
+/Coro/
+[C]No no no, [Em]no no no [Am]temas
+{[G]Yo te haré[F]|  Yo te haré
+Pescado - [C]or de [G]hombres
+[C]No no no, [Em]no no no [Am]temas
+{[G]Yo te haré[F]|  Yo te haré
+Pescado - [C]or de [G]hombres [D°7]
+/prechorus/
+[Am]  Surcaremos mares nu[Em]evos entre tú y yo
+[F]  Echa[G]remos las re[C]des
+[E7]  Yo estaré a tu [Am]lado [G]
+[F]  Soy la calma en tu [C]tempesta [G]- ad
+/coro/
+/bridge/
+[F]  Date [G]cuenta
+que el ca[E]mino es la cru[Am]z
+Que [G]no hay otra [F]puerta
+No hay [C]otra mane[G]ra
+[F]  Date [G]cuenta
+que el tus [E]pasos no [Am]son
+No [G]son soli[F]tarios
+Yo [C]voy a tu la[G]do
+/coro/
+/coro/
