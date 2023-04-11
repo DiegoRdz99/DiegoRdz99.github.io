@@ -1,4 +1,4 @@
-title : Aleluya II
+title : Aleluya Solemne
 key : E
 liturgy : Ordinario
 {song}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.11.17)  10 APR 2023 23:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.11.17)  11 APR 2023 10:54
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -96,14 +96,12 @@ LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 18.
+(Font)              <14.4> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 18.
+(Font)              <7> on input line 17.
  (./Cantoral.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -112,60 +110,51 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `Cantoral.toc'.
 
-\openout3 = `bonaparte.abc'.
-
-runsystem(abcm2ps -O= -c  bonaparte.abc )...executed.
-
-runsystem(ps2eps -f bonaparte.ps )...executed.
-
-File: bonaparte.eps Graphic file (type eps)
- <bonaparte.eps>
-Overfull \hbox (39.00238pt too wide) in paragraph at lines 51--51
- [] 
- []
-
 runsystem(abcm2ps -O= -c  familia-sagrada.abc )...executed.
 
 runsystem(ps2eps -f familia-sagrada.ps )...executed.
 
 File: familia-sagrada.eps Graphic file (type eps)
-<familia-sagrada.eps>
-Overfull \hbox (39.00238pt too wide) in paragraph at lines 53--53
+ <familia-sagrada.eps>
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 40--40
  [] 
  []
 
 [1
 
 ]
+Overfull \vbox (13.29784pt too high) has occurred while \output is active []
+
+
+[2]
 runsystem(abcm2ps -O= -c  santo-solemne.abc )...executed.
 
 runsystem(ps2eps -f santo-solemne.ps )...executed.
 
 File: santo-solemne.eps Graphic file (type eps)
  <santo-solemne.eps>
-Overfull \hbox (39.00238pt too wide) in paragraph at lines 55--55
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 42--42
  [] 
  []
 
-[2]
 runsystem(abcm2ps -O= -c  joven-galileo.abc )...executed.
 
 runsystem(ps2eps -f joven-galileo.ps )...executed.
 
 File: joven-galileo.eps Graphic file (type eps)
- <joven-galileo.eps>
-Overfull \hbox (39.00238pt too wide) in paragraph at lines 57--57
+<joven-galileo.eps>
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 44--44
  [] 
  []
 
 [3] [4] (./Cantoral.aux) ) 
 Here is how much of TeX's memory you used:
- 1151 strings out of 478288
- 20395 string characters out of 5849314
+ 1143 strings out of 478288
+ 20241 string characters out of 5849314
  310331 words of memory out of 5000000
- 19374 multiletter control sequences out of 15000+600000
- 475073 words of font info for 48 fonts, out of 8000000 for 9000
+ 19367 multiletter control sequences out of 15000+600000
+ 474289 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,7n,76p,225b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,7n,76p,225b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Cantoral.dvi (4 pages, 1840 bytes).
+Output written on Cantoral.dvi (4 pages, 1640 bytes).

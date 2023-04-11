@@ -1,17 +1,17 @@
 title : Fue Levantado
-key : E
-liturgy : Domingo de Resurrección
+key : Dm
+liturgy : Pascua
 {song}
 /verse/
-{Resuci[Am]tó[]|Resucitó[]Resucitó[]|Resucitó
-Y los [C]cielos se llenan de [G]gozo
-A la [Dm]muerte venció, vida [Am]nueva nos dio, !Alelu[E7]ya!
+{Resuci[Dm]tó[]|Resucitó[]Resucitó[]|Resucitó
+Y los [F]cielos se llenan de [C]gozo
+A la [Gm]muerte venció, vida [Dm]nueva nos dio, !Alelu[A7]ya!
 /verse/
-{Resuci[Am]tó[]|Resucitó[]Resucitó[]|Resucitó
-Y los [C]cielos se llenan de [G]gozo
-A la [Dm]diestra del Padre sen[Am]tado está !Alelu[E7]ya!
+{Resuci[Dm]tó[]|Resucitó[]Resucitó[]|Resucitó
+Y los [F]cielos se llenan de [C]gozo
+A la [Gm]diestra del Padre sen[Dm]tado está !Alelu[A7]ya!
 /verse/
-[Dm]Fue levantado [Am]con gran poder
-Can[F]temos alelu[E7]ya
-[Dm]Fue levantado [Am]con gran poder
-Can[F]temos alelu[E7]ya
+[Gm]Fue levantado [Dm]con gran poder
+Can[Bb]temos alelu[A7]ya
+[Gm]Fue levantado [Dm]con gran poder
+Can[Bb]temos alelu[A7]ya
