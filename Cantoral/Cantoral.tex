@@ -1,0 +1,61 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{abc}
+\usepackage{graphicx}
+
+\setlength{\parindent}{0pt}
+
+% -----
+
+\begin{document}
+
+\title{\texttt{tunebook-sample.tex}:\\
+Example of ABC collection in \LaTeX}
+
+\author{Diego Rodríguez}
+
+\date{\today}
+
+\maketitle
+
+\tableofcontents
+
+% ----
+
+\section{Hornpipes}
+
+Let's make the first tune a bit wider. The command is
+
+\begin{verbatim}
+\renewcommand{\abcwidth}{1.2\linewidth}
+\end{verbatim}
+
+It's up to the user to change the page margins.
+
+\bigskip
+
+\renewcommand{\abcwidth}{1.1\linewidth}
+
+
+\addcontentsline{toc}{subsection}{Bonaparte Crossing the Rhine}
+\begin{abc}[name=bonaparte]
+X:1
+T:Bonaparte Crossing the Rhine
+R:hornpipe
+M:4/4
+L:1/8
+K:Ador
+E(G | "Am" A2)   AB    A(GEG) | "C" cde(c "G" d2)     eg | "Am" age(d          cd)ed  | "Am" cAG(E "G" G2) c(B |
+      "Am" A2)   AB    A(GEG) | "C" cde(c "G" d2) (3ef(g | "Am" a)ge(d  "F" cA)"G"G(E | "Am" A2) A{d}(B    A2) :|
+e(g | "Am" a2) ag (3ef(g e)(d | ^cd)e(f g2)           eg | age(d                cd)ed | "Am" cAG(E "G" G2) c(B |
+      "Am" A2)   AB    A(GEG) | "C" cde(c "G" d2) (3ef(g | "Am" a)ge(d  "F" cA)"G"G(E | "Am" A2) A{d}(B    A2) :|
+\end{abc}
+
+\abcinput{familia-sagrada}
+
+\abcinput{santo-solemne}
+
+\abcinput{joven-galileo}
+
+% -----
+
+\end{document}
