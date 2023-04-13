@@ -1,0 +1,58 @@
+title : Resucitó, ya no está aquí
+composer : 2 Cantan a Dios
+key : C
+liturgy : Pascua
+{song}
+/intro/
+[C]    [Am]    [F]    [G]
+/verse/
+Muy temp[C]rano en la mañana,
+Antes [Am]que saliera el sol
+María [F]madre de San[Dm]tiago
+Salió [G]de su habitación
+Con rum[C]bo hacia el sepulcro,
+Donde es[Am]taba el Señor
+María [F]Ma - agda[Dm]lena
+Acompa[G]ñaba la misión
+Con a[C]roma entre sus manos
+Y con [Am]un cierto temor
+Encon[F]traron el se[Dm]pulcro
+Sin la [G]piedra en su exterior
+/prechorus/
+¿Qué pa[Am]só?
+¿Dónde es[G]tá el Señor?
+¿Qué pa[F]só?
+¿Dónde lo han [G]puesto?
+/Coro/
+Resuci[C]tó, resuci[G]tó - o
+El Se[F]ñor ya no está a[Dm]quí
+Resuci[G]tó, venció a la [C]mue - erte
+Venció a la [G]mue - erte
+El Se[F]ñor ya no está a[Dm]quí
+Resuci[G]tó, resuci[C]tó
+/verse/
+Que sor[C]presa se llevaron,
+Al lle[Am]gar y no encontrar
+Aquel [F]cuerpo destroz[Dm]ado
+Por los [G]golpes que sufrió
+Al con[C]trario encontraron,
+A un [Am]joven que anunció
+Que el ma[F]estro que el Se[Dm]ñor
+De la [G]muerte se libró
+/prechorus/
+¿Qué pa[Am]só?
+¿Dónde es[G]tá el Señor?
+¿Qué pa[F]só?
+¿Dónde lo han [G]puesto?
+/coro/
+/verse/
+Con te[C]mor y con asombro,
+Ellas [Am]fueron a avisar
+Que el cor[F]dero sin pe[Dm]cado
+Ha cum[G]plido con su amor
+/prechorus/
+¿Qué pa[Am]só?
+¿Dónde es[G]tá el Señor?
+¿Qué pa[F]só?
+¿Dónde lo han [G]puesto?
+/coro/

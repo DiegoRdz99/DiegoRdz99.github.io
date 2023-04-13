@@ -1,15 +1,19 @@
 %abc-2.2
 %%MIDI program 74
-%%pagewidth 20cm
-%bgcolor white
+%%pagewidth 21cm
+%%pageheight 29.7cm
 %%topspace 0
 %%composerspace 0
-%%vocalfont Nunito 12
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%wordsfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
 %leftmargin 0.8cm
 %rightmargin 0.8cm
 
 X:1
-F:Familia_Sagrada
+T:Familia Sagrada
 C:Jésed
 S:
 M:3/4

@@ -1,0 +1,28 @@
+%%abc-2.2
+%%MIDI program 74
+%%pagewidth 21cm
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Piedad I
+C:
+M:3/4
+L:1/4
+Q:1/2=90
+K:Em
+%
+%
+    D | "Em"E3 | z F G | "D"A3 | z E F | "C"G3 | "B7"F3 | "Em"E3 | z2 !fine!|
+w: Se-ñor, ten pie-dad de no-so-o-tros
+    "Am"c c2 | z B A | "G"B3 | z A G |
+w: Cris-to, ten pie-dad de no-
+    |1 "B7"A3 | G2 A | "Em"B3 |"E7"z3 :|2 A3 | G2 F | E3 | z2 !D.C.alfine!|]
+w: so-o-o-tros so-o-o-tros

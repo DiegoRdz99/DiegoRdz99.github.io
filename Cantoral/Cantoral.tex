@@ -1,14 +1,32 @@
-\documentclass[a4paper,12pt]{article}
+\documentclass[a4paper,12pt]{book}
 \usepackage{abc}
 \usepackage{graphicx}
+\usepackage{titlesec}
 
-\setlength{\parindent}{0pt}
+\usepackage[T1]{fontenc}
+% \usepackage{nunito}
+% \usepackage[sfdefault]{AlegreyaSans}
+\usepackage{Alegreya}
+\usepackage{setspace}  % Line spaceing  
+\usepackage{titlesec}   % centering titles 
+\usepackage{sectsty}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{lipsum}
+\usepackage{titletoc}
+% \usepackage[spanish]{babel}
+
+\renewcommand\cftchapfont{\bf\huge}
+
+
+\titleformat{\chapter}{\bf\huge}{\thechapter.}{20pt}{\huge\bf}
 
 % -----
 
 \begin{document}
 
-\title{Cantoral Chingón}
+\title{\Huge\textbf{Cantoral Chingón}}
 
 \author{Diego Rodríguez}
 
@@ -19,29 +37,150 @@
 \tableofcontents
 
 % ----
-
-\section{Hornpipes}
-
-Let's make the first tune a bit wider. The command is
-
-\begin{verbatim}
-\renewcommand{\abcwidth}{1.2\linewidth}
-\end{verbatim}
-
-It's up to the user to change the page margins.
-
-\bigskip
-
 \renewcommand{\abcwidth}{1.1\linewidth}
 
+\chapter{Misa}
 
-\addcontentsline{toc}{subsection}{Bonaparte Crossing the Rhine}
+\section{Entrada}
 
-\abcinput{familia-sagrada}
+\addcontentsline{toc}{subsection}{Tiempo de Cuaresma}
+\abcinput{tiempo-de-cuaresma}
+
+
+\section{Piedad}
+
+\addcontentsline{toc}{subsection}{Piedad I}
+\abcinput{piedad-i}
+
+\section{Gloria}
+
+
+
+\section{Aleluya}
+
+\addcontentsline{toc}{subsection}{Aleluya Canon I}
+\abcinput{aleluya-canon-i}
+
+\addcontentsline{toc}{subsection}{Aleluya Canon II}
+\abcinput{aleluya-canon-ii}
+
+\addcontentsline{toc}{subsection}{Aleluya Solemne}
+\abcinput{aleluya-solemne}
+
+\section{Ofertorio}
+
+
+
+\section{Santo}
 
 \abcinput{santo-solemne}
 
+\section{Cordero}
+
+
+
+\section{Comunión}
+
+\addcontentsline{toc}{subsection}{La Familia Sagrada}
+\abcinput{familia-sagrada}
+
 \abcinput{joven-galileo}
+
+\section{Salida}
+
+
+% María
+
+\chapter{María}
+
+
+
+% Hora Santa
+
+\chapter{Hora Santa}
+
+\section{Recibir Santísimo}
+
+
+
+\section{Gratitud}
+
+
+
+\section{Perdón y Reconciliación}
+
+
+
+\section{Espíritu Santo}
+
+
+
+\section{Eucarísticos}
+
+
+
+\section{Adoración}
+
+
+
+\section{Vocacionales}
+
+
+
+\section{Despedir Santísimo}
+
+
+
+% Alabanzas
+
+
+\chapter{Alabanzas}
+
+
+
+
+
+
+\chapter{Semana Santa}
+
+
+
+
+
+
+\chapter{Villancicos}
+
+
+
+
+
+
+\chapter{Originales}
+
+
+
+
+
+
+\chapter{Niños}
+
+
+
+
+
+
+\chapter{Salmos}
+
+\section{Ciclo A}
+
+
+
+\section{Ciclo B}
+
+
+
+\section{Ciclo C}
+
 
 % -----
 

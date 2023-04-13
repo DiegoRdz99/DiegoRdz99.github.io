@@ -1,8 +1,18 @@
 %abc-2.2
 %%MIDI program 74
+%%pagewidth 21cm
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
 
 X:1
-F:Tiempo de Cuaresma
+T:Tiempo de Cuaresma
 C:Moisés Alejandro Sáenz
 S:
 M:6/8
@@ -12,7 +22,6 @@ K:Dm
 %
 %
    D2E | "Dm"F3 F2F | "C"G2G F2G | "F"A3 A3 | z3 G2A |
-%%vskip 0
 w: Ha lle-ga-do el tiem-po fa-vo-ra-ble ver-da
    "Gm"B3 B2A | "C"G2 B3 A-|"F"A6 | z3 A2A | "Gm"G2G G2G | G2G A2E | 
 w: de-ro sa-cra-men-tal_ co-mo~I-gle-sia pe-re-gri-na re-co-
