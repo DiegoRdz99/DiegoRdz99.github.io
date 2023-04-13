@@ -3,10 +3,17 @@ liturgy : Ordinario
 key : G
 {song}
 /verse/
-Cordero de [G]Dios, que quitas el pe[Em]cado
-El pecado del [C]mundo, [D]  ten pie[G]dad
-Cordero de [G]Dios, que quitas el pe[Em]cado
-El pecado del [C]mundo, [D]  ten pie[G]dad
-Cordero de [G]Dios, que quitas el pe[Em]cado
-El pecado del [C]mundo, [D]  danos la [G]paz
-Danos la [Em]paz, danos la [C]paz, [D]  dános[G]la
+Cordero de [G]Dios,
+que quitas el pe[Em]cado
+El pecado del [C]mundo,
+[D]  ten pie[G]dad
+Cordero de [G]Dios,
+que quitas el pe[Em]cado
+El pecado del [C]mundo,
+[D]  ten pie[G]dad
+Cordero de [G]Dios,
+que quitas el pe[Em]cado
+El pecado del [C]mundo,
+[D]  danos la [G]paz
+Danos la [Em]paz, danos la [C]paz,
+[D]  dános[G]la

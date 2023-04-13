@@ -6,23 +6,37 @@ liturgy : Ordinario
 /intro/
 [E]  [B]  [B7]  [E]
 /verse/
-Mi mano está [E]llena de su bendi[B]ción
-MI mano está [B7]llena de su bendi[E]ción  [B7]
-Al hermano que yo [A]toque bendito se[Am]rá
-Al hermano que yo [E]toque bendito se[C#m]rá
-Mi mano está [B7]llena-a, de su bendi[E]ción
+Mi mano está [E]llena,
+de su bendi[B]ción
+MI mano está [B7]llena,
+de su bendi[E]ción  [B7]
+Al hermano que yo [A]toque,
+bendito se[Am]rá
+Al hermano que yo [E]toque,
+bendito se[C#m]rá
+Mi mano está [B7]llena-a,
+de su bendi[E]ción
 /Coro/
 ¡¿Por qué?!
-Porque [E]Cristo ha tomado mi vida y no la quiere sol[B]tar
-Porque Cristo ha tomado mi v[B7]ida y no la quiere sol[E]tar
-Estaba yo muy [E7]triste más a[A]hora soy fe[Am]liz
-Porque [E]Cristo ha tomado mi v[B7]ida y no la quiere sol[E]tar
+Porque [E]Cristo ha tomado mi vida
+y no la quiere sol[B]tar
+Porque Cristo ha tomado mi v[B7]ida
+y no la quiere sol[E]tar
+Estaba yo muy [E7]triste,
+más a[A]hora soy fe[Am]liz
+Porque [E]Cristo ha tomado mi v[B7]ida
+y no la quiere sol[E]tar
 /verse/
-Mi pie está [E]llena de su bendi[B]ción
-MI pie está [B7]llena de su bendi[E]ción  [B7]
-Al hermano que yo [A]pise bendito se[Am]rá
-Al hermano que yo [E]pise bendito se[C#m]rá
-Mi pie está [B7]llena-a, de su bendi[E]ción
+Mi pie está [E]lleno, 
+de su bendi[B]ción
+MI pie está [B7]lleno,
+de su bendi[E]ción  [B7]
+Al hermano que yo [A]pise,
+bendito se[Am]rá
+Al hermano que yo [E]pise,
+bendito se[C#m]rá
+Mi pie está [B7]llena-a,
+de su bendi[E]ción
 /coro/
 /verse/
 Y yo me [E]sigo enamorando
@@ -31,6 +45,9 @@ Me [E]sigo enamorando de [B]Él
 Y yo me [B]sigo enamorando
 Me [B]sigo enamorando
 Me [B]sigo enamorando de [E]Él
-Estaba yo muy [E7]triste más a[A]hora soy fe[Am]liz
-Porque [E]Cristo ha tomado mi v[B7]ida y no la quiere sol[E]tar
-Porque [E]Cristo ha tomado mi v[B7]ida y no la quiere sol[E]tar
+Estaba yo muy [E7]triste,
+más a[A]hora soy fe[Am]liz
+Porque [E]Cristo ha tomado mi v[B7]ida
+y no la quiere sol[E]tar
+Porque [E]Cristo ha tomado mi v[B7]ida
+y no la quiere sol[E]tar

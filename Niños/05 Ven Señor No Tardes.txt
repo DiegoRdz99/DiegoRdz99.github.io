@@ -13,7 +13,8 @@ Ven [A]pron[B]to Se[E]ñor  [A] [B7]
 /verse/
 El [E]mundo muere de [A]frí-[B7]i-[E]o
 El [B]alma perdió el ca[E]lor  [A] [B7]
-Los [E]hombres no son her[A]ma-[B7]a-[E]nos
+Los [E]hombres no son
+her[A]ma - [B7]a - [E]nos
 El [B7]mundo no tiene a[E]mor  [A] [B7]
 /coro/
 /verse/

@@ -3,25 +3,34 @@ key : C
 composer : Jésed
 {song}
 /intro/
-[C] [Em7_5] [Am7] [Am7_m7] [F] [Dm7] [Gadd11] [G]
+[C] [Em7_5] [Am7] [Am7_m7]
+[F] [Dm7] [Gadd11] [G]
 /verse/
 [C] Vengan a [Em7_5]mi los sedie[Am7]ntos
-[Am7_m7]Y los que s[F]ufren, [Dm7]dice el Señ[Gadd11]or  [G]
+[Am7_m7]Y los que s[F]ufren,
+[Dm7]dice el Señ[Gadd11]or  [G]
 [C] Vengan a [Em7_5]mi con sus [Am7]penas
-[Am7_m7]Con sus dol[F]ores, [Dm7]yo soy su Di[Gadd11]os  [G]
+[Am7_m7]Con sus dol[F]ores,
+[Dm7]yo soy su Di[Gadd11]os  [G]
 /Coro/
 [C] Yo soy el [Em7_5]agua de [Am7]vida
-[Am7_m7]Los que me t[Fadd9]omen ja[D11]más tendrán s[Gadd11]  [G]
+[Am7_m7]Los que me t[Fadd9]omen,
+ja[D11]más tendrán s[Gadd11]ed  [G]
 [C] Yo soy el [Em7_5]Dios del [Am7]consuelo
-Y a [G]quienes me bus[Fadd9]squen yo [D9]consolar[Gadd11]ré  [G]
+Y a [G]quienes me bu - [Fadd9]usquen,
+yo [D9]consola[Gadd11]ré  [G]
 /verse/
 [C] Vengan a [Em7_5]mi con sus ye[Am7]rros
-[Am7_m7]Que sus pec[F]ados yo [Dm7]perdonar[Gadd11]é  [G]
+[Am7_m7]Que sus pec[F]ados,
+yo [Dm7]perdonar[Gadd11]é  [G]
 [C] Vengan a [Em7_5]mi humilde[Am7]mente
-Y [Am7_m7]miseric[F]ordia yo [Dm7]les mostrar[Gadd11]é  [G]
+Y [Am7_m7]miseric - [F]ordia,
+yo [Dm7]les mostrar[Gadd11]é  [G]
 /coro/
 [C] Yo tomar[Em7_5]ré su pe[Am7]cado
-Y en [Am7_m7]el hondo océ[F]ano lo [Dm7]sepultar[Gadd11]é  [G]
+Y en [Am7_m7]el hondo océ[F]ano,
+lo [Dm7]sepultar[Gadd11]é  [G]
 [C] Y más [Em7_5]blanca que la [Am7]nieve
-[Am7_m7]Su alma radia[F]nte yo [Dm7]la dejar[Gadd11]é  [G]
+[Am7_m7]Su alma radia[F]nte,
+yo [Dm7]la dejar[Gadd11]é  [G]
 /coro/

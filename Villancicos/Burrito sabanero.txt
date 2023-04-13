@@ -3,25 +3,39 @@ key : G
 liturgy : Navidad
 {song}
 /verse/
-[G] Con mi burrito saban[C]ero voy cam[D7]ino de Bel[G]én
-Con mi burrito saban[C]ero voy cam[D7]ino de Bel[G]én
-Si me v[C]en, si me v[G]en, voy cam[D7]ino de Bel[G]én
-Si me v[C]en, si me v[G]en, voy cam[D7]ino de Bel[G]én
+[G] Con mi burrito saban[C]ero
+voy cam[D7]ino de Bel[G]én
+Con mi burrito saban[C]ero
+voy cam[D7]ino de Bel[G]én
+Si me v[C]en, si me v[G]en,
+voy cam[D7]ino de Bel[G]én
+Si me v[C]en, si me v[G]en,
+voy cam[D7]ino de Bel[G]én
 /verse/
-[G] El lucerito mañan[C]ero ilum[D7]ina mi send[G]ero
-El lucerito mañan[C]ero ilum[D7]ina mi send[G]
-Si me v[C]en, si me v[G]en, voy cam[D7]ino de Bel[G]én
-Si me v[C]en, si me v[G]en, voy cam[D7]ino de Bel[G]én
+[G] El lucerito mañan[C]ero
+ilum[D7]ina mi send[G]ero
+El lucerito mañan[C]ero
+ilum[D7]ina mi send[G]ero
+Si me v[C]en, si me v[G]en,
+voy cam[D7]ino de Bel[G]én
+Si me v[C]en, si me v[G]en,
+voy cam[D7]ino de Bel[G]én
 /Coro/
 T[B7]uqui, tuqui, tuqui, t[Em]uqui
 T[B7]uqui, tuqui, tuqui t[Em]a
-Apúr[A7]ate mi burr[D]ito que ya v[A7]amos a lleg[A7]ar
+Apúr[A7]ate mi burr[D]ito
+que ya v[A7]amos a lleg[A7]ar
 T[B7]uqui, tuqui, tuqui, t[Em]uqui
 T[B7]uqui, tuqui, tuqui t[Em]a
-Apúr[C]ate mi burr[G]ito vamos [D]a ver a Jes[G]ús
+Apúr[C]ate mi burr[G]ito
+vamos [D]a ver a Jes[G]ús
 /verse/
-Con mi burrito voy cant[C]ando mi cuatr[D7]ico va son[G]ando
-Con mi burrito voy cant[C]ando mi cuatr[D7]ico va son[G]ando
-Si me v[C]en, si me v[G]en, voy cam[D7]ino de Bel[G]én
-Si me v[C]en, si me v[G]en, voy cam[D7]ino de Bel[G]én
+Con mi burrito voy cant[C]ando
+mi cuatr[D7]ico va son[G]ando
+Con mi burrito voy cant[C]ando
+mi cuatr[D7]ico va son[G]ando
+Si me v[C]en, si me v[G]en,
+voy cam[D7]ino de Bel[G]én
+Si me v[C]en, si me v[G]en,
+voy cam[D7]ino de Bel[G]én
 /coro/

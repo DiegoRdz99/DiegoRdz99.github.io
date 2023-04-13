@@ -3,9 +3,13 @@ key : Em
 liturgy : Ordinario
 {song}
 /Coro/
-Se[Em]ñor, ten pie[D]dad de no[C]so-[B7]o-[Em]tros
-Se[Em]ñor, ten pie[D]dad de no[C]so-[B7]o-[Em]tros [E7]
+Se[Em]ñor, ten pie[D]dad
+De no[C]so-[B7]o-[Em]tros
+Se[Em]ñor, ten pie[D]dad
+De no[C]so-[B7]o-[Em]tros [E7]
 /verse/
-[Am]Cristo, ten pie[G]dad de no[B]so-[B7]o-[Em]tros [E7]
-[Am]Cristo, ten pie[G]dad de no[Am]so-[B7]o-[Em]tros
+[Am]Cristo, ten pie[G]dad
+De no[B]so-[B7]o-[Em]tros [E7]
+[Am]Cristo, ten pie[G]dad
+De no[Am]so-[B7]o-[Em]tros
 /coro/
