@@ -453,6 +453,7 @@ class song:
             self.meta['subtitle'] = subtitle_from_folder(folder)
         if abc_sheet:
             abc_sheet = f'''
+            <br><br>
             <script type="text/vnd.abc" id="abc-score">
             {abc_sheet.replace('Alegreya','Nunito')}
             </script>
