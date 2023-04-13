@@ -454,7 +454,7 @@ class song:
         if abc_sheet:
             abc_sheet = f'''
             <script type="text/vnd.abc" id="abc-score">
-            {abc_sheet}
+            {abc_sheet.replace('Alegreya','Nunito')}
             </script>
             '''
         else:
