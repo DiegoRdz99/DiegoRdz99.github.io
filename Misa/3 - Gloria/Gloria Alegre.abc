@@ -1,0 +1,40 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Gloria Alegre
+C:
+M:4/4
+L:1/8
+Q:1/4=120
+K:D<>
+%
+%%MIDI beat 105 90 60 3
+    "D"D2 D2 "G"E>D E>"D"F-|F>D- D2-"D9"D z2 D2 | "G"G4 "A"F>E- E>"D"F-|F>A-A4 z>A, |
+w: Glo-ria~a Dios en el Cie--lo__ y paz en la_ tie--rra_ al
+    "G"D2 D>A, "A"D>E D>C | "D"D4 z2 z>A, | "G"D2 D>A, "A"D>E D>C | [M:2/4]"D"D4|
+w: hom-bre que a-ma el Se-ñor al hom-bre que a-ma el Se-ñor
+    [M:2/4]z>D D>D |[M:4/4]"G"G2-G>G- G>G G>F|"A"F>E-E2 z>E D>E | "F#m"F2-F>F F>F E>E | [M:2/4]"Bm"E>D-D2 |
+w: 1.~Te a-la-ba--mos te ben-de-ci-mos__ te a-do-ra--mos te glo-ri-fi-ca-mos
+w: 2.~Se-ñor Je-sús, * Cor-de-ro de Dio-os__ Hi-jo del Pa-dre ten pie-dad de no-so-tros
+    z>D D>D |[M:4/4]"G"G4 G2 F2 |"A"E4 D>D E>E | "D"F2-F>E F4 | [M:2/4]"Am"z4|
+w: 1.~Te da-mos gra-cias Se-ñor por tu~in-men-sa glo--ri-a
+w: 2.~ So-lo Tú e-res el Sal-*va-*do---or
+    "D7"z>D D>D |[M:4/4]"G"G4 G2 F2 |"A"E4 D->D C->C | "D"D4 "G"z2 z>"D"z | z2 "A7"z6 :|
+w: 1.~Te da-mos gra-cias Se-ñor por* tu~a--mor
+w: 2.~Con el Es-pí-ri-tu San-to en la~u-ni-dad
+    "D"D2 D2 "G"E>D E>"D"F-|F>D- D2-"D9"D z2 D2 | "G"G4 "A"F>E- E>"D"F-|F>A-A4 z>A, |
+w: Glo-ria~a Dios en el Cie--lo__ y paz en la_ tie--rra_ al
+    "G"D2 D>A, "A"D>E D>C | "D"D4 z2 z>A, | "G"D2 D>A, "A"D>E D>C | [M:2/4]"D"D4|
+w: hom-bre que a-ma el Se-ñor al hom-bre que a-ma el Se-ñor
+    z2 z>A, |[M:4/4]"G"D2 D4 z2 | "A"z2 z>E E>E D>C| "D"D4 z4|]
+w: Al hom-bre que a-ma el Se-ñor

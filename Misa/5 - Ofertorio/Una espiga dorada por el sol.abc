@@ -1,0 +1,50 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Una espiga dorada por el sol
+C:
+M:2/4
+L:1/8
+Q:1/4=80
+K:G
+%
+    B,/2C/2 | "G"DD2 z/2G/2 | "C"BE2 E/2_E/2 | "G"D2 z2 |
+w: U-na~es-pi-ga do-ra-da por el sol
+    z2 B,C | "G"DD z>G | "Em"B G2 G/2E/2 | "D"F4 |
+w: El ra-ci-mo que cor-ta~el vi-ña-dor
+    "D7"z2 AB | "C"c2 cc | "D"cB Ac | "G"BG2E | "Em"D zGB |
+w: Se con-vier-ten a-ho-ra~en pan y vi-no de~a-mor en el
+    "Am"A2 AG | "D"FD FA | "G"G2 z2 | "G7"z2 AB | "C"c2 cc |
+w: cuer-po~y la san-gre del Se-ñor, Se con-vier-ten a-
+    "D"cB Ac | "G"BG2E | "Em"D zGB | "Am"A2 AG | "D"FD FA | "G"G2 z2 |
+w: ho-ra~en pan y vi-no de~a-mor en el cuer-po~y la san-gre del Se-ñor
+    z3 B,/2C/2 | "G"DD2 z/2G/2 | "C"BE2 E/2_E/2 | "G"D4 |
+w: 1.~Com-par-ti-mos la mis-ma co-mu-nión
+w: 2.~Co-mo gra-nos que~han he-cho~el mis-mo pan
+w: 3.~En la me-sa de Dios se sen-ta-rán
+    z3 B,/2C/2 | "G"DD z>G | "Em"B G2 G/2E/2 | "D"F4 |
+w: 1.~So-mos tri-go del mis-mo sem-bra-dor
+w: 2.~Co-mo no-tas que te-jen un can-tar
+w: 3.~Co-mo hi-jos su pan co-mul-ga-rán
+    "D7"z2 AB | "C"c2 cc | "D"cB Ac | "G"BG2E/2_E/2 | "Em"D2GB |
+w: 1.~Un mo-li-no la vi-da nos tri-tu-ra con do-lor, Dios nos
+w: 2.~Co-mo go-tas de a-gua que se fun-den en el mar, los cris-
+w: 3.~U-na mis-ma~es-pe-ran-za, ca-mi-nan-do can-ta-rán, en la
+    "Am"AA AG | "D"FD FA | "G"G4 | "G7"z2 AB | "C"c2 cc |
+w: 1.~ha-ce~eu-ca-ris-tí-a~en el a-mor Un mo-li-no la
+w: 2.~tia--nos un cuer-po for-ma-rán Co-mo go-tas de
+w: 3.~vi-da co-mo~her-ma-nos se~a-ma-rán U-na mis-ma~es-pe-
+    "D"cB Ac | "G"BG2E/2_E/2 | "Em"D2GB | "Am"AA AG | "D"FD FA | "G"G4 :|
+w: 1.~vi-da nos tri-tu-ra con do-lor, Dios nos ha-ce~eu-ca-ris-tí-a~en el a-mor
+w: 2.~a-gua que se fun-den en el mar, los cris-tia--nos un cuer-po for-ma-rán
+w: 3.~ran-za, ca-mi-nan-do can-ta-rán, en la vi-da co-mo~her-ma-nos se~a-ma-rán

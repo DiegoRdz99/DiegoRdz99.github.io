@@ -5,21 +5,24 @@ liturgy : Ordinario
 /intro/
 [D]  [G] [D]
 /Coro/
-[D]Gloria a [G]Dios en el [D]ciel[Dsus2]
+[D]Gloria a [G]Dios en el [D]ciel[Dsus2]o
 Y [G]paz [A]en la [D]Tierr[D5]a
 Al [G]hombre que [A]ama el Se[D]ñor
 Al [G]hombre que [A]ama el Se[D]ñor
 /verse/
 Te ala[G]bamos, te bende[A]cimos
 Te ado[F#m]ramos te glorifi[Bm]camos
-Te damos [G]gra-[GM7]cias Se[A]ñor
+Te damos [G]gra - [G^7]cias Se[A]ñor
 Por tu inmensa [D]gloria  [Am] [D7]
-Te damos [G]gra-[G^7]cias Se[A]ñor
+Te damos [G]gra - [G^7]cias Se[A]ñor
 Por tu a[D]mor  [G] [D] [A7]
 /coro/
 /verse/
 Señor Je[G]sús Cordero de [A]Dios
-Hijo del [F#m]Padre ten piedad de no[Bm]sotros
-Solo [G]Tú  [G^7]eres [A]el Salva[D]dor  [Am] [D7]
-Con el Es[G]í-[G^7]ritu [A]Santo en la uni[D]dad [G] [D] [A7]
+Hijo del [F#m]Padre
+ten piedad de no[Bm]sotros
+Solo [G]Tú  [G^7]eres [A]el
+Salva[D]dor  [Am] [D7]
+Con el Es[G]í - [G^7]ritu [A]Santo
+en la uni[D]dad [G] [D] [A7]
 /coro/

@@ -1,0 +1,40 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:La huella
+C:
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+%
+    CC2DC2 | "C"E8 | z2 EE2FE2 | "Em"G8 |
+w: 1.~¿Que dón-de~es-tá Dios? ¿Que dón-de~es-tá~el Rey?
+w: 2.~Él a-hí~es-ta-rá, cuan-do sal-ga~el sol
+    z2 GG2AG2 | "F"A4 z AA2 | "G"G4 z FG2 | "C"G2F E3 z2 |
+w: 1.~¿Que dón-de~es-tá~el pie que cru-zó por la~a-re--na?
+w: 2.~Y~es-ta-rán los cam-pos cu-bier-tos de flo--res
+    z2 CC2DC2 | "C"E8 | z2 EE2FE2 | "Em"G8 |
+w: 1.~¿Que si sal-dŕa~el sol? ¿Vol-ve-rá~el a-yer?
+w: 2.~Mi úl-ti-mo~a-diós, mi úl-ti-mo~a-mén
+    z2 GG2AG2 | "F"A4 z AA2 | "G"G4 z FG2 | "C"G2F E3 z2 |
+w: 1.~¿Y si ven-ga~el mar y se bo-rre mi hue--lla?
+w: 2.~Él me lla-ma-rá~y cal-ma-rá mis te-mo--rés
+    "Gm"z2 G G-"C7"G A2 G | "F"A2 GF A2 G2 | "G"z2 GG2 AG2 | "Em"G8 |
+w: Soy tan_ so-lo vien-to se-dien-to, y pron-to me~i-ré
+    "Am"z2 E E2 F2E | "Dm"E2 DC E2 D2 | "G"z2 DD2 CD2 | "C"E8 |
+w: Soy tan so-lo nie-bla que~a-nhe-la
+    "Gm"z2 G G-"C7"G A2 G | "F"A2 GF A2 G2 | "G"z2 GG2 AG2 | "Em"G8 |
+w: Soy tan_ so-lo vien-to se-dien-to, y pron-to me~i-ré
+    "Am"z2 E E2 F2E | "Dm"E2 DC E2 D2 | "G"z2 DD2 CB,2 | "C"C8 :|
+w: Soy tan so-lo nie-bla que~a-nhe-la, un a-tar-de-cer

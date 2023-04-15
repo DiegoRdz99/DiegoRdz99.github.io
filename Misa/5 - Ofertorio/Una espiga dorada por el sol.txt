@@ -1,33 +1,34 @@
 title : Una espiga dorada por el sol
-key : D
+key : G
 liturgy : Ordinario
 {song}
 /Coro/
-Una es[D]piga do[G]rada por el [D]sol
-El ra[D]cimo que [Bm]corta el viña[A7]dor
-Se con[G]vierten a[A7]hora en pan y [D]vino de a[Bm]mor
-En el [Em]Cuerpo y la [A7]Sangre del Se[D]ñor  [D7]
-Se con[G]vierten a[Gm]hora en pan y [D]vino de a[Em]mor
-En el [Em]Cuerpo y la [A7]Sangre del Se[D]ñor  [D7]
+Una es[G]piga do[C]rada por el [G]sol
+El ra[G]cimo que [Em]corta el viña[D7]dor
+Se con[C]vierten a[D7]hora en pan y [G]vino de a[Em]mor
+En el [Am]Cuerpo y la [D7]Sangre del Se[G]ñor  [G7]
+Se con[C]vierten a[Cm]hora en pan y [G]vino de a[Em]mor
+En el [Am]Cuerpo y la [D7]Sangre del Se[G]ñor  [G7]
 /verse/
-Compar[D]timos la [G]misma comu[D]nión
-Somos [D]trigo del [Bm]mismo sembra[A7]dor
-Un mo[G]lino, la [A7]vida, nos tri[D]tura con do[Bm]lor
-Dios nos [Em]hace Eucaris[A7]tía en el a[D]mor  [D7]
-Un mo[G]lino, la [Gm]vida, nos tri[D]tura con do[Bm]lor
-Dios nos [Em]hace Eucaris[A7]tía en el a[D]mor  [D7]
+Compar[G]timos la [C]misma comu[G]nión
+Somos [G]trigo del [Em]mismo sembra[D7]dor
+Un mo[C]lino, la [D7]vida, nos tri[G]tura con do[Em]lor
+Dios nos [Am]hace Eucaris[D7]tía en el a[G]mor  [G7]
+Un mo[C]lino, la [Cm]vida, nos tri[G]tura con do[Em]lor
+Dios nos [Am]hace Eucaris[D7]tía en el a[G]mor  [D7]
 /coro/
-Como [D]granos que han [Una [G]misma espe[A7]ranza, cami[D]nando canta[Bm]rán
-En la [Em]vida como her[A7]manos se ama[D]rán  [D7]G]hecho el mismo [D]pan
-Como [D]notas que [Em]tejen un can[A7]tar
-Como [G]gotas de [A7]agua que se [D]funden en el [Bm]mar
-Los cris[Em]tianos un [A7]cuerpo forma[D]rán  [D7]
-Como [G]gotas de [Gm]agua que se [D]funden en el [Bm]mar
-Los cris[Em]tianos un [A7]cuerpo forma[D]rán  [D7]
+/verse/
+Como [G]granos que han [C]hecho el mismo [G]pan
+Como [G]notas que [Em]tejen un can[D7]tar
+Como [C]gotas de [D7]agua que se [G]funden en el [Em]mar
+Los cris[Am]tianos un [D7]cuerpo forma[G]rán  [G7]
+Como [C]gotas de [Cm]agua que se [G]funden en el [Em]mar
+Los cris[Am]tianos un [D7]cuerpo forma[G]rán  [G7]
 /coro/
-En la [D]mesa de [G]Dios se senta[D]rán
-Como [D]hijos su [Bm]pan comulga[A7]rán
-Una [G]misma espe[A7]ranza, cami[D]nando canta[Bm]rán
-En la [Em]vida como her[A7]manos se ama[D]rán  [D7]
-Una [G]misma espe[Gm]ranza, cami[D]nando canta[Bm]rán
-En la [Em]vida como her[A7]manos se ama[D]rán  [D7]
+/verse/
+En la [G]mesa de [C]Dios se senta[G]rán
+Como [G]hijos su [Em]pan comulga[D7]rán
+Una [C]misma espe[D7]ranza, cami[G]nando canta[Em]rán
+En la [Am]vida como her[D7]manos se ama[G]rán  [G7]
+Una [C]misma espe[Cm]ranza, cami[G]nando canta[Em]rán
+En la [Am]vida como her[D7]manos se ama[G]rán  [G7]

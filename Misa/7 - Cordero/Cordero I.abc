@@ -1,0 +1,30 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Cordero I
+C:
+M:4/4
+L:1/8
+Q:1/4=80
+K:G
+%
+    E | "Em"EBA B2 G | "A"A3 E3 | "C"G2 G "D"FED |"Em"E3 E3 |
+w: Cor-de-ro de Dios, que qui-tas el pe-ca-do del mun-do
+    [1,2 "Am"A2 B "D"cBA | "G"B3 "Em"G3 | "Am"F2 G "B7"AGF | "Em"E3 E3 | z3 z2 :|
+w: Ten pie-dad de no-so-tros, ten pie-dad de no-so-tros
+    [3 "Am"E3 F2 G | "D"A3 z3 | "B7"F3 G2 A | "Em"B3 "E7"z3 |
+w: Da-nos la paz, da-nos la paz
+     "Am"c3 "D"F3 | "G"B3 "Em"E3 | "Am"A3 "B7"G2 A | "Em"B3 "E7"z3 |
+w: Da-nos, da-nos, da-nos la paz
+     "Am"c3 "D"F3 | "G"B3 "Em"E3 | "Am"A3 "B7"G2 F | "Em"E3 "E7"z3 |]
+w: Da-nos, da-nos, da-nos la paz

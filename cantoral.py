@@ -455,7 +455,7 @@ class song:
             abc_sheet = f'''
             <br><br>
             <script type="text/vnd.abc" id="abc-score">
-            {abc_sheet.replace('Alegreya','Nunito')}
+            {abc_sheet.replace(r'%%titlefont AlegreyaBold 20','').replace(r'%%vocalfont Alegreya 12','').replace(r'%%gchordfont AlegreyaBold 12','').replace(r'%%composerfont AlegreyaItalic 12','').replace(r'%%tempofont AlegreyaBold 12','')}
             </script>
             '''
         else:

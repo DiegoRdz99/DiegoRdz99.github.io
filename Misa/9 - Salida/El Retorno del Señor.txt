@@ -7,7 +7,8 @@ liturgy : Adviento
 [D] El la aur[A]ora de [G]tu amane[A]cer
 [D] Brila[A]rás, como [G]sol resplande[A]ciente
 [D] En la au[A]rora de [G]tu amane[A]cer
-[F#m]¡Ven, Se[Bm]ñor!, ilu[G]mina el mundo en[Em]tero
+[F#m]¡Ven, Se[Bm]ñor!,
+Ilu[G]mina el mundo en[Em]tero
 Con tu [G]luz, y con tu a[A]mor
 /Coro/
 [D]Revestido de [A]majestad
@@ -26,9 +27,12 @@ Con tu [G]luz, y con tu a[A]mor
 Con po[G]der y autori[A]dad
 /coro/
 /verse/
-[D] Pueblo s[A]anto, que es[G]peras su re[A]torno
-[D] Como nov[A]ia, ata[G]viada para el [A]novio
-[D] Pueblo s[A]anto, que es[G]peras su re[A]torno
+[D] Pueblo s[A]anto,
+que es[G]peras su re[A]torno
+[D] Como nov[A]ia,
+ata[G]viada para el [A]novio
+[D] Pueblo s[A]anto,
+que es[G]peras su re[A]torno
 [F#m]Grita: [Bm]¡Ven, ven Se[G]ñor, Marana[Em]tha!
 [G]¡Marana[A]tha!
 /coro/
