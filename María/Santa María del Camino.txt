@@ -1,0 +1,32 @@
+title : Santa María del Camino
+key : C
+composer : Indefinido
+{song}
+/verse/
+[C]Mientras recorres la [F]vi - [C]da
+[Dm]Tú nunca [G7]solo es[C]tás [C7]
+[F]Contigo por el ca[C]mi - [Am]no
+[Am]Santa Ma[D7]ría [G]va [G7]
+/Coro/
+[F]Ven con nosotros a [C]cami[Am]nar
+[G]Santa María, [C]ven [C7]
+[F]Ven con nosotros a c[C]ami[Am]nar
+[Dm]Santa Ma[G7]ría, [C]ven
+/verse/
+[C]Aunque te digan al[F]gu - [C]nos
+[Dm]Que nada [G7]puede cam[C]biar [C7]
+[F]Lucha por un mundo [C]nue - [Am]vo
+[Dm]Lucha por [G]la ver[C]dad [C7]
+/coro/
+/verse/
+[C]Si por el mundo los [F]hom - [C]bres
+[Dm]Sin cono[G7]cerse [C]van [C7]
+[F]No niegues nunca tu [C]ma - [Am]no
+[Dm]Al que con[G7]tigo es[C]tá [C7]
+/coro/
+/verse/
+[C]Aunque parezcan tus [F]pa - [C]sos
+[Dm]Inútil [G7]camin[C]ar [C7]
+[F]Tú vas haciendo ca[C]mi - [Am]nos:
+[Em]Otros te [G7]segui[C]rán [C7]
+/coro/

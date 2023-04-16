@@ -16,6 +16,7 @@ var trans = 0; // sets Transposition value to 0
 var capo = false; // sets transpose as standard (instead of capo)
 var accidental = true; // sets sharps as standard (instead of flats)
 var dark = false; // dark mode is set to false default;
+// toggleDark();
 var play = false; // autoscroll is set to false default;
 output.innerHTML = trans;
 const base = [];

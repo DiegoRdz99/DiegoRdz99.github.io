@@ -1,0 +1,35 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Santa María del Camino
+I:linebreak $
+C:
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+%
+    "C"E2 E>E E2 D>C | "F"F4 "C"E4 | "Dm"D2 D>D "G"D2 C>D | "C"E4 "C7"z4 |
+w: 1.~Mien-tras re-co-rres la vi-da, tú nun-ca so-lo es-tás
+w: 2.~Aun-que te di-gan al-gu-nos, que na-da pue-de cam-biar
+w: 3.~Si por el mun-do los hom-bres, sin co-no-cer-se van
+w: 4.~Aun-que pa-rez-can tus pa-sos, i-nú-til ca-mi--nar
+    "F"F2 F>F F2 G>A | "C"G2-G>E "Am"C4 |$ "Dm"D2 D>D D2 B,2 | "C"C4 "C7"z4 |
+w: 1.~Con-ti-go por el ca-mi---no, San-ta Ma-rí-a va
+w: 2.~Lu-cha por un mun-do nue---vo, lu-cha por la ver-dad
+w: 3.~No nie-gues nun-ca tu ma---no, al que con-ti-go~es-tá
+w: 4.~Tú vas ha-cien-do ca-mi---nos: o-tros los se-gui-rán
+    "F"A2 AA A c2 A | "C"G2 G2 "Am"c4 | "Dm"G2 GG "G"A2 G2 | "C"{/F}G2-G2 "C7"z4 |
+w: Ven con no-so-tros a ca-mi-nar, San-ta Ma-rí-a ven
+    "F"A2 AA A c2 A | "C"G2 G2 "Am"c4 | "Dm"B2 Bc "G"d2 B2 | "C"c4 z4 :|
+w: Ven con no-so-tros a ca-mi-nar, San-ta Ma-rí-a ven
