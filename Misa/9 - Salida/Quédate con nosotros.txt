@@ -12,7 +12,7 @@ liturgy : Pascua
 [Em]  Y el vino está ser[A]vido
 [G]  En tus manos levan[D]tadas
 [Em]  Y tu voz en la ora[Bm]ción
-[G]  Te hemos recono[C]cido
+[G]  Te hemos recono[D]cido
 [Em]  En la fracción del [Asus4]pa - [A]n
 /Coro/
 Y a[D]hora vamos go[F#m]zosos
@@ -34,6 +34,6 @@ Y a[D]hora vamos go[F#m]zosos
 [Em]  Y el vino está ser[A]vido
 [G]  En tus manos levan[D]tadas
 [Em]  Y tu voz en la ora[Bm]ción
-[G]  Te hemos recono[C]cido
+[G]  Te hemos recono[D]cido
 [Em]  En la fracción del [Asus4]pa - [A]n
 /coro/
