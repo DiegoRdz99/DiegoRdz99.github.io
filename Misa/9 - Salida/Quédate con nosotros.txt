@@ -1,0 +1,39 @@
+title : Quédate con nosotros
+composer : Jésed
+key : D
+liturgy : Pascua
+{song}
+/intro/
+[D]  [Dsus4]  [D]  [Dsus2]
+/verse/
+[G]  Quédate con no[D]sotros
+[Em]  La noche está ca[Bm]yendo
+[G]  El pan está dis[D]puesto
+[Em]  Y el vino está ser[A]vido
+[G]  En tus manos levan[D]tadas
+[Em]  Y tu voz en la ora[Bm]ción
+[G]  Te hemos recono[C]cido
+[Em]  En la fracción del [Asus4]pa - [A]n
+/Coro/
+Y a[D]hora vamos go[F#m]zosos
+[G]  A proclamarle al [A]mundo
+[Bm]  Porque ha resuci[F#m]tado
+[G]  Y hemos visto al ma[Asus4]estro - [A]o
+Y a[D]hora vamos go[F#m]zosos
+[G]  A proclamarle al [A]mundo
+[Bm]  Porque ha resuci[F#m]tado
+[G]  Y hemos visto al ma[Asus4]estro - [A]o
+[G]  Cristo ha resuci[D]tado
+[Em]  Hemos [A]visto al Se[D]ñor
+/intermedio/
+[D]  [Dsus4]  [D]  [Dsus2]
+/verse/
+[G]  Quédate con no[D]sotros
+[Em]  La noche está ca[Bm]yendo
+[G]  El pan está dis[D]puesto
+[Em]  Y el vino está ser[A]vido
+[G]  En tus manos levan[D]tadas
+[Em]  Y tu voz en la ora[Bm]ción
+[G]  Te hemos recono[C]cido
+[Em]  En la fracción del [Asus4]pa - [A]n
+/coro/

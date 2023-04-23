@@ -463,11 +463,7 @@ class song:
         # print(f'{folder}/{file_name}') # For debugging
         metadata = f'<h1>{self.meta["title"]}</h1><h2>{self.meta["subtitle"]}</h2>'
         try:
-            metadata += f'<h2>Clave: {self.meta["key"]}</h2>'
-        except:
-            pass
-        try:
-            metadata += f'<h4>Autor: {self.meta["composer"]}</h4>'
+            metadata += f'<h3>Autor: {self.meta["composer"]}</h4>'
         except:
             pass
         try:
@@ -477,6 +473,10 @@ class song:
                 print(f'missed {self.meta["liturgy"]}')
             except:
                 pass
+        try:
+            metadata += f'<h4>Clave: {self.meta["key"]}</h2>'
+        except:
+            pass
         html_constants = constants(backsteps,title=self.meta['title'])
         if comunion:
             self.html_preamble = html_constants.comunion_header + html_constants.navbar + metadata
