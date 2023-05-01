@@ -1,0 +1,38 @@
+title : Oigo tu voz
+key : D
+liturgy : Ordinario
+{song}
+/verse/
+[D5]Oigo tu voz,
+[A]dentro de mí que ll[Bm]ama
+¿[G]A quién envío?
+¿[Em]Quién de mi parte i[A]rá?
+[D5]La mies es mucha
+[A]y los obreros son [Bm]pocos
+[G]Yo quiero ir,
+[Em]envíame a [A]mí
+/Coro/
+Que cada [D]uno con lo que ha reci[A]bido
+Se ponga al ser[Bm]vicio de los de[F#m]más
+Los [G]dones no [A]son
+para escon[D]e - [A]er - [Bm]los
+Sino [G]para el ser[A]vicio es[D]tán
+/verse/
+[D5]Gracias Señor,
+[A]porque cada [Bm]día
+[G]Voy descubriendo
+[Em]nuevas cosas en [A]mí
+[D5]Voy entendiendo,
+[A]que en cada mo[Bm]mento
+[G]En el servicio,
+[Em]es como llego a [A]Ti
+/coro/
+/verse/
+[D5]Somos un cuerpo,
+[A]donde Cristo es ca[Bm]beza
+[G]Y cada uno
+[Em]con diferente fun[A]ción
+[D5]Cuerpo de Cristo,
+[A]somos por el bau[Bm]tismo
+[G]Y todos vamos [Em]hacia la santi[A]dad
+/coro/
