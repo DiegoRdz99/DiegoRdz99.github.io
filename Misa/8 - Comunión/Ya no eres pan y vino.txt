@@ -1,0 +1,6 @@
+title : Ya no eres pan y vino
+key : D
+liturgy : Ordinario
+{song}
+/verse/
+[D]Ya no eres [G]pan y vi [D]- no
