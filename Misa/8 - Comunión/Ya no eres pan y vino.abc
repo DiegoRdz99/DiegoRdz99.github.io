@@ -1,0 +1,33 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Ya no eres pan y vino
+C:Diego Rodríguez
+S:
+M:4/4
+L:1/4
+Q:1/2=70
+K:D
+%
+%
+   D | "D"FFFF | "G"G2 FG-|"D"G F3 |
+w: *1a.~Ya no e-res pan y vi-i-no,
+w: 1b.~Mien-tras te pier-des en mis la-a-bios
+       z3 D |"D"FFFF | "G"G A-A G-|"D"G F3 | FEDE-|"A"E4 |
+w: 1a.~A-ho-ra que~e-res cuer-po y sa--ngre, vi-ves en mí_
+w: 2a.~Tu gra-cia va~i-nun-dan-do_ to-o-do, mi co-ra-zón
+     z3 C | E2 F2 | "G"E DDD-|DB,DE | "D"FFFF-|F4 |
+w: 1a.~Y de ro-di-llas yo cai--go~al con-tem-plar tu bon-dad_
+w: 1b.~Por e-sa paz que me lle--na de~a-le-grí-a mi ser_
+    "E"EEEE|ECDE-|"A"E2 z2 | z3 :|
+w: ¿Có-mo no te voy a~a-do-rar_
