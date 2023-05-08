@@ -1,0 +1,70 @@
+title : Ha Vencido el Cordero
+key : G
+composer : Jésed
+liturgy : Pascua
+{song}
+/intro/
+[G]   [Em]   [C]   [D]
+[G]   [Em]   [C]   [D]
+/verse/
+[G]Toda la tierra te al[Em]abe Señor
+Te a[C]labe la l[A7]una y el [D]Sol
+[G]Toda la tierra te al[Em]abe Señor
+Las es[C]trellas te r[A7]indan lo[D]or
+[Am]Todos los reyes del [Bm]mundo, Señor
+Se [Am]postren ante tu esplen[Bm]dor
+E[Am]xulten el cielo, la [Bm]tierra y el mar
+Y es[C]tallen en una can[D]ción
+/verse/
+[G]Toda la tierra te al[Em]abe Señor
+Te a[C]labe la l[A7]una y el Sol
+[G]Toda la tierra te al[Em]abe Señor
+Las es[C]trellas te r[A7]indan lo[D]or
+[Am]Todos los reyes del [Bm]mundo, Señor
+Se [Am]postren ante tu esplen[Bm]dor
+E[Am]xulten el cielo, la [Bm]tierra y el mar
+Y es[C]tallen en una can[D]ción
+/Coro/
+Ale[G]luya, ale[Em]luya
+Ha lle[C]gado ya el reino de [D]Dios
+Ha ven[G]cido el cor[Em]dero
+Ha triun[C]fado con armas de a[D]mo - o - or
+Ale[G]luya, ale[Em]luya
+Ha lle[C]gado ya el reino de [D]Dios
+Ha ven[G]cido el cor[Em]dero
+Ha triun[C]fado con armas de a[D]mo - o - or
+Oh oh [C]oh
+/bridge/
+[Em]   [D]   [C]   [D]   [G]      [B7]
+[Em]   [D]   [C]   [D]   [G]      [B7]
+[E]      [D]      [E]      [Am7]
+[E]      [D]      [C]      [A]       [B7]
+[E]      [C#m]      [A]      [B7]
+/verse/
+[E]Toda la tierra te al[C#m]abe Señor
+Te a[A]labe la luna y el [B7]Sol
+[E]Toda la tierra te al[C#m]abe Señor
+Las es[A]trellas te rindan lo[B]or
+[F#m]Todos los reyes del [G#m]mundo, Señor
+Se [F#m]postren ante tu esplen[G#m]dor
+E[F#m]xulten el cielo, la [G#m]tierra y el mar
+Y es[A]tallen en una can[B]ción
+/verse/
+[E]Toda la tierra te al[C#m]abe Señor
+Te a[A]labe la luna y el [B7]Sol
+[E]Toda la tierra te al[C#m]abe Señor
+Las es[A]trellas te rindan lo[B7]or
+[F#m]Todos los reyes del [G#m]mundo, Señor
+Se [F#m]postren ante tu esplen[G#m]dor
+E[F#m]xulten el cielo, la [G#m]tierra y el mar
+Y es[A]tallen en una can[B7]ción
+/Coro/
+Ale[E]luya, ale[C#m]luya
+Ha lle[A]gado ya el reino de [B7]Dios
+Ha ven[E]cido el cor[C#m]dero
+Ha triun[A]fado con armas de a[B7]mo - o - or
+Ale[E]luya, ale[C#m]luya
+Ha lle[A]gado ya el reino de [B7]Dios
+Ha ven[E]cido el cor[C#m]dero
+Ha triun[A]fado con armas de a[B7]mo - o - or
+Oh oh [A]oh    [Am]   oh oh [E]oh
