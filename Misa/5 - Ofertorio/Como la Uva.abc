@@ -1,0 +1,38 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Como la Uva
+C:
+S:
+M:4/8
+L:1/8
+Q:1/4=90
+K:C
+%
+%
+    "C"zG GG/2"F"F/2- |FF FF | "C"GG GG/2"G"D/2- | D4 |
+w: 1.~Co-mo la u--va tri-tu-ra-da~en el la-gar_
+w: 2.~Es u-na~o-fren--da que~en-tre-ga-mos a tu~al-tar_
+    "C"zG GG/2"F"F/2- |FF FF | "C"GG G/2G"G"{/F/2}G/2-| G4 |
+w: 1.~Y co-mo~el vi--no que~es mo-li-do pa-ra~el pan_
+w: 2.~U-na~o-bla-ci-ón que hoy ha-ce-mos rea-li-dad_
+    |:"Am"zc cc/2"Em"B/2-|B G2 G/2-G/2 | "F"AG FA | "G"G2-"E7"G2 :| "G7"z4!D.C.! |
+w: 1a.~Co-mo la vi--da que a dia-rio se nos da_
+w: 1b.~Es nues-tra vi--da que que-re-mos en-tre-gar_
+w: 2a.~Un~po-co de vi--no un pe-da-zo de tu pan_
+w: 2b.~Hoy en tu me--sa tu~a-li-men-to nos da-rás_
+    |:zG AB | "C"c2 Gc/2"G"B/2- | B2 z G/2G/2 | "F"AG FA/2"G"G/2- | GG AB |
+w: Es nues-tra~o-fren-da Se-ñor_ nues-tra vi-da~oh Pa-dre Di-os es nues-tro
+    "C"cc Gc/2"G"B/2- | B2 z G/2G/2 | "F"AG FA/2"G"G/2- | GG G F/2"Em"E/2- | EF G"Am"E/2C/2-|
+w: vi-no~y nues-tro pan_ u-na o-bla-ción de~a-mor_ con-viér-te-los en cuer-po~y san-gre-
+    CE2 C/2C/2 | "F"FE CC/2F/2- | F E2 C | "G"GG GA | G4 |1 "G7"z4 :|2 "F"zF FF | "G"E3/2 D3/2 E | "C"C4 |]
+w: -e de tu Hi-jo Je-su-cris--to por nues-tra sal-va-ción de Je-sús oh gran Se-ñor
