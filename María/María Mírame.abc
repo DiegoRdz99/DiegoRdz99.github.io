@@ -1,0 +1,29 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:María Mírame
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+%
+%
+    C CD | "C"E/2F/2 G3 | "G"zG AG | "Am"E/2D/2 C3 | "Am7"zC CD/2E/2- | "F"E C2 
+w: Ma-rí-a mí-ra-me, Ma-rí-a mí-ra-me si tú me mi--ras,
+    F/2F/2 | "Dm"FEDC/2D/2- | "G"D4 | "G7"z G/2G/2AG | "C"E/2D/2C3 | 
+w: Él tam-bién me mi-ra-rá_ Ma-dre mí-a mí-ra-me,
+    "F"zF/2F/2FF | "C"EF/2 G3/2-G | "F"z F/2FFF/2 | "C"E3 C/2-C/2 | "F"DD/2E/2-"G"E  E/2C/2-| "C"C4 |
+w: de la ma-no llé-va-me,_ muy cer-ca de Él que ahí me quie-ro_ que-dar_
+    "G7"z C CD | "C"E2 E D-| "G"D D2 D | "Am"CB2A- | "Am7"A
+w: Ma-rí-a cú-bre-me_ con tu ma-an-to_
