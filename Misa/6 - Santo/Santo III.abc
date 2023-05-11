@@ -1,0 +1,28 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Santo III
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=130
+K:D
+%
+%
+    "D"A4 FG AA- | "F#m"A4 AG FG- | "G"G4 GF EF- | "A"F2E2D2E2 :|
+w: 1.~San-to~es el Se-ñor_ Dios cre-a-dor_ del u-ni-ver--so~en-te-ro
+w: 2.~Y lle-nos es-tán,_ de su bon-dad_ to-da la tie--rra~y cie-lo-
+    "Bm"D3D DE FG | "F#m"A4 C4 | "Bm"D3D DE FG | "F#m"A4 C4 |
+w: oh Ho-sa-nna en el cie-lo-oh, Ho-sa-nna en el cie-lo-
+    "G"D3D GG GG | "D"F2 ED3 EF | "Em"G2F2E2D2 | "A"A8 | "A7"z8 !dacapo!|]
+w: oh Ben-di-to~es el que vie-e-ne en el nom-bre del Se-ñor
