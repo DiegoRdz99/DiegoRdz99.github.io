@@ -1,0 +1,26 @@
+title : Ven Santo Espíritu de Dios
+key : C
+composer : Marisol Carrasco
+{song}
+/verse/
+V[C]en Santo Espíritu de Di[Em]os
+V[Am]en Santo Espíritu de Di[F]os
+V[C]en Santo Espíritu de Di[Em]os
+Aq[Am]uí, aq[F]uí
+/Coro/
+V[C]en a consolar
+V[G]en a liberar
+V[Am]en a transformar
+Nu[F]estro corazón
+/intermedio/
+[C] [G] [Am] [F]
+/bridge/
+Ven danos v[C]ida
+Y con tu l[G]uz
+Enciende el m[Am]undo
+Enciende el m[F]undo
+Danos tu gr[C]acia
+Espírit[G]u
+Renueva el m[Am]undo
+Renueva el m[F]undo
+/coro/

@@ -1,0 +1,22 @@
+title : Grande Eres Señor
+key : G
+composer : MNM RCCES
+{song}
+/verse/
+Qui[G]ero alabarte, Señ[D]or
+Qui[Em]ero exaltarte, ¡Oh, Di[C]os!
+Darte la Gl[G]oria, y hon[C]or
+Alab[G]anza y adoraci[C]ón
+Oh-oh-[D]oh
+/Coro/
+[G] Grande eres Señ[D]or
+[Em] Grande eres T[C]ú
+No hay n[G]adie compar[D]able
+A ti Señ[C]or
+/bridge/
+No hay n[G]adie Señor
+No hay n[D]adie Señor
+No hay n[Em]adie Señor
+Como T[C]ú
+No hay n[G]adie compar[D]able
+A ti Señ[C]or
