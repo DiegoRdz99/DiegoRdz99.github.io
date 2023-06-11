@@ -1,0 +1,42 @@
+title : Hay una promesa
+subtitle : Niños - Comunión
+key : E
+liturgy : Ordinario
+{song}
+/intro/
+[E]
+/verse/
+[E]Hay una promesa en la [B7]Biblia
+que es para ti, que es para [E]mí
+[E]Hay una promesa en la [B7]Biblia
+que es para ti, que es para [E]mí
+Cielo nuevo, tierra [B7]nueva
+¿Dónde iremos a vi[E]vir?
+Cielo nuevo, tierra [B7]nueva
+¿Dónde iremos a vi[E]vir?
+/bridge/
+Saltando vamos sal[B7]tando
+Saltando vamos sal[E]tando
+Saltando vamos sal[B7]tando
+Como cordero de la ma[E]nada
+/Coro/
+Así, así, así [B7]
+Así se alaba a [E]Dios
+Pero qué lindo se ve[B7]
+El pueblo de [E]Dios
+Maravilloso se ve[B7]
+El pueblo de [E]Dios
+Pero qué padre se ve[B7]
+El pueblo de [E]Dios
+/bridge/
+Y dando media vuel[B7]tita
+Y dando media vuel[E]tita
+Y dando media vuel[B7]tita
+La vuelta entera de la vic[E]toria
+/coro/
+/bridge/
+Y dando media vuel[B7]tita
+Y dando media vuel[E]tita
+Y dando media vuel[B7]tita
+La vuelta entera de la vic[E]toria
+/coro/
