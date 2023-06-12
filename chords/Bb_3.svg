@@ -3,9 +3,8 @@
      width="140" height="140" viewBox="-70.0 -70.0 140 140">
 <defs>
 </defs>
-<circle cx="-10.0" cy="-40.0" r="3" stroke-width="0" fill="gray" fill-opacity="0.5" />
 <circle cx="-10.0" cy="-0.0" r="3" stroke-width="0" fill="gray" fill-opacity="0.5" />
-<text x="45.0" y="-45.0" font-size="14" fill="#aaa" dy="0em">7</text>
+<circle cx="-10.0" cy="40.0" r="3" stroke-width="0" fill="gray" fill-opacity="0.5" />
 <path d="M-60.0,-50.0 L40.0,-50.0" stroke="gray" stroke-width="1" fill="none" />
 <path d="M-60.0,-30.0 L40.0,-30.0" stroke="gray" stroke-width="1" fill="none" />
 <path d="M-60.0,-10.0 L40.0,-10.0" stroke="gray" stroke-width="1" fill="none" />
@@ -18,11 +17,12 @@
 <path d="M0.0,-50.5 L0.0,50.5" stroke="#555" stroke-width="2.064220183486239" fill="none" />
 <path d="M20.0,-50.5 L20.0,50.5" stroke="#555" stroke-width="1.926605504587156" fill="none" />
 <path d="M40.0,-50.5 L40.0,50.5" stroke="#555" stroke-width="1.651376146788991" fill="none" />
-<circle cx="-60.0" cy="20.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
-<path d="M-45.0,-55.0 L-35.0,-65.0" stroke="gray" stroke-width="2" fill="none" />
-<path d="M-45.0,-65.0 L-35.0,-55.0" stroke="gray" stroke-width="2" fill="none" />
-<circle cx="-20.0" cy="-20.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
-<circle cx="0.0" cy="20.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
-<circle cx="20.0" cy="40.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
-<circle cx="40.0" cy="20.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<path d="M-65.0,-55.0 L-55.0,-65.0" stroke="gray" stroke-width="2" fill="none" />
+<path d="M-65.0,-65.0 L-55.0,-55.0" stroke="gray" stroke-width="2" fill="none" />
+<circle cx="-40.0" cy="40.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<circle cx="-20.0" cy="-0.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<circle cx="0.0" cy="-0.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<circle cx="20.0" cy="-0.0" r="5" fill="gray" stroke-width="2" stroke="#aaa" />
+<path d="M35.0,-55.0 L45.0,-65.0" stroke="gray" stroke-width="2" fill="none" />
+<path d="M35.0,-65.0 L45.0,-55.0" stroke="gray" stroke-width="2" fill="none" />
 </svg>

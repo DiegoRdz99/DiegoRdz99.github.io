@@ -1,0 +1,39 @@
+title : Yo soy el pan de vida
+composer : Misión País
+key : A
+liturgy : Ordinario
+{song}
+/intro/
+[Asus2]  [A]  [Asus2]  [A]
+/verse/
+[A]Yo soy el pan de [C#m]vi - da
+El que [D]vie - ne a [D^9]mi
+no tendrá [Esus4]ha - m[E]bre
+El que [F#m]vie - ne a [C#m]mi
+no tendrá [D]se - d
+[A]Na - die [A]vie - [Asus2_7]ne a [F#m]mí - i
+Si mi [D]Pa - dre [D_6]no le a[Esus4]trae  [E]
+/Coro/
+Y yo le [A]re - su[E_3]ci - ta[A]ré
+Y yo le [D]re - su[B9]cita - [E]ré  [E7]
+Y yo le [A]re - su[A7]cita - [Bm]ré - [A_3]e
+[D]En [D#b5]el [Esus4]dí - [E]a fi[A]nal  [D]
+/verse/
+[A]El pan que yo da - [C#m]ré
+Es mi [D]cue - rpo
+[D^9]vida para el [Esus4]mun - [E]do
+El que [F#m]siem - pre [C#m]coma
+de mi [D]carne
+[A]Vi - vi[A]rá [Asus2_7]en [F#m]mí - i
+Como [D]yo - o [D_6]vi - vo
+en mi [Esus4]Pa - [E]dre
+/coro/
+/verse/
+[A]Yo soy esa be[C#m]bi - da
+Que se [D]prueba
+y [D^9]no se siente [Esus4]se - [E]ca
+El que [F#m]siem - pre [C#m]beba
+de mi [D]sangre
+[A]Vi - vi[A]rá [Asus2_7]en [F#m]mí - i
+Y ten[D]drá - a la [D_6]vida e[Esus4]ter - [E]na
+/coro/
