@@ -1,0 +1,53 @@
+body {
+  height: 850px;
+  background-color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: normal
+}
+
+label {
+  font-weight: bold;
+  color: #9e768f
+}
+
+.cover-page {
+  background-image: linear-gradient(315deg, #111 0%, #117cd5 74%);
+}
+
+.cover-page h1 {
+  font-size: 4rem;
+  color: white;
+}
+
+
+a.nav-item {
+  color: #ccc;
+  font-size: 18pt
+  /* font-weight: lighter */
+}
+
+a.nav-item:hover {
+  color: #ccc;
+  font-weight: 700;
+}
+
+a.nav-item.active {
+  font-weight: 800;
+}
+
+.badge.keyword {
+  border-radius: 10px;
+  padding: 8px;
+  border: solid 1px #9e768f;
+  color: #9e768f
+}
+
+td {
+  text-align: center
+}

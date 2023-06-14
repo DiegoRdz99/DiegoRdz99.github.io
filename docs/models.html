@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Skin Lesion Classification</title>
+  <!-- CSS -->
+  <link rel="stylesheet" href="./css/bootstrap.min.css" />
+  <link rel="stylesheet" href="./css/application.css" />
+  <script src="https://cdn.plot.ly/plotly-2.20.0.min.js" charset="utf-8"></script>
+
+</head>
+
+<body>
+  <div class="jumpotron cover-page h-50 px-2">
+    <nav class="navbar navbar-expand-sm navbar-inverse">
+      <div class="navbar-collapse collapse">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link active" href="index.html"><span><img src="./img/home.png" width="30px" height="30px"></span></a>
+
+        </div>
+        <div class="navbar-nav ml-auto">
+          <!-- <a class="nav-item nav-link" href="introduction.html">Introducción</a> -->
+          <a class="nav-item nav-link" href="analysis.html">Análisis</a>
+          <a class="nav-item nav-link active" href="models.html">Modelos</a>
+        </div>
+      </div>
+    </nav>
+    <div class="container h-75">
+      <div class="row h-100 justify-content-center align-items-center text-center">
+        <h1>Clasificación de Melanoma y otras lesiones en la piel utilizando redes neuronales</h1>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid text-justify py-5">
+    <div class="row">
+      <div class="col-8 offset-1 pr-5">
+        <h1 class="text-muted">Distrubición de lesiones en la piel</h1>
+        <!-- <p>The dataset has imbalanced classes with more than 60% of the cases are melanocytic nevi while vascular
+          lesions and dermatofibroma are on the lower end with less than 2% of the cases, and other types are also
+          less than melanocytic nevi. Imbalanced classes are not ideal in modeling as they may cause biases in
+          predicting ability of the model toward the major classes and also create problem in preparing samples for
+          train and test sets to include representative across all classes</p> -->
+        <canvas class="col-8 mt-5" style="height:400px" id="cellTypeChart"></canvas>
+        <h1 class="text-muted">Entrenamiento</h1>
+        <p>Se utilizó la técnica de muestreo estratificado con separación de 80% para entrenamiento y 20% de prueba. Se le agregaron pesos de clase para hacer el modelo más sensitivo a la detección de <b>Melanoma</b> y para evitar la posibilidad de ser confundido con un lunar. Utilizamos modelos preentrenados de Pytorch para el procesamiento de imaǵenes AlexNety ResNet18</p>
+        <h1 class="text-muted">Results</h1>
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th scope="col"></th>
+              <th scope="col">Tiempo de entrenamiento (mins)</th>
+              <th scope="col">Precisión (%)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">AlexNet</th>
+              <td>43</td>
+              <td>82</td>
+            </tr>
+            <tr>
+              <th scope="row">AlexNet con pesos</th>
+              <td>43</td>
+              <td>80</td>
+            </tr>
+            <tr>
+              <th scope="row">ResNet18</th>
+              <td>43</td>
+              <td>76</td>
+            </tr>
+            <tr>
+              <th scope="row">ResNet18 con pesos</th>
+              <td>42</td>
+              <td>73</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-4 offset-1">
+        <div class="w-100" id="cf1"></div>
+        <div class="w-100" id="cf2"></div>
+      </div>
+      <div class="col-4 offset-1">
+        <div class="w-100" id="cf3"></div>
+        <div class="w-100" id="cf4"></div>
+      </div>
+    </div>
+
+
+  </div>
+  <!-- JS -->
+  <script src="./js/jquery-3.4.0.min.js"></script>
+  <script src="./js/bootstrap.min.js"></script>
+  <script src="./js/underscore.min.js"></script>
+  <script src="./js/d3.min.js"></script>
+  <script src="./js/chart.min.js"></script>
+  <script src="./js/confusionMatrix.js"></script>
+  <script src="./js/models.js"></script>
+</body>
+
+</html>

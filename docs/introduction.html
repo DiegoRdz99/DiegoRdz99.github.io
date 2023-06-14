@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Skin Lesion Classification</title>
+  <!-- CSS -->
+  <link rel="stylesheet" href="./css/bootstrap.min.css" />
+  <link rel="stylesheet" href="./css/application.css" />
+</head>
+
+<body>
+  <div class="jumpotron cover-page h-50 px-2">
+    <nav class="navbar navbar-expand-sm navbar-inverse">
+      <div class="navbar-collapse collapse">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link active" href="index.html"><span><img src="./img/home.png" width="30px" height="30px"></span></a>
+        </div>
+        <div class="navbar-nav ml-auto">
+          <a class="nav-item nav-link active" href="introduction.html">Introducción</a>
+          <a class="nav-item nav-link" href="analysis.html">Análisis</a>
+          <a class="nav-item nav-link" href="models.html">Modelos</a>
+        </div>
+      </div>
+    </nav>
+    <div class="container h-75">
+      <div class="row h-100 justify-content-center align-items-center text-center">
+        <h1>Clasificación de Melanoma y otras lesiones en la piel utilizando redes neuronales</h1>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid text-justify py-5">
+    <div class="row">
+      <div class="col-8 offset-1 pr-5">
+        <h1 class="text-muted">Objective</h1>
+        <p>Skin cancer is the most common form of cancer in the United States. Skin cancer screenings are often
+          performed
+          using a dermatoscope, allowing visualization of pigmented structure of skin lesions that are not visiable to
+          the
+          naked eye. Recent development of mobile dermatoscope, which can easily attach to a smartphone or tablet, opens
+          new
+          opportunities for the automation of skin cancer detection and prevention. This study is an initiative step
+          into
+          automating skin cancer diagnosis by using
+          convolutional neural networks to build a classifier to detect different types of skin lesions.</p>
+        <h1 class="text-muted">Dataset</h1>
+        <p><a href="https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000">Skin Cancer
+            MNIST:HAM10000</a> consists of 10015 dermatoscopic images of pigmented lesions collected from multiple
+          sources. The images are classified into 7 categories: melanocytic nevi,
+          melanoma, benign keratosis-like lesions, basal cell carcinoma, actinic keratoses, vascular lesions and
+          dermatofibroma. Benign keratosis-like lesions, vascular lesions, dermatofibroma and majority of melanocytic
+          nevi are noncancerous. Actinic
+          keratosis is a pre-cancer skin condition. Melanoma and basal cell carcinoma are two forms of skin cancer.</p>
+        <h1 class="text-muted">Technologies</h1>
+        <p>Python 3.6, Pytorch 1.0 and common python packages (pandas, numpy, etc.) are used to build the models. The
+          models were trained on an AWS EC2 P3 instance with 1 Tesla V100 GPU core and 16GB of GPU memory.</p>
+        <p>Bootstrap 4 and d3.js are used to build the front end.</p>
+      </div>
+      <div class="col-2">
+        <h5 class="text-muted">KEYWORDS</h5>
+        <div>
+          <span class="badge keyword my-1">Skin Cancer</span>
+          <span class="badge keyword my-1">Skin Lesion</span>
+          <span class="badge keyword my-1">Automation</span>
+          <span class="badge keyword my-1">Machine Learning</span>
+          <span class="badge keyword my-1">Deep Learning</span>
+          <span class="badge keyword my-1">CNN</span>
+          <span class="badge keyword my-1">Convolutional Neural Network</span>
+          <span class="badge keyword my-1">ResNet</span>
+          <span class="badge keyword my-1">AlexNet</span>
+        </div>
+        <hr>
+        <h5 class="text-muted">ABOUT ME</h5>
+        <img src="./img/IMG_0704.JPG" width="100%">
+        <p class="text-muted">I am a software consultant and have experiences in data analysis, market research and web
+          development. My interests include data mining, data modeling, computer algorithms and web development. In
+          my spare time, I enjoys biking, travel, trying out new food and spending time with my dogs, Ahri and Gato</p>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

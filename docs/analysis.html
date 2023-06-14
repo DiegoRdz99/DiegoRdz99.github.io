@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Skin Lesion Classification</title>
+  <!-- CSS -->
+  <link rel="stylesheet" href="./css/bootstrap.min.css" />
+  <link rel="stylesheet" href="./css/application.css" />
+</head>
+
+<body>
+  <div class="jumpotron cover-page h-50 px-2">
+    <nav class="navbar navbar-expand-sm navbar-inverse">
+      <div class="navbar-collapse collapse">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link active" href="index.html"><span><img src="./img/home.png" width="30px"
+                height="30px"></span></a>
+        </div>
+        <div class="navbar-nav ml-auto">
+          <!-- <a class="nav-item nav-link" href="introduction.html">Introducción</a> -->
+          <a class="nav-item nav-link active" href="analysis.html">Análisis</a>
+          <a class="nav-item nav-link" href="models.html">Modelos</a>
+        </div>
+      </div>
+    </nav>
+    <div class="container h-75">
+      <div class="row h-100 justify-content-center align-items-center text-center">
+        <h1>Clasificación de Melanoma y otras lesiones en la piel utilizando redes neuronales</h1>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid text-justify py-5">
+    <h1 class="text-muted mx-auto">Análisis de Datos</h1>
+    <div class="row">
+      <div class="col-5 offset-1 pr-5">
+        <h3 style="color:#3c65bb">Edad</h3>
+        <p>Los valores nulos (57) se reemplazaron con la mediana.</p>
+        <div>
+          <form>
+            <div class="form-row">
+              <div class="col-8">
+                <select class="form-control" id="ageCellType">
+                  <option value="" selected>General</option>
+                  <option value="Actinic keratoses">Actinic keratoses (Queratosis actínica)</option>
+                  <option value="Basal cell carcinoma">Basal cell carcinoma (Carcinoma de células basales)</option>
+                  <option value="Benign keratosis-like lesions">Benign keratosis-like lesions (Queratosis seborreica)
+                  </option>
+                  <option value="Dermatofibroma">Dermatofibroma</option>
+                  <option value="Melanoma">Melanoma</option>
+                  <option value="Melanocytic nevi">Melanocytic nevi (Lunar)</option>
+                  <option value="Vascular lesions">Vascular lesions (Lesiones vasculares)</option>
+                </select>
+              </div>
+            </div>
+            <canvas class="col-8 mt-5" style="height:400px" id="ageChart"></canvas>
+          </form>
+        </div>
+        <h3 style="color:#3c65bb">Género</h3>
+        <div>
+          <form>
+            <div class="form-row">
+              <div class="col-8">
+                <select class="form-control" id="genderCellType">
+                  <option value="" selected>General</option>
+                  <option value="Actinic keratoses">Actinic keratoses (Queratosis actínica)</option>
+                  <option value="Basal cell carcinoma">Basal cell carcinoma (Carcinoma de células basales)</option>
+                  <option value="Benign keratosis-like lesions">Benign keratosis-like lesions (Queratosis seborreica)
+                  </option>
+                  <option value="Dermatofibroma">Dermatofibroma</option>
+                  <option value="Melanoma">Melanoma</option>
+                  <option value="Melanocytic nevi">Melanocytic nevi (Lunar)</option>
+                  <option value="Vascular lesions">Vascular lesions (Lesiones vasculares)</option>
+                </select>
+              </div>
+            </div>
+            <canvas class="col-8 mt-5" style="height:400px" id="genderChart"></canvas>
+          </form>
+        </div>
+      </div>
+      <div class="col-5">
+        <h3 style="color:#3c65bb">Área o parte del cuerpo</h3>
+        <div>
+          <form>
+            <div class="form-row">
+              <div class="col-8">
+                <select class="form-control" id="localizationCellType">
+                  <option value="" selected>General</option>
+                  <option value="Actinic keratoses">Actinic keratoses (Queratosis actínica)</option>
+                  <option value="Basal cell carcinoma">Basal cell carcinoma (Carcinoma de células basales)</option>
+                  <option value="Benign keratosis-like lesions">Benign keratosis-like lesions (Queratosis seborreica)
+                  </option>
+                  <option value="Dermatofibroma">Dermatofibroma</option>
+                  <option value="Melanoma">Melanoma</option>
+                  <option value="Melanocytic nevi">Melanocytic nevi (Lunar)</option>
+                  <option value="Vascular lesions">Vascular lesions (Lesiones vasculares)</option>
+                </select>
+              </div>
+            </div>
+            <canvas class="col-8 mt-5" style="height:400px" id="localizationChart"></canvas>
+          </form>
+        </div>
+        <h3 style="color:#3c65bb">Tipo de diagnósis</h3>
+        <div>
+          <form>
+            <div class="form-row">
+              <div class="col-8">
+                <select class="form-control" id="dxTypeCellType">
+                  <option value="" selected>General</option>
+                  <option value="Actinic keratoses">Actinic keratoses (Queratosis actínica)</option>
+                  <option value="Basal cell carcinoma">Basal cell carcinoma (Carcinoma de células basales)</option>
+                  <option value="Benign keratosis-like lesions">Benign keratosis-like lesions (Queratosis seborreica)
+                  </option>
+                  <option value="Dermatofibroma">Dermatofibroma</option>
+                  <option value="Melanoma">Melanoma</option>
+                  <option value="Melanocytic nevi">Melanocytic nevi (Lunar)</option>
+                  <option value="Vascular lesions">Vascular lesions (Lesiones vasculares)</option>
+                </select>
+              </div>
+            </div>
+            <canvas class="col-8 mt-5" style="height:400px" id="dxTypeChart"></canvas>
+          </form>
+        </div>
+      </div>
+      <!-- <div class="col-2">
+        <h5 class="text-muted">KEYWORDS</h5>
+        <div>
+          <span class="badge keyword my-1">Skin Cancer</span>
+          <span class="badge keyword my-1">Skin Lesion</span>
+          <span class="badge keyword my-1">Automation</span>
+          <span class="badge keyword my-1">Machine Learning</span>
+          <span class="badge keyword my-1">Deep Learning</span>
+          <span class="badge keyword my-1">CNN</span>
+          <span class="badge keyword my-1">Convolutional Neural Network</span>
+          <span class="badge keyword my-1">ResNet</span>
+          <span class="badge keyword my-1">AlexNet</span>
+        </div>
+        <hr>
+        <h5 class="text-muted">ABOUT ME</h5>
+        <img src="./img/IMG_0704.JPG" width="100%">
+        <p class="text-muted">I am a software consultant and have experiences in data analysis, market research and web
+          development. My interests include data mining, data modeling, computer algorithms and web development. In
+          my spare time, I enjoys biking, travel, trying out new food and spending time with my dogs, Ahri and Gato</p>
+      </div> -->
+    </div>
+  </div>
+  <!-- JS -->
+  <script src="./js/jquery-3.4.0.min.js"></script>
+  <script src="./js/bootstrap.min.js"></script>
+  <script src="./js/underscore.min.js"></script>
+  <script src="./js/d3.min.js"></script>
+  <script src="./js/chart.min.js"></script>
+  <script src="./js/analysis.js"></script>
+</body>
+
+</html>
