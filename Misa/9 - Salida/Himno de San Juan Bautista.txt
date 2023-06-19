@@ -1,0 +1,34 @@
+title : Himno de San Juan Bautista
+liturgy : San Juan Bautista
+key : E
+{song}
+/Coro/
+Eres [E]tú santo [A]Juan
+El en[B7]via - do de [E]Dios
+Anunciando ve[A]nís
+A Je[B7]sús reden[E]tor
+/verse/
+Es pre[E]ludio de a[A]mor
+El pro[B7]fe - ta de [E]Dios
+Pues ya vienen tras [A]él
+Nuestro [B7]Dios del per[E]dón
+Tú vi[E]niste a anun[A]ciar
+La ver[B7]dad y la [E]luz
+El amor y la [A]paz
+Que nos [B7]tra - jo Jesús
+/coro/
+/verse/
+Eres [E]tú buen pa[A]trón
+De esta hu[B7]mil - de ciu[E]dad
+Tuyo es el cora[A]zón
+De este [B7]pue - blo le[E]al
+Eres [E]tú nuestro i[A]deal
+Y que[B7]re - mos cual [E]tú
+Nuestra vi - da entre[A]gar
+Por se[B7]guir a Je[E]sús
+/coro/
+/verse/
+Danos [E]fuer - za y vi[A]gor
+Para [B7]siem - pre vi[E]vir
+En la fe del Se[A]ñor
+Y en su [B7]gra - cia mo[E]rir
