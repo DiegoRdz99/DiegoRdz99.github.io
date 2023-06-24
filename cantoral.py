@@ -80,7 +80,7 @@ class constants:
     <script>
         $(document).ready(
             function () {{
-            $("#alma-de-cristo").load("AlmaDeCristo.xd");
+            $("#alma-de-cristo").load("post_comunión.xd");
         }});
     </script>
 </head>
@@ -145,15 +145,17 @@ def chordify(chord):
                 qual = chord.split('_')[0].replace(og_root,'').replace('^','Δ').replace('*','/') # Remove root from chord
                 return {'root' : root, 'svg' : qual.replace('#','s') + '_' + bass,
                         'flat' : FLAT, 'og_root' : og_root,
-                        'quality' : (qual + '/' + iterate_key(og_root,bass)).replace('b','♭').replace('#','♯') + ('' if len(root)==1 else root[1]), 'bass' : bass} # Root + Quality
+                        'quality' : qual, # chord quality
+                        'bass' : (iterate_key(og_root,bass)).replace('b','♭').replace('#','♯') + ('' if len(root)==1 else root[1])} # Chord Bass addition
 
             except:
                 qual = chord.replace(og_root,'').replace('^','Δ').replace('*','/') # Remove root from chord
                 return {'root' : root, 'svg' : qual.replace('#','s'),
                         'flat' : FLAT, 'og_root' : og_root,
-                        'quality' : qual.replace('b','♭').replace('#','♯')} # Root + Quality
+                        'quality' : qual.replace('b','♭').replace('#','♯'),
+                        'bass' : ''} # If there is no bass, none will be added
         except:
-            return {'root' : root,'svg' : '', 'flat' : FLAT, 'og_root' : og_root, 'quality' : ''} # For Major Chords
+            return {'root' : root,'svg' : '', 'flat' : FLAT, 'og_root' : og_root, 'quality' : '', 'bass' : ''} # For Major Chords
     except:
         return {'root' : '', 'flat' : False} # Blank Chords
 
@@ -171,6 +173,9 @@ def iterate_key(root,num):
     key.sort()
     suf = key[(key.index(root)+num-1)%7]
     return ((suf+'b') if len(suf)==1 else suf.replace('#','')) if quality=='m' else suf # for minor intervals
+
+def add_bass(bass):
+    return f'/<span class="bass">{bass}</span>' if bass != '' else ''
 
 class line:
     def __init__(self,raw,backsteps=0,instrumental=False):
@@ -191,7 +196,7 @@ class line:
     def set_c_line(self,chords,backsteps):
         self._c_line = ''.join([f'''
         <td class="chord {self.add_class}">
-            <span class="root">{chord["root"]}</span><span class="quality">{chord["quality"]}</span>
+            <span class="root">{chord["root"]}</span><span class="quality">{chord["quality"]}</span>{add_bass(chord["bass"])}
             <div class="diagram">
                 <span class="chord_name">{chord["root"]}{chord["quality"]}</span>
                 <img class="fig" src="{backsteps}chords/{chord["og_root"]}{chord["svg"]}.svg">
@@ -479,7 +484,7 @@ class song:
             except:
                 pass
         try:
-            metadata += f'<h4>Clave: {self.meta["key"]}</h2>'
+            metadata += f'<h4 id="song-key">Clave: {self.meta["key"]}</h2>'
         except:
             pass
         html_constants = constants(backsteps,title=self.meta['title'])
