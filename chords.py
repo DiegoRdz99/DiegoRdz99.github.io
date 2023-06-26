@@ -28,6 +28,7 @@ def head(self):
     self.write(
         f'<?xml version="1.0" encoding="UTF-8"?>\n<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{width}" height="{height}" viewBox="-{width/2} -{height/2} {width} {height}">\n')
 
+
 def fretboard(self, start=0, x0=0.0, y0=0.0):
     start += 1
     frets = list(range(start, start+len(ver)-1))  # Fret span in Diagram
@@ -59,6 +60,7 @@ def fretboard(self, start=0, x0=0.0, y0=0.0):
             f'<path d="M{-w/2+dx+x0:.1f},{h/2+0.5+y0:.1f} L{-w/2+dx+x0:.1f},{-h/2-0.5+y0:.1f}" stroke="{STRINGS}" stroke-width="3.0" fill="none"/>\n')
         # self.append(draw.Line(-w/2+dx+x0, h/2+0.5+y0, -w/2+dx+x0, -h/2-0.5+y0, stroke='#555', stroke_width=G*g, fill='none'))
 
+
 def cross(self, sq, x0=0.0, y0=0.0):
     self.write(
         f'<path d="M{-sq+x0:.1f},{-sq+y0:.1f} L{sq+x0:.1f},{sq+y0:.1f}" stroke="{CROSS}" stroke-width="2" fill="none"/>\n')
@@ -68,6 +70,7 @@ def cross(self, sq, x0=0.0, y0=0.0):
     # self.append(draw.Line(-sq+x0, -sq+y0, sq+x0, sq+y0,stroke=fill, stroke_width=2, fill='none'))
     # self.append(draw.Line(-sq+x0, sq+y0, sq+x0, -sq+y0,stroke=fill, stroke_width=2, fill='none'))
 
+
 def fingers(self, positions, x0=0.0, y0=0.0):
     for dx, ft in zip(hor, positions):
         try:
@@ -75,9 +78,10 @@ def fingers(self, positions, x0=0.0, y0=0.0):
                 f'<circle cx="{-w/2+dx+x0:.1f}" cy="{-(h/2-20*ft+10+y0):.1f}" r="5" fill="{FINGER_FILL}" stroke-width="2" stroke="{FINGER_STROKE}"/>\n')
             # self.append(draw.Circle(-w/2+dx+x0, h/2-20*ft+10+y0, 5,fill='gray', stroke_width=2, stroke='#aaa'))
         except:
-            cross(self,sq=5,x0=-w/2+dx+x0, y0=-(h/2+10+y0))
+            cross(self, sq=5, x0=-w/2+dx+x0, y0=-(h/2+10+y0))
 
-chords = {} # initialize Chord dictionary
+
+chords = {}  # initialize Chord dictionary
 
 roots = ['A', 'Bb', 'B', 'C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab']
 
@@ -92,7 +96,9 @@ qualities = ['', 'm',  # Regular
 exchords = {}
 chords_by_root = {}
 
-# Major Chords
+##########################################################################
+# MAJOR
+##########################################################################
 
 ochords[''] = {
     'A': [x, 0, 2, 2, 2, 0],
@@ -101,6 +107,38 @@ ochords[''] = {
     'E': [0, 2, 2, 1, 0, 0],
     'G': [3, 2, 0, 0, 3, 3]
 }
+
+ochords['_3'] = {
+    'D_3': [2, x, 0, 2, 3, 2],
+    'G_3': [x, 2, 0, 0, 0, x]
+}
+
+ochords['_5'] = {
+    'C_5': [3, 3, 2, 0, 1, 0],
+    'D_5': [x, 0, x, 2, 3, 2]
+}
+
+ochords['_7'] = {
+    'C_7': [x, 2, x, 0, 1, 0],
+    'A_7': [x, 4, 2, 2, 2, 0]
+}
+
+ochords['_m7'] = {
+    'D_m7': [x, 3, x, 2, 3, 2]
+}
+
+ochords['_6'] = {
+    'D_6': [x, 2, x, 2, 3, 2]
+}
+
+# 6 chords
+
+ochords['6'] = {
+    'G6': [3, 2, 0, 0, 3, 0],
+    'A6': [x, 0, 2, 2, 2, 2]
+}
+
+# 7 chords
 
 ochords['Δ7'] = {
     'DΔ7': [x, x, 0, 2, 2, 2],
@@ -111,25 +149,103 @@ ochords['Δ7'] = {
     'CΔ7': [x, 3, 2, 0, 0, 0]
 }
 
-ochords['Δ9'] = {
-    'DΔ9': [x, x, 0, 2, 2, 0]
-}
-
-ochords['add11'] = {
-    'Gadd11': [3, 2, 0, 0, 1, x]
-}
+# 9 chords
 
 ochords['add9'] = {
     'Gadd9': [3, 2, 0, 2, 3, x]
 }
 
-ochords['6'] = {
-    'G6': [3, 2, 0, 0, 3, 0],
-    'A6': [x, 0, 2, 2, 2, 2]
+ochords['Δ9'] = {
+    'DΔ9': [x, x, 0, 2, 2, 0]
 }
 
-# Dominant Chords
+# 11 chords
 
+ochords['add11'] = {
+    'Gadd11': [3, 2, 0, 0, 1, x]
+}
+
+ochords['Δ11'] = {
+    'DΔ11': [x, x, 0, 2, 2, 3]
+}
+
+# 13 chords
+
+ochords['Δ13'] = {
+    'GΔ13': [3, 2, 4, 0, 3, 0],
+    'AΔ13': [x, 0, 2, 1, 2, 2]
+}
+
+
+##########################################################################
+# MINOR
+##########################################################################
+
+ochords['m'] = {
+    'Am': [x, 0, 2, 2, 1, 0],
+    'Dm': [x, x, 0, 2, 3, 1],
+    'Em': [0, 2, 2, 0, 0, 0]
+}
+
+ochords['m_m7'] = {
+    'Bm_m7': [x, 0, 4, 4, 3, 2],
+    'Dm_m7': [x, 3, x, 2, 3, 1],
+    'Am_m7': [3, x, 2, 2, 1, 0]
+}
+
+ochords['m_2'] = {
+    'Am_2': [x, 2, 2, 2, 1, 0]
+}
+
+# 6 chords
+
+ochords['m6'] = {
+    'Am6': [x, 0, 2, 2, 1, 2],
+    'Em6': [0, 2, 2, 0, 2, 0]
+}
+
+# 7 chords
+
+ochords['m7'] = {
+    'Am7': [x, 0, 2, 0, 1, 0],
+    'Dm7': [x, x, 0, 2, 1, 1],
+    'Em7': [0, 2, 0, 0, 0, 0]
+}
+
+ochords['m7_m7'] = {
+    'Bm7_m7': [x, 0, 4, 2, 3, 2],
+    'Dm7_m7': [x, 3, x, 2, 1, 1],
+    'Am7_m7': [3, x, 2, 0, 1, 0]
+}
+
+# Δ7 chords
+
+ochords['mΔ7'] = {
+    'EmΔ7': [0, 2, 1, 0, 0, 0],
+    'DmΔ7': [x, x, 0, 2, 2, 1],
+    'AmΔ7': [x, 0, 2, 1, 1, 0]
+}
+
+ochords['mΔ7_7'] = {
+    'DmΔ7_7': [x, 4, x, 2, 2, 1]
+}
+
+# 9 chords
+
+ochords['madd9'] = {
+    'Emadd9': {0, 2, 2, 0, 0, 2}
+}
+
+ochords['m9'] = {
+    'Em9': [0, 2, 0, 0, 0, 2],
+    'Bm9': [x, 2, 0, 2, 2, x]
+}
+
+##########################################################################
+# DOMINANT
+##########################################################################
+
+# 7 chords
 ochords['7'] = {
     'A7': [x, 0, 2, 0, 2, 0],
     'D7': [x, x, 0, 2, 1, 2],
@@ -137,11 +253,19 @@ ochords['7'] = {
     'B7': [x, 2, 1, 2, 0, 2]
 }
 
+ochords['7_7'] = {
+    'A7_7': [x, 4, 2, 0, 2, 0]
+}
+
+# 9 chords
+
 ochords['9'] = {
     'A9': [x, 0, 2, 0, 0, 0],
     'B9': [x, 2, 1, 2, 2, x],
     'D9': [x, x, 0, 2, 1, 0]
 }
+
+# 11 chords
 
 ochords['11'] = {
     'A11': [x, 0, 2, 0, 3, x],
@@ -150,35 +274,30 @@ ochords['11'] = {
     'E11': [0, 2, 0, 2, 0, 0]
 }
 
+# ♯9 chords
+
 ochords['7s9'] = {
     'E7s9': [x, x, 3, 2, 4, 4]
 }
 
-# Minor Chords
 
-ochords['m'] = {
-    'Am': [x, 0, 2, 2, 1, 0],
-    'Dm': [x, x, 0, 2, 3, 1],
-    'Em': [0, 2, 2, 0, 0, 0]
-}
+##########################################################################
+# SUSPENDED
+##########################################################################
 
-ochords['m7'] = {
-    'Am7': [x, 0, 2, 0, 1, 0],
-    'Dm7': [x, x, 0, 2, 1, 1],
-    'Em7': [0, 2, 0, 0, 0, 0]
-}
-
-ochords['mΔ7'] = {
-    'EmΔ7': [0, 2, 1, 0, 0, 0],
-    'DmΔ7': [x, x, 0, 2, 2, 1],
-    'AmΔ7': [x, 0, 2, 1, 1, 0]
-}
-
-# Suspended Chords
+# 2 chords
 
 ochords['sus2'] = {
     'Asus2': [x, 0, 2, 2, 0, 0],
     'Dsus2': [x, x, 0, 2, 3, 0]
+}
+
+ochords['sus2_3'] = {
+    'Dsus2_3': [2, x, 0, 2, 3, 0]
+}
+
+ochords['sus2_7'] = {
+    'Asus2_7': [4, x, 0, 2, 2, 0]
 }
 
 ochords['sus2s5'] = {
@@ -206,7 +325,11 @@ ochords['sus2b5'] = {
     'Asus2b5': [x, 0, 1, 2, 3, x],
     'Dsus2b5': [x, x, 0, 1, 3, 0]
 }
-# Diminished Chords
+
+
+##########################################################################
+# DINIMISHED
+##########################################################################
 
 ochords['m7b5'] = {
     'Am7b5': [x, 0, 1, 0, 1, x],
@@ -224,69 +347,15 @@ ochords['°'] = {
 }
 
 
-# Augmented Chords
+##########################################################################
+# AUGMENTED
+##########################################################################
 
 ochords['+'] = {
     'A+': [x, 0, 3, 2, 2, 1],
     'D+': [x, x, 0, 3, 3, 2]
 }
 
-# Chord Inversions
-
-ochords['m_m7'] = {
-    'Bm_m7': [x, 0, 4, 4, 3, 2],
-    'Dm_m7': [x, 3, x, 2, 3, 1],
-    'Am_m7': [3, x, 2, 2, 1, 0]
-}
-
-ochords['m_2'] = {
-    'Am_2': [x, 2, 2, 2, 1, 0]
-}
-
-ochords['m7_m7'] = {
-    'Bm7_m7': [x, 0, 4, 2, 3, 2],
-    'Dm7_m7': [x, 3, x, 2, 1, 1],
-    'Am7_m7': [3, x, 2, 0, 1, 0]
-}
-
-ochords['mΔ7_7'] = {
-    'DmΔ7_7': [x, 4, x, 2, 2, 1]
-}
-
-ochords['_3'] = {
-    'D_3': [2, x, 0, 2, 3, 2],
-    'G_3': [x, 2, 0, 0, 0, x]
-}
-
-ochords['sus2_3'] = {
-    'Dsus2_3': [2, x, 0, 2, 3, 0]
-}
-
-ochords['sus2_7'] = {
-    'Asus2_7': [4, x, 0, 2, 2, 0]
-}
-
-ochords['_5'] = {
-    'C_5': [3, 3, 2, 0, 1, 0],
-    'D_5': [x, 0, x, 2, 3, 2]
-}
-
-ochords['_7'] = {
-    'C_7': [x, 2, x, 0, 1, 0],
-    'A_7': [x, 4, 2, 2, 2, 0]
-}
-
-ochords['7_7'] = {
-    'A7_7': [x, 4, 2, 0, 2, 0]
-}
-
-ochords['_m7'] = {
-    'D_m7': [x, 3, x, 2, 3, 2]
-}
-
-ochords['_6'] = {
-    'D_6': [x, 2, x, 2, 3, 2]
-}
 
 qualities = [key for key in ochords.keys()]
 for q in qualities:
@@ -324,6 +393,7 @@ def get_chord_variants(ROOT, quality):
 for quality in qualities:
     for ROOT in roots:
         get_chord_variants(ROOT, quality)
+
 
 def createDiagram(chord):
     save_file = open(f'chords/{chord}.svg', 'w')
