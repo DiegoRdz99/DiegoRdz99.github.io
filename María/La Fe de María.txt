@@ -1,0 +1,15 @@
+title : La Fe de María
+key : Dm
+composer : Itala Rodríguez
+{song}
+/intro/
+[Dm]  [C]  [Bbsus2]
+[Dm]  [C]  [Bb]
+/verse/
+¿Qué hubiese pasa [Dm]- do
+Si [Bb]ella hubiese d[C]icho que no?
+[Fsus2]  [Fsus2_7]O ignora [Dm]- do
+[Dm7]O dilata [Bb]- do
+El a[Gm]nuncio de tu [C]ángel de amor[Fsus2]
+En [Fsus2_7]cambio creyó
+[Dm]  [Dm^7_7]En tu pa
