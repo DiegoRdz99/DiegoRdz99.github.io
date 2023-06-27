@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="140" viewBox="-70.0 -70.0 140 140">
-<circle cx="-10.0" cy="40.0" r="3" stroke-width="0" fill="#828282" fill-opacity="0.5"/>
-<circle cx="-10.0" cy="0.0" r="3" stroke-width="0" fill="#828282" fill-opacity="0.5"/>
-<circle cx="-10.0" cy="-40.0" r="3" stroke-width="0" fill="#828282" fill-opacity="0.5"/>
-<text x="45.0" y="-45.0" font-size="14" font-family="Nunito" fill="#aaa" dy="0em">5</text>
+<circle cx="-10.0" cy="20.0" r="3" stroke-width="0" fill="#828282" fill-opacity="0.5"/>
+<circle cx="-10.0" cy="-20.0" r="3" stroke-width="0" fill="#828282" fill-opacity="0.5"/>
+<text x="45.0" y="-45.0" font-size="14" font-family="Nunito" fill="#aaa" dy="0em">2</text>
 <path d="M-60.0,50.0 L40.0,50.0" stroke="#828282" stroke-width="1" fill="none"/>
 <path d="M-60.0,30.0 L40.0,30.0" stroke="#828282" stroke-width="1" fill="none"/>
 <path d="M-60.0,10.0 L40.0,10.0" stroke="#828282" stroke-width="1" fill="none"/>
@@ -16,11 +15,11 @@
 <path d="M0.0,50.5 L0.0,-50.5" stroke="#555" stroke-width="3.0" fill="none"/>
 <path d="M20.0,50.5 L20.0,-50.5" stroke="#555" stroke-width="3.0" fill="none"/>
 <path d="M40.0,50.5 L40.0,-50.5" stroke="#555" stroke-width="3.0" fill="none"/>
-<circle cx="-60.0" cy="20.0" r="5" fill="#828282" stroke-width="2" stroke="#aaa"/>
-<path d="M-45.0,-65.0 L-35.0,-55.0" stroke="#828282" stroke-width="2" fill="none"/>
-<path d="M-45.0,-55.0 L-35.0,-65.0" stroke="#828282" stroke-width="2" fill="none"/>
-<circle cx="-20.0" cy="-20.0" r="5" fill="#828282" stroke-width="2" stroke="#aaa"/>
-<circle cx="0.0" cy="20.0" r="5" fill="#828282" stroke-width="2" stroke="#aaa"/>
-<circle cx="20.0" cy="40.0" r="5" fill="#828282" stroke-width="2" stroke="#aaa"/>
-<circle cx="40.0" cy="-20.0" r="5" fill="#828282" stroke-width="2" stroke="#aaa"/>
+<path d="M-65.0,-65.0 L-55.0,-55.0" stroke="#828282" stroke-width="2" fill="none"/>
+<path d="M-65.0,-55.0 L-55.0,-65.0" stroke="#828282" stroke-width="2" fill="none"/>
+<circle cx="-40.0" cy="-20.0" r="5" fill="#828282" stroke-width="2" stroke="#aaa"/>
+<circle cx="-20.0" cy="40.0" r="5" fill="#828282" stroke-width="2" stroke="#aaa"/>
+<circle cx="0.0" cy="80.0" r="5" fill="#828282" stroke-width="2" stroke="#aaa"/>
+<circle cx="20.0" cy="100.0" r="5" fill="#828282" stroke-width="2" stroke="#aaa"/>
+<circle cx="40.0" cy="40.0" r="5" fill="#828282" stroke-width="2" stroke="#aaa"/>
 </svg>
