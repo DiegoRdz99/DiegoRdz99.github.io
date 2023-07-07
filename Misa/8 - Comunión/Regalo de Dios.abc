@@ -1,0 +1,28 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Regalo de Dios
+C:
+S:
+M:6/4
+L:1/8
+Q:1/2=60
+K:A
+%
+%
+    A>B | "A"c2-c>B B>A A>B-B2 A>B | "A/C#"c2-c>B B>A A>B-B2 A>B |
+w: Lo que~al-gu--na vez so-ña-ba,_ lo que yo_ me~i-ma-gi-na-ba,_ lo que
+    "D"d2 c c2 B B2 AA c2 | "A"c6 "E" z2 c>c B2 |
+w: le pe-dí~al Se-ñor en un am-or, no se com-
+    "F#m"B>A-A2 z2 A2 A>A-A>B | "C#m7"B>c c>c c
+w: pa-ra_ con lo que_ vi-vi-mos

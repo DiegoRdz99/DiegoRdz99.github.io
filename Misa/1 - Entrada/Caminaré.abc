@@ -1,0 +1,28 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Caminaré
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=90
+K:Em
+%
+%
+    "Em"E2 G B | "Am"A3 E/2F/2 | "C"G G "B7"F F | "Em"E4 :| 
+w: Ca-mi-na-ré, en pre-sen-cia del Se-ñor
+    [L:1/8]"Em"G G-G F E2 EE | "D"D D2 D D2 ED | "G"B,B,3-"B7"B,2 B,B, |
+w: 1.~A-mo al Se-ñor por-que~es-cu-cha mi voz su-pli-can-te_ por-que~in-
+    "Em"EE2 E "D"FF EF | "G"G3 G "Am"AA GA | "B7"B2 B6 | z8 :|
+w: 2.~cli-na su~o-í-do ha-cia mí el dí-a que lo~in-vo-co

@@ -1,7 +1,8 @@
 from math import ceil
 
+
 class constants:
-    def __init__(self,backsteps,title=''):
+    def __init__(self, backsteps, title=''):
         self.navbar = f'''
 <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top shadow">
     <div class="container-fluid">
@@ -129,71 +130,83 @@ class constants:
 
 def chordify(chord):
     try:
-        root = chord[0] # Root 根
-        og_root = chord[0] # Root with # and b (kept for removing)
+        root = chord[0]  # Root 根
+        og_root = chord[0]  # Root with # and b (kept for removing)
         FLAT = True
         try:
-            if chord[1]=='#':
-                root += '♯' # Sharp accidental
+            if chord[1] == '#':
+                root += '♯'  # Sharp accidental
                 og_root += '#'
                 FLAT = False
-            elif chord[1]=='b':
-                root+= '♭' # Flat accidental
-                og_root+= 'b'
+            elif chord[1] == 'b':
+                root += '♭'  # Flat accidental
+                og_root += 'b'
             try:
                 bass = chord.split('_')[1]
-                qual = chord.split('_')[0].replace(og_root,'').replace('^','Δ').replace('*','/') # Remove root from chord
-                return {'root' : root, 'svg' : qual.replace('#','s') + '_' + bass,
-                        'flat' : FLAT, 'og_root' : og_root,
-                        'quality' : qual, # chord quality
-                        'bass' : (iterate_key(og_root,bass)).replace('b','♭').replace('#','♯') + ('' if len(root)==1 else root[1])} # Chord Bass addition
+                qual = chord.split('_')[0].replace(og_root, '').replace(
+                    '^', 'Δ').replace('*', '/')  # Remove root from chord
+                return {'root': root, 'svg': qual.replace('#', 's') + '_' + bass,
+                        'flat': FLAT, 'og_root': og_root,
+                        'quality': qual,  # chord quality
+                        'bass': (iterate_key(og_root, bass)).replace('b', '♭').replace('#', '♯') + ('' if len(root) == 1 else root[1])}  # Chord Bass addition
 
             except:
-                qual = chord.replace(og_root,'').replace('^','Δ').replace('*','/') # Remove root from chord
-                return {'root' : root, 'svg' : qual.replace('#','s'),
-                        'flat' : FLAT, 'og_root' : og_root,
-                        'quality' : qual.replace('b','♭').replace('#','♯'),
-                        'bass' : ''} # If there is no bass, none will be added
+                qual = chord.replace(og_root, '').replace(
+                    '^', 'Δ').replace('*', '/')  # Remove root from chord
+                return {'root': root, 'svg': qual.replace('#', 's'),
+                        'flat': FLAT, 'og_root': og_root,
+                        'quality': qual.replace('b', '♭').replace('#', '♯'),
+                        'bass': ''}  # If there is no bass, none will be added
         except:
-            return {'root' : root,'svg' : '', 'flat' : FLAT, 'og_root' : og_root, 'quality' : '', 'bass' : ''} # For Major Chords
+            # For Major Chords
+            return {'root': root, 'svg': '', 'flat': FLAT, 'og_root': og_root, 'quality': '', 'bass': ''}
     except:
-        return {'root' : '', 'flat' : False} # Blank Chords
+        return {'root': '', 'flat': False}  # Blank Chords
+
 
 def iterate(root):
-    return chr((ord(root)-ord('A')+1)%7+ord('A'))
+    return chr((ord(root)-ord('A')+1) % 7+ord('A'))
 
-circle_of_fifths = ['Fb','Cb','Gb','Db','Ab','Eb','Bb','F','C','G','D','A','E','B','F#','C#','G#','D#','A#']
 
-def iterate_key(root,num):
+circle_of_fifths = ['Fb', 'Cb', 'Gb', 'Db', 'Ab', 'Eb', 'Bb',
+                    'F', 'C', 'G', 'D', 'A', 'E', 'B', 'F#', 'C#', 'G#', 'D#', 'A#']
+
+
+def iterate_key(root, num):
     if len(num) == 1:
-        quality , num = None , int(num)
+        quality, num = None, int(num)
     else:
-        quality , num = num[0] , int(num[1])
-    key = circle_of_fifths[circle_of_fifths.index(root)-1:circle_of_fifths.index(root)+6]
+        quality, num = num[0], int(num[1])
+    key = circle_of_fifths[circle_of_fifths.index(
+        root)-1:circle_of_fifths.index(root)+6]
     key.sort()
-    suf = key[(key.index(root)+num-1)%7]
-    return ((suf+'b') if len(suf)==1 else suf.replace('#','')) if quality=='m' else suf # for minor intervals
+    suf = key[(key.index(root)+num-1) % 7]
+    # for minor intervals
+    return ((suf+'b') if len(suf) == 1 else suf.replace('#', '')) if quality == 'm' else suf
+
 
 def add_bass(bass):
     return f'/<span class="bass">{bass}</span>' if bass != '' else ''
 
+
 class line:
-    def __init__(self,raw,backsteps=0,instrumental=False):
+    def __init__(self, raw, backsteps=0, instrumental=False):
         if instrumental:
             self.add_class = 'px-1'
         else:
             self.add_class = ''
-        if len(raw)!=0 and raw[0]!='[':
-            raw='[]'+raw
-        lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from text
+        if len(raw) != 0 and raw[0] != '[':
+            raw = '[]'+raw
+        lst = [spt.split(']')
+               for spt in raw.split('[')]  # Separate chords from text
         lst.pop(0)
-        lst = [list(i) for i in zip(*lst)] # Transpose algorithm
+        lst = [list(i) for i in zip(*lst)]  # Transpose algorithm
         chords = [chordify(chord) for chord in lst[0]]
-        self.set_c_line(chords,backsteps)
+        self.set_c_line(chords, backsteps)
         # Chord line table
         self._l_line = self.set_line(lst[1])
 
-    def set_c_line(self,chords,backsteps):
+    def set_c_line(self, chords, backsteps):
         self._c_line = ''.join([f'''
         <td class="chord {self.add_class}">
             <span class="root">{chord["root"]}</span><span class="quality">{chord["quality"]}</span>{add_bass(chord["bass"])}
@@ -208,9 +221,9 @@ class line:
                 <span class="chord_name">{chord["root"]}{chord["svg"]}</span>
                 <img class="fig" src="{backsteps}chords/{iterate(chord["root"][0])}b{chord["svg"]}.svg">
             </div>
-        </td>''' if chord["root"]!='' else f'<td></td>' for chord in chords])
+        </td>''' if chord["root"] != '' else f'<td></td>' for chord in chords])
 
-    def set_line(self,lst):
+    def set_line(self, lst):
         return ''.join([f'<td>{frag}</td>' for frag in lst])
 
     def table(self):
@@ -220,24 +233,27 @@ class line:
             <tr class="lyricsline">{self._l_line}</tr>
         </table>
         '''
-    
+
+
 class double_line(line):
-    def __init__(self,raw,backsteps=0):
-        raw = raw.replace('{','')
+    def __init__(self, raw, backsteps=0):
+        raw = raw.replace('{', '')
         self.add_class = ''
-        if list(raw)[0]!='[':
-            raw='[]'+raw
-        lst = [spt.split(']') for spt in raw.split('[')] # Separate chords from text
+        if list(raw)[0] != '[':
+            raw = '[]'+raw
+        lst = [spt.split(']')
+               for spt in raw.split('[')]  # Separate chords from text
         lst.pop(0)
         for i in range(len(lst)):
             app = lst[i].pop(1)
             for a in app.split('|'):
                 lst[i].append(a)
         for i in range(len(lst)):
-            lst[i].append('') if len(lst[i])!=3 else None # Add empty spaces in the second voice line
-        lst = [list(i) for i in zip(*lst)] # Transpose algorithm
+            # Add empty spaces in the second voice line
+            lst[i].append('') if len(lst[i]) != 3 else None
+        lst = [list(i) for i in zip(*lst)]  # Transpose algorithm
         chords = [chordify(chord) for chord in lst[0]]
-        self.set_c_line(chords,backsteps)
+        self.set_c_line(chords, backsteps)
         self._l_line = self.set_line(lst[1])
         self._second_line = self.set_line(lst[2])
 
@@ -252,11 +268,11 @@ class double_line(line):
 
 
 class Chorus:
-    def __init__(self,raw,part_id = ''):
-        self.raw = raw.replace(' ','&nbsp;') # Spaces in html
-        self.id = (' ' + part_id) if part_id != '' else '' 
-    
-    def to_html(self,backsteps):
+    def __init__(self, raw, part_id=''):
+        self.raw = raw.replace(' ', '&nbsp;')  # Spaces in html
+        self.id = (' ' + part_id) if part_id != '' else ''
+
+    def to_html(self, backsteps):
         head = f'''
         <br>
         <span class="fs-2 fw-bold">Coro{self.id}</span>
@@ -271,29 +287,32 @@ class Chorus:
         </table>
         <br>
         '''
-        lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps) for raw in self.raw.split('\n') if len(raw)!=0]
+        lines = [double_line(raw, backsteps) if raw[0] == '{' else line(
+            raw, backsteps) for raw in self.raw.split('\n') if len(raw) != 0]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
 
-class chorus:
-    def __init__(self,raw,part_id = ''):
-        self.raw = raw.replace(' ','&nbsp;')
 
-    def include_coro(self,Coro):
+class chorus:
+    def __init__(self, raw, part_id=''):
+        self.raw = raw.replace(' ', '&nbsp;')
+
+    def include_coro(self, Coro):
         self.coro = Coro
-    
-    def to_html(self,backsteps):
+
+    def to_html(self, backsteps):
         return self.coro.to_html(backsteps)
 
+
 class verse:
-    def __init__(self,raw,part_id = ''):
-        self.raw = raw.replace(' ','&nbsp;')
+    def __init__(self, raw, part_id=''):
+        self.raw = raw.replace(' ', '&nbsp;')
         self.title = 'Verso'
         self.klass = 'verse'
         self.instrumental = False
-        self.id = (' ' + part_id) if part_id != '' else '' 
-    
-    def to_html(self,backsteps):
+        self.id = (' ' + part_id) if part_id != '' else ''
+
+    def to_html(self, backsteps):
         head = f'''
         <br>
         <span class="fs-2 fw-bold">{self.title}{self.id}</span>
@@ -307,17 +326,19 @@ class verse:
             </tr>
         </table>
         '''
-        lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps,self.instrumental) for raw in self.raw.split('\n') if len(raw)!=0]
+        lines = [double_line(raw, backsteps) if raw[0] == '{' else line(
+            raw, backsteps, self.instrumental) for raw in self.raw.split('\n') if len(raw) != 0]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
 
+
 class general:
-    def __init__(self,raw,part_id = ''):
-        self.raw = raw.replace(' ','&nbsp;')
+    def __init__(self, raw, part_id=''):
+        self.raw = raw.replace(' ', '&nbsp;')
         self.klass = 'verse'
         self.instrumental = False
-    
-    def to_html(self,backsteps):
+
+    def to_html(self, backsteps):
         head = f'''
         <br>
         <table class="{self.klass}" border="0" cellpadding="0" cellspacing="0">
@@ -329,62 +350,71 @@ class general:
             </tr>
         </table>
         '''
-        lines = [double_line(raw,backsteps) if raw[0]=='{' else line(raw,backsteps,self.instrumental) for raw in self.raw.split('\n') if len(raw)!=0]
+        lines = [double_line(raw, backsteps) if raw[0] == '{' else line(
+            raw, backsteps, self.instrumental) for raw in self.raw.split('\n') if len(raw) != 0]
         html = '\n'.join([lin.table() for lin in lines])
         return head + html + foot
 
 
 class prechorus(verse):
-    def __init__(self,raw,part_id = ''):
-        super().__init__(raw,part_id)
+    def __init__(self, raw, part_id=''):
+        super().__init__(raw, part_id)
         self.title = 'Pre-coro'
 
+
 class bridge(verse):
-    def __init__(self,raw,part_id = ''):
-        super().__init__(raw,part_id)
+    def __init__(self, raw, part_id=''):
+        super().__init__(raw, part_id)
         self.title = 'Puente'
 
+
 class outro_verse(verse):
-    def __init__(self,raw,part_id = ''):
-        super().__init__(raw,part_id)
+    def __init__(self, raw, part_id=''):
+        super().__init__(raw, part_id)
         self.title = 'Outro'
 
+
 class intro_verse(verse):
-    def __init__(self,raw,part_id = ''):
-        super().__init__(raw,part_id)
+    def __init__(self, raw, part_id=''):
+        super().__init__(raw, part_id)
         self.title = 'Intro'
 
+
 class resp(verse):
-    def __init__(self,raw,part_id = ''):
+    def __init__(self, raw, part_id=''):
         super().__init__(raw)
         self.title = 'Respuesta'
 
+
 class intermedio(verse):
-    def __init__(self,raw,part_id = ''):
-        self.raw = raw.replace(' ','&nbsp;&nbsp;')
+    def __init__(self, raw, part_id=''):
+        self.raw = raw.replace(' ', '&nbsp;&nbsp;')
         self.title = 'Intermedio'
         self.klass = 'inst'
         self.instrumental = True
-        self.id = (' ' + part_id) if part_id != '' else '' 
+        self.id = (' ' + part_id) if part_id != '' else ''
+
 
 class intro(intermedio):
-    def __init__(self,raw,part_id = ''):
-        super().__init__(raw,part_id)
-        self.raw = raw.replace(' ','&nbsp;&nbsp;')
+    def __init__(self, raw, part_id=''):
+        super().__init__(raw, part_id)
+        self.raw = raw.replace(' ', '&nbsp;&nbsp;')
         self.instrumental = True
         self.title = 'Intro'
-    
+
+
 class outro(intermedio):
-    def __init__(self,raw,part_id = ''):
-        super().__init__(raw,part_id)
+    def __init__(self, raw, part_id=''):
+        super().__init__(raw, part_id)
         self.title = 'Outro'
 
+
 class locutor:
-    def __init__(self,raw,part_id = ''):
+    def __init__(self, raw, part_id=''):
         self.title = 'Locutor'
         self.raw = raw
-    
-    def to_html(self,backsteps):
+
+    def to_html(self, backsteps):
         html = f'''
         <br>
         <span class="fs-2 fw-bold">{self.title}</span>
@@ -393,18 +423,20 @@ class locutor:
         '''
         return html
 
+
 class salmo:
-    def __init__(self,raw,part_id = ''):
-        self.lines = raw.replace('\n','\n<br>')
-        if self.lines[-4:]=='<br>':
+    def __init__(self, raw, part_id=''):
+        self.lines = raw.replace('\n', '\n<br>')
+        if self.lines[-4:] == '<br>':
             self.lines = self.lines[:-5]
-    def to_html(self,backsteps):
+
+    def to_html(self, backsteps):
         foot = '<b>&nbsp;&nbsp;R.</b>\n<br>\n'
         return self.lines + foot
 
 
-
-parts = {'Coro':Chorus,'coro':chorus,'verse':verse,'verso':verse,'prechorus':prechorus,'intermedio':intermedio,'intro':intro,'intro_verse':intro_verse,'outro':outro,'bridge':bridge,'locutor':locutor,'resp':resp,'respuesta':resp,'salmo':salmo,'gen':general,'outro_verse':outro_verse}
+parts = {'Coro': Chorus, 'coro': chorus, 'verse': verse, 'verso': verse, 'prechorus': prechorus, 'intermedio': intermedio, 'intro': intro, 'intro_verse': intro_verse,
+         'outro': outro, 'bridge': bridge, 'locutor': locutor, 'resp': resp, 'respuesta': resp, 'salmo': salmo, 'gen': general, 'outro_verse': outro_verse}
 
 # colors
 GOLD = '#d9b225'
@@ -415,18 +447,19 @@ BLUE = '#3b71db'
 BLACK = '#242424'
 
 liturgy_colors = {
-    'Ordinario': GREEN, # green
+    'Ordinario': GREEN,  # green
 
-    'Adviento': LILA, 'Cuaresma':LILA, # purple
+    'Adviento': LILA, 'Cuaresma': LILA,  # purple
 
-    'Pascua': GOLD, 'Navidad':GOLD, 'Domingo de Resurrección':GOLD, 'Santa María, Madre de Dios': GOLD, 'Sagrada Familia':GOLD, 'San José':GOLD, 'Anunciación del Señor':GOLD, 'Jueves Santo':GOLD, 'Vigilia Pascual':GOLD, 'San Juan Bautista':GOLD, # gold
+    'Pascua': GOLD, 'Navidad': GOLD, 'Domingo de Resurrección': GOLD, 'Santa María, Madre de Dios': GOLD, 'Sagrada Familia': GOLD, 'San José': GOLD, 'Anunciación del Señor': GOLD, 'Jueves Santo': GOLD, 'Vigilia Pascual': GOLD, 'San Juan Bautista': GOLD, 'Bodas': GOLD,  # gold
 
-    'Viernes Santo':RED, 'Semana Santa' : RED, 'Domingo de Ramos' : RED, 'Viernes Santo':RED, # red
+    'Viernes Santo': RED, 'Semana Santa': RED, 'Domingo de Ramos': RED, 'Viernes Santo': RED,  # red
 
-    'Difuntos':BLACK, # black
+    'Difuntos': BLACK,  # black
 
-    'Vírgen de Guadalupe':BLUE # blue
+    'Vírgen de Guadalupe': BLUE  # blue
 }
+
 
 def subtitle_from_folder(folder):
     mid = folder.split('/')
@@ -436,9 +469,10 @@ def subtitle_from_folder(folder):
         pass
     return ' - '.join(mid)
 
+
 class song:
-    def __init__(self,file_name,backsteps,folder='',abc_sheet=None,comunion=False):
-        self.raw = open(file_name,'r',encoding='utf-8').read()
+    def __init__(self, file_name, backsteps, folder='', abc_sheet=None, comunion=False):
+        self.raw = open(file_name, 'r', encoding='utf-8').read()
         # spt = self.raw.split('\n')
         meta = self.raw.split('{song}')[0].split('\n')[:-1]
         self.meta = {}
@@ -446,10 +480,13 @@ class song:
         for entry in meta:
             self.meta[entry.split(' : ')[0]] = entry.split(' : ')[1]
         self.parts = self.raw.split('/')
-        self.groups = [(self.parts[2*i-1],self.parts[2*i]) for i in range(1,ceil(len(self.parts)/2))]
-        self.teile = [parts[group[0].split('-')[0]](group[1],'' if len(group[0].split('-')) == 1 else group[0].split('-')[1]) for group in self.groups]
+        self.groups = [(self.parts[2*i-1], self.parts[2*i])
+                       for i in range(1, ceil(len(self.parts)/2))]
+        self.teile = [parts[group[0].split('-')[0]](group[1], '' if len(
+            group[0].split('-')) == 1 else group[0].split('-')[1]) for group in self.groups]
         try:
-            self.Coro = [teil for teil in self.teile if isinstance(teil,Chorus)][0]
+            self.Coro = [
+                teil for teil in self.teile if isinstance(teil, Chorus)][0]
         except:
             pass
         for teil in self.teile:
@@ -487,47 +524,52 @@ class song:
             metadata += f'<h4 id="song-key">Clave: {self.meta["key"]}</h2>'
         except:
             pass
-        html_constants = constants(backsteps,title=self.meta['title'])
+        html_constants = constants(backsteps, title=self.meta['title'])
         if comunion:
-            self.html_preamble = html_constants.comunion_header + html_constants.navbar + metadata
+            self.html_preamble = html_constants.comunion_header + \
+                html_constants.navbar + metadata
             self.html_footer = abc_sheet + html_constants.html_comunion_footer
         else:
             self.html_preamble = html_constants.header + html_constants.navbar + metadata
             self.html_footer = abc_sheet + html_constants.html_footer
-    def to_html(self,backsteps):
-        html = '\n'.join([teil.to_html(backsteps) for teil in self.teile])
-        return self.html_preamble + '\n' + html + '\n'+ self.html_footer
 
-def create_html(file_path,comunion = False):
-    backsteps = rech_backsteps(path,file_path,is_file=True)
+    def to_html(self, backsteps):
+        html = '\n'.join([teil.to_html(backsteps) for teil in self.teile])
+        return self.html_preamble + '\n' + html + '\n' + self.html_footer
+
+
+def create_html(file_path, comunion=False):
+    backsteps = rech_backsteps(path, file_path, is_file=True)
     file_name = file_path.split('/')[-1][:-4]
     name_ext = '/'.join(file_path.split('/')[:-1])
     try:
-        with open(f'{name_ext}/{file_name}.abc','r') as abc_file:
+        with open(f'{name_ext}/{file_name}.abc', 'r') as abc_file:
             abc_sheet = abc_file.read()
     except:
         abc_sheet = None
-    newfile = open(f'{name_ext}/{file_name}.html','w',encoding='utf-8')
-    newfile.write(song(file_path,backsteps,folder=name_ext.split('.io/')[1],abc_sheet=abc_sheet,comunion=comunion).to_html(backsteps))
+    newfile = open(f'{name_ext}/{file_name}.html', 'w', encoding='utf-8')
+    newfile.write(song(file_path, backsteps, folder=name_ext.split(
+        '.io/')[1], abc_sheet=abc_sheet, comunion=comunion).to_html(backsteps))
     # "name_ext.split('.io/')[1]" retrieves the relative path, i.e. only the part next to DiegoRdz99.github.io
     newfile.close()
 
+
 def create_index(folder_path):
-    backsteps = rech_backsteps(path,folder_path)
+    backsteps = rech_backsteps(path, folder_path)
     folder_name = folder_path.split('/')[-1]
-    html_constants = constants(backsteps,title=folder_name)
+    html_constants = constants(backsteps, title=folder_name)
     head = html_constants.header
-    preamble = head + html_constants.navbar.replace(f'">{folder_name}',f' active">{folder_name}') + f'''
+    preamble = head + html_constants.navbar.replace(f'">{folder_name}', f' active">{folder_name}') + f'''
     <div class="container-fluid">
       <p class="text-center fs-1 fw-bolder pt-2">{folder_name}</p>
     </div>
     '''
     dirs = sorted(os.listdir(folder_path))
-    folders = [i for i in dirs if i.find('.')==-1]
-    if folders==[]:
+    folders = [i for i in dirs if i.find('.') == -1]
+    if folders == []:
         preamble += '<div class="list-group">'
-        songs = [i for i in dirs if i[-5:]=='.html']
-        if songs!=[]:
+        songs = [i for i in dirs if i[-5:] == '.html']
+        if songs != []:
             try:
                 songs.remove('index.html')
             except:
@@ -542,7 +584,7 @@ def create_index(folder_path):
             </html>
             '''
             html = preamble + footer
-            newfile = open(f'{folder_path}/index.html','w',encoding='utf-8')
+            newfile = open(f'{folder_path}/index.html', 'w', encoding='utf-8')
             newfile.write(html)
             newfile.close()
     else:
@@ -550,8 +592,8 @@ def create_index(folder_path):
         # jscript = 'function show(x) {\nif (x.style.display === "none") {\nx.style.display = "block";\n} else {\nx.style.display = "none";\n}\n}'
         for folder in folders:
             dirs = sorted(os.listdir(folder_path+'/'+folder))
-            songs = [i for i in dirs if i[-5:]=='.html']
-            if songs!=[]:
+            songs = [i for i in dirs if i[-5:] == '.html']
+            if songs != []:
                 try:
                     songs.remove('index.html')
                 except:
@@ -588,18 +630,21 @@ def create_index(folder_path):
                 </html>
                 '''
                 html = preamble + footer
-                newfile = open(f'{folder_path}/index.html','w',encoding='utf-8')
+                newfile = open(f'{folder_path}/index.html',
+                               'w', encoding='utf-8')
                 newfile.write(html)
                 newfile.close()
 
-if __name__=='__main__':
+
+if __name__ == '__main__':
     import os
     import pathlib
-    path = pathlib.Path(__file__).parent.resolve() # Automated path retriever
+    path = pathlib.Path(__file__).parent.resolve()  # Automated path retriever
     dirs = sorted(os.listdir(path))
     print(f'curent path: {path}')
-    def rech_backsteps(path,sub_path,is_file=False):
-        if str(path)==str(sub_path):
+
+    def rech_backsteps(path, sub_path, is_file=False):
+        if str(path) == str(sub_path):
             return ''
         else:
             backsteps = len(str(sub_path).split('/'))-len(str(path).split('/'))
@@ -607,36 +652,36 @@ if __name__=='__main__':
                 backsteps -= 1
             pre = ''
             for i in range(backsteps):
-                pre+='../'
+                pre += '../'
             return pre
-    folders = [str(path)+'/'+i for i in dirs if i.find('.')==-1]
+    folders = [str(path)+'/'+i for i in dirs if i.find('.') == -1]
     abc_songs = []
     for folder in folders:
         dirs = sorted(os.listdir(folder))
-        songs = [i for i in dirs if i[-4:]=='.txt']
+        songs = [i for i in dirs if i[-4:] == '.txt']
         sub_dirs = sorted(os.listdir(folder))
-        sub_folders = [i for i in dirs if i.find('.')==-1]
-        if sub_folders==[]:
+        sub_folders = [i for i in dirs if i.find('.') == -1]
+        if sub_folders == []:
             for s in songs:
                 create_html(folder+'/'+s)
-                abc_songs+=[(s,folder.split('/')[-1]+'/')]
+                abc_songs += [(s, folder.split('/')[-1]+'/')]
             create_index(folder)
         else:
             for sub_folder in sub_folders:
                 dirs = sorted(os.listdir(folder+'/'+sub_folder))
-                songs = [i for i in dirs if i[-4:]=='.txt']
+                songs = [i for i in dirs if i[-4:] == '.txt']
                 for s in songs:
                     if sub_folder == '8 - Comunión':
                         comunion = True
                     else:
                         comunion = False
-                    create_html(folder+'/'+sub_folder+'/'+s,comunion=comunion)
-                    abc_songs+=[(s,folder.split('/')[-1]+'/'+sub_folder+'/')]
+                    create_html(folder+'/'+sub_folder+'/'+s, comunion=comunion)
+                    abc_songs += [(s, folder.split('/')
+                                   [-1]+'/'+sub_folder+'/')]
                 create_index(folder)
 
-
-    def create_global_index(songs,path):
-        backsteps = rech_backsteps(path,path)
+    def create_global_index(songs, path):
+        backsteps = rech_backsteps(path, path)
         head = f'''
         <head>
             <title>Global Index</title>
@@ -665,12 +710,11 @@ if __name__=='__main__':
         </html>
         '''
         html = preamble + footer
-        newfile = open(f'{path}/index.html','w',encoding='utf-8')
+        newfile = open(f'{path}/index.html', 'w', encoding='utf-8')
         newfile.write(html)
         newfile.close()
 
     abc_songs.sort(key=lambda tup: tup[0])
-    abc_songs = [(i[0].replace('.txt','.html'),i[1]) for i in abc_songs]
-    create_global_index(abc_songs,path)
+    abc_songs = [(i[0].replace('.txt', '.html'), i[1]) for i in abc_songs]
+    create_global_index(abc_songs, path)
     print('Done!')
-

@@ -1,0 +1,43 @@
+title : Regalo de Dios
+composer : Athenas
+key : A
+liturgy : Bodas
+{song}
+/intro/
+[A]  [A_3]  [D]
+/verse/
+Lo que al[A]guna vez soñaba
+Lo que [A_3]yo me imaginaba
+Lo que [D]le pedí al Señor
+en un a[A]mor  [E]
+No se com[F#m]para
+con lo que vi[C#m7]vimos vos y yo
+No se com[D]para  [A]
+/verse/
+Un [A]cue - nto de hadas
+Una his[A_3]toria de princesas
+O el me[D]jor final feliz
+que se escri[A]bió  [E]
+No se com[F#m]para
+con lo que vi[C#m7]vimos vos y yo
+No se com[D]para  [A]
+/Coro/
+Re[A]galo del [D]cielo
+[A_3]Luz de mis [D]ojos
+[F#m]Gracias le [A_3]doy a D[D]ios
+Porque sos [Bm]vos
+Una prueba de su a[Esus4]mor [E]
+/bridge/
+En los [F#m]días más felices
+Y aún si [D]se pone difícil
+Yo pro[A]meto siempre amarte
+y serte f[Esus4]iel
+[E]Juntos i[F#m]remos de la mano
+Hacia el [C#m7]Cielo vos y yo
+Juntos i[D]remos  [Esus4]  [E]
+/coro/
+/coro/
+/outro_verse/
+[F#m]Gracias le [A_3]doy a D[D]ios
+Porque sos [Bm]vos
+Una prueba de su a[Esus4]mor [E]
