@@ -1,0 +1,30 @@
+title : Tan cerca de mí
+key : C
+liturgy : Ordinario
+{song}
+/Coro/
+[C]Ta - an [G]cerca de [Am]mí  [Am7]
+[F]Ta - an [D7]cerca de [G]mí  [G7]
+[C]Que - e[C7] hasta lo [F]puedo to[Fm]car
+[C]Je - [G]sús está a[C]quí
+/verse/
+[C]No busques a [G]Cristo en lo [C]alto
+[F]Ni lo busques [G]en la oscuri[C]dad  [C7]
+[F]Muy cerca de [G]tí
+[C]En tu [C_7]cora[Am]zón
+[Dm]Puedes ado[D7]rar a tu Se[G]ñor  [G+]
+/coro/
+/verse/
+[C]Le hablaré sin [G]miedo al o[C]ído
+Le [F]contaré las [G]cosas que hay en [C]mí  [C7]
+[F]Y que solo a [G]Él
+[C]Le inte[C_7]resa[Am]rán
+[Dm]Él es más que a[D7]migo para [G]mí  [G+]
+/coro/
+/verse/
+[C]Míralo a tu [G]lado por la [C]calle
+[F]Caminando en[G]tre la multi[C]tud  [C7]
+[F]Muchos ciegos [G]van
+[C]Sin que[C_7]rerlo [Am]ver
+[Dm]Llenos de ce[D7]guera espiri[G]tual  [G+]
+/coro/

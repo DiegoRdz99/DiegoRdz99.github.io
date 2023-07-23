@@ -1,0 +1,30 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Qué Alegría II
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+%
+%
+    B,C | "G"D2 D2 "C"GF GA | "G"B2 G4 z2 | "Am"AA AB "A7"AA AB | "D"A4 
+w: Qué~a-le-grí-a cuan-do me di-je-ron va-mos a la ca-sa del Se-ñor
+    "D7"z2 D2 |"G"B3 B "G7"BB AG | "C"E4 "Cm"z2 _E_E | "G"D2 GA "D"B2 A2 | "G"G4
+w: Ya~es-tán pi-san-do nues-tros pies tus um-bra-les Je-ru-sa-lén
+    zG GA | "G"B4 zB dB | "Em"A G3 zG FG | "Am"A4 "A"B2 A2 | "D"A D3
+w: Je-ru-sa-lén es-tá fun-da-da co-mo ciu-dad bien com-pac-ta
+    "D7"z2 zD | "G"B4 "G7"zd dd | "C"d2 c2-"Cm"c2 zc | "G"B2 G2 "D"A2 A2 | "G"G4 "D7"z2 :|
+w: A-llá su-ben las tri-bus_ las tri-bus del Se-ñor

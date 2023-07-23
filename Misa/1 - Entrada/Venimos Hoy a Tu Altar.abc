@@ -1,0 +1,23 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Venimos Hoy a Tu Altar
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+%
+%
+    "G"

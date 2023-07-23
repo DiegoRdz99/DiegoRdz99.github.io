@@ -1,0 +1,23 @@
+title : Vienen con Alegría
+liturgy : Ordinario
+key : D
+{song}
+/Coro/
+[D]Vienen con alegría Señor
+Cantando vienen von ale[A]gría Señor
+[G]Los que caminan por la [D]vida Se[Bm]ñor
+Sem[A]brando tu [A7]paz y a[D]mo - [D7]or
+[G]Los que caminan por la [D]vida Se[Bm]ñor
+Sem[A]brando tu [A7]paz y a[D]mor
+/verse/
+[D]Vienen trayendo la espe[A7]ra - anza
+A un mundo, cargado de ansie[D]dad
+A un mundo, que busca y que no al[A7]ca - anza
+Caminos de amor y de amis[D]tad
+/coro/
+/verse/
+[D]Vienen trayendo entre sus [A7]ma - anos
+Esfuerzos de hermanos por la [D]paz
+Deseos de un mundo más hu[A7]ma - ano
+Que nace del bien y la ver[D]dad
+/coro/

@@ -1,0 +1,63 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Gloria Jésed
+C:Jésed
+S:
+M:4/4
+L:1/8
+Q:1/4=120
+K:Amix
+%
+%
+V:1
+    "A"c4 c4 |: "G"d2c2B2c2 | "A"A4 E4-| "G"E4 z4 |
+w: Glo-ria a Dios en el Cie-lo
+%
+V:2
+    z8 |: z8 | c4 c4 | d2c2B2c2 |
+w: Glo-ria a Dios en el
+%
+%
+V:1
+    "A"A4 E2 E2 | "G"G2 FE D2 F2 | "A"E8 | "G"z4 z4 |1 "A"c4 c4 :|
+w: Y en la tie-rra~a los hom-bres paz Glo-ria
+%
+V:2
+    A4 E4 | z8 | A4 E2 E2 | G2 FE D2 F2 |1 E8 :| 
+w: Cie-lo Y en la tie-rra~a los hom-bres paz
+%
+%
+V:1
+    "C"G2 G G2 G2 E | "A"A2 A A2 A2 z | "C"G2 G G2 G2 E | "A"AAA A2 A2 z | 
+w: Te~a-la-ba-mos, te ben-de-ci-mos te~a-do-ra-mos te glo-ri-fi-ca-mos
+%
+V:2
+    z8 | z8 | z8 | z8 |
+%
+%
+V:1
+    "A"c4 c2 c2 | "G"d2c2B2c2 | "A"A2 E E2 E3-| "G"E4 z4 | "A"A4 E4 |
+w: Te da-mos gra-cias por tu~in-men-sa Glo-ria_ Se-ñor
+%
+V:2
+    z8 | z8 | c4 c2 c2 | d2c2B2c2 | A2 E E2 E3|
+w: Te da-mos gra-cias por tu~in-men-sa Glo-ria
+%
+%
+V:1
+    "G"G2 F2 D2 F2 | "A"E8 | z8|
+w: Dios Rey Ce-les-tial
+%
+V:2
+    z8 | A4 E4 | G2 F2 D2 F2 |
+w: Se-ñor Dios Rey Ce-les

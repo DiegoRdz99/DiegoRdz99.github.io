@@ -1,0 +1,25 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Piedad Fácil
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=160
+K:D
+%
+%
+    D/2 | "D"F2 F G | "Bm"F E/2 D3/2 z | "D"F F F G | "Bm"F E/2 D3/2 E | "G"D3 "G/F#"z | 
+w: Se-ñor ten pie-dad de mí, Cris-to ten pie-dad de mí, Se-ñor
+    "Em"z2 G F | "A"E4 |1 "A7"z3 z/2:|2 "A7"z2 DE | "D"(FE/2) D2 z/2 |]
+w: ten pie-dad, de no-so-o-tros

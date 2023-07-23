@@ -1,0 +1,38 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont AlegreyaBold 20
+%%vocalfont Alegreya 12
+%%composerfont AlegreyaItalic 12
+%%gchordfont AlegreyaBold 12
+%%tempofont AlegreyaBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Rendid honor
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=100
+K:G
+%
+%
+    "G"zG GG | "D"F3/2G3/2A | "Em"G4 | "C"z4 | "G"zB BB | "D"A3/2B3/2c | "G"B4 | "D"A4 |
+w: Ren-did ho-nor al Se-ñor to-da su pue-blo le~a-la-be
+    "G"zG GG | "D"F3/2G3/2A | "Em"G4 | "C"G4 | "G"z2 BB | "D"AG FA | "G"G4 | z4 |
+w: Que to-dos can-ten su glo-ria nues-tro Dios es-tá a-quí
+    "Bm"z "<("">)"F FF | "C"G G3 | "D"zG AG | "Em"B B3 | z4 | 
+w: *1.~Ma-jes-tuo-sa es su pre-sen-cia
+w: *2.~Él es dig-no de a-la-ban-zas
+w: 3.~Pue-blo~es-co-gi-do por el Se-ño-or
+    "C"z2 cc | "G"BA GB | "D"A2-A2 | z4 | "Bm"z "<("">)"F FF | "C"G G3 |
+w: 1.~In-fi-ni-to su a-mor_ * y su nom-bre
+w: 2.~De~a-do-rar-le pa-ra siem-pre * de~a-cla-mar-le
+w: 3.~So-mos to-o-dos de Él_ un pue-blo re-al
+    "D"zG AG | "Em"B-B3 | z4 | "C"z"<("">)"c cc | "G"BA GF | "D"G4 | "C"z2 "D"z2 :|
+w: 1.~tie-ne po-der_ * en el nom-bre de Je-sús
+w: 2.~en to-do tiem-po * e-xal-ta-do se-a Dios
+w: 3.~pa-ra~a-do-rar-te y pro-cla-mar tu sal-va-ción

@@ -15,11 +15,13 @@ liturgy : Ordinario
 [Bm] Y su [C]nombre, [D] tiene po[Em]der
 [C] En el [D]nombre de Je[G]sús  [C] [D]
 /coro/
+/verse/
 [Bm] Él es [C]digno [D] de ala[Em]banzas
 [C] De ado[G]rarle para [D]siempre
 [Bm] De acla[C]marle [D] en todo [Em]tiempo
 [C] Exal[D]tado sea [G]Dios  [C] [D]
 /coro/
+/verse/
 [Bm] Pueblo esco[C]gido [D] por el Se[Em]ñor
 [C] Somos [G]todos de [D]Él
 [Bm] Un pueblo [C]real, [D] para ado[Em]rarle
