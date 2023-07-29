@@ -1,0 +1,40 @@
+title : Gloria Diego I
+key : F#m
+liturgy : Ordinario
+composer : Diego Rodríguez
+{song}
+/Coro/
+[F#m]Gloria a [E]Dios
+en el [G]cie - e - e - e - [D]lo - [A]o
+[Bm]Y en la Tierra [A]paz
+al hombre [G]que ama el Se[G^7]ñor
+/verse/
+[F#m]  Te ala[E]bamos, [G]y te bende[D]ci - [A]mos
+[Bm]  Te ado[A]ramos y te [G]damos gra - a - [G^7]cias
+[A]Por [Asus2]tu in - [Asus4]men - [A]sa
+[G]Gloria [G^7]  [G]  [G^7]
+[A]Se - [Asus2]ñor [Asus4]Dios Re[A]y
+Cele[G] - stia[G^7]l  [G]  [G^7]
+[F#m]Dio - os [E]Padre
+[G]Todopode[D]ro - [A]so
+[Bm]Señor Hijo [A]Único, [G]Jesucri - is[G^7]to
+[E]   Se[E7]ñor Dios Cordero de [G]Dios  [G^7]
+[E]  [E7]  Hijo del [G]Pa - dre  [G^7]
+/bridge/
+[Bm]  Tú que [A]quitas, el pe[G]cado, del [E]mundo
+[Bm]  Ten pie[A]da - ad, de no[E]sotros  [E7]
+[Bm]  Tú que [A]quitas, el pe[G]cado, del [E]mundo
+[Bm]  Atien[A]de - e, nuestras [E]súplicas  [E7]
+[Bm]  Tú que es[A]tás a, la de[G]recha, del [E]Padre
+Te pie[Bm]dad, ten pie[A]dad de no[E]sotros  [E7]
+De no[G]so - o - tros  [G^7]
+/coro/
+/verse/
+[F#m]  Porque [E]solo
+[G]Tú - u eres [D]San - [E]to
+[Bm]  Solo [A]Tú altísi[G]mo  [G^7]
+Jesu[E]cris - to
+[E7]Con el Espíritu [G]San - to  [G^7]
+En la [E]Glo - ria
+[E7]  De Dios Padre A[G]mén
+[G^7]  A[B]mén.

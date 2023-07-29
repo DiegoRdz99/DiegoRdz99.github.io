@@ -1,0 +1,24 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Gloria Diego I
+C:Diego Rodríguez
+M:6/8
+L:1/16
+Q:1/4=100
+K:Fm
+%
+"F#m"F6 A6 | "E"B8 B2c2 | "G"d3c3 B3A3 | "D"F6 "A"E6 |
+w: Glo-ria~a Dios en el cie-e-e-e-lo-o
+"Bm"D3E3 F3G3 | "A"B3A3 =G3F3 | "G"=G3A3 G3F3 | "GM7"D8 z4 |
+w: Y~en la Tie-rra paz al hom-bre que~a-ma el Se-ñor
