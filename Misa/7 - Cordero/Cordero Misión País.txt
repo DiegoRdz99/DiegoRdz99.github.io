@@ -1,0 +1,20 @@
+title : Cordero Misión País
+composer : Misión País
+key : D
+liturgy : Ordinario
+{song}
+/verse/
+[D]Co - o - or[A]dero de [Bm]Dios
+Tú que [Em]quitas el pe[G]cado del [A]mundo
+Ten pie[C]da - d, ten pie[A]da - d
+De no[Bm]nostros    [A]
+/verse/
+[D]Co - o - or[A]dero de [Bm]Dios
+Tú que [Em]quitas el pe[G]cado del [A]mundo
+Ten pie[C]da - d, ten pie[A]da - d
+De no[Bm]nostros    [A]
+/verse/
+[D]Co - o - or[A]dero de [Bm]Dios
+Tú que [Em]quitas el pe[G]cado del [A]mundo
+[C]   Danos la [A]paz
+[C]   [D]Danos la   [E]paz

@@ -1,0 +1,22 @@
+title : Santo Misión País
+key : A Dórico
+composer : Misión País
+liturgy : Ordinario
+{song}
+/intro/
+[Am]  [D]  [Am]  [D]
+/verse/
+[Am]Santo, santo, [D]santo es el Se[Am]ñor
+Dios del uni[D]verso llenos es[F]tán
+El cielo y la ti[G]erra de su Glo - o[F]ria
+Hosanna en el [G]cie - lo
+/verse/
+[Am]Santo, santo, [D]santo es el Se[Am]ñor
+Bendito el que [D]viene en nombre de [F]Dios
+Hosanna en el [G]cielo a a nuestro Salva[F]dor
+Hosanna en el [G]cie - lo
+/verse/
+[A]Santo, santo, [D]santo es el Se[A]ñor
+Dios del uni[D]verso llenos es[F]tán
+El cielo y la ti[G]erra de su Glo - o[F]ria
+Hosanna en el [G]cie - lo - [Asus4]o - [A]o
