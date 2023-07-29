@@ -1,0 +1,28 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Cordero Misión País
+C:Misión País
+M:6/8
+L:1/8
+Q:1/4=80
+K:E
+%
+    "E"EFG "B".BG3/2F/2 | "C#m"E3 z2 F/2G/2 | "F#m"FEF/2G/2 "A"FEG |
+w: Co-o-or-de-ro de Dios, Tú que qui-tas el pe-ca-do del
+    "B"FB,2 z AG | "D"F3 zAG | "B"F3 zED | "C#m"EC4 z | "C#m"z3 "A"z3 :|
+w: mun-do, ten pie-dad ten pie-dad de no-so-tros
+    "E"EFG "B".BG3/2F/2 | "C#m"E3 z2 F/2G/2 | "F#m"FEF/2G/2 "A"FEG |
+w: Co-o-or-de-ro de Dios, Tú que qui-tas el pe-ca-do del
+    "B"FB,2 z3 | "D"z3 AGE | "B"F6 | "D"z3 "E"AGE | "F#"F6 |]
+w: mun-do, da-nos la paz, da-nos la paz
