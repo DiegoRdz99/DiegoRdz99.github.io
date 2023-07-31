@@ -1,0 +1,19 @@
+title : Santo Mejía
+key : G
+liturgy : Ordinario
+{song}
+/verse/
+[G]Santo, [D_3]Santo, [G]Santo  [G_3]
+Es el Se[C]ñor Dios del [A_3]uni[D]ve - rso
+[G]Llenos es[D_3]tán el [G]Cielo  [G_3]
+Y la [C]tierra [D]de tu [G]Glo - ria
+/Coro/
+Ho - o[G]sa[G_7]nna, [G_6]
+[G_7]Ho - o[Am]sa[Am_m7]nna [Am_6]
+[Am]Ho - o[G]sa[G_3]nna [Am_m3]en [A_3]el [D]cie - lo
+[G_7]Ho - o[Am]sa[Am_m7]nna [Am_6]
+[Am]Ho - o[G]sa[G_3]nna [C]en [D]el [G]cie - lo
+/bridge/
+Ben[B7]dito el que [C^7]vie - ne
+En el [Am]no - mbre [Am_m3]del [A_3]Se[D]ño - or
+/coro/
