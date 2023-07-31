@@ -1,0 +1,36 @@
+title : Mi Morenita
+composer : Padre Pako Cantú
+key : Bm
+{song}
+/intro/
+[Bm]  [G]  [D]  [Asus2]
+[Bm]  [G]  [D]  [Asus2]
+/verse/
+[Bm]  Mi more[G]ni - ta pre[D]ciosa - [A]a
+[Bm]  Ángeles [G]guardan tu [D]trono ce[A]les - tial
+[Bm]  Nunca hubo [G]flor tan her[D]mosa - [A]a
+[Bm]  Entre la [G]tierra, el [D]cactos y el no[A]pal
+/intermedio/
+[Bm]    [G]    [D]    [Asus2]
+/verse/
+[Bm]Son las es[G]tre - llas tu [D]manto - [A]o
+[Bm]  El firma[G]mento se a[D]legra de ve [D]- erdad
+[Bm]  Tu piel mo[G]re - na, el en[D]canto - [A]o
+[Bm]  De los tam[G]bores, el [D]canto y el dan[A]zar
+/Coro/
+[G]A - [A]a - aa - [D]a - aaa[Bm]a
+[G]Ma - a - [A]dre, madre del [D]cie - [A]e - [Bm]e - lo
+[G]A - [A]a - aa - [D]a - aaa[Bm]a
+[G]Cui - i[A] da a tu [D]pue - [A]e - [Bm]e - blo
+[G]   Mi more[A]nita, [D]  oh [A]madre ben[Bm]dita
+[G]Gra - a - ci[A]as por tu a[Bm]mor
+/intermedio/
+[Bm]    [G]    [D]    [Asus2]
+/verse/
+[Bm]  Mi more[G]ni - ita pre[D]ciosa - [A]a
+[Bm]  Pueblo mes[G]tizo esgo[D]giste como a [A]- ltar
+[Bm]  Es este [G]pue - blo que [D]goza - [A]a
+[Bm]  El privi[G]legio de [D]tu ima - gen por[A]tar
+/coro/
+/outro/
+[Bm]    [G]    [D]    [Asus2]
