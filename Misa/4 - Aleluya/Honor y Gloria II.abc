@@ -1,0 +1,26 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Honor y Gloria II
+C:Jésed
+M:4/4
+L:1/8
+Q:1/4=80
+K:D
+%
+%
+    "D"zAAA F2D2 | "G"zBBB A2F2 | "Em"zGGG "G"F2D2 | "A"A4 zF E3/2D/2 | "D"D4 z4 |
+w: Ho-nor y glo-ria, ho-nor y glo-ria ho-nor y glo-ria~a Ti, Se-ñor Je-sús
+    "G"z8 | "D"z8 | "A"z4 "B7"z4 |
+    [K:E]"E"zBBB G2E2 | "A"zccc B2G2 | "F#m"zAAA "A"G2E2 | "B7"B4 zG F3/2E/2 | "E"E4 z4 |]
+w: Ho-nor y glo-ria, ho-nor y glo-ria ho-nor y glo-ria~a Ti, Se-ñor Je-sús

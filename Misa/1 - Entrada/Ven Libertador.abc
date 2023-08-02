@@ -1,0 +1,45 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Ven Libertador
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+%
+%
+    "C"zG GG/2A/2- | "F"AA GF/2G/2-|"C"GE3 | "Bb"z2 "F"z2 |
+w: 1.~Que nues-tras ma--nos fa-ti-ga--das
+w: 2.~Los o-jos de* los hom-bres cie--gos
+    "C"zG GG/2A/2- | "F"AA GF|"G"G4 | "G7"z4 |
+w: pron-to se~han de* for-ta-le-cer
+w: en-ton-ces se i-lu-mi-na-rán
+    "C"zG GG/2A/2- | "F"AA GF/2G/2- | "C"GE3 | "Bb"z2 "F"z2 |
+w: 1.~Que las ro-di--llas va-ci-lan--tes
+w: 2.~Y los o-í--dos de los so-or-dos
+    "C"zG GG/2A/2- | "F"AA GF | "G"G4 | "G7"z4 |
+w: se~a-fian-cen con* se-gu-ri-dad
+w: ya con sor-pre--sa se~a-bri-rán
+    "Am"zc cc/2B/2- | "Em"BG3 | "F"zA GF/2G/2- | "G"G2 "Em"z2 |
+w: 1.~Tú~has pro-me-ti--do un sal-va-dor_
+w: 2.~Los co-jos an--dan los cie-gos ven_
+    "Am"zc cc/2B/2- | "Em"BG2-G | "F"AG FD | "G"G4 | "G7"z4 |
+w: Tú~has a-nun-ci-a-do* la li-be-ra-ción
+w: los sor-dos o--yen el mun-do can-ta-rá
+    "C"C4 | "G"G4 | "Am"A2 A2 | "Em"G4 | "F"zA AA/2G/2- | "C"GE DC | "D"D2 D2 | "G"G4 |
+w: Ven, ven, ven Se-ñor ven que tu pue--blo cla-ma li-ber-tad
+    "C"C4 | "G"G4 | "Am"A2 A2 | "Em"G4 | "F"zA AA/2G/2- | "C"GE DC | "G"D2 D2 | "C"C4 |
+w: Ven, ven, ven Se-ñor ven que tu pue--blo cla-ma li-ber-tad
+    "Bb"z2 "F"z2 | "C"z4 | "Bb"z2 "F"z2 :|

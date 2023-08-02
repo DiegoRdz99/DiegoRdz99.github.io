@@ -1,0 +1,33 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Gloria a nuestro Dios
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+%
+    "D"FF FF | FF FA | G2 F2 | "F#m"A4 | A4 |
+w: Gloria a nues-tro Dios en lo~al-to de los cie-los
+    "D"FF FF | FF FA | "G"G2 "A"F2 | "D"D4 | D3 
+w: Y~en la tie-rra paz a los por Él a-ma-dos
+    A | "D"A2 zA | G2 F2 | "F#m"A4 | A2 zA | "D"A2 zB | "G"G2 F2 | "A"E3-E | E4 |
+w: 1.~Se-ñor te a-la-ba-mos, Se-ñor te ben-de-ci-*mos
+w: 2.~Tú e-res el Cor-de-ro que qui-tas el pe-ca-*do
+w: 3.~Tú so-lo e-res San-to, Tú so-lo el Al-tí-si-mo
+    "D"F2-F F | F2 ED | "F#m"A3 B | A4 | "G"BA GF | "A"E2 A2 | "D"D4 | D4 :|
+w: 1.~To-*dos te a-do-ra-a-mos, gra-cias por tu~in-men-sa Glo-ria
+w: 2.~Ten* pie-dad de no-so-o-tros y~es-cu-cha nues-tra~o-ra-ción_
+w: 3.~Con el Es-pí-ri-tu Sa-an-to en la Glo-ria de Dios Pa-dre

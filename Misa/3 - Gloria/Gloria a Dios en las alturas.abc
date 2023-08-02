@@ -1,0 +1,34 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Gloria a Dios en las alturas
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=120
+K:D
+%
+    "D"A2 F E | "Bm"D2 (3DEF | "F#m"A B/2A2-A/2-|A2 z F | "G"G3 z | "A"A2 GA | "D"F2 F2 |
+w: Glo-ria a Dios en las al-tu-u-ras__ y paz, paz en la tie-rra
+    "Bm"z2 z E3/4F/4 | "G"G G3/4F/4 E3/4D/4 C3/4E/4 | "D"D3 z |
+w: a los hom-bres de bue-na vo-lun-tad
+    |1,2"G"z DDE | "D"F2F2 | "G"z DDE | "D"F2F2 | "Bm"zFFG | "F#m"AB/2A2 z/2 | "G"z D3/4D/4 DE | "A"A2 A2 | "A7"z4 :|
+w: 1.~Te a-la-ba-mos, te ben-de-ci-mos, te a-do-ra-a-mos te glo-ri-fi-ca-mos
+w: 2.~Glo-ria al Pa-dre, Dios cre-a-do-or, Glo-ria~al Es-pí-ri-tu San-ti-fi-ca-do-or
+    |3"G"z D3/4D/4 DE | "D"F2F2 | "G"z D3/4D/4DE | "D"F2F2 | "Bm"zF3/4F/4 FG | "F#m"AB/2A2 z/2 | "G"z2 DE | "A"A2 A2 | "A7"z4 ||
+w: So-lo Tú~e-res San-to, so-lo Tú Se-ño-or, so-lo Tú Al-tí-si-mo Je-su-cris-to
+    "D"A2 F E| "Bm"D2 (3DEF | "F#m"A B/2A2-A/2-|A2 z F | "G"G3 z | "A"A2 GA | "D"F2 F2 |
+w: Glo-ria a Dios en las al-tu-u-ras__ y paz, paz en la tie-rra
+    "Bm"z2 z E3/4F/4 | "G"G G3/4F/4 E3/4D/4 C3/4E/4 | "D"D3 z |
+w: a los hom-bres de bue-na vo-lun-tad

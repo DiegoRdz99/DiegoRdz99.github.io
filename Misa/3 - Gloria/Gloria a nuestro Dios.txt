@@ -1,0 +1,27 @@
+title : Gloria a nuestro Dios
+liturgy : Ordinario
+key : D
+{song}
+/Coro/
+[D]Gloria a nuestro Dios
+en lo alto de los [F#m]cie - los
+[D]Y en la tierra paz
+a los por [G]Él [A]a - [D]ma - dos
+/verse/
+Se[D]ñor te ala[F#m]ba - mos
+Se[D]ñor te ben-de-[A]ci - mos
+[D]To - dos te ado[F#m]ra - mos
+[G]Gracias por tu in[A]mensa [D]Glo - ria
+/coro/
+/verse/
+Tú [D]e-res el Cor[F#m]de - ro
+Que [D]qui - tas [G]el pe[A]ca - do
+[D]Ten piedad de no[F#m]so - tros
+[G]Y escucha nues[A]tra ora[D]ción
+/coro/
+/verse/
+Tú [D]so - lo eres [F#m]Sa - nto
+Tú [D]so - lo [G]el Al[A]tí - simo
+[D]Con el Espíritu [F#m]Sa - nto
+[G]En la Gloria [A]de Dios [D]Pa - dre
+/coro/

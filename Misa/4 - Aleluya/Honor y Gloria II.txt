@@ -7,7 +7,7 @@ liturgy : Cuaresma
 [A]  [Asus4]  [A]
 /verse/
 [D]  Honor y Gloria, [G]  Honor y Gloria
-[Em]  Honor y [G]Gloia a [A]ti, Señor Je[D]sús
+[Em]  Honor y [G]Gloria a [A]ti, Señor Je[D]sús
 /intermedio/
 [G]  [D]  [A]  [B7]
 [E]  Honor y Gloria, [A]  Honor y Gloria

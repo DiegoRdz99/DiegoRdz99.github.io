@@ -1,0 +1,35 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Fue Levantado
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=100
+K:F
+%
+%
+    [V:1]z.A .A.A | "Dm7"D2 z2 | z.A .A.A | D2 z2 | z2 AB |
+w: Re-su-ci-tó re-su-ci-tó y los
+    [V:2]z4 | z.A .A.A | D2 z2 | z.A .A.A | D2 z2 |
+w: Re-su-ci-tó re-su-ci-tó
+    "F"cc2c | cc2c | "C"c2 BA | Gz GA | "Gm"BB2B | B2 AG |
+w: cie-los se lle-nan de go-o-o-zo 1.~a la muer-te ven-ció vi-da
+w: **********2.~a la dies-tra del Pa-dre sen-
+    "Dm"AA2A | AE FG | "A7"A4-| A4 | z4 :| z4
+w: nue-va nos dió, ¡A-le-lu-ya!_
+w: ta-do es-tá, ¡A-le-lu-ya!_
+    |: "Gm".B3/2.B3/2A | G2 "<("">)"G2 | "Dm".A3/2.A3/2G | .F2 F2 | "Bb"F2 F2 | G3/2F3/2G | "A7"A4-| A4 | :| z2 A2 | =B2 ^c2 | "Dm"d4 |]
+w: 1.~Re-su-ci-tó,* con gran po-der can-te-mos: ¡A-le-lu-ya!_ ¡A-le-lu-ya!
+w: 2.~Fue le-van-ta-do con gran po-der can-te-mos: ¡A-le-lu-ya!

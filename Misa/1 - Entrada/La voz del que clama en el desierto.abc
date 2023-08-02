@@ -1,0 +1,49 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:La voz que clama en el desierto
+C:Jésed
+S:
+M:6/8
+L:1/16
+Q:1/4=80
+K:G
+%
+    D | "G"G8-G2 AB | "C"c8 zBAG | "G"G12 | D6 z6 |
+w: La voz_ del que cla-ma~en el de-sier-to
+    "C"z6 c2c2c2 | "Am"c8 B2c2 | "D"A12 |
+w: ¡A-brid ca-mi-no~al Se-ñor!
+    "D7"z8 z3 D | "G"G8-G2 AB | "C"c8 zBAG | "G"G12 | D6 z6 |
+w: La voz_ del que cla-ma~en el de-sier-to
+    "C"z6 c2c2c2 | "Am"c8 B2c2 | "D"A12 |
+w: ¡Sus sen-das en-de-re-zad!
+    z6 A2B2c2 | "Bm"d6 "Em"G4 zG | "C"B2A2G2 .A2B2c2 |
+w: Y to-do va-lle se le-van-ta-rá to-do
+    "Bm"d6 "Em"G4 zG | "C"B2A2G2 .A2B2c2 | "Bm"d8 B2 d2 | "Em"A2 G6 B2c2 | 
+w: mon-te se a-lla-na-rá y~el te-rre-no~es-ca-bro-zo se ha-
+    "Bm"d8 B2 d2 | "Em"A2 G6 A2B2 | "C"c4 c2 "Bm7"B4 B2 | [M:4/4][L:1/8]"Am7"A4 z2 Bc | "D"B2 A2 z2 GF | [Q:1/4=120]"G"G4 z4 | "G"z4 "C"z2 "D"z2 | "G"z4 "C"z2 "D"z2 
+w: rá tie-rra pla-na y la sal-va-ción de Dios a los hom-bres lle-ga-rá
+    |:[M:4/4][L:1/16][Q:1/4=120]"G"GG2G2GG2 G4 D2 G2 | "C"c6 B2 "D"A6 G2 |
+w: So-mos par-te del pue-blo que bus-ca al Se-
+    "G"GG2G2GG2 G4 D2 G2 & G8 z8 | "C"c6 B2 "D"A6 G2 |
+w: ñor***********
+w: So-mos par-te del pue-blo que bus-ca al Se-
+    "G"GG2GG2G2 G4 D2 G2 | "C"c6 B2 "Am"A6 G2 | [L:1/8]"D"A4 A3/2B3/2c |
+w: Lis-tos a pre-pa-rar el ca-mi-no del Se-ñor con ar-ma-
+w: ñor**************
+    "Bm"d4 "Em"G4 |"C"B3/2A3/2G .A2 Bc | "Bm"d4 "Em"G4 | "C"B3/2A3/2G .A2 Bc |
+w: du-ra pa-ra lu-char y la~es-pa-da pa-ra~a-ta-car con la
+    "Bm"d3d B2 d2 | "Em"(AG3) z2 Bc | "Bm"d3d B2 d2 | "Em"(AG3) z2 AB |
+w: fuer-za del Se-ño-or, ven-ce-re-mos con ho-no-or y la
+    "C"c3 c "Bm7"B3 B | "Am7"A4 z2 Bc | "D"B2 A2 z2 GF | "G"G4 z4 | "C"z4 "D"z4 :|
+w: sal-va-ción de Dios a los hom-bres lle-ga-rá

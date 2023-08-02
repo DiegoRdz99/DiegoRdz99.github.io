@@ -1,0 +1,65 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:La aventura de la fe
+C:Pbro. Gerardo Javier Flores Cárdenas
+S:
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+%
+    "D"z2A,A,A,2A,A,-|"A"A,2 A,2 E C2 D-| "Bm"D z DDD2D2 | "Bm/A"D2D2 EF2 G-|
+w: Cuan-do crees que to--do se per-dió* cuan-do pien-sas que ya~os-cu-re-ció
+    "G"G2 z4 GG | "D"FE3D2FE-| "A"E4 z4 | "G"z4 "A"z4 |
+w: * y que~el dí-a ter-mi-nó_
+    "D"z2A,A,A,2A,A,-|"A"A,2 A, E2 C2 D-| "Bm"D z z4 DD | "Bm/A"D2D2 EF2 G-|
+w: Cuan-do~el mun-do no* pro-yec-ta~a-mor_ y to-do~a-tu~al-re-de-dor
+    "G"G2 z4 GG | "D"FE2D3FE-| "A"E4 z4 | z2 D2D2 CD-|"Bm"D2B,2B,2A,B,-|
+w: * te so-fo-ca~el co-ra-zón_ es el mo-men--to de bus-car
+    "BmM7/A#"B,2 z4 zD | "Bm7/A"D2B,2B,2A,B,-|"Bm6/G#"B,2 B,2 DE2E-|"G"E8 |
+w: * la paz en la~an-sie-dad_ y co-men-zar_
+    z4 C2D2 | "A"E2E2EF2E-|E8 | [M:2/4]z4 | "A"A,4 | "Asus4/B"D4 | "A/C#"E4 |
+w: la~a-ven-tu-ra de la fe_ por-que la 
+    [M:4/4]"D"F2-F2 F2FG-|"D/C#"G2F2E2DF-|"Bm"F4 zFFF | "Bm/A"G2F2E2D2 |  
+w: fe es a-rro-jar--se~en al-ta-mar_ y na-ve-gar sin des-can-
+    "G"D2C2D2C2 | "D"D4 z2 C2 | "Em"D4C4 | "G"D4 "A"E4 |
+w: sar has-ta~al-can-zar lo que de-sea-mos
+    "D"z2 F2 F2FG-|"D/C#"G2F2E2DF-|"Bm"F4 zFFF | "Bm/A"G2F2E2DD-|  
+w: Es a-fron-tar* lo qu ven-drá_ en me-dio de la tem-pes-tad
+    "G"D2C2D2CD- | "D"D2 z CD E3 | "A"E4 z4 | "F#7"z4 D2 C2 |
+w: * sin es pe-rar_ se-gu-ri-dad es lu-
+    "Bm"D4 z CDE | "G"G2GF3DE-|"A"E8 |"D"D4 z4 |
+w: char con-tra lo~in-cier-to del fu-tu-u-ro
+    "D"z2A,A,A,2A,A,-|"A"A, A,2 E2 C2 D-| "Bm"D z z4 DD | "Bm/A"D2D E2F2 G-|
+w: Y cuan-do lle-gues* a com-pren-der_ que no to-do se per-dió
+    "G"G2 z4 GG | "D"F2ED3FE-| "A"E4 z4 | "G"z4 "A"z4 |
+w: * y que~hay mu-cho por ha-cer
+    "D"z2A,A,A,2A,A,-|"A"A,2 A, E2 C2 D-| "Bm"D2 z2 zDDD | "Bm/A"D2D E2F2 G-|
+w: es en-ton-ces que_ po-drás lan-zar_ u-na mi-ra-da~y ob-ser-var
+    "G"G2 z4 GG | "D"F2ED2F3| "A"E8 | z4 D2 C2|"Bm"D2B,B,3A,B,-|
+w: * lo que has de con-quis-tar con el co-ra-zón al-za-
+    "BmM7/A#"B, B,2 z z2 DD | "Bm7/A"D2B,B,3A,B,-|"Bm6/G#"B,2 B,2 DE2E-|"G"E8 |
+w: * do y~el es-pí-ri-tu~e-le-va--do~y co-men-zar_
+    z4 C2D2 | "A"E2E2EF2E-|E8 |: [M:2/4]z4 | "A"A,4 | "Asus4/B"D4 | "A/C#"E4 |
+w: la~a-ven-tu-ra de la fe_ por-que la 
+    [M:4/4]"D"F2-F2 F2FG-|"D/C#"G2F2E2DF-|"Bm"F4 zFFF | "Bm/A"G2F2E2D2 |  
+w: fe es a-rro-jar--se~en al-ta-mar_ y na-ve-gar sin des-can-
+    "G"D2C2D2C2 | "D"D4 z2 C2 | "Em"D4C4 | "G"D4 "A"E4 |
+w: sar has-ta~al-can-zar lo que de-sea-mos
+    "D"z2 F2 F2FG-|"D/C#"G2F2E2DF-|"Bm"F4 zFFF | "Bm/A"G2F2E2DD-|  
+w: Es a-fron-tar* lo qu ven-drá_ en me-dio de la tem-pes-tad
+    "G"D2C2D2CD- | "D"D2 z CD E3 | "A"E4 z4 | "F#7"z4 D2 C2 |
+w: * sin es pe-rar_ se-gu-ri-dad es lu-
+    "Bm"D4 z CDE | "G"G2GF3DE-|"A"E8 |"D"D4 z4 :|
+w: char con-tra lo~in-cier-to del fu-tu-u-ro
