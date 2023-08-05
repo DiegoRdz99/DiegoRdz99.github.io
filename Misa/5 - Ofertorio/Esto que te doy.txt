@@ -3,23 +3,23 @@ key : D
 liturgy : Ordinario
 {song}
 /verse/
-[D] Esto que te [F#m]soy
+[D] Esto que te [F#m]doy
 Es [G]vino y pan Se[A]ñor
-[G] Esto que te [D]oy es mi tra[A]bajo
+[G] Esto que te [D]doy es mi tra[A]bajo  [A] [Ab]
 [G] Es mi cora[A]zón, mi alma
 [F#m] Es mi cuerpo y [Bm]mi razón
 [G]El esfuerzo, [A] de mi cami[D]nar
 /verse/
 [D] Esto que te [F#m]doy
 Mi [G]vida es Se[A]ñor
-[G] Es mi am[D]or, también es m[A]i dolor
+[G] Es mi am[D]or, también es m[A]i dolor  [A] [Ab]
 [G] Es la ilu[A]sión, mis sueños
 [F#m] Es mi gozo y m[Bm]i llorar
 [G] Es mi canto [A]  y mi ora[D]ción
 /Coro/
 [D]Toma mi [F#m]vida
 [G] Ponla en tu [A]corazón
-[D]Dame tu [F#m]mano, [G]  y llévam[A]e
+[D]Dame tu [F#m]mano, [G]  y llévam[A]e  [A] [Ab]
 [G] Cambia mi [A]pan en tu carne
 [F#m] Y mi vino [Bm]en tu sangre
 Y a [G]mí Señor, [A]  renuéva[D]me  [D7]

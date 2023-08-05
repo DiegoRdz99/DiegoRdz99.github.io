@@ -17,12 +17,21 @@ M:6/8
 L:1/8
 Q:1/4=80
 K:G
+%%score (2 1)
 %
 %
-V:1
-    zDA | "G"G3 zDA & [I:voicecolor #3377ff]zDAG3 | "Em"G3 zEF & zDA G3 | "C"G2G2 GB | "D"A3!fine!  :|
+    [V:2] x3 | [I:voicecolor #3377ff]zDAG3 | zDA G3 | x6 | x3 :| x3 |
+w: Oh Se-ñor ten pie-dad
+    [V:1]zDA | "G"G3 zDA | "Em"G3 zEF | "C"G2G2 GB | "D"A3  :| z3 |
 w: Oh Se-ñor ten pie-dad, de no-so-tros ten pie-dad
-    z3 | "G"D4 B,D | "Em"E4 zE | "C"E4 CE | "D"D3 |
+    [V:1] "G"D4 B,D | "Em"E4 zE | "C"E4 CE | "D"D4 z2 |
 w: Cris-to Je-sús, pie-dad, ten pie-dad
-    z3 | "G"D4 EF | "Em"G4 zG | "C"G4 GB | "D"A3!D.C.alfine!|]
+    [V:2] x6        |  x6       | x6       | x6       |
+%
+    [V:1] "G"D4 EF | "Em"G4 zG | "C"G4 GB | "D"A3  |:
 w: Cris-to Je-sús, pie-dad, ten pie-dad
+    [V:2] x6       |  x6       | x6       | x3     |:
+    [V:1]zDA | "G"G3 zDA | "Em"G3 zEF | "C"G2G2 GB | "D"A3-  :| A3 | "G"G6 |]
+w: Oh Se-ñor ten pie-dad, de no-so-tros ten pie-dad \-~a-ad
+    [V:2] x3 | zDAG3     | zDA G3     | x6         | x3      :| x3 | x6    |]
+w: Oh Se-ñor ten pie-dad

@@ -1,0 +1,65 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Hasta la cruz
+C:Santiago Cárdenas Murillo
+S:
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+%
+    DE | "D"F2F2F2FG- | "G"G2F2E2DE- | "A"E4 z4 |
+w: 1.~Me lla-más-te a se-guir--te~has-ta la cruz_
+w: 2.~Con-fun-di-do, so-lo~y lle--no de te-mor_
+    z4 z2 EF | "Em"G2G2G2GA- | "G"A2G2F2EE-| "A"E4 z4 |
+w: 1.~yo se-guí de-jan-do to--do por tu~a-mor_
+w: 2.~co-men-zó lo que me cau--sa-ría do-lor_
+    z4 z2 DE |"Bm"F2F2F2FF- | F2F2B2cA- | "F#m"A4 z4 |1
+w: 1.~pe-ro tú Se-ñor te-ní--as pa-ra mi
+w: 2.~co-mo pue-do yo que-jar--me~oh mi Je-sus_
+    z4 z2 FA | "G"G2F2 "D/F#"D2B,G- | "Em"G2F2 z2 DB, | "G"G2F2 "D/F#"D2B,G- | "Em"G2F2D2E2 | "A"E4 z4 :|2
+w: u-na prue-ba muy di-fí--cil que me lle-va~y guí-a so--lo ha-cia Ti
+    "F#m"z2 zC F2AG-| "G"G2F2 "D/F#"D2B,G- | "Em"G2F2 z2 DB, | "G"G2F2G2B2 | "A"c4z4 | z8 ||:
+w: si~al en-tre-gar--me li-bre-men--te de-ci-dí car-gar mi cruz
+    "Bm"cdd6 | "A"c6B2- | "G"B8 | "G"z4 "D/F#"z4 | "Em"Bd e6 | "Bm"d6 c2- | "A"(cB A6) | z8 :| "D"z6 "G"z2 | z8 | "D"z6 "G"z2 |
+w: 1.~Tó-ma-me Se-ñor_ da-me más va-lo--o-or
+w: 2.~Yo me~o-frez-co~a Ti_ víc-ti-ma de~a-mo--o-or
+    z4 zADE | "D"F2F2F2FG- | "G"G2F2E2DE- | "A"E4 z4 |
+w: Si-go lu-chan-do~en con-tra-de* la~ad-ver-si-dad_
+    z4 z2EF | "Em"G2G2G2GA- | "G"A2G2F2EE-| "A"E4 z4 |
+w: ya mis fuer-zas se co-mien--zan a~a-go-tar_
+    z4 z2 DE |"Bm"F2F2F2F2 | F2F2B2A2- | "F#m"A2 F6 |
+w: so-lo~en Ti Se-ñor des-can-sa mi al--ma
+    z4 z2 FA | "G"G2F2 "D/F#"D2B,G- | "Em"G2F2 z2 DB, | "G"G2F2D2F2 | "A"E4 z4 |
+w: y si vi-vo por ti vi--vo por-que cre-o so-lo~en Ti
+    z4 z2DE | "D"F2F4FG- | "G"G2F2E2DE- | "A"E4 z4 |
+w: Ya com-pren-do Se-ñor* tu vo-lun-tad_
+    z4 zDEF | "Em"G2G4GA- | "G"A2G2F2EE-| "A"E4 z4 |
+w: al no~o-fre-cer más tu cuer--po~en o-bla-ción_
+    z4 z2 DE |"Bm"F2F2F2FF- | F2F2B2cA- | "F#m"A4 z4 |
+w: me a-bra-zo yo con fuer--za a tu cruz_
+    "F#m"z4 z2FA| "G"G2F2 "D/F#"D2B,G- | "Em"G2F2 z2 DB, | "G"G2F2G2B2 | "A"c4z4 | z8 |:
+w: Y me~o-fre-zco~en cuer-po vi--vo co-mo lo hi-cis-te tú
+    "Bm"cdd6 | "A"c6B2- | "G"B8 | "G"z4 "D/F#"z4 | "Em"Bd e6 | "Bm"d6 c2- | "A"(cB A6) | z8 :||:
+w: 1.~Tó-ma-me Se-ñor_ da-me más va-lo--o-or
+w: 2.~Yo me~o-frez-co~a Ti_ víc-ti-ma de~a-mo--o-or
+    "Bm"cdd6 | "A"c6B2- | "G"B8 | "G"z4 "D/F#"z4 | "Em"Bd e6 | "Bm"d6 c2- | "A"(cB A6) | z8 :|]
+w: 1.~Tó-ma-me Se-ñor_ da-me más va-lo--o-or
+w: 2.~Yo me~o-frez-co~a Ti_ víc-ti-ma de~a-mo--o-or
+    "G"G2F2G2F2 | G2F2G2A2 | "A"A4 z4 | 
+w: Se-da blan-ca~en-tre tus de-dos soy
+    z4 E2 FG- | "Em"G4 zGGG | "A7"G2F2D2E2- | "D"E2D6 |  
+w: ven Je-sús_ haz lo que quie-ras con-mi--go
+    z4 E2 FG- | "Em"G4 zGGG | "G"G2F2"A"D2E2- | "G"E2D6-| D8- | "Gm"D8- | D4 G4 | "D"F8 |]
+w: ven Je-sús_ haz lo que quie-ras con-mi--go

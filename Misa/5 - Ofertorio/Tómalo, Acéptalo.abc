@@ -1,0 +1,41 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Tómalo, Acéptalo
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=90
+K:D
+%
+%
+    "D"A3F/2A/2-| "A"A4 | "G"zG AB/2A/2- | "A"AG FE |
+w: 1.~Hoy Se-ñor_ ve-ni-mos a o-fre-cer-te
+w: 2.~Hoy Se-ñor_ ve-ni-mos a o-fre-cer-te~el
+    "D"AA AB/2A/2-| "A"A4 | "G"zG AB/2A/2- | "A"AG FE |
+w: es-te~hu-mil-de pan_ que~es fru-to del* tra-ba-jo
+w: vi-no que nos das_ pa-ra que sea* lle-va-do
+    "D"AA AB/2A/2-| "A"A4 | "G"zG GG/2F/2- | "A"FE DE |
+w: de la~hu-ma-ni-dad_ y~es sig-no de fra-ter-ni-da-
+w: a tu san-to~al-tar_ y~es sig-no de fra-ter-ni-da-
+    "D"F4 | "A"E4 | "G"Dz GG/2F/2-| "A"FE DC/2D/2- | "D"D4 |1 "A7"z4 |2 "D7"z4 :|
+w: a-a-ad fe~es-pe-ra-an-za~y ca-ri-dad_
+w: a-a-ad fe~es-pe-ra-an-za~y ca-ri-dad_
+    "G"z2Bd/2c/2-|"A"c4 | "F#m"zc cc/2d/2-|"Bm"d4 |
+w: Tó-ma-lo,_ a-cép-ta-lo_
+    "G"z2 GB/2A/2-| "A"AG FG|"D"A4 | "Am"z2 "D7"z2 |
+w: Por a-mor_ trans-fór-ma-lo
+    "G"z2Bd|"A"c3A | "F#m"c2c2|"Bm"d4 |
+w: En el cuer-po de Je-sús
+    "G"zG GG/2F/2-| "A"FE2D/2D/2-|"D"D4 | "A7"z4 :|
+w: Ben-di-to se--as Se-ñor_

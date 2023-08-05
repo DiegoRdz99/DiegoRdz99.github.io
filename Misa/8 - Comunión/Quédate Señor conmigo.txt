@@ -1,0 +1,40 @@
+title : Quédate, Señor, conmigo
+composer : Jésed
+key : G
+liturgy : Ordinario
+{song}
+/verse/
+[G]  Has venido a visit [D]- arme
+[Am]  Como padre y como am [Em]- igo
+[C]  Jesús no me dejes [G]solo
+[Am]  !Quédate,[C] Señor, con[D]migo!
+[G]  Por el mundo vuelto en [D]sombras
+Voy e - [Am]rrante peregr [Em]- ino
+[C]  Dame de tu luz y gr[G]acia
+[Am]  Quédate[C] Señor con[D]mi - go
+/Coro/
+[G]  En este precioso ins[Bm]tante
+Abra[C]zado estoy conti [Em]- go
+Que esta u[A]nión nunca me fa [C]- lte
+!Quédate, [Am]  Señor con[D]mi - go!
+/verse/
+[G]  Acompáñame en la v [D]- ida
+[Am]  Tu presencia neces [Em]- ito
+[C]  Sin ti desfallezco y [G]caigo
+[Am]  !Quédate,[C] Señor, con[D]migo!
+[G]  Declinando está la [D]tarde
+Voy co - [Am]rriendo como un rí [Em]- o
+[C]  Al hondo mar de la mue[G]rte
+[Am]  !Quédate,[C] Señor, con[D]migo!
+/Coro/
+[G]  En la pena y en el [Bm]go - zo
+Sé mi a - [C]liento mientras vivo[Em] - o
+Hasta [A]que muerta en tus bra [C]- zos
+!Quédate, [Am]  Señor con[D]mi - go!
+[G]  En este precioso ins[Bm]tante
+Abra[C]zado estoy conti [Em]- go
+Que esta u[A]nión nunca me fa [C]- lte
+!Quédate!, [Am]  ¡Quédate, [D]
+Señor con[Em]mi - go
+/outro/
+[A]  [C]  [D7]  [G]

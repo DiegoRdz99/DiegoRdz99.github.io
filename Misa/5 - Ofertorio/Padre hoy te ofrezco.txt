@@ -1,4 +1,4 @@
-title : Padre Hoy te Ofrezco}
+title : Padre Hoy te Ofrezco
 key : C
 liturgy : Ordinario
 {song}

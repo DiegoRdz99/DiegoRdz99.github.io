@@ -1,0 +1,43 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Quédate, Señor, conmigo
+C:Jésed
+S:
+M:4/4
+L:1/8
+Q:1/4=92
+K:G
+%
+    "G"z2GG/2G/2- GABG/2F/2-| "D"F F3 z4 | "Am"z2EE/2E/2- EFGE/2G/2-| "Em"G G3 z4 |
+w: 1.~Has ve-ni--do~a vi-si-ta-r-me co-mo pa--dre~y co-mo~a-mi--go
+w: 2.~A-com-pa--ña-me~en la vi--da tu pre-sen--cia ne-ce-si--to
+    "C"z2EE EF/2G3/2E | "G"DD3 z4 | "Am"z2EE/2E/2- "C"EF/2G3/2E | "D"DD3 z4 |
+w: 1.~Je-sus no me de-jes so-lo, ¡Qué-da-te,* Se-ñor, con-mi-go!
+w: 2.~Sin ti des-fa-llez-co~y cai-go ¡Qué-da-te,* Se-ñor, con-mi-go!
+    "G"z2GG GABG | "D"F F3 G2 F2 | "Am"E3F GE2G- | "Em"G G3 z4 |
+w: 1.~Por el mun-do~en-vuel-to~en som-bras voy e-rran-te pe-re-gri--no
+w: 2.~De-cli-nan-do~es-tá la tar-de voy co-rrien-do co-mo~un rí--o
+    "C"z2EE EFGE/2D/2- | "G"DD3 z4 | "Am"z2EE/2E/2- "C"EF/2G3/2B | "D"(BA)A4 z2 |
+w: 1.~Da-me tu luz y tu gra--cia, ¡Qué-da-te* Se-ñor con-mi-i-go!
+w: 2.~Al hon-do mar de la muer--te, ¡Qué-da-te* Se-ñor con-mi-i-go!
+    "G"z2BB BcdB | "Bm"d3d d2d2 | "C"G3F G2 AB- |"Em"B B4 z AB |
+w: 1.~En es-te pre-cio-so~ins-tan-te a-bra-za-do~es-toy con-ti--go que~es-ta~u-
+w: 2.~En la pe-na y~en el go-zo sé mi~a-lien-to mien-tras vi--vo has-ta
+    "A"^c3c BA2=c-|"C"c3c B A2 G-| "Am"G3E G2B2 | "D"(BAA4)z2 | "D7"z8 :|
+w: nión nun-ca me fa-al-te, ¡Qué-da-te* Se-ñor con-mi-i-go!
+w: que mue-ra~en tus bra--zos, ¡Qué-da-te* Se-ñor con-mi-i-go!
+    "G"z2BB BcdB | "Bm"d3d d2d2 | "C"G3F G2 AB- |"Em"B B4 z AB |
+w: En es-te pre-cio-so~ins-tan-te a-bra-za-do~es-toy con-ti--go que~es-ta~u-
+    "A"^c3c BA2=c-|"C"c3c B A2 G-| "Am"G4 B2GA- | "D"A4 z4 | z3DB2B2|"Em"A2G4 z2 | "A"z8 | "C"z8 | "D7"z8 | "G"z8|]
+w: nión nun-ca me fa-al-te, ¡Qué-da-te!* ¡Qué-da-te!* Se-ñor con-mi-go!
