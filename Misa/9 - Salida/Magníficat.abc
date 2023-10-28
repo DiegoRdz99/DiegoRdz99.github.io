@@ -1,0 +1,50 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Magníficat
+T:Misa - Salida
+T:Ordinario
+C:
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+%
+    "D"F3/2E/2 D3/2E/2 F3/2E/2 D3/2E/2 | F2A2 "A7"A4 |
+w: Mi~al-ma glo-ri-fi-ca al Se-ñor, mi Dios.
+    "Bm"D3/2C/2 B,3/2C/2 D3/2C/2 B,3/2C/2 | D2F2 "F#m"F4 | [M:2/4]
+w: Gó-za-se mi~es-pí-ri-tu~en mi Sal-va-dor
+    "G"B,3/2C/2 D3/2E/2 | "A7"F2E2 | "D"D3/2E/2 F3/2G/2 | "F#m"A4 | [M:4/4]
+w: Él es mi~a-le-grí-a, Él mi ple-ni-tud,
+    "G"F3/2E/2 D3/2B,/2 "A7"D2E2 |[M:2/4] "D"D4 |:
+w: Él es to-do pa-ra mí.
+    "F#7"z2 F>^E | "Bm"F>B, C>D | "F#7"A>G F>G | "Bm"C2 B,2 |
+w: 1.~Ha mi-ra-do la ba-je-za de su sier-va,
+w: 2.~Su cle-men-cia se de-rra-ma por los si-glos
+w: 3.~De-rri-bó~a los po-ten-ta-dos de sus tro-nos
+w: 4.~A-co-gió a Is-ra-el su~hu-mil-de sier-vo
+    z2 B,>B, | "A"C>C C>D | E>E E>F | "D"G2 F2 |
+w: muy di-cho-sa me di-rán to-dos los pue-blos
+w: so-bre~a-que-llos que le te-men y le a-man
+w: y~en-sal-zó a los hu-mil-des y~a los po-bres
+w: a-cor-dán-do-se de su mi-se-ri-cor-dia
+    z2 ^DE | "B7"F>F F>G | A>A G>F | "Em"F2 G2 | 
+w: por-que~en mí ha he-cho gran-des ma-ra-vi-llas
+w: des-ple-gó el gran-po-der de su de-re-cha
+w: los ham-brien-tos se sa-cia-ron de sus bie-nes
+w: co-mo~ha-bí-a pro-me-ti-do~a nues-tros pa-dres
+    z2 F>E | "Bm"F>B, C>D | "F#7"A>G F>G | "Bm"C2 B,2 | "A7"z4 :|
+w: el que to-do pue-de~y cu-yo nom-bre~es san-to
+w: dis-per-só a los que pien-san que son al-go
+w: y~a-le-jó de sí va-cí-os a los ri-cos
+w: a~A-bra-ham y de-scen-den-cia pa-ra siem-pre

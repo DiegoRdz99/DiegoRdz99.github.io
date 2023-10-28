@@ -1,0 +1,24 @@
+title : Recibe, Oh Señor
+key : G
+liturgy : Ordinario
+{song}
+/verse/
+[G]Re - cibe, [D]oh Señor,
+[Em]  las ofrendas que hoy po[Bm]nemos
+ante [C]Ti, gran [D]Dios.
+[G]Re - cibe, [D]oh Señor,
+[C]  toda [Am]nuestra ora[D]ción.
+/Coro/
+[G]  Toma nuestros [D]co - razo - ones
+[Em]  que ofrecemos a [Bm]Ti.
+[C]  Transforma [D]nuestra ofrenda
+en el [C]cuer - po y [D]san - gre de Je[G]sús.
+[G]  Toma nuestros [D]co - razo - ones
+[Em]  que ofrecemos a [Bm]Ti.
+[C]  Transforma [D]nuestra ofrenda
+en el [C]cuer - po y [D]san - gre de Je[G]sús.
+/verse/
+[G]Dio - s Padre [D]cre - ador,
+[Em]  te doy gracias por la [Bm]vida
+que nos [C]das en [D]Cristo salva[Em]dor, y [D]Rey
+/coro/

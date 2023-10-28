@@ -1,0 +1,35 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:El Santuario de Dios
+T:Misa - Entrada
+T:Ordinario
+C:
+S:
+M:2/4
+L:1/16
+Q:1/4=72
+K:G
+%
+    BA | "C"G2G2 E2GA- | "D"A2A2 z2 GA | "G"B3c "D/F#"B3A | "Em"G4 z2GG |
+w: Vi-ve Él en su san-tua--rio, es la ca-sa del Se-ñor, y~Él es
+    "C"G2GG F2GA- | "D"A4 z2 zA | "G"B3c "D/F#"B3A | "Em"G4 z2GG |
+w: dig-no de re-ci-bir_ la glo-ria y~el ho-nor la~a-la-
+    "C"G2G2 F2GA- | "D"A4 z2 AA | "C"A4 G4 | z4 BAGA | "G"G8 | z4 "G"z2 "D/F#"z2 |
+w: ban-za y~el po-der_ por los si-glos, a-a-a-a-mén.
+    "Em"z2GG G2G2 | z2GG G2 AA- | "C"A2 G6- | G4 "Em"z4 |
+w: Él nos quie-re co-mo pue-blo san--to_
+    "Am"z2cB A2A2 | z2zG E3G | "D"A8 | z4 z2B2 | "Em"B2AG4z | z2GG G2AA- | "C"A2G6 |
+w: a-par-ta-dos pa-ra~el Se-ñor; rin-dá-mos-le re-ve-ren-cia san--ta,
+    "C"z4 "Em"c3B | "Am"c3B c3B | c3B A3G | "D"A8 | z4 z2 :|
+w: con los án-ge-les can-te-mos a~u-na voz:

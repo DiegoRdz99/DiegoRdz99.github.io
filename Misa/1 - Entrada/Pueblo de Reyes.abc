@@ -1,0 +1,66 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Pueblo de Reyes
+T:Misa - Entrada
+T:Sacerdotal
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=120
+K:Bb
+% voice grouping
+%%score (s a) (t b)
+% voice properties
+V:t clef=bass octave=-1
+V:b clef=bass octave=-1
+% voice colors
+[V:a]   [I:voicecolor #3377ff]
+[V:b]   [I:voicecolor #3377ff]
+%
+%
+[V:s]   "Bb"D2CD | "Dm"F2F2 "Gm"DD "F"FF | "Eb"G2G2 "Bb"FF/2F/2 "Eb"G"D"A |
+w:
+[V:a]   D2CD     | F2F2     B,B,CC       | E2E2 DD/2D/2 DD                |
+%
+[V:t]   D2CD     | D2D2 BBAA             | B2B2 BB/2B/2 BB                |
+[V:b]   D2CD     | D2D2 GGFF             | E2E2 BB/2B/2 AA                |
+w: Pue-blo de Re-yes, a-sam-ble-a san-ta, pue-blo sa-cer-do-
+%
+%
+[V:s]   "Gm"B4 "Bb"d4 | "C"c2"Bb"B2 "Eb"G4 | "Gm"z2 G2 "F"c3c | "Eb"G2B2 "Bb"B4 ||
+w:
+[V:a]   D4 F4         | =E2F2 _E4          | x2 D2 F3C        | EFG2 F4         ||
+%
+[V:t]   B4 B4         | G2B2 B4            | z2B2 ABcA        | B2Bc d4         ||
+[V:b]   G4 B,4        | C2D2 E4            | z2G2 FGAF        | E2E2 B,4        ||
+w: tal, pue-blo de Dios ben-di---ce~a tu Se-ñor.
+%
+V:s
+    [M:2/4]z2 Bc | "Bb"d-d dc | "D"dd dc | "Gm"B-B BB | "Eb"G2 G2 |
+w: 1.~Te can-ta--mos a Ti_ Es-plen-dor_ de la Glo-ria,
+w: 2.~Te can-ta-mos Me-dia-dor_ en-tre Dios_ y los hom-bres,
+w: 3.~Te can-ta--mos oh Tem-plo de la Nue--va A-lian-za,
+    z2 FG | "F"A2 AG | "Gm"B-B GF | "Bb"D2 "F"C-C | "Cm"E-E "F"F-F | "Gm"G2-G2 |
+w: te~a-la-ba-mos Es-tre--lla ra-dian-te que~a-nun--cias el dí-a.
+w: te~a-la-ba-mos oh Ru--ta vi-vien-te, ca-mi--no del cie-lo.
+w: te~a-la-ba-mos oh Pie-dra an-gu-lar y_ To-ca de~Is-ta-el._
+    z2 Bc | "Bb"d2 dc | "D"dd dc | "Gm"B-B BB | "Eb"G2 G2 |
+w: 1.~Te can-ta-mos oh Luz_ que~i-lu-mi-nas nues-tras som-bras,
+w: 2.~Te can-ta-mos Pas-tor que nos con-du--ces al Rei-no,
+w: 3.~Te can-ta-mos Me-sí-as es-pe-ra-do por los po-bres,
+    z2 FG | "F"A2 AG | "Gm"B-B GF | "Bb"D2 "F"C-C | "Cm"E-E "F"F-F | "Gm"G4 :|
+w: te~a-la-ba-mos An-tor-cha de la nue-va_ Je--ru-sa-lén.
+w: te~a-la-ba-mos re-ú-ne~a tus o-ve-jas en un_ re--dil.
+w: te~a-la-ba-mos oh Cris-to nues-tro Rey de hu-mil-de co-ra-zón.

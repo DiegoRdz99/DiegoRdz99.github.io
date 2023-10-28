@@ -10,19 +10,15 @@
 %rightmargin 0.8cm
 
 X:1
-T:Santo III
+T:Santo Mejía II
 C:
 S:
-M:4/4
+M:2/4
 L:1/8
-Q:1/4=130
-K:D
+Q:1/4=80
+K:C
 %
-%
-    "D"A4 FG AA- | "F#m"A4 AG FG- | "G"G4 GF EF- | "A"F2E2D2E2 :|
-w: 1.~San-to~es el Se-ñor_ Dios cre-a-dor_ del u-ni-ver--so~en-te-ro
-w: 2.~Y lle-nos es-tán,_ de su bon-dad_ to-da la tie--rra~y cie-lo-
-    "Bm"D3D DE FG | "F#m"A4 C4 | "Bm"D3D DE FG | "F#m"A4 C4 |
-w: oh Ho-sa-nna en el cie-lo-oh, Ho-sa-nna en el cie-lo-
-    "G"D3D GG GG | "D"F2 ED3 EF | "Em"G2F2E2D2 | "A"A8 | "A7"z8 !dacapo!|]
-w: oh Ben-di-to~es el que vie-e-ne en el nom-bre del Se-ñor
+    "C"E2 (ED) | "Am"C2 C2 | "Dm"FF FD | "G"E2 D2 | "C"E2 ED | "Am"C2 C2 | "Dm"F2 FD | "G"E2 D2 |
+w: San-to-o, san-to, san-to~es el Se-ño-or, Dios po-de-ro-so del u-ni-ver-so.
+    "G7"z2 zG, | [M:4/4]"C"C2C2 C3B, | "Am"A,2A,2 z2B,C | "Dm"D2D2D3C | "G"B,2B,4zG, |
+w: Los cie-los y la tie-rra es-tán lle-nos de su Glo-ria, ho-

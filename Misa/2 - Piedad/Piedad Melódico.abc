@@ -1,0 +1,62 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Piedad Melódico
+T:Misa - Piedad
+T:Solemne
+C:Alejandro Mejía
+S:
+M:C
+L:1/8
+Q:1/4=80
+K:G
+% voice grouping
+%%score (s a) (t b)
+% voice properties
+V:a octave=-1
+V:t clef=bass octave=-1
+V:b clef=bass octave=-1
+% voice colors
+[V:a]   [I:voicecolor #3377ff]
+[V:b]   [I:voicecolor #3377ff]
+%
+%
+[V:s]   E | "Em"B2AG "Am6"F2 "B7"G^D | "Em"F2 E4 zE        | B2AG "Am6"F2 "B7"G^D   | F2 E4 AB | 
+[V:a]   e | B2BB B2 ^dB              | B2 B4 ze            | b2ab f2 g^d            | f2 e4 ee | 
+%
+[V:t]   "^Coro"E | G2FG A2AF         | A2 G4 "^Asamblea"zE | B2AG F2 G^D            | F2 E4 "^Coro"A^G | 
+[V:b]   E | E2 EE A,2B,B,            | E2 E4 zE            | B2AG F2 G^D            | F2 E4 CB, |
+w: Se-ñor, ten pie-dad de no-so-tros Se-ñor, ten pie-dad de no-so-tros de no-
+%
+%
+[V:s]   "Am"c2cB "D7"A2GA | "G"G4 "C"z2FG         | "Am6"A2AG "B7"F2GF | "Em"E4 !fine! "D7"z4 ||
+[V:a]   e2ed c2cc         | d4 z2fg               | a2ag f2gf          | e4 z4                ||
+%
+[V:t]   A2GG F2EF         | G4 z2"^Asamblea"FG    | A2AG F2GF          | E4 "^Coro"z4         ||
+[V:b]   A,2A,A, D2DD      | G,4 z2FG              | A2AG F2GF          | E4 z4                ||
+w: so-tros Se-ñor ten pie-dad, de no-so-tros Se-ñor ten pie-dad.
+%
+%
+[V:s]   "G"BBBB "D7"A2GA    | "G"B2B2-"B7"B2z2 | "Em"GGGG "B7"F2GF | "C"E2E2-"E7"E2 AB  |
+[V:a]   gggg (fe) dd        | d2 d4 z2         | gggg f2gf         | e2 e4 ee           |
+%
+[V:t]   "Asamblea"dded c2BF | G2 G4 z2         | GGGG F2GF         | E2 E4 A^G          |
+[V:b]   GGGG D2DD           | G,2 G,4 z2       | GGGG F2GF         | E2 E4 CB,          |
+w: Cris-to, ten pie-dad de no-so-tros Cris-to, ten pie-dad de no-so-tros, de no-
+%
+%
+[V:s]   "Am"c2cB "D7"A2GA | "G"G4 "C"z2FG      | "Am6"A2AG "B7"F2GF | "Em"E4 z2 z!D.C.alfine! |]
+[V:a]   e2ed c2cc         | d4 z2fg            | a2ag f2gf          | e4 z2z                  |]
+%
+[V:t]   A2GG F2EF         | G4 z2"^Asamblea"FG | A2AG F2GF          | E4 z2z                  |]
+[V:b]   A,2A,A, D2DD      | G,4 z2FG           | A2AG F2GF          | E4 z2z                  |]
+w: so-tros Se-ñor ten pie-dad, de no-so-tros Se-ñor ten pie-dad.

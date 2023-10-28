@@ -1,0 +1,34 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Acto Penitencial Formulario 3
+T:Misa - Piedad
+T:Misa San Pablo
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=80
+K:Bb
+%
+%
+    [I:voicecolor #992011]DE | "Bb"F2F2 GF2D | "F"F2A2"Gm"G2A2 | "Eb"BG3"F"F2E2 | "Bb"D2F4 ||
+w: Tú que~has si-do~en-via-do~a sa-nar los co-ra-zo-nes a-fli-gi-dos:
+    SzF | "Eb"G2GB "F"A2GF | "Gm"G2F2[I:voicecolor #000000]zF | "Eb"G2GB "F"A2zF | "D"A2Ac "Gm"B2BB | [M:2/4]"Eb"B2AG | [M:4/4]"Bb"F2D4"Eb/Bb"z2 | "Bb"z6 !fine!|| 
+w: Se-ñor, ten pie-dad de no-so-tros. Se-ñor, ten pie-dad, Se-ñor, ten pie-dad, ten pie-dad de no-so-tros.
+    [I:voicecolor #992011]DE | F2F2 GF3 | "F"F2A2 "Gm"G4 | "Eb"B2G2 F2E2 | "Bb"D2F4z2 |
+w: Tú que has ve-ni-do a lla-mar a los pe-ca-do-res:
+    "Eb"GGGB "F"A2GF | "Gm7"G2F4z2 | [I:voicecolor #000000]"Eb"GGGB "F"A2z2 | "D"AAAc "Gm"B2BB | [M:2/4]"Eb"B2AG | [M:4/4]"Bb"F2D4"Eb/Bb"z2 | "Bb"z6 ||
+w: Cris-to, ten pie-dad de no-so-tros. Cris-to, ten pie-dad, Cris-to, ten pie-dad, ten pie-dad de no-so-tros.
+    [I:voicecolor #992011]DE | F2F2 GFFD | "F"FFA2 "Gm"AG3 | "Eb"BBAG "F"F2FG | "Bb"GF3z2 !D.S.alfine!|]
+w: Tú que~es-tás sen-ta-do~a la de-re-cha del Pa-dre pa-ra~in-ter-ce-der por no-so-tros:

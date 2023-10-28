@@ -1,0 +1,12 @@
+title : Piedad Palazón
+composer : Francisco Palazón
+key : Dm
+liturgy : Ordinario
+{song}
+/verse/
+[Dm]Se - e[F]ñor, [C]ten pie[Dm]dad;
+[Dm]Se - e[F]ñor, [C]ten pie[Dm]dad.
+[Bb]Cristo [C]te - en pie[F]dad;
+[Bb]Cristo [C]te - en pie[F]dad.  [A7]
+Se[Dm]ño - or [A7]ten pie[Dm]dad;
+Se - e[Gm]ñor, [A7]ten pie[Dm]dad.

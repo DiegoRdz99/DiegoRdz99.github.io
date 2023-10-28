@@ -1,0 +1,20 @@
+title : Piedad Mejía
+composer : Alejandro Mejía
+key : Em
+liturgy : Solemne
+{song}
+/verse/
+Se[Em]ñor ten pie[B7]dad de no[Em]so - tros;
+Se[Em]ñor ten pie[B7]dad de no[Em]so - tros,  [E7]
+de no[Am]sotros Se[D]ñor ten pie[G]dad;  [Em]
+de no[Am]sotros Se[B7]ñor ten pie[Em]dad.
+/verse/
+[G]Cristo ten pie[D]dad de no[G]so - tros;  [B7]
+[Em]Cristo ten pie[B7]dad de no[Em]so - tros,  [E7]
+de no[Am]sotros Se[D]ñor ten pie[G]dad;  [Em]
+de no[Am]sotros Se[B7]ñor ten pie[Em]dad.
+/verse/
+Se[Em]ñor ten pie[B7]dad de no[Em]so - tros;
+Se[Em]ñor ten pie[B7]dad de no[Em]so - tros,  [E7]
+de no[Am]sotros Se[D]ñor ten pie[G]dad;  [Em]
+de no[Am]sotros Se[B7]ñor ten pie[Em]dad.

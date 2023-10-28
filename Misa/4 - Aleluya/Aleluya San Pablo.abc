@@ -1,0 +1,28 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Aleluya San Pablo
+T:Misa - Aleluya
+T:Misa San Pablo
+C:
+M:3/4
+L:1/4
+Q:1/2=80
+K:Bb
+%
+    "Bb"F2D | "Eb"B2A | "F7"G2F | "Bb"GF2- | "Gm"F2z | "Eb"G2B | "F"(A2c) | "Bb"B3- | B3 ||
+w: A-le-lu-ya, a-le-lu-ya,_ a-le-lu--ya._
+    "Eb"GGB | "F"AFF | "D"AAc | "Gm"BGz/2B/2 | "Cm7"BAG | "Bb/D"FDB | "Eb"BcB | "F"AF2- | "F7"F3 ||
+w: Ha-bla, Se-ñor, que tu sier-vo te~es-cu-cha; Tú tie-nes pa-la-bras de vi-da e-ter-na._
+    "Bb"F2D | "Eb"B2A | "F7"G2F | "Bb"GF2- | "Gm"F2z | "Eb"G2B | "F"(A2c) | "Bb"B3- | "Eb/Bb"B3 | "Bb"z3 ||
+w: A-le-lu-ya, a-le-lu-ya,_ a-le-lu--ya._

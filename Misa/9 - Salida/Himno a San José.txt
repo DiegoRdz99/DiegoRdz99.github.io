@@ -1,0 +1,28 @@
+title : Himno a San José
+key : D
+liturgy : San José
+{song}
+/verse/
+Hoy a tus [D]pies, po[G]nemos nuestra [A]vida,
+hoy a tus [G]pies, ¡Glo[A]rioso San Jo[D]sé!
+Escucha [G]nuestra ora[D]ción,
+y [G]por tu in[D]terce[A]sión
+[F#m]obten[G^7]dremos la [A]paz del cora[D]zón
+/verse/
+En Naza[D]ret, jun[G]to a la Virgen [A]Santa,
+en Naza[G]ret, ¡Glo[A]rioso San Jo[D]sé!
+Cuidaste al [G]niño Je[D]sús,
+pues [G]por tu [D]gran vir[A]tud,
+[F#m]fuiste [G^7]digno cus[A]todio de la [D]luz
+/verse/
+Con senci[D]llez, hu[G]milde carpin[A]tero,
+con senci[G]llez, ¡Glo[A]rioso San Jo[D]sé!
+Hiciste [G]bien tu la[D]bor,
+o[G]brero [D]del Se[A]ñor,
+[F#m]ofre[G^7]ciendo tra[A]bajo y ora[D]ción
+/verse/
+Tuviste [D]fe en [G]Dios y su pro[A]mesa,
+tu-vis-te [G]fe, ¡Glo[A]rioso San Jo[D]sé!
+Maestro [G]de ora[D]ción,
+al[G]cánza[D]nos el [A]don
+[F#m]de escu[G^7]char y se[A]guir la voz de [D]Dios

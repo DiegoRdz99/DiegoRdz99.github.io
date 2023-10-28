@@ -1,0 +1,30 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Piedad Palazón
+T:Misa - Piedad
+T:Solemne
+C:Francisco Palazón
+S:
+M:4/4
+L:1/4
+Q:1/4=110
+K:Dm
+%
+%
+    "Dm"(DA) | "F"A2 "C"GB | "Dm"A2 (DA) | "F"A2 "C"GB | "Dm"A2 z2 |
+w: Se-e-ñor, ten pie-dad; Se-e-ñor, ten pie-dad;
+    "Bb"BB "C"(c/2d/2)c | "F"A3z | "Bb"BB "C"(c/2d/2)c | "F"A2 "A7"zA |
+w: Cris-to te-en pie-dad; Cris-to te-en pie-dad; Se-
+    "Dm"(dc) "A7"AG | "Dm"A2 (DA) | "Gm"G2 "A7"EC | "Dm"D4 |]
+w: ño-or ten pie-dad; Se-e-ñor ten pie-dad.

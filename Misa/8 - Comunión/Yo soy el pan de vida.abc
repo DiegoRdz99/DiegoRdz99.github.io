@@ -1,0 +1,39 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Yo soy el pan de vida
+T:Misa - Comunión
+T:Ordinario
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=80
+K:A
+%
+    "A"E2 EE C2D2 | "C#m"E4 .E2EE | "D"F3F "D^9"FFFF | "Esus4"E4 "E".E2 EE |
+w: 1.~Yo soy el pan de vi-da, el que vie-ne~a mí no ten-drá ham-bre, el que
+w: 2.~El pan que yo da-ré_ es mi cuer-po vi-da pa-ra~el mun-do, el que
+w: 3.~Yo soy e-sa be-bi-da, que se prue-ba~y no se sien-te se-ca, el que
+    "F#m"A3A "C#m"GGGG | "D"F4-.F2z2 | "A"E3E "A"C2"Asus2/G#"E2 | "F#m"A4 z2 EE | 
+w: vie-ne~a mí no ten-drá sed._ Na-die vie-ne~a mí, si mi
+w: siem-pre co-ma de mi car-ne. Vi-vi-rá en mí, co-mo
+w: siem-pre be-ba de mi san-gre. Vi-vi-rá en mí, y ten-
+    "D"F3F "D/B"F-FF-F | "Esus4"E2.E2 "E"zEEE | [M:2/4]"A"A3A | "E/G#"B2B2 | "A"c4 |
+w: Pa-dre no* le a-tra-e. Y yo le re-su-ci-ta-ré,
+w: yo* vi-vo en mi Pa-dre
+w: drá la vi--da e-ter-na
+    zA AA | "D"d3d | "B9"c2 c2 | "E"B4 | "E7"zE EE | 
+w: y yo le re-su-ci-ta-ré, y yo le
+    "A"e3e | "A7"c2A2 | "Bm"d2 "A/C#"c2 | "D"B2 "D#b5"A2 | "Esus4"A4 | "E"G3A | "A"A4 :|
+w: re-su-ci-ta-ré-e en el dí-a fi-nal

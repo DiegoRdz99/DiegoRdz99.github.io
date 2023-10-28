@@ -1,0 +1,68 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Padre hoy te ofrezco
+T:Misa - Ofertorio
+T:Ordinario
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+%
+    "C"C3G4-G-| G4 z2CC | "Dm"DDED2 D3-|D4 z2CB, |
+w: Pa-dre__ hoy te~o-frez-co~es-tos do-nes_ y te
+    "C"C3G4-G-| G4 z2CC | "Dm"DDEE2 D3-|D4 "G"z2 "C"z2 |
+w: pi-do__ ben-di-gas mis la-bo-res_
+    "F"z2 FFF3F | "G"GA2G2GEF | "C"G2G2 "Em"GF2E-| "Am"E4 "G"DE2F-|
+w: Son el fru-to de la tie-rra son mi dia-rio ca-mi-nar_ son mi vi-
+    "F"F2E2 DC2F- | "Dm"F2E2 DC2D-| "G"D8 | "G7"z8 |
+w: \- da son mi~en-tre--ga~y mi ver-dad
+    "C"C3G4-G-| G4 z2CC | "Dm"DDED2 D3-|D4 z2CB, |
+w: Pa-dre__ hoy en Ti me con-fí-o_ y te~o-
+    "C"C3G4-G-| G4 z2CC | "Dm"DDEE2 D3-|D4 "G"z2 "C"z2 |
+w: frez-co__ cuan-to he re-ci-bi-do_
+    "F"z2 FFF3F | "G"GA2G2GE2 | "C"G4 "Em"GF2E-| "Am"E3D "G"DE2F-|
+w: To-do Tú me lo has da-do, es tu-yo mi Dios,_ pues cuan-to~en mí-
+    "F"F2E2 DC2F- | "Dm"F2E4 CC | "G"GGAG4-G |
+w: \- tú has con-fia--do te doy cuen-ta Se-ñor
+    "G7"z4 EF2G- | "C"G8 | z2G2AG2G- |"G"G8 | z2G2G2G2 |
+w: Tó-ma-los,_ ben-dí-ce-los,_ con-viér-te-
+    "Dm"A3G FE2A- | "Dm7"AG4 z FE | "G"D8 |
+w: \-~los en cuer-po~y san--gre de Je-sús
+    "G7"z4 EF2G- | "C"G8 | z2GGAG2G- |"G"G8 | z2G2G2G2 |
+w: Tó-ma-los,_ a-li-men-ta hoy_ al pue-blo
+    "F"A4 GF2E- | "G"ED4 z CD | "C"E3F "Em"ED2C- | "Am"C4 z2CC | 
+w: que tu com-pras--te con la san-gre de Je-sús_ al mo-
+    "F"F2E2DC2D- | "G"D2D2 EE2C-| "C"C8 | "C7"z8 |
+w: \-~rir el por no-so--tros en la cruz
+    "F"z2zF FFFG- | "G"GGAG2GCC | "C"G2G2 "Em"GF2E-| "Am"E4 "G"z2DE|
+w: Cual gra-no de tri--go que mue-re pa-ra fer-men-tar el pan_ a-sí
+    "F"F2EE DCCF- | "Dm"F2EE DCCG- | "G"G8 |
+w: se-a mi vi-da pa-ra_ dar vi-da~a los de-más
+    "F"z2FF FFFG- | "G"GA2G3CC | "C"G2GG "Em"GFEE-| "Am"E3D "G"DE2F-|
+w: Y si vi-vo~es por ti_ Se-ñor, y si vi-vo por Ti mo-ri-ré,_ pues vi-vo~o muer
+    "F"F2EE DC2F- | "Dm"F2E2 DC2G- | "G"G8 |
+w: \- to so-lo de Ti_ yo quie-ro ser_
+    "G7"z4 EF2G- | "C"G8 | z2G2AG2G- |"G"G8 | z2G2G2G2 |
+w: Tó-ma-los,_ ben-dí-ce-los,_ con-viér-te-
+    "Dm"A3G FE2A- | "Dm7"AG4 z FE | "G"D8 |
+w: \-~los en cuer-po~y san--gre de Je-sús
+    "G7"z4 EF2G- | "C"G8 | z2GGAG2G- |"G"G8 | z2G2G2G2 |
+w: Tó-ma-los,_ a-li-men-ta hoy_ al pue-blo
+    "F"A4 GF2E- | "G"ED4 z CD | "C"E3F "Em"ED2C- | "Am"C4 z2CC | 
+w: que tu com-pras--te con la san-gre de Je-sús_ al mo-
+    "F"F2E2DC2D- | "G"D2D2 EE2C-| "C"C8 | "C7"z4 z2DE | 
+w: \-~rir el por no-so--tros en la cruz al mo-
+    "F"F2E2DC2D- | "Fm"D2D2 EE2C-| "C"C8 |]
+w: \-~rir el por no-so--tros en la cruz

@@ -1,0 +1,26 @@
+title : Bendito seas Señor
+key : Dm
+composer : Francisco Palazón
+liturgy : Solemne
+{song}
+/Coro/
+[Dm]  Bendito [G]se - as Se[Dm]ñor,
+por [Bb]este [C]pan [A7]y este [Dm]vino
+que gene[Gm]ro - [C7]so nos [F]diste
+para [Dm]cami[G]nar con[A]ti - go  [A7]
+Y se[Dm]rán pa[Am]ra no[Gm]so - tros
+[Dm]alimento en [Bb]el ca[C7]mi - [D]no
+/verse/
+[D]  Te ofrece[A]mos [G]el tra[A]-[D]ba - jo,
+las [F#m]pe - [Bm]nas y [Em]la a[D]le[A]grí - [D]a,
+el [Em]pan que nos [F#]ali[Bm]men - ta,
+[G]y el a[Em]fán de [E]cada [D]dí - [A]a.
+/coro/
+/verse/
+[D]  Te ofrece[A]mos [G]nues[A]tro [D]ba - rro,
+[A]que os[D]cu-[F#m]re[G]ce [Em]nues[D]tras [A]vi - [D]das
+y el [Em]vi - no que [F#]no emple[Bm]amos
+para cu[Em]rar [E]las he[D]ri - [A]das
+/coro/
+/outro/
+[Dm]Bendito [Gm]seas por [Bb]siempre [A]Se[D]ñor.

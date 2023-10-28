@@ -1,0 +1,49 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Vamos al encuentro con Cristo
+T:Misa - Entrada
+T:Ordinario
+C:Misión País
+S:
+M:6/8
+L:1/8
+Q:1/4=80
+K:D
+%
+    "D"DEF "A"AG3/2F/2 | "G"D2z AAG | "D"AD3/2D/2 "G"GF3/2D/2 | "A"E4z2 |
+w: Can-te-mos al cre-a-dor, can-te-mos to-dos al Dios del a-mor.
+    "D"DEF "G"GAB | "A"A2E AG3/2F/2 | "G"GF3/2D/2 GF3/2D/2 | "A"E4 zD | 
+w: Can-te-mos jun-tos al Pa-dre que nos re-ga-la~a su Hi-jo Je-sus. Pues
+    "G"B4AG/2A/2- | "A"AE3/2E/2 AGF | "D"GF3/2D/2 "G"GF3/2D/2 | "A"E4 zD |
+w: hoy se ce-le--bra, la~a-lian-za del Pa-dre con su cre-a-ción. Pues
+    "G"B4AG/2A/2- | "A"AE3/2E/2 AGF | "D"GF3/2D/2 "G"GAB | "A"A6 |
+w: hoy se~ha-ce vi--da, la~en-tre-ga de Cris-to por la sal-va-ción
+    Sz4 AG/2F/2- | "D"F2D "G"GFD | "A"E3 A,AG/2F/2- | "D"F2D "G"GF3/2D/2 | "A"E4DD/2B/2- |
+w: Va-mos al_ en-cuen-tro con Cris-to, con-vo-cad_ al pue-blo de hoy, pues con Él
+    "G"B-B3/2B/2 BAG | "A"A4 AG/2F/2- | "D"F-F3/2D/2 "G"GFD |
+w: ** que-re-mos es-tar, pues con Él__ que-re-mos es-
+    "A"E4 AG/2F/2- | "D"F2D "G"GFD | "A"E3 A,AG/2F/2- | "D"F2D "G"GAB | "A"A4 zz/2D/2 |
+w: tar. Va-mos al_ en-cuen-tro con Cris-to, dis-po-nien--do el co-ra-zón. A-
+    "G"Bcd "A"cBA | "D"(F2E) "Bm"DDC | "G"G.F3/2D/2 "Em"G.F3/2D/2 |
+w: la-be el cie-lo~y la tie-e-rra, de-mos gra-cias, al Pa-dre por
+    "A"C2C CD3/2E/2 | "D"D3 !fine!: "G"z3 |  "A7"z6 | "D"z3 "G"z3 |  "A7"z6 :|
+w: es-te~en-cuen-tro de~a-mor
+    "D"DEF "G"GF3/2D/2 | "A"E2C AGF | "D"G2F "G"DEF | "A"E4z2 |
+w: A-brid las puer-tas a Cris-to, a-brid las puer-tas de par en par
+    "D"DE3/2F/2 "G"GA3/2B/2 | "A"A2E CDE/2G/2- | "D"G2F "G"G2F | "A"E4 zD | 
+w: a re-ci-bir la pa-la-bra y~el pan de vi--da que~es Je-sús. Pues
+    "G"B4AG/2A/2- | "A"AE3/2E/2 AG3/2F/2 | "D"G2F "G"G2F | "A"E4 zD |
+w: hoy en-tra-re--mos en co-mún u-nión con el Se-ñor. Pues
+    "G"B4AG/2F/2- | "A"FE3/2E/2 EFG | "D"GF3/2D/2 "G"GAB | "A"A6 !D.S.alfine!|]
+w: hoy lle-va-re--mos a Cris-to~a los pue-blos, es nues-tra mi-sión

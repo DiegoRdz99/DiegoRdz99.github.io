@@ -1,0 +1,35 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Gloria Popular
+C:
+S:
+M:6/8
+L:1/8
+Q:1/4=86
+K:D
+%
+    "D"A3 "A"F2E | "D"D4 zD | "G"E2E- "A"EFG | "D"F2E "D7"D3 |
+w: Glo-ria~al Se-ñor que rei-na_ en el cie-e-lo
+    "G"B2B "A"G2B | "D"A3 "Bm"F2A | "Em"G2G- "A"GFE | !fine! "D"D3 
+w: y~en la tie-rra paz a los homb-res_ que~a-ma Él
+    : z2A, | "G"D2D "A"E2G | "D"F2E D2A, | "G"D2D "A"E2G | "D"F2E "D7"D3 |
+w: 1.~Se-ñor te a-la-ba-a-mos, Se-ñor te ben-de-ci-i-mos
+w: 2.~Tú e-res el cor-de-e-ro, que qui-tas el pe-ca-a-do
+    "G"B2B "A"BAG | "D"A3 "Bm"A3 | "G"G2-G "A"GFE | "D"D3 D2z :|
+w: to-dos te a-do-ra-mos, gra--cias por tu glo-ria
+w: ten pie-dad de no-so-tros, y~es-cu-cha nues-tra~o-ra-ción
+    "D"D3 z2A, | "G"D2D "A"E2G | "D"F2E D2A, | "G"D2D "A"E2G | "D"F2E "D7"D3 |
+w: Él. Tú so-lo e-res Sa-an-to, Tú so-lo el Al-tí-si-mo
+    "G"BBB "A"BAG | "D"A3 "Bm"AGF | "G"G3 "A"GFE | "D"D3 D2z !D.C.alfine!|]
+w: con el Es-pí-ri-tu San-to en la Glo-ria de Dios Pa-dre.

@@ -1,0 +1,34 @@
+title : Demos Gracias al Señor
+key : G
+liturgy : Ordinario
+{song}
+/Coro/
+Demos [G]gracias al Señor,
+demos [D]gra - a[G]cias.
+Demos [C]gracias [D]al Se[G]ñor.
+Demos [G]gracias al Señor,
+demos [D]gra - a[G]cias.
+Demos [C]gracias [D]al Se[G]ñor.
+/verse/
+[G7]  Por la ma[C]ñana,las aves [G]cantan
+las ala[D]banzas a Cristo Salva[G]dor.
+[G7]  Y tú mi her[C]mano, ¿por qué no [G]cantas
+las ala[D]banzas a Cristo Salva[G]dor?
+/coro/
+/verse/
+[G7]  Y por las [C]tardes las flores [G]cantan
+las ala[D]banzas a Cristo Salva[G]dor.
+[G7]  Y tú mi her[C]mano, ¿por qué no [G]cantas
+las ala[D]banzas a Cristo Salva[G]dor?
+/coro/
+/verse/
+[G7]  Y por las [C]noches los cielos [G]cantan
+las ala[D]banzas a Cristo Salva[G]dor.
+[G7]  Y tú mi her[C]mano, ¿por qué no [G]cantas
+las ala[D]banzas a Cristo Salva[G]dor?
+/coro/
+/verse/
+[G7]  Y a todas [C]horas los hombres [G]cantan
+las ala[D]banzas a Cristo Salva[G]dor.
+[G7]  Y tú mi her[C]mano, ¿por qué no [G]cantas
+las ala[D]banzas a Cristo Salva[G]dor?

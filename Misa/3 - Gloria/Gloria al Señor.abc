@@ -1,0 +1,33 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Gloria al Señor
+T:Misa - Gloria
+T:Ordinario
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=86
+K:A
+%
+    "A"c2cd | e2ce | "D"a2gf | "A"e4 | "D"f2ga | "A"a2e2 | [Q:1/4=60][M:3/4]"E"e2 dc B2 | "A"A4z2 ||
+w: Glo-ria-a, glo-ria-a, glo-ria~al Se-ñor, glo-ria~en el cie-lo, glo-ria~en la tie-rra
+    [Q:1/4=72][M:6/8]"A"ccc cBA | e6 | "D"fff fef | "A"e6 | "D"aaa agf |
+w: 1.~Te a-la-ba-mos Se-ñor, te ben-de-ci-i-i-mos; te a-do-ra-mos oh
+w: 2.~E-res cor-de-ro de Dios, Hi-jo del Pa-a-a-dre; Tú nos per-do-nas y
+w: 3.~Tú so-lo San-to~y Se-ñor, Tú, Je-su-cri-i-i-isto; con el Es-pí-ri-tu
+    "A"e3 e3 | "C#m"e2e [Q:1/4=60]edc | "E"B3 z3 :|
+w: Pa-dre, Dioos y Rey Ce-les-tial.
+w: sal-vas, nos o-fre-ces a-mor.
+w: San-to, en la glo-ria de Dios.

@@ -12,6 +12,8 @@
 
 X:1
 T:Acércate
+T:Misa - Entrada
+T:Ordinario
 C:Jésed
 S:
 M:4/4
@@ -19,28 +21,31 @@ L:1/8
 Q:1/4=125
 K:A
 %
-%
-E | "E"E3/2B3/2 B4 E | .B.B.B.B B3/2A3/2G | "D"A3/2 D6 z/2 | "A"z6 z 
+    E | "E"E3/2B3/2 B4 E | .B.B.B.B B3/2A3/2G | "D"A3/2 D6 z/2 | "A"z6 z 
 w: 1.~A-cér-ca-te, y to-ma tu lu-gar en la fies-ta
 w: 2.~A-cér-ca-te, que so-mos tu fa-mi-lia la~I-gle-sia
-%
-E | "E"E3/2B3/2 B4 E | .B.B.B.B B3/2A3/2G | "D"A3/2 B6 z/2 | "A" z6 z !fine!:|
-w: 1.~A-cér-ca-te, pues hoy es Dios el que nos con-gre-ga
-w: 2.~A-cér-ca-te, pues Cris-to di-jo ven-gan y ve-an
-%
-|: B, | "E"E3/2F3/2E E3/2B,3/2B,  | E3/2F3/2E E3/2B,3/2B, |
+    E | "E"E3/2B3/2 B4 E | .B.B.B.B B3/2A3/2G | "D"A3/2 B6 z/2 | "A" z6 z :|
+w: A-cér-ca-te, pues hoy es Dios el que nos con-gre-ga
+w: A-cér-ca-te, pues Cris-to di-jo ven-gan y ve-an
+    |: B, | "E"E3/2F3/2E E3/2B,3/2B,  | E3/2F3/2E E3/2B,3/2B, |
 w: 1.~Sa-lu-da~a tu~her-ma-no pues es bien-ve-ni-do y 
 w: 2.~Le-van-ta tus ma-nos y~a-la-ba~a Dios Pa-dre y
 w: 3.~De-jad que los ni-ños se~a-cer-quen a Cris-to, pues
 w: 4.~A-que-llos que~a-yu-dan al po-bre y~ham-brien-to, ve-
-%
-"D"D3/2E3/2D D3/2-D3/2 F | "A"G3/2F3/2E E3/2E3/2 !dacapo! :|
-w: 1.~da-le la paz,_ que vie-ne de Cris-to
-w: 2.~a-bre los bra-zos y~a-bra-za~a tu~her-ma-no
-w: 3.~pa-ra~ir al Cie-lo~hay que ser co-mo e-llos
-w: 4.~rán con sus o-bras el Rei-no del Cie-lo
-%
-|: B, | "E"E3/2F3/2E E3/2B,3/2B,  | E3/2F3/2E E3/2B,3/2B, |
-w: 1.~A-quí no se juz-ga, a-quí se co-mul-ga, a-
-"D"D3/2E3/2D D3/2-D3/2 F | "A"G3/2F3/2E E3/2E3/2 z !D.C.alfine! |
-w: 1.~quí prac-ti-ca-mos la mi-se-ri-cor-dia
+    "D"D3/2E3/2D D3/2-D3/2 F | "A"G3/2F3/2E E3/2E3/2 !D.C.! :|
+w: da-le la paz,_ que vie-ne de Cris-to
+w: a-bre los bra-zos y~a-bra-za~a tu~her-ma-no
+w: pa-ra~ir al Cie-lo~hay que ser co-mo e-llos
+w: rán con sus o-bras el Rei-no del Cie-lo
+    E | "E"E3/2B3/2 B4 E | .B.B.B.B B3/2A3/2G | "D"A3/2 D6 z/2 | "A"z6 z 
+w: 1.~A-cér-ca-te, y to-ma tu lu-gar en la fies-ta
+w: 2.~A-cér-ca-te, que so-mos tu fa-mi-lia la~I-gle-sia
+    E | "E"E3/2B3/2 B4 E | .B.B.B.B B3/2A3/2G | "D"A3/2 B6 z/2 | "A" z6 z !fine!:|
+w: A-cér-ca-te, pues hoy es Dios el que nos con-gre-ga
+w: A-cér-ca-te, pues Cris-to di-jo ven-gan y ve-an
+    B, | "E"E3/2F3/2E E3/2B,3/2B,  | E3/2F3/2E E3/2B,3/2B, |
+w: A-quí no se juz-ga, a-quí se co-mul-ga, a-
+    "D"D3/2E3/2D D3/2D3/2 F | "A"G3/2F3/2E E3/2E3/2 z |
+w: quí prac-ti-ca-mos la mi-se-ri-cor-dia
+    "E"EEEE E2EF | G3E BBBB | "D"B3/2A3/2GE4 | "A"z6 z !D.S.alfine!|]
+w: Es-te~es un lu-gar de per-dón y re-con-ci-lia-ció-o-o-on

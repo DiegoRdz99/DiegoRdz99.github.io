@@ -1,0 +1,43 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Gloria Padre Gerardo
+T:Misa - Gloria
+T:Ordinario
+C:Pbro. Gerardo Flores
+S:
+M:6/8
+L:1/8
+Q:1/4=90
+K:G
+%
+    "G"D3 D3 | "Em"G3 G2G | "C"A3 "Am"G2E | "D"(F2E) DDD | "G"B3 A3 | "Em"G4 GG |
+w: Glo-ria, glo-ria a Dios en el cie--lo y~en la tie-rra paz a los
+    "C"AAA "Am"AGE | "D"F4 DD | "G"B3 "D"A3 | "Em"G4 GG | "C"GGG "D"GFF | "G"G6 | z3 z2 ||1
+w: hom-bres que a-ma~el Se-ñor, y~en la tie-rra paz a los hom-bres que a-ma~el Se-ñor.
+    G/2G/2 | "G"GGG G2G | GG3 GG | "Eb"_BGG BGB | "Bb"dc_B "F"c3 |
+w: Te~a-la-ba-mos, te ben-de-ci-mos, te~a-do-ra-mos, te glo-ri-fi-ca-mos, oh Dios,
+    "Cm"_edc c_Bc | "G"G6 | z6 | "Bb"dc_B "F"c3 | "Cm"_edc (c_B)c | "D"d3 d3 | z6 :|2
+w: Pa-dre y rey ce-les-tial. Glo-ria~al Se-ñor, Dios to-do-po--de-ro-so
+    "G"G | GGG GGG | GGG G3 | "Eb"_BGG BG2 | "Bb"(dc)_B cB2 | "Cm"(_ed)c c_Bc |
+w: Se-ñor Je-su-cris-to, Cor-de-ro de Dios, Hi-jo del Pa-dre, Tú_ que qui-tas el_ pe-ca-do del
+    | "G"G3 G3 | zGG "Bb"GG_B | dc_B "F"c2G | "Cm"_edc c_Bc | "D"d6 | z6 :|3
+w: mun-do, ten pie-dad de no-so-tros, oh Dios, a-tien-de~a tu pue-blo Se-ñor.
+    "G"G/2G/2 | G2G GGG/2G/2 | GGG GG2 | "C"A2A "A"AGE |
+w: Tú que~es-tás sen-ta-do~a la de-re-cha del Pa-dre, ten pie-dad de no-
+    "D"(F2E) DDD | "G"B2B A2A | "Em"GE4z | "C"c2c (cB)c | "D"A4 DD | "G"d2d d2d |
+w: so--tros por-que so-lo Tú~e-res san-to, so-lo Tú_ Se-ñor, so-lo Tú, Al-tí-si-
+    "Em"d3 (BA)G | "C"(c3 "A"B3) | "D"A6 | "G"ddd ddd | "Em"(d2B) GDD | "C"ccc cBG |
+w: mo, Je--su-cris--to. Con el Es-pí-ri-tu San--to, en la glo-ria del Pa-dre, a-
+    "D"A4 DD | "C"ccc cBG | "D"A3 A3 | "G"G6- | G6 |: G3 "C"A3 | "A"A3 "D"A3 | !fermata!"G"G6 :|
+w: mén. En la glo-ria del Pa-dre, a-mén. A-mén._ Glo-ria~a ti. A-mén.

@@ -1,4 +1,5 @@
 title : Caminando desde oriente
+composer : Pbro. Carmelo Erdozaín
 liturgy : Navidad
 key : G
 {song}

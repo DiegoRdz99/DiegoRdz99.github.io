@@ -1,0 +1,9 @@
+title : Juntos como hermanos
+key : F
+liturgy : Ordinario
+{song}
+/Coro/
+[F]Juntos como her[Dm]manos,
+[Gm]miembros de una I[C7]glesia
+[F]Vamos cami[Dm]nando
+al en[Bb]cuentro [C7]del Se[F]ñor

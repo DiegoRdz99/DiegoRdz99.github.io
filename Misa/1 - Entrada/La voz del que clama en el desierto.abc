@@ -11,7 +11,9 @@
 %rightmargin 0.8cm
 
 X:1
-T:La voz que clama en el desierto
+T:La voz del que clama en el desierto
+T:Misa - Entrada
+T:Adviento
 C:Jésed
 S:
 M:6/8
@@ -21,34 +23,57 @@ K:G
 %%score (2 1)
 %
 V:2
-    [I:voicecolor #3377ff] x | [L:1/4]x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x3|x4|x4|x4|x4|x4|:x4|x4[L:1/16] |
+    [I:voicecolor #3377ff] x | [L:1/4]x3   | x3         | x3     | x3    |
+V:1
+    D                        | "G"G8-G2 AB | "C"c8 zBAG | "G"G12 | D6 z6 |
+w: La voz_ del que cla-ma~en el de-sier-to
+V:2
+    x3           | x3          | x3     |
+V:1
+    "C"z6 c2c2c2 | "Am"c8 B2c2 | "D"A12 |
+w: ¡A-brid ca-mi-no~al Se-ñor!
+V:2
+    x3          | x3          | x3         | x3     | x3    |
+V:1
+    "D7"z8 z3 D | "G"G8-G2 AB | "C"c8 zBAG | "G"G12 | D6 z6 |
+w: La voz_ del que cla-ma~en el de-sier-to
+V:2
+    x3           | x3          | x3     |
+V:1
+    "C"z6 c2c2c2 | "Am"c8 B2c2 | "D"A12 |
+w: ¡Sus sen-das en-de-re-zad!
+V:2
+    x3        | x3               | x3                |
+V:1
+    z6 A2B2c2 | "Bm"d6 "Em"G4 zG | "C"B2A2G2 .A2B2c2 |
+w: Y to-do va-lle se le-van-ta-rá to-do
+V:2
+    x3               | x3                | x3           | x3             |
+V:1
+    "Bm"d6 "Em"G4 zG | "C"B2A2G2 .A2B2c2 | "Bm"d8 B2 d2 | "Em"A2 G6 B2c2 | 
+w: mon-te se a-lla-na-rá y~el te-rre-no~es-ca-bro-zo se ha-
+V:2
+    x3           | x3             | x3                  | [M:4/4]x4     |       x4                     | [Q:1/4=120]x4       | x4                | x4
+V:1
+    "Bm"d8 B2 d2 | "Em"A2 G6 A2B2 | "C"c4 c2 "Bm7"B4 B2 | [M:4/4][L:1/8]"Am7"A4 z2 Bc | "D"B2 A2 z2 GF | [Q:1/4=120]"G"G4 z4 | "G"z4 "C"z2 "D"z2 | "G"z4 "C"z2 "D"z2 
+w: rá tie-rra pla-na y la sal-va-ción de Dios a los hom-bres lle-ga-rá
+V:2
+    |:x4                           | x4[L:1/16]        |
+V:1
+    |:[L:1/16]"G"GG2G2GG2 G4 D2 G2 | "C"c6 B2 "D"A6 G2 |
+w: So-mos par-te del pue-blo que bus-ca al Se-
+V:2
     GG2G2GG2 G4 D2 G2 | "C"c6 B2 "D"A6 G2 |
 w: So-mos par-te del pue-blo que bus-ca al Se-
 V:1
-    D | "G"G8-G2 AB | "C"c8 zBAG | "G"G12 | D6 z6 |
-w: La voz_ del que cla-ma~en el de-sier-to
-    "C"z6 c2c2c2 | "Am"c8 B2c2 | "D"A12 |
-w: ¡A-brid ca-mi-no~al Se-ñor!
-    "D7"z8 z3 D | "G"G8-G2 AB | "C"c8 zBAG | "G"G12 | D6 z6 |
-w: La voz_ del que cla-ma~en el de-sier-to
-    "C"z6 c2c2c2 | "Am"c8 B2c2 | "D"A12 |
-w: ¡Sus sen-das en-de-re-zad!
-    z6 A2B2c2 | "Bm"d6 "Em"G4 zG | "C"B2A2G2 .A2B2c2 |
-w: Y to-do va-lle se le-van-ta-rá to-do
-    "Bm"d6 "Em"G4 zG | "C"B2A2G2 .A2B2c2 | "Bm"d8 B2 d2 | "Em"A2 G6 B2c2 | 
-w: mon-te se a-lla-na-rá y~el te-rre-no~es-ca-bro-zo se ha-
-    "Bm"d8 B2 d2 | "Em"A2 G6 A2B2 | "C"c4 c2 "Bm7"B4 B2 | [M:4/4][L:1/8]"Am7"A4 z2 Bc | "D"B2 A2 z2 GF | [Q:1/4=120]"G"G4 z4 | "G"z4 "C"z2 "D"z2 | "G"z4 "C"z2 "D"z2 
-w: rá tie-rra pla-na y la sal-va-ción de Dios a los hom-bres lle-ga-rá
-    |:[L:1/16][Q:1/4=120]"G"GG2G2GG2 G4 D2 G2 | "C"c6 B2 "D"A6 G2 |
-w: So-mos par-te del pue-blo que bus-ca al Se-
     "G" G8 z8 | z16 |
+w: ñor
+V:2
+    G8 z8                | [L:1/4]  x4        | x4                     |
 w: ñor
 V:1
     "G"GG2GG2G2 G4 D2 G2 | "C"c6 B2 "Am"A6 G2 | [L:1/8]"D"A4 A3/2B3/2c |
 w: Lis-tos a pre-pa-rar el ca-mi-no del Se-ñor con ar-ma-
-V:2
-    G8 z8                | [L:1/4]  x4        | x4                     |
-w: ñor
 V:1
     "Bm"d4 "Em"G4 |"C"B3/2A3/2G .A2 Bc | "Bm"d4 "Em"G4 | "C"B3/2A3/2G .A2 Bc |
 w: du-ra pa-ra lu-char y la~es-pa-da pa-ra~a-ta-car con la

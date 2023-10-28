@@ -1,0 +1,42 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Himno a San José
+T:Misa - Salida
+T:San José
+C:
+M:2/4
+L:1/8
+Q:1/4=72
+K:D
+%
+    zA, DE | "D"F3A | "G"GE FD | "A"D2 E2 |
+w: 1.~Hoy a tus pies po-ne-mos nues-tra vi-da,
+w: 2.~En Na-za-ret jun-to~a la Vir-gen San-ta,
+w: 3.~Con sen-ci-llez, hu-mil-de car-pin-te-ro,
+w: 4.~Tu-vis-te fe en Dios y su pro-me-sa,
+    zD GA | "G"B3d | "A"cA BG | "D"A4 | 
+w: hoy a tus pies, ¡Glo-rio-so San Jo-sé!
+w: en Na-za-ret, ¡Glo-rio-so San Jo-sé!
+w: con sen-ci-llez, ¡Glo-rio-so San Jo-sé!
+w: tu-vis-te fe, ¡Glo-rio-so San Jo-sé!
+    zD dc | "G"B2 AG | "D"A3A | "G"GE "D"FD |
+w: Es-cu-cha nues-tra~o-ra-ción, y por tu~in-ter-ce-
+w: Cui-das-te~al ni-ño Je-sus, pues por tu gran vir-
+w: Hi-cis-te bien tu la-bor, o-bre-ro del Se-
+w: Ma-es-tro de o-ra-ción, al-cán-za-nos el
+    "A"E2 "F#m"AG | "G^7"F2DF | "A"ED DC | "D"D4 :|
+w: sión ob-ten-dre-mos la paz del co-ra-zón
+w: tud, fuis-te dig-no cus-to-dio de la luz
+w: ñor, o-fre-cien-do tra-ba-jo~y o-ra-ción
+w: don de~es-cu-char y se-guir la voz de Dios

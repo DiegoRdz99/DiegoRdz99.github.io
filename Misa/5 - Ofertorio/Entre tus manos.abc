@@ -1,0 +1,47 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Entre tus manos
+T:Misa - Ofertorio
+T:Ordinario
+C:Ray Repp
+S:
+M:4/4
+L:1/4
+Q:1/4=120
+K:D
+%
+%
+    zDDF | E2E2 | zEFG | F/2D B,/2A,2 |
+w: En-tre tus ma-nos es-tá mi vi-da, Se-ñor
+    zFAF | E2E2 | zF/2E/2DE | F4 | 
+w: En-tre tus ma-nos pon-go mi~e-xis-tir.
+    zFGA | B4 | zBA>^G | A4 |
+w: Hay que mo-rir pa-ra vi-vir
+    zFAF | E2E2 | zF/2E/2DE | D4 ||
+w: En-tre tus ma-nos con-fí-o mi ser.
+    z2 DF | G2 G2 | zA/2B/2 AG | F2F2 |
+w: 1.~Si el gra-no de tri-go no mue-re,
+w: 2.~Es mi~an-he-lo, mi~an-he-lo cre-cien-te,
+w: 3.~Cuan-do die-re por fru-to~u-na~es-pi-ga
+    z2 DF | G2 G2 | A/2B/2 A^G | A4 |
+w: si no mue-re, so-lo que-da-rá;
+w: en el sur-co, con-ti-go mo-rir;
+w: a los ra-yos de~ar-dien-te ca-lor;
+    zD DF | E2 E2 | zE/2-E/2 FG | F/2D B,/2A,2 |
+w: pe-ro si mue-re, en_ a-bun-dan-cia da-rá,
+w: *y fe-cun-da se-rá la si-mien-te, Se-ñor,
+w: *tu rei-na-do ten-drá nue-va vi-da de~a-mor,
+    zF AF | E2 E2 | zF/2E/2 DE | D4 :|
+w: un fru-to~e-ter-no que no mo-ri-rá.
+w: *re-ves-ti-da de~e-ter-no vi-vir.
+w: en u-na Hos-tia de~e-ter-no~es-plen-dor

@@ -1,0 +1,48 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Symbolum 77
+T:Misa - Cordero
+T:Ordinario
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:Bb
+% voice grouping
+%%score (s a) (t b)
+% voice properties
+V:t clef=treble-8
+V:b clef=bass octave=-1
+% voice colors
+[V:a]   [I:voicecolor #3377ff]
+[V:b]   [I:voicecolor #3377ff]
+%
+V:s
+    "Gm"GG GA | "Eb"B2B2 | "F"AB AF | "Gm"D2-D2 | z4 | "Eb"z4 | "F"z4 | "Bb"z4 |
+w: 1.~E-res tú mi vi-da, so-lo tú Se-ñor._
+    "Cm"ed eG | "F"G-G A2 | "Bb"dcdF | "Gm"G4 | "Cm"GA BG | "F"AB cA | "Bb"Bcde | "G7"d4 | 
+w: Se-gui-ré tus pa-a-sos, me guia-rá tu~a-mor; tú me~has da-do vi-da nue-va y tu sal-va-ción
+    "Cm"ed ed | "F"(dd) d2 | "Bb"
+w: Ya no ten-go más te-mor
+%
+V:a
+    GG GG |  G2 F2 | EE EE | D2-D2 | z4 | z4 | z4 | z4 |
+%
+V:t
+    z4 | z4 | z4 | z4 | GG GA | B2B2 | AB ce | d4 |
+w: 1.~E-res mi ca-mi-no e-res mi ver-dad.
+%
+V:b
+    z4 | z4 | z4 | z4 | gg gg | e2 d2 | ff ga | b4 |

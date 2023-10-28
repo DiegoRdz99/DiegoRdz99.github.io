@@ -1,0 +1,35 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Ofrendas de Amor
+T:Misa - Ofertorio
+T:Ordinario
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=105
+K:C
+%
+%
+    EF | "C"GG2G | "F"GF2E | "G"ED3 | "G7"z2 EF | "C"GG2G | "F"AG2F | "G"G4 |
+w: 1.~Por los hom-bres que vi-ven u-ni-dos, por los hom-bres que bus-can la paz
+w: 2.~Por a-que-llos a quie-nes que-re-mos, por no-so-tros y nues-tra~a-mis-tad
+w: 3.~Por los ni-ños que~em-pie-zan la vi-da, por los hom-bres sin te-cho ni~ho-gar
+    "G7"z2 EF | "C"GG2G | "F"GF2E | "G"ED3 | z2 ED | "F"CC2C | "G"EE2D | "C"C4 | "C7"z4 |
+w: 1.~Por los pue-blos que no te co-no-cen, te~o-fre-ce-mos el vi-no y~el pan
+w: 2.~Por los vi-vos y por los di-fun-tos, te~o-fre-ce-mos el vi-no y~el pan
+w: 3.~Por los pue-blos que su-fren la gue-rra, te~o-fre-ce-mos el vi-no y~el pan
+    "F"A2A2 |AG2F | A2c2 | "G"B4 | z4 | "F"A2A2 | "G"AG2F | "C"G4 | "Em"z4 |
+w: Pan y vi-no so-bre tu~al-tar, son o-fren-das de~a-mor
+    "Am"E2E2 | ED2C | E2G2 | "Dm"F4 | "DmM7"z2 zC | "G"D2D2 | "G7"DC2B, | "C"C4 | "G"z2 :|
+w: Pan y vi-no se-rán des-pués, tu cuer-po~y san-gre Se-ñor

@@ -1,0 +1,27 @@
+title : Gloria Popular
+key : D
+liturgy : Ordinario
+{song}
+/Coro/
+[D]Glo - [A]ria al Se[D]ñor,
+que [G]reina [A]  en el [D]cie - e[D7]lo
+[G]y en la [A]tierra [D]paz
+[Bm]  a los [Em]hombres [A]  que ama [D]Él
+/verse/
+Se[G]ñor te [A]ala[D]ba - amos,
+Se[G]ñor te [A]bende[D]ci - i[D7]mos.
+[G]To - dos [A]te ado[D]ra - [Bm]mos,
+[G]gra - [A]cias por tu [D]Glo - ria
+/coro/
+/verse/
+Tú [G]eres [A]el Cor[D]de - ero,
+que [G]quitas [A]el pe[D]ca - a[D7]do.
+[G]Ten pie[A]dad de no[D]so - [Bm]tros,
+y es[G]cu - cha [A]nuestra ora[D]ción
+/coro/
+/verse/
+Tú [G]solo [A]eres [D]Sa - anto,
+Tú [G]solo [A]el Al[D]tí - si[D7]mo,
+[G]con el Es[A]píritu [D]Sa - n[Bm]to
+en la [G]Glo - [A]ria de Dios [D]Pa - dre.
+/coro/

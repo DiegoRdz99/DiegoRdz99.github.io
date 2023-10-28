@@ -1,0 +1,48 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Gloria San Pablo
+T:Misa - Gloria
+T:Misa San Pablo
+C:
+S:
+M:3/4
+L:1/4
+Q:3/4=60
+K:Bb
+%
+    "Bb"F2D | "F"FBA | "Bb"GF2- | "Gm"FBA | "Eb"G2E | "F"F3 |
+w: Glo-ria~a Dios en el cie-lo,_ y~en la tie-rra paz
+    zCD | "Cm7"EEF | "F7"FGA | "Bb"B3- | "Eb/Bb"B3- | "Bb"B3 ||1
+w: a los hom-bres que a-ma~el Se-ñor__
+    "Bb"zDE | F2F | GF2 | "Eb"BAG | "Bb"FD2 | "F"FFG | FC2 |
+w: 1.~Por tu~in-men-sa glo-ria te a-la-ba-mos, te ben-de-ci-mos,
+    "Eb"BAG | "Bb"FD2 | "F"F/2F/2FG | FD2 | "Bb"FFG | FD2 |
+w: te a-do-ra-mos, te glo-ri-fi-ca-mos, te da-mos gra-cias,
+    z2F | "Eb"G2G | "F"AAA | "Gm"B2B | "Eb"BG2 | B/2B/2AG | "Bb"FD2 |
+w: Se-ñor Dios, Rey ce-les-tial, Dios Pa-dre to-do-po-de-ro-so.
+    z2F | "Cm7"GGG | "F"A/2A/2A2 | "Eb"B2A | "F"GF2- | "F7"F2 z :|2
+w: Se-ñor, Hi-jo ú-ni-co, Je-su-cris-to._
+    "Bb"z2B | "Eb"B3 | G2B | BcB | G3 | BAG | "Bb"FD2 |
+w: 2.~Se-ñor Dios, Cor-de-ro de Dios, Hi-jo del Pa-dre;
+    z2D/2E/2 | "F"FFF/2F/2 | AGF | "Bb"GF2 | z3 | "Eb"G2B | "F"AGF | "Bb"GF2 |
+w: tú que qui-tas el pe-ca-do del mun-do, ten pie-dad de no-so-tros;
+    z2D/2E/2 | "F"FFF/2F/2 | AGF | "Bb"GF2 | z2F | "Eb"G2B | "F"A2F | "Bb"G/2G/2F2 |
+w: tú que qui-tas el pe-ca-do del mun-do, a-tien-de nues-tra sú-pli-ca;
+    z2D/2E/2 | "F"F2F | "Bb"GFF/2F/2 | "F"AGF | "Bb"FE2 | "Gm"z3 | "Cm"G2A | "Eb"BAG | "F"GA2- | "F7"A2z ||
+w: tú que~es-tás sen-ta-do~a la de-re-cha del Pa-dre, ten pie-dad de no-so-tros;_
+    "Bb"zBB | "Eb"B2B | BAG | BG2 | z3 | B2B | "F"A2G | "Bb"F3 | z3 |3
+w: 3.~Por-que só-lo tú e-res San-to, só-lo tú Se-ñor,
+    "Eb"B2B | B2G | B3/2B/2G | z3 | B3 | "F"A3 | "Bb"GF2 | z3 |
+w: só-lo tú Al-tí-si-mo, Je-su-cris-to,
+    "Dm"FFF | "F"AGF | "Bb"GF2-| FDE | "F"FFG | "F7"G3 | "Bb"cB2- | Bz2 :|

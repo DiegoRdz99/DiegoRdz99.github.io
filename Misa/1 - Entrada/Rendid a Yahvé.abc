@@ -1,0 +1,64 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Rendid a Yahvé
+T:Misa - Entrada
+T:Ordinario
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=140
+K:G
+%%score (2 1)
+%
+V:2
+    x | x4 | x4 | x4 |
+    x4 | x4 | x4 | x4 |
+    x4 | x4 | x4 | x4 |
+    x4 | x4 | x4 | x4 |
+    x4 | x4 | x4 | x4 |
+    x4 | x4 | x4 | x4 |
+    x4 | x4 | x4 | x4 |
+    x4 | [I:voicecolor #3377ff][L:1/8]z2 zAc3A | cc2 Acc2 A | B2cd4 z |
+w: Su voz des-ga-ja los ce-dros de lí-ba-no
+    x8 | z2 zAcc2A | cc2 Acc2 A | B2AG4 z |
+w: La voz del Se-ñor lan-za lla-mas de fue-e-go
+    x8 | z2 zAcc2A | cc2 Acc2 A | B2cd4 z |
+w: Sa-cu-de los bos-ques la voz del Al-tí-si-mo
+    x8 | z2 G2GG3 | c2c2BA3 | B2AG4z |
+w: Y~en sus san-tua-rios gri-tan: ¡Glo-o-ria!
+%
+V:1
+    B, | "G"D2 DE | D2 B,D | "C"EG/2G3/2-G |
+w: Ren-did a Yah-vé san-tos del Se-ñor,_
+    zGFE | "G"D3B, | D2CB, | "D"B,/2A,D3/2-D |
+w: glo-ria~y po-der al Dios de la cre-a-ción._
+    zB,B,C | "G"D2 DE | DD B,D | "C"EG/2G3/2-G |
+w: Ren-did ho-nor al glo-rio-so nom-bre del Se-ñor_
+    z2 GA | "G"B3/2c/2-cB | "D"A3/2B/2-BA | "G"G4 |
+w: y~a-do-rar-lo en su san-to es-plen-dor
+    "D7"zDGA | "G"B3/2A3/2G | "C"c3/2B3/2A | "G"BA/2G3/2-G |
+w: So-bre los ma-res re-sue-na la voz de Dios_
+    "D7"zDGA | "G"B3/2A3/2G | "C"c3/2B3/2A | "D"A4 |
+w: Glo-rio-so~es Dios, su voz ha-ce tem-blar
+    "D7"zDGA | "G"B3/2A3/2G | "C"c3/2B3/2A | "G"BA/2G3/2-G |
+w: Qué po-de-ro-sa~es la voz del Al-tí-si-mo_
+    zddd | "F"c4- | "C"c4 | "G"B4 |
+w: A-le-lu-ya__
+    zddd | "F"c4- | "C"c4 | "G"B4 |
+w: A-le-lu-ya__
+    zddd | "F"c4- | "C"c4 | "G"B4 |
+w: A-le-lu-ya__
+    zddd | "F"c4- | "C"c4 | "G"B4 |
+w: A-le-lu-ya__

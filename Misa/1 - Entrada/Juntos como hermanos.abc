@@ -1,0 +1,35 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Juntos como hermanos
+T:Misa - Entrada
+T:Ordinario
+C:
+S:
+M:C
+L:1/8
+Q:1/4=90
+K:F
+%
+    "F"A2A4 GA | "Dm"F2F6 | "Gm"B2B4 AB | "C7"G2G6 |
+w: Jun-tos co-mo~her-ma-nos, miem-bros de~u-na~I-gle-sia
+    "F"c2A4 BG | "Dm"F2F4 BB | "F"A3F "C7"G2G2 | "F"F6 z2 ||
+w: va-mos ca-mi-nan-do al en-cuen-tro del Se-ñor
+    z4 z2F2 | "A7"A3A AG3 | "Dm"F4- FFAc | "D7"d2c2 B2A2 |
+w: 1.~Un lar-go ca-mi-nar,_ por el de-sier-to ba-jo~el
+w: 2.~U-ni-dos al re-zar,_ u-ni-dos en u-na can-
+w: 3.~La~I-gle-sia~en mar-cha~es-tá,_ a~un mun-do nue-vo va-mos
+    "Gm"G8 | "F"AAAA "C7"B2G2 | "F"F4 "C7"d2d2 | "F"A3F "C7"G2G2 | "F"F6 z2 :|
+w: sol; no po-de-mos a-van-zar sin la~a-yu-da del Se-ñor.
+w: ción; vi-vi-re-mos nues-tra fe con la~a-yu-da del Se-ñor.
+w: ya; don-de rei-na-rá~el a-mor, don-de rei-na-rá la paz.

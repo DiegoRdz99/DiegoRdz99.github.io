@@ -1,0 +1,37 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Santo Mejía II
+T:Misa - Santo
+T:Ordinario
+C:Alejandro Mejía
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:C
+V: a octave=+1
+%
+    "C"E2 (ED) | "Am"C2 C2 | "Dm"FF FD | "G"E2 D2 | "C"E2 ED | "Am"C2 C2 | "Dm"F2 FD | "G"E2 D2 |
+w: San-to-o, san-to, san-to~es el Se-ño-or, Dios po-de-ro-so del u-ni-ver-so.
+    "G7"z2 zG, | [M:4/4]"C"C2C2 C3B, | "Am"A,2A,2 z2B,C | "Dm"D2D2D3C | "G"B,2B,4zG, |
+w: Los cie-los y la tie-rra es-tán lle-nos de su Glo-ria, ho-
+    "C"CC4z2D | "Am"EE4 z2E | "Dm"F2DD"G"G2F2 | "C"E4z2 zG, |
+w: sa-nna, ho-sa-nna, ho-sa-nna~en el cie-e-lo ho-
+    "C"CC4z2D | "Am"EE4 z2E | "Dm"F2DD"G"G2F2 | "C"E4 "C7"z2E |
+w: sa-nna, ho-sa-nna, ho-sa-nna~en el cie-e-lo. Ben-
+    [M:2/4]"F"A2AG | "G"F2.D2 | "C"G3F | "Am"E2 .C2 | "Dm"F3E | [M:4/4]"G"E2D4 zG, |
+w: di-to~el que vie-ne en el nom-bre del Se-ño-or, ho-
+    "C"CC4z2D | "Am"EE4 z2E | "Dm"F2DD"G"G2F2 | "C"E4z2 zG, |
+w: sa-nna, ho-sa-nna, ho-sa-nna~en el cie-e-lo ho-
+    "C"CC4z2D | "Am"EE4 z2E | "Dm"F2DD"G"G2F2 | "C"E4 z4 |]
+w: sa-nna, ho-sa-nna, ho-sa-nna~en el cie-e-lo

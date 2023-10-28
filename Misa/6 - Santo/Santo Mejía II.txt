@@ -1,0 +1,19 @@
+title : Santo Mejía II
+composer : Alejandro Mejía
+key : C
+liturgy : Ordinario
+{song}
+/verse/
+[C]Santo - o, [Am]santo, [Dm]santo es el Se[G]ño - or,
+[C]Dios pode[Am]roso, [Dm]del uni[G]ver - so.
+[G7]  Los [C]cielos y la [Am]tierra
+están [Dm]llenos de su [G]Gloria.
+/Coro/
+Ho[C]sanna, ho[Am]sanna,
+ho[Dm]sanna en el [G]cie - e[C]lo
+Ho[C]sanna, ho[Am]sanna,
+ho[Dm]sanna en el [G]cie - e[C]lo
+/verse/
+[C7]  Ben[F]di - to el que [G]viene
+[C]en el [Am]nombre [Dm]del Se[G]ño - or
+/coro/

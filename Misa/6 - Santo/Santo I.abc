@@ -1,0 +1,42 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Santo I
+T:Misa - Santo
+T:Ordinario
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+%
+    "G"G3D3z2 | "D"A3D3z2 | "C"c2c2B2G2 | "D"A6 z2 |
+w: San-to, san-to, san-to~es el Se-ñor
+    "G"G3D3z2 | "D"A3D3z2 | "C"c2c2B2G2 | "D"A6 z2 |
+w: San-to, san-to, san-to~es el Se-ñor
+    "Em"B2GG3A2 | "EmM7/D#"B3F3z2 | "D"B3A3G2 | "A"A3E3D2 |
+w: Dios del u-ni-ver-so lle-nos es-tá-an el
+    "C"c3B3G2 | "Am"c3B3z2 | "F"c3B3G2 | "D"G3A3z2 |
+w: cie-lo~y la tie-rra de-e tu Glo-ria
+    "D7"z4 z2D2 | "G"c3.B3D2 | "Em"c3.B3D2 | "C"c3B3G2 |
+w: Ho-sa-nna, ho-sa-nna, ho-sa-nna~en el
+    "D"G3A3D2 | "G"c3.B3D2 | "Em"c3.B3D2 | "C"c3B3G2 |
+w: cie-lo ho-sa-nna, ho-sa-nna, ho-sa-nna~en el
+    "D"G3A3B2 | "Em"B3G3A2 | "EmM7/D#"B3F3z2 | "D"B3A3G2 | "A"A3E3z2 |
+w: cie-lo, ben-di-to~el que vie-ne e-en el nom-bre
+    "C"c3B3G2 | "Am"G6 z2 | "F"c3B3c2 | "D"d8 |
+w: de-el Se-ñor, de-el Se-ñor
+    "D7"z4 z2D2 | "G"c3.B3D2 | "Em"c3.B3D2 | "C"c3B3G2 |
+w: Ho-sa-nna, ho-sa-nna, ho-sa-nna~en el
+    "D"G3A3D2 | "G"c3.B3D2 | "Em"c3.B3D2 | "C"c3B3G2 | "Cm"G8 | "G"G8 |]
+w: cie-lo ho-sa-nna, ho-sa-nna, ho-sa-nna~en el cie-lo

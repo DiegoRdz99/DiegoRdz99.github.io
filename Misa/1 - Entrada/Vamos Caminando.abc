@@ -1,0 +1,36 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Vamos Caminando
+T:Misa - Entrada
+T:Ordinario
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+%
+%
+    "C"C2C2EF2G- | "Em"G2G2G2G2 | "F"A2G2FE2D- | "G"D4 z4 |
+w: Va-mos ca-mi-nan--do a la ca-sa del Se-ñor,_
+    "C"C2C2EF2G- | "Em"G2G2G2G2 | "F"A2G2FA2G- | "G"G4 z2FG |
+w: jun-tos co-mo~her-ma--nos en un gran la zo de~a-mor_ por-que
+    "F"A2A2Ac2B- | "G"B2A2 G2F2 | "C"G2G2"Em"GA2E- | "Am"E4 z2DE |
+w: Cris-to~ha de-mos-tra--do con sus o-bras la ver-dad,_ por-que
+    "F"F2F2GA2G- | "G"G2F2E2D2 | "C".E3D EF2G- | "C7"G4 z2FG |
+w: so-lo~un buen a-pós--tol sen-ti-rá fe-li-ci-dad,_ por-que~el
+    "F"A2A2Ac2B- | "G"B2A2 G2F2 | "C"G2G2"Em"GA2E- | "Am"E4 z2DE |
+w: mun-do ne-ce-si--ta más a-mor y li-ber-tad_ es por
+    "F"F2F2GA2G- | "G"G2F2E2D2 | "F"F8 | z4E4 | "C"G8 |]
+w: e-so que ve-ni--mos a can-tar a Dios

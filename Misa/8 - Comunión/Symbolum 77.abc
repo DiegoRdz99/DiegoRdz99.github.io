@@ -1,0 +1,48 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Symbolum 77
+T:Misa - Comunión
+T:Solemne
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:Bb
+%
+    "Gm"GG GA | "Eb"B2B2 | "F"AB AF | "Gm"D2-D2 |
+w: 1.~E-res tú mi vi-da, so-lo tú Se-ñor._
+w: 2.~Cre-o~en Je-su-cris-to, Hi-jo de Ma-rí-a.
+w: 3.~E-res tú mi fuer-za, so-lo tú Se-ñor._
+w: 4.~E-res pan de vi-da, fuen-te de mi~a-mor._
+    GG GA | "Eb"B2B2 | "F"AB ce | "Bb"d4 |
+w: E-res mi ca-mi-no e-res mi ver-dad.
+w: Hi-jo~e-ter-no~y san-to, nues-tro Re-den-tor.
+w: E-res luz de mi~al-ma, y mi li-ber-tad.
+w: Tú mi for-ta-le-za, e-res mi Se-ñor.
+    "Cm"ed eG | "F"G-G A2 | "Bb"dcdF | "Gm"G4 | 
+w: Se-gui-ré tus pa-a-sos, me guia-rá tu~a-mor.
+w: Creo que por sal-va-ar-me, mo-ris-te~en la Cruz.
+w: Na-da~en es-te mu-un-do nos se-pa-ra-rá.
+w: Tú que sa-bes bien quien soy, da-me tu per-dón.
+    "Cm"GA BG | "F"AB cA | "Bb"Bcde | "G7"d4 |
+w: Tú me~has da-do vi-da nue-va y tu sal-va-ción
+w: Y~al re-su-ci-tar me dis-te vi-da~y ple-ni-tud.
+w: Ya sé que tu ma-no fuer-te no me de-ja-rá.
+w: En tus ma-nos yo me~en-tre-go to-do~en-te-ro~a ti.
+    "Cm"ed eG | "F"G-G A2 | "Bb"dcdF | "Gm"G4 | "Bb"GA BG | "D7"GG ^F-F | G4 :|
+w: Ya no ten-go más te-mor, si tú~es-tás a-quí. Te lo rue-go, qué-da-te en mí.
+w: En el pan y~el vi-i-no, te nos das Se-ñor. Lle-na mi~al-ma, da-me tu a-mor.
+w: De to-dos los ma-a-les, tú me li-bra-rás. Te lo pi-do, da-me tu_ paz.
+w: Que-da-te~en mi co-ra-zón, lle-na mi~e-xis-tir. Te lo rue-go, qué-da-te en mí.

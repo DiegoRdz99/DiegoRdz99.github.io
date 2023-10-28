@@ -1,0 +1,38 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Bendito seas Señor
+T:Misa - Ofertorio
+T:Solemne
+C:Francisco Palazón
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:Dm
+%
+    S"Dm"zD AA | "G"G2 AF | [M:3/4]"Dm"D2 zD "Bb"FF | [M:2/4]"C"E2 "Am7"DC | "Dm"D2 D2 |
+w: Ben-di-to se-as Se-ñor por es-te pan y~es-te vi-no
+    zD EF | "Gm"G2 "C7"FG | [M:3/4]"F"A2 .A2 FG | [M:2/4]"Dm"Ac "G"=BG | "A"A2 A2- | "A7"Az AA |
+w: que ge-ne-ro-so nos dis-te pa-ra ca-mi-nar con-ti-go_ y se-
+    "Dm"dd "Am"cA | [M:3/4]"Gm"G2 .G2 "Dm"FG | [M:2/4]AD "Bb"FF | "C7"E2 "D"D2- | OD2 :1
+w: rán pa-ra no-so-tros a-li-men-to~en el ca-mi-no_
+    [K:D]"D"FF | F"A"E "G"D"A"E | "D"F2 FF | [M:3/4]"F#m"A2 "Bm"DD "Em"E"D"F | "A"G2 "D"F2 zF | 
+w: Te~o-fre-ce-mos el tra-ba-jo las pe-nas y la~a-le-grí-a el
+    "Em"E2 EG "F#"FE | "Bm"D2 D2 z2 | "G"B,B, "Em"GF "E"ED | [M:2/4]"D"F2 E2-|"A"E4 :|2
+w: pan que nos a-li-men-ta y~el a-fán de ca-da dí-a_
+    "D"FF | F"A"E "G"D"A"E | [M:3/4]"D"F2 F2 "A"E"D"F | "F#m"A"G"D "Em"E"D"F | "A"G2 "D"F2 zF |
+w: Te~o-fre-ce-mos nues-tro ba-rro que~os-cu-re-ce nues-tras vi-das y~el
+    "Em"E2 EG "F#"FE | "Bm"D2 .DB, CD | [M:2/4]"Em"G2 "E"FD | "D/A"F2 E2- | "A"E4 !D.S.alcoda! ||
+w: vi-no que no~em-ple-a-mos pa-ra cu-rar las he-ri-das_
+    !coda!"Dm"zD AA | "Gm"G2 Ac | "Bb".d3/2.d3/2 "A".c | "D"d4 |]
+w: Ben-di-to se-as por siem-pre Se-ñor

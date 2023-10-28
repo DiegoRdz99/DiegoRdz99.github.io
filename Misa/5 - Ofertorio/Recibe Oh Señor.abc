@@ -1,0 +1,37 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Recibe, Oh Señor
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=105
+K:G
+%
+%
+    "G"D4 B,2C2 | "D"D2E D4 z | "Em"z2GG GGAG | "Bm"F2D2B,2D2 | "C"E6 G2 | "D"D4 z4 |
+w: Re-ci-be, Oh Se-ñor, las o-fren-das que~hoy po-ne-mos an-te Ti, gran Dios
+    "G"D4 B,2C2 | "D"D2E D4 z | "C"z2GG "Am"G3/2E3/2G | "D"A4 z4 |
+w: Re-ci-be, Oh Se-ñor, to-da nues-tra~o-ra-ción
+    "G"z2|:BB B2G2 | "D"A2BA3F2 | "Em"z2 GG G3/2A3/2G | "Bm"F4 z4 |
+w: To-ma nues-tros co-ra-zo-nes que~o-fre-ce-mos a Ti
+    "C"z2E2 F2G2 | "D"A2GF2DDD | "C"E3G z2G2 | "D"A3B2 zAG | "G"Gz :|z6 |
+w: Trans-for-ma nues-tra~o-fren-da en el cuer-po y san-gre de Je-sús
+    "G"D4 B,2C2 | "D"D2E D4 z | "Em"z2GG GGAG | "Bm"F2D2B,2D2 | "C"E6 G2 |
+w: Dios Pa-dre cre-a-dor, te doy gra-cias por la vi-da que nos das en
+    "D"F2D2B2A2 | "Em"G4 z2G2 | "D"A8 |
+w: Cris-to sal-va-dor y Rey
+    "G"z2|:BB B2G2 | "D"A2BA3F2 | "Em"z2 GG G3/2A3/2G | "Bm"F4 z4 |
+w: To-ma nues-tros co-ra-zo-nes que~o-fre-ce-mos a Ti
+    "C"z2E2 F2G2 | "D"A2GF2DDD | "C"E3G z2G2 | "D"A3B2 zAG | "G"Gz :| z6|]
+w: Trans-for-ma nues-tra~o-fren-da en el cuer-po y san-gre de Je-sús

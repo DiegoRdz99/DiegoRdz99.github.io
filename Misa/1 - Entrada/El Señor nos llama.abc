@@ -1,0 +1,41 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:El Señor nos llama
+T:Misa - Entrada
+T:Ordinario
+C:Alberto Taulé Viñas
+S:
+M:C
+L:1/8
+Q:1/4=90
+K:E
+%
+    EF | "E"G3G "B7"FFGA | "E"(GF)"A"E2 "E"zEGA |
+w: El Se-ñor nos lla-ma~y nos re-ú--ne, so-mos su
+    B2B2 "A"cBAc | "B7"(B4-"E"B)z AB | "A"c3c "B7"BAGA |
+w: pue-blo sig-no de~u-ni-dad_ Él es-tá en me-dio de no-
+    "G#m"B2B2 "A"zcBA | "E"G2E2 "B7"GFED | "A"E4 :
+w: so-tros, sir-ve~a la me-sa, nos re-par-te~el pan.
+    "E"z2 zE | "A"cccB "F#m7"cc2c | "B7"BAGA "G#m"BB-"E"B E | "F#m"AAAG "B7"AA2B |
+w: 1.~Por to-dos los ca-mi-nos nos sa-les al en-cuen-tro,_ por to-dos he-mos vis-to se-
+w: 2.~Con-vo-cas a tus fie-les na-ci-dos de las a-guas,_ a fes-te-jar u-ni-dos la
+w: 3.~Re-vé-la-nos al Pa-dre, oh Cris-to nues-tra fies-ta,_ au-men-ta la~es-pe-ran-za de
+    "E"GF"A"EF "E"G2zE | "Am7"=cccB "D7"cc2=d | "G"BA=GA "Em"BB2E |
+w: ña-les de tu~a-mor; tu pue-blo se re-ú-ne, Se-ñor a ben-de-cir-te, a
+w: nue-va cre-a-ción; la sa-la del ban-que-te se lle-na de~in-vi-ta-dos, es
+w: nues-tro ca-mi-nar; tu~Es-pí-ri-tu di-vi-no nos de la for-ta-le-za, los
+    "Am"AAA=G "F#m"F2GA | "B7"BBBA B4 | z4z2 :|
+w: ce-le-brar con go-zo tu pa-so sal-va-dor.
+w: ta-mos re-u-ni-dos y~en me-dio~es-tá~el Se-ñor.
+w: bie-nes que~es-pe-ra-mos nos ha-ga pre-gus-tar.

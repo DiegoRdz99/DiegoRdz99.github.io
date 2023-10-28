@@ -1,0 +1,32 @@
+title : Magníficat
+key : D
+liturgy : Ordinario
+{song}
+/Coro/
+[D]Mi alma glorifica al Señor mi [A7]Dios,
+[Bm]Gózase mi espíritu en mi Salva[F#m]dor,
+[G]Él es mi ale[A7]gría, [D]es mi pleni[F#m]tud,
+[G]Él es todo [A7]para [D]mí  [F#7]
+/verse/
+Ha mi[Bm]rado la ba[F#7]jeza de su [Bm]sierva,
+muy di[A]chosa me dirán todos los [D]pueblos,
+porque en [B7]mí ha hecho grandes mara[Em]villas,
+el que [Bm]todo puede y [F#7]cuyo nombre es [Bm]santo  [A7]
+/coro/
+/verse/
+Su cle[Bm]mencia se de[F#7]rrama por los [Bm]siglos,
+sobre a[A]quellos que le temen y le [D]aman,
+desple[B7]gó el gran poder de su de[Em]recha,
+disper[Bm]só a los que [F#7]piensan que son [Bm]algo  [A7]
+/coro/
+/verse/
+Derri[Bm]bó a los poten[F#7]tados de sus [Bm]tronos,
+y ensal[A]zó a los humildes y a los [D]pobres,
+los ham[B7]brientos se saciaron de sus [Em]bienes,
+y ale[Bm]jó de sí va[F#7]cíos a los [Bm]ricos  [A7]
+/coro/
+/verse/
+Aco[Bm]gió a Isra[F#7]el su humilde [Bm]siervo,
+acor[A]dándose de su miseri[D]cordia,
+como ha[B7]bía prometido a nuestros [Em]padres
+a Abra[Bm]ham y descen[F#7]dencia para [Bm]siempre  [A7]

@@ -1,0 +1,55 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Santo II
+T:Misa - Santo
+T:Ordinario
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=92
+K:G
+%
+%%score (2 1)
+V:2
+    [I:voicecolor #3377ff]x4        | x4       |  x4      |  x4        | E2 B2 | "D"A2 F2 | "C"G2 E2 | "B7"F2 ^D2 |
+w: Sa-a-a-a-a-a-a-an-
+V:1
+    "Em"E2 B2 | "D"A2 F2 | "C"G2 E2 | "B7"F2 ^D2 | "Em"E2-E2 | x4      | x4       |  x4      |
+w: Sa-a-a-a-a-a-a-an-to_
+    [M:4/4] "Em"x4 BB AG | "D"A4 z4 | x8        |  x8      |
+w: San-to~es el Se-ñor
+V:2
+    [M:4/4] E4 x4        | x8       | "C"G2G4FE | "B7"F2F6 |
+w: to Dios del u-ni-ver-so
+V:1
+    "Em"z2 zB BB AG | "D"A2A4 x2 | x8        |  x7 D      |
+w: Los cie-los y la tie-rra ho-
+V:2
+    x8        | x6  EF | "C"G2G4FE | "B7"F2F4zD |
+w: Es-tán lle-nos de tu Glo-ria Ho-
+    S[M:2/4]"Em"E.E2E | "D"F.F2F | "C"G.G2G | "B7"AA GA |
+w: sa-nna, ho-sa-nna, ho-sa-nna, ho-sa-nna en el 
+V:1
+    [M:2/4]E.E2E | F.F2F | G.G2G | AA GA |
+w: sa-nna, ho-sa-nna, ho-sa-nna, ho-sa-nna en el 
+    "Em"E2 B2 | "D"A2 F2 | "C"G2 E2 | "B7"F2 ^D2 | "Em"E2-E2 | x4      |
+w: Sa-a-a-a-a-a-a-an-to_
+V:2
+    B2 B2 | x4       |  x4      |  x4        | E2 B2 | "D"A2 F2 | "C"G2 E2 | "B7"F2 ^D2 | 
+w: cie-lo Sa-a-a-a-a-a-a-an-
+    [M:4/4]"Em"E4 !FINE!: x4 | x6 EF |  "C"G2G4FE | "B7"!D.S.alfine!F2z4zD |
+w: to en el nom-bre del Se-ñor Ho-
+V:1
+    [M:4/4] "Em"z3E BB AG | "D"A2A2 z4 | x8        |  x8      |
+w: Ben-di-to~es el que vie-ne
