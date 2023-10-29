@@ -1,0 +1,14 @@
+title : Vamos Caminando
+key : C
+liturgy : Ordinario
+{song}
+/verse/
+[C]Vamos camina [Em]- ndo a la [F]casa del Seño[G]r,
+[C]juntos como herma [Em]- nos en un [F]gran lazo de amo[G]r.
+/Coro/
+Porque [F]Cristo ha demostra [G]- do
+con sus [C]obras [Em]la verda[Am]d.
+Porque [F]solo un buen apó [G]- stol senti[C]rá felici[C7]dad.
+Porque el [F]mundo necesi [G]- ta
+más a[C]mor y [Em]liberta[Am]d.
+Es por [F]eso que veni [G]- mos a can[F]ta - r, a [C]Dios.

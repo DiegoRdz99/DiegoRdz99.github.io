@@ -1,0 +1,37 @@
+title : Vamos al encuentro con Cristo
+composer : Misión País
+key : D
+liturgy : Ordinario
+{song}
+/verse/
+[D]Cantemos [A]al cre - a[G]dor,
+cantemos [D]todos al [G]Dios del a[A]mor.
+[D]Cantemos [G]juntos al [A]Pa - dre
+que nos re[G]gala a su Hijo Je[A]sús.
+/bridge/
+Pues [G]ho - y, se cele [A]- bra,
+la alianza del [D]Padre con [G]su crea[A]ción.
+Pues [G]hoy se hace vi [A]- da,
+la entrega de [D]Cristo por [G]la salva[A]ción.
+/Coro/
+Vamos a [D]- l, en[G]cuentro con [A]Cris - to,
+convoca [D]- d al [G]pueblo de [A]hoy,
+pues con É [G]- l queremos es[A]tar,
+pues con É [D]- l que[G]remos es[A]tar.
+Vamos a[D] - l, en[G]cuentro con [A]Cris - to,
+dispo[D]nien - do [G]el cora[A]zón.
+A[G]labe el [A]cielo y la [D]tie - e[Bm]rra,
+demos [G]gracias, al [Em]Padre
+por [A]es - te encuentro de a[D]mor.
+/verse/
+[D]Abrid las [G]puertas a [A]Cri - sto,
+abrid las [D]pue - rtas [G]de par en [A]par.
+[D]A reci[G]bir la pa[A]la - bra
+y el pan de vi [D]- da [G]que es Je[A]sús.
+/bridge/
+Pues [G]ho - y entrare [A]- mos
+en común u[D]nión con [G]el Se[A]ñor.
+Pues [G]ho - y llevare [A]- mos
+a Cristo a los [D]pueblos, es [G]nuestra mi[A]sió - n.
+/coro/
+/coro/

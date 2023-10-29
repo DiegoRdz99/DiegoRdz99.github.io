@@ -1,0 +1,23 @@
+title : Un solo Señor
+composer : L. Deiss
+key : G
+liturgy : Solemne
+{song}
+/Coro/
+Un [G]solo Se[Em]ñor, [D]una sola [G]fe,
+un [Am]solo Bau[D]tismo, un [C]solo Dios y [D]Pa - a[G]dre
+/verse/
+Lla[G]mados a guar[Em]dar la uni[Am]dad del Es[D]píritu
+por el [C]vínculo de la [G]paz,
+can[Am]tamos y procla[Dsus4]ma - [D]mos:
+/coro/
+/verse/
+Lla[G]mados a for[Em]mar un solo [Am]cuerpo
+en un [C]mi - ismo Es[D]píritu,
+can[Am]tamos y procla[Dsus4]ma - [D]mos:
+/coro/
+/verse/
+Lla[G]mados a compar[Em]tir una [G]misma espe[D]ra - anza
+en [G]Cri - isto,
+can[Am]tamos y procla[Dsus4]ma - [D]mos:
+/coro/
