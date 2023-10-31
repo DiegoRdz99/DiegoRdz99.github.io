@@ -1,0 +1,19 @@
+title : Cantad alegres a Dios
+key : G
+liturgy : Ordinario
+{song}
+/Coro/
+Can[G]ta - d a[C]legres a [G]Dios
+habi[C]tantes de [D]toda la [G]tie - rra;
+ser[C]vidle [D]con ale[G]grí - i[Em]a,
+ser[C]vidle [D]con [A_3]ale[D]grí - i[D7]a.
+Ve[C]nid ante [D]su pre[G]sen - cia
+con [C]reco[D]ci - i[G]jo.
+/verse/
+[G]Recono[C]cer que [D]Dios es [G]Dios
+{[G]|Recono[C]|cer que [D]|Dios es [G]|Dios
+[G]Él nos [C]hizo y [D]su - yos [G]somos
+{[G]|Él nos [C]|hizo y [D]|su - yos [G]|somos
+[C]Pueblo suyo [G]somos,
+y o[A]ve - jas [D7]de su [G]prado.
+/coro/

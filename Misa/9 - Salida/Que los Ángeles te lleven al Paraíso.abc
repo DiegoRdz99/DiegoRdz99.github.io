@@ -1,0 +1,42 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Allá te esperaré
+T:Misa - Salida
+T:Difuntos
+C:
+M:2/4
+L:1/8
+Q:1/4=72
+K:C
+%
+    G,G, | "C"EE EE | "G"GG GF | "C"F2 E2 |
+w: 1.~Que los Án-ge-les del cie-lo te en-cuen-tren,
+w: 2.~Que los Án-ge-les del cie-lo te en-cuen-tren,
+    z2 EE | "G"ED DD/2D/2 | DF ED | "C"E4 |
+w: y te lle-ven al Pa-ra-í-so del Se-ñor.
+w: y te lle-ven an-te el Tro-no del Se-ñor.
+    z2 G,G, | "C"EE EE | "G"GG GF | "C"F2 E2 |
+w: Que los Án-ge-les del cie-lo te en-cuen-tren,
+w: Que los Már-ti-res y San-tos te ben-di-gan,
+    z2 EE | "G"ED DD | DF ED | "C"C4 |
+w: y los San-tos y los Már-ti-res tam-bién
+w: y te dé la vi-da~e-ter-na el Se-ñor
+    "C7"z2 CC | "F"AA AA | "G"BB BA | "C"A2 G2 |
+w: Que los Án-ge-les en co-ro te re-ci-ban
+    z2 AG | "G"GF FF | FAGF | "C"G4 |
+w: en la ciu-dad san-ta de Je-ru-sa-lén,
+    "C7"z2 CC | "F"AA A2 | "G"BB BA | "C"A2 G2 |
+w: y con Lá-za-ro, po-bre~en es-ta vi-da
+    z2 AG | "G"GF FF | FAGF | "C"E4 |
+w: ten-gas el des-can-so~e-te-er-no con Dios.

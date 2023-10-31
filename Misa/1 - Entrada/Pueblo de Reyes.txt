@@ -1,0 +1,20 @@
+title : Pueblo de Reyes
+key : Bb
+liturgy : Sacerdotal
+{song}
+/Coro/
+[Bb]Pue - blo de [Dm]Re - yes,
+[Gm]asam[F]blea [Eb]san - ta,
+[Bb]pueblo sa[Eb]cer[D]do[Gm]tal,
+[Bb]pue - [C]blo [Bb]de [Eb]Dios  [Gm]
+ben[F]di - ce a [Eb]tu Se - [Bb]ñor.
+/verse/
+Te can[Bb]ta - mos oh [D]Hijo a[Gm]mado del [Bb]Padre.
+Te ala[F]bamos, e[Gm]terna Pa[Bb]labra
+sa[Cm]li - [F]da de [Gm]Dios.
+/coro/
+/verse/
+Te can[Bb]ta - mos oh [D]Hijo de la [Gm]Birgen Ma[Eb]ría.
+Te ala[F]ba - mos, oh [Gm]Cristo nuestro her[Bb]ma - no,
+[Cm]nuestro [F]Salva[Gm]dor.
+/coro/

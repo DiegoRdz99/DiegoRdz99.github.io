@@ -1,7 +1,7 @@
 title : Yo soy el pan de vida
 composer : Misión País
 key : A
-liturgy : Ordinario
+liturgy : Difuntos
 {song}
 /intro/
 [Asus2]  [A]  [Asus2]  [A]

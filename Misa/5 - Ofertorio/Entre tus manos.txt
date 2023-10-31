@@ -1,0 +1,43 @@
+title : Entre tus manos
+composer : Ray Repp
+key : D
+liturgy : Difuntos
+{song}
+/Coro/
+[D]  En[D#°7]tre tus [Em]ma - [Em^7]nos,
+[A]  es[A7]tá mi [D]vida, Se[D_7]ñor.
+[Bm]  En[B7]tre tus [Em]ma - [Em^7]nos,
+[A]  pongo [A7]mi exis[D]tir.
+[D7]  Hay que mo[G]rir,  [A]para vi[D]vir  [D_7]
+[Bm]  En[B7]tre tus [Em]ma - [Em^7]nos,
+[A]  confí[A7]o mi [D]ser.  [D7]
+/verse/
+Si el [G]gra - no, [A]
+de tri[A7]go no [D]mue - [D_7]re.
+[Bm]  [B7]Si no [Em]mue - [Em^7]re,
+[A]  solo [A7]queda[D]rá.  [D_7]
+[Bm]  Pe[B7]ro si [Em]mue - [EmM7]re,
+[A]  en [A7]abun[D]dancia da[D_7]rá,
+[Bm]  un [B7]fruto e[Em]te - r[Em^7]no
+[A]  que no [A7]mori[D]rá.
+/coro/
+/verse/
+Es mi an[G]he - lo,
+[A] mi anhe[A7]lo cre[D]cie - n[D_7]te,
+[Bm]  [B7]en el [Em]sur - [Em^7]co,
+[A]  conti[A7]go mo[D]rir;  [D_7]
+[Bm]  [B7]y fe[Em]cun - [Em^7]da
+[A]  será [A]la si[D]miente, Se[D_7]ñor,
+[Bm]  [B7]reves[Em]ti - [Em^7]da
+[A]  de eter[A7]no vi[D]vir.
+/coro/
+/verse/
+Cuando [G]die - re
+[A]  por fru[A7]to una es[D]pi - [D_7]ga
+[Bm]  [B7]a los [Em]ra - [Em^7]yos
+[A]  de ardien[A7]te ca[D]lor  [D_7]
+[Bm]  [B7]ru rei[Em]na - [Em^7]do
+[A]  tendrá [A7]nueva [D]vida de a[D_7]mor
+[Bm]  en [B7]una [Em]Hos - [Em^7]tia
+[A]  de eter[A7]no esplen[D]dor.
+/coro/

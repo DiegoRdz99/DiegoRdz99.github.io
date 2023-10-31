@@ -1,0 +1,26 @@
+title : Rendid a Yahvé
+key : G
+liturgy : Ordinario
+{song}
+/verse/
+Ren[G]did a Yahvé, santos [C]del Señor,
+gloria y po[G]der, al Dios de la [D]creación.
+Rendid ho[G]nor al glorioso nombre
+[C]del Señor,
+y ado[G]rarlo en su [D]santo esplen[G]dor.
+/bridge/
+[D7]  Sobre los [G]ma - res
+re[C]sue - na la [G]voz de Dios.
+[D7]  Glorioso es [G]Dios,
+su voz [C]ha - ce tem[D]blar.
+[D7]  Que pode[G]ro - sa
+es la [C]voz del Al[G]tísimo.
+/Coro/
+{Alelu[F]ya. []|Su voz des[C]|gaja
+{[]|los cedros de [G]|líbano.
+{Alelu[F]ya. []|La voz del Se[C]|ñor lanza
+{[]|llamas de [G]|fue - go.
+{Alelu[F]ya. []|Sacude los [C]|bosques
+{[]|la voz del Al[G]|tísimo.
+{Alelu[F]ya. []|Y en sus san[C]|tuarios gritan:
+{[G]¡Glo - oria!|¡Glo - oria!

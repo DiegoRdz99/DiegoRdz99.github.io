@@ -1,0 +1,18 @@
+title : El Santuario de Dios
+composer : Jésed
+key : G
+liturgy : Ordinario
+{song}
+/Coro/
+Vive [C]Él en su santu[D]ario,
+es la [G]ca - sa [D_3]del Se[Em]ñor,
+y Él es [C]digno de recibi [D]- r
+la [G]glo - ria [D_3]y el ho[Em]nor
+la ala[C]banza y el pode [D]- r
+por los [C]si - glos, a - [G]mén.
+/verse/
+[Em]  Él nos quiere como pueblo sa [C]- nto,
+[Em]  [Am]  apartados para el Se[D]ñor.
+Rin[Em]dámosle reverencia sa [C]- nta,
+[Em]con los [Am]ángeles can[C]temos a una [D]voz.
+/coro/

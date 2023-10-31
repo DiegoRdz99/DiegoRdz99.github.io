@@ -1,0 +1,28 @@
+title : Cantemos un canto de gloria
+composer : Jésed
+key : E
+liturgy : Ordinario
+{song}
+/Coro/
+Can[E]temos un [A]canto de [E]gloria
+a [A]Dios pode[E]roso nues[B7]tro sal - va[E]dor.
+[B7] Con a[E]cciones de [A]gracias en[E]tremos
+[A]a su san[E]tuario a ren[B7]dirle ho[E]nor
+/verse/
+Porque [C#m]Él [A]es Yah[B7]vé,
+Rey [E]gran[B7]de y Se[C#m]ñor.
+En sus [A]manos está toda [F#7]la creación,
+[F#m]todo fue hecho por [B7]Él.
+/bridge/
+En[E]tremos ado[F#m]remos pos[A]tré - mo[E]nos,
+ala[E]bemos a [F#m]Dio - s nues[A]tro crea[E]dor.
+/coro/
+/verse/
+Porque [C#m]Él es [A]nuestro [B7]Dios,
+y no[E]so - [B7]tros su [C#m]pueblo.
+El re[A]baño que el guía a [F#7]la salvación.
+[F#m]¡Glo - ria a Yah[B7]vé!
+/bridge/
+En[E]tremos ado[F#m]remos pos[A]tré - mo[E]nos,
+ado[E]remos a [F#m]Dio - s nues[A]tro crea[E]dor.
+/coro/

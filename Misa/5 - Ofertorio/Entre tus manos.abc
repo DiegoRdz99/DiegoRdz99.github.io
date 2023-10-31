@@ -12,36 +12,36 @@
 X:1
 T:Entre tus manos
 T:Misa - Ofertorio
-T:Ordinario
+T:Difuntos
 C:Ray Repp
 S:
 M:4/4
 L:1/4
-Q:1/4=120
+Q:1/4=90
 K:D
 %
 %
-    zDDF | E2E2 | zEFG | F/2D B,/2A,2 |
+    "D"zD"D#°7"DF | "Em"E2"EmM7"E2 | "A"zE"A7"FG | "D"F/2D B,/2"D/C#"A,2 |
 w: En-tre tus ma-nos es-tá mi vi-da, Se-ñor
-    zFAF | E2E2 | zF/2E/2DE | F4 | 
+    "Bm"zF"B7"AF | "Em"E2"EmM7"E2 | "A"zF/2E/2"A7"DC | "D"D4 | 
 w: En-tre tus ma-nos pon-go mi~e-xis-tir.
-    zFGA | B4 | zBA>^G | A4 |
+    "D7"zFGA | "G"B4 | "A"zBA3/2^G/2 | "D"A2-"D/C#"A2 |
 w: Hay que mo-rir pa-ra vi-vir
-    zFAF | E2E2 | zF/2E/2DE | D4 ||
+    "Bm"zF"B7/A"AF | "Em"E2"EmM7"E2 | "A"zF/2E/2"A7"DC | "D"D4 ||
 w: En-tre tus ma-nos con-fí-o mi ser.
-    z2 DF | G2 G2 | zA/2B/2 AG | F2F2 |
+    "D7"z2 DF | "G"G2 G2 | "A"zA/2B/2 A3/2G/2 | "D"F2"D/C#"F2 |
 w: 1.~Si el gra-no de tri-go no mue-re,
 w: 2.~Es mi~an-he-lo, mi~an-he-lo cre-cien-te,
 w: 3.~Cuan-do die-re por fru-to~u-na~es-pi-ga
-    z2 DF | G2 G2 | A/2B/2 A^G | A4 |
+    "Bm"z2 "B7"DF | "Em"G2 "EmM7"G2 | "A"zA/2B/2 "A7"A^3/2G/2 | "D"A2-"D/C#"A2 |
 w: si no mue-re, so-lo que-da-rá;
 w: en el sur-co, con-ti-go mo-rir;
 w: a los ra-yos de~ar-dien-te ca-lor;
-    zD DF | E2 E2 | zE/2-E/2 FG | F/2D B,/2A,2 |
+    "Bm"zF "B7"AF | "Em"E2 "EmM7"E2 | "A"zE/2-E/2 "A7"FG | "D"F/2D B,/2"D/C#"A,2 |
 w: pe-ro si mue-re, en_ a-bun-dan-cia da-rá,
 w: *y fe-cun-da se-rá la si-mien-te, Se-ñor,
 w: *tu rei-na-do ten-drá nue-va vi-da de~a-mor,
-    zF AF | E2 E2 | zF/2E/2 DE | D4 :|
+    "Bm"zF "B7"AF | "Em"E2 "EmM7"E2 | "A"zF/2E/2 "A7"DC | "D"D4 :|
 w: un fru-to~e-ter-no que no mo-ri-rá.
 w: *re-ves-ti-da de~e-ter-no vi-vir.
 w: en u-na Hos-tia de~e-ter-no~es-plen-dor

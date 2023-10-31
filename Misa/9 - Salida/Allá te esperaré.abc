@@ -1,0 +1,48 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Allá te esperaré
+T:Misa - Salida
+T:Difuntos
+C:
+M:4/4
+L:1/16
+Q:1/4=72
+K:G
+%
+    B,C | "G"D2D2 D2D D3D2z2 zD | "Am"D2C2 C2B, D3C2z2 A,B, |
+w: Cuan-do ha-ya ter-mi-na-do mi vi-da~en es-te mun-do, y mis
+    "D7"C3C C2C C3C2 z2 CC | "G"(C2B,2)B,2A, C3.B,2 B,2B,2 |
+w: o-jos ya ce-rra-dos en el sue-e-ño pro-fun-do; cuan-do
+    "Em"B,2B,!fermata!B,4 B,B,D!fermata!G3 z2D | "Am"(B2A2)A2E B3A2z2 zE |
+w: ya es-té fren-te~al al-tar mi cue-er-po i-ner-te, que-
+    "C"B2A2A2E B3A2z2 EE | "D7"B2A2B2c2 A8 |
+w: ro~es-tar pre-pa-ra-do al lla-ma-do del Se-ñor
+    [M:2/4]z4 z2B,C |[M:4/4] "G"D3D D2D D3D2z2 DD | "Am"D3C C2B, D3C2z2 A,B, |
+w: Cuan-do tú me pon-gas flo-res, en-co-míen-da-me~a Ma-rí-a, pues su
+    "D7"C3C C2C C2C3 z2 CC | "G"C2B,2B,2A, C3.B,2 B,2B,2 |
+w: co-ra-zón es gra-to a los o-jos de Dios Pa-dre, me~ha cui-
+    "Em"B,3B,!fermata!B,2B, B,2!fermata!G3 z2DD | "Am"B2A2A2E B3A2z2 EE |
+w: da-do día con dí-a, has-ta~el le-cho de mi muer-te, y su
+    "C"B2A2A2E B3A2z2 EE | "D7"B3AB2c2 A8 |
+w: ben-di-ción ya lle-vo, pa-ra dar-le cuen-ta~a Dios.
+    [M:2/4]z2B2 B2c2 | "G"ddd2 z2dd | "Bm"d2d d2ddd |
+w: A-llá te~es-pe-ra-ré, no te pon-gas tris-te que me
+    "C"d3c c2B2 | c4 z2AB | "D7"c3c c2cc- | c2c2 z2cc |
+w: voy con el Se-ñor, el me to-ma-rá~en sus bra--zos y me
+    "G"c3B B2AB- | "B7".B2B2 B2B2 | "Em"B2B B3B | B2B2 z2BB |
+w: da-ra sal-va-ción._ Le a-gra-de-ce-ré por tan-tas co-sas
+    "Am"B3A A2EA- | A4 z2EE | "C"B3A A2EB- | B2A2 A2EB- |
+w: be-llas que me dió,_ por po-ner a mi fa mi--lia~en mi ca-mi-
+    "D7"B2A4 z4 | A2G2 F2A2 | "G"G4 z4 |]
+w: -no, Re-ga-lo de Dios.
