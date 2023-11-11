@@ -1,0 +1,38 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Te ofrecemos Señor
+T:Misa - Ofertorio
+T:Ordinario
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+%
+    "G"z2BB BBB2 | "D"d8 | "Em"z2GG GGAG | "Bm"B3F4z |
+w: Te~o-fre-ce-mos Se-ñor, es-te pan y es-te vi-no,
+    "C"z2EE EEFG | "G"B3G4z | "Am"z2AA AAB2 | "D"A3D4z | "D7"z8 |
+w: que~en tu cuer-po y~en tu san-gre, que-da-rán con-ver-ti-dos.
+    "G"z2BB BBB2 | "D"d8 | "Em"z2GG GGAG | "Bm"B3F4z |
+w: Te~o-fre-ce-mos Se-ñor, es-te pan y es-te vi-no,
+    "C"z2EE EEFG | "G"B3G4z | "Am"z2AA AAB2 | "D"A8 | "G"G4z4 |
+w: que~en tu cuer-po y~en tu san-gre, que-da-rán con-ver-ti-dos.
+    "G"d6B2 | "Em"G2GG2G2z | "C"z2GA BAG2 | "D"A3D4z |
+w: 1.~To-dos jun-tos Se-ñor, te~o-fre-ce-mos la vi-da,
+w: 2.~Hoy te con-sa-gra-mos, nues-tra fe~y nues-tro can-to,
+w: 3.~Tú~e-res pan de vi-da, vi-no de sal-va-ción,_
+    "G"d6B2 | "Em"G2GG2G2z | "C"z2GA BAG2 | "D"A3D4z |
+w: la~i-lu-sión de vi-vir, nues-tro~a-mor y~a-le-grí-a.
+w: el do-lor, el llan-to, nues-tra~u-nión co-mo~her-ma-nos.
+w: es un gran mi-la-gro, ¡ben-di-to seas Se-ñor._

@@ -1,0 +1,21 @@
+title : Tuyas son
+composer : Luispo
+key : C
+{song}
+/intro/
+[C]  [G_3]   [Am]  [Am7_m7]
+[F]  [Dm]  [G]
+/verse/
+La bendi[C]ción y la gloria, la [Em]sa - biduría,
+la a[Am]cción de gr[G]acias y el pode [F]- r;
+la [G]honra y [E7]toda fortale [Am]- za
+/Coro/
+¡Tuyas [F]son, Bendi - to Dio[G] - s!
+¡Tuyas [C]son, Ben[G_3]di - to Dio[Am] - s!
+Para [F]siempre, a - [G]mén, a  -  [C]mén!
+/verse/
+La bendi[C]ción y la gloria, la [Em]sa - biduría,
+la a[Am]cción de gr[G]acias y el pode [F]- r;
+la [G]honra y [E7]toda fortale [Am]- za
+/coro/
+/coro/

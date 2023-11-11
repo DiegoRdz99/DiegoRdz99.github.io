@@ -1,0 +1,21 @@
+title : Llevemos al Señor
+composer : Carmelo Erdozáin
+liturgy : Cuaresma
+key : Em
+{song}
+/verse/
+Lle[Em]vemos al Señor el [D]vino y el [Em]pan,
+lle[Em]vemos al altar la [D]viña el tri[Em]gal.
+/Coro/
+[D]El Se[G]ñor nos da[D]rá,
+[G]Él nos da[D]rá su amis[Em]tad
+[D]El Se[G]ñor nos da[D]rá,
+[G]Él nos da[D]rá su amis[Em]tad
+/verse/
+Lle[Em]vemos al Señor pu[D]reza y a[Em]mor,
+lle[Em]vemos al altar jus[D]ticia, herman[Em]dad.
+/coro/
+/verse/
+Lle[Em]vemos al Señor tra[D]bajo y do[Em]lor,
+lle[Em]vemos al altar o[D]frendas de [Em]paz.
+/coro/

@@ -1,0 +1,31 @@
+title : Te ofrecemos Señor
+key : G
+liturgy : Ordinario
+{song}
+/Coro/
+[G]  Te ofrecemos Se[D]ño - r,
+[Em]  este pan y este [Bm]vi - no,
+[C]  que en tu cuerpo y en tu [G]san - gre,
+[Am]  quedarán conver[D]ti - dos.
+[G]  Te ofrecemos Se[D]ño - r,
+[Em]  este pan y este [Bm]vi - no,
+[C]  que en tu cuerpo y en tu [G]san - gre,
+[Am]  quedarán conver[D]ti - i - [G]dos.
+/verse/
+[G]To - dos [Em]juntos Señor,
+[C]  te ofrecemos la [D]vi - da,
+[G]La i - lu[Em]sión de vivir,
+[C]  nuestro amor y ale[D]grí - a.
+/coro/
+/verse/
+[G]Ho - y te [Em]consagramos,
+[C]  nuestra fe y nuestro [D]can - to,
+[G]e - l do[Em]lor, el llanto,
+[C]  nuestra unión como her[D]ma - nos.
+/coro/
+/verse/
+[G]Tú e - res [Em]pan de vida,
+[C]  vino de salva[D]ció - n,
+[G]e - s un [Em]gran milagro,
+[C]¡bendito seas Se[D]ño - r.
+/coro/

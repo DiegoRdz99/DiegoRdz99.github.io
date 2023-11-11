@@ -19,6 +19,7 @@ M:4/4
 L:1/4
 Q:1/4=120
 K:Bm
+V: 1 clef=treble-8 octave=+1
 %
     "Bm"zB, B,D | "A"DC B,A, | "Bm"B,2 z2 | zD DD | "A"E3F | "D"F2 z2 |
 w: 1.~Re-ci-be Pa-dre~e-te-er-no, del pue-blo fiel el Don.
@@ -28,8 +29,3 @@ w: 3.~Ben-di-ce~el pan  y~el vi-i-no, Al-tí-si-mo Se-ñor.
 w: U-ná-mo-nos con Cris-to, cual par-te de su luz.
 w: Que con el pan y~el vi-no, se~o-fre-ce~en o-bla-ción.
 w: Y~a-so-cia~a to-do~el mun-do, con Cris-to re-den-tor.
-
-
-% Recibe padre eterno; Del pueblo fiel el Don; Que con el pan y el vino; Se ofrece en oblación
-% Un solo cuerpo somos; Y miembros de Jesús; Unámonos con Cristo; Cual parte de su luz
-% Bendice el pan y el vino; Áltisimo Señor; Y asocia a todo el mundo; Con Cristo redentor

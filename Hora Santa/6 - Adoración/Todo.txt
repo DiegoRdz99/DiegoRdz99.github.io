@@ -1,0 +1,20 @@
+title : Todo
+composer : Hakuna Group Music
+key : A
+{song}
+/intro/
+[A]
+/verse/
+[A]Padre por tu Espíritu sobre mí[Bm]
+aquí esto[D]y, aquí me tienes,
+[E7]gracias por la vida,
+que la [A]vi - va [A_7]sien - do [F#m]todo yo,
+que la [Bm]vi - va sien - do [E7]todo yo.
+/Coro/
+Todo li[A]bre, todo entregado, todo Tú, todo dado
+todo ale[C#m]gre, todo amante, todo amado,
+[C#m]todo a[Cm]rrodilla[Bm]do, 
+todo hi[Bm]jo, todo hermano, todo padre,
+to - do [D]disfrutón,
+todo ma[E]riano, todos por todos,
+que viva [E7]todo,    con toda el al[A]ma.
