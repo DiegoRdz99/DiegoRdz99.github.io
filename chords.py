@@ -170,6 +170,10 @@ ochords['Δ11'] = {
     'DΔ11': [x, x, 0, 2, 2, 3]
 }
 
+ochords['add#11'] = {
+    'Fadd#11': [1, 3, 3, 2, 0, x]
+}
+
 # 13 chords
 
 ochords['Δ13'] = {
@@ -320,6 +324,12 @@ ochords['sus4'] = {
 
 ochords['sus4_2'] = {
     'Asus4_2': [x, 2, 2, 2, 3, x]
+}
+
+ochords['sus#4'] = {
+    'Asus#4': [x, 0, 2, 2, 4, 0],
+    'Dsus#4': [x, x, 0, 2, 3, 4],
+    'Esus#4': [0, 2, 2, 3, 0, 0]
 }
 
 ochords['5'] = {

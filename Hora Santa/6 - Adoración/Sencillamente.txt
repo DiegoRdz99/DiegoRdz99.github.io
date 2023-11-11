@@ -1,0 +1,65 @@
+title : Sencillamente
+composer : Hakuna Group Music
+capo : 1
+key : Em
+{song}
+/verse/
+[Em]Creo - o senci - lla[C]mente
+[G]Quiero disfrutar de [B7]la serenidad
+del cre[Em]er.
+[Em]Des - ligar el cre[C]er del sentir,
+[G]creo, mi Dios y [B7]basta.
+/verse/
+Te [Em]creo en tus misterios,
+sin [C]e - ntenderlos.
+{Te [G]creo en mí  []|Te creo en mí
+y en [B7]e - l pa - n blanco.
+En el [Em]pró - jimo
+y en la [C]cre - ación,
+sin [G]ver - te en ningún la[B7]do - o
+/Coro-1/
+[Em]Creo Señor, senci - lla[C]mente,
+por[G]que creer es confiar,
+y [B7]cómo me gusta creerte
+sintiendo [Em]dudas,
+sintiendo du[C]das,
+sintiendo du[G]das.  [B7]
+/intermedio/
+[Em]    [C]    [G]    [B7]
+/verse/
+[Em]Digo que eres amor,
+es[C]cucho que soy tu amado,
+no [G]siento, y ¡qué más da!
+Te quiero y eso [B7]ba - sta.
+/Coro-2/
+[Em]Amo Señor, senci - lla[C]mente,
+por[G]que amar es entregarse,
+y [B7]cómo me gusta amarte,
+estando [Em]frío,
+estando frí[C]o,
+estando frí[G]o.   [B7]
+/verse/
+Es[Em]pero en tu palabra,
+vivo en [C]Tu - u promesa,
+[G]gozo en Ti,
+lo [B7]que aun me falta.
+/Coro-3/
+Es[Em]pero Señor, senci - lla[C]mente,
+por[G]que esperar es descansar,
+y [B7]cómo me gusta esperarte,
+sintiendo [Em]miedo,
+sintiendo mie[C]do,
+sintiendo mie[G]do.    [B7]
+/bridge/
+{[Em]Cre - o, []|Señor, senci - lla[C]amo|mente.
+{|Senci - l[]es|la[G]pero,|mente
+[B7]Cómo me gusta seguirte,
+sintiendo [C]dudas,
+estando frí[G]o,
+sintiendo mie[B7]do - o
+Cómo me [Em]gusta,
+cómo me [C]gusta,
+Cre[G]erte, amarte,
+y e - spe[B7]rarte - e
+/outro/
+Te [Em]sigo senci - lla[E]mente.

@@ -1,0 +1,34 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Llevemos al Señor
+T:Misa - Ofertorio
+T:Cuaresma
+C:Carmelo Erdozáin
+S:
+M:6/8
+L:1/8
+Q:1/4=80
+K:Em
+%
+    B, | "Em"E2E E2D | E4 zG | [M:9/8]"D"F3/2G/2F "Em"E6 |
+w: 1.~Lle-ve-mos al Se-ñor el vi-no y~el pan,
+w: 2.~Lle-ve-mos al Se-ñor pu-re-za y~a-mor,
+w: 3.~Lle-ve-mos al Se-ñor tra-ba-jo~y do-lor,
+    [M:6/8]z4zB, | "Em"E2E E2D | E4 zG | [M:9/8]"D"F3/2G/2F "Em"E6 |
+w: lle-ve-mos al al-tar la vi-ña,~el tri-gal.
+w: lle-ve-mos al al-tar jus-ti-cia~her-man-dad.
+w: lle-ve-mos al al-tar o-fren-das de paz.
+    [M:6/8]z3 "D"G2A | "G"B3 B2B |[M:9/8] "D"A3 "G"B3/2A/2G "D"F3/2E/2D | [M:6/8]"Em"E6 |
+w: El Se-ñor nos da-rá, Él nos da-rá su~a-mis-tad.
+    [M:6/8]z3 "D"G2A | "G"B3 B2B |[M:9/8] "D"A3 "G"B3/2A/2G "D"F3/2E/2D | [M:6/8]"Em"E6 |]
+w: El Se-ñor nos da-rá, Él nos da-rá su~a-mis-tad.

@@ -1,0 +1,37 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Gracias Señor
+T:Misa - Comunión
+T:Ordinario
+C:
+S:
+M:C
+L:1/8
+Q:1/4=70
+K:D
+%
+    "D"A2AB "Bm"A2FG | "G"A2GF "A"F2E2 | "F#m"E2FD "Bm"B,2B,C | "E"DCDF "A"F2E2 |
+w: Gra-cias, Se-ñor, por el Pan de tu Cuer-po. Gra-cias, Se-ñor, por el Vi-no de tu San-gre
+    B2AG E2FG | ABAGF4 | G2FG !fermata!A3D | GFEE D4 ||
+w: Gra-cias, Se-ñor, por tu~a-mor he-cho man-jar. Gra-cias, Se-ñor, por tu fi-de-li-dad.
+    [M:2/4][K:Dm]z2 DE | F2 EF | A2G2 | z"<("">)"G GA | (BB) cd | A2 A2 |
+w: 1.~Te can-ta-mos, ¡Oh Cris-to! * Hi-jo~a-ma--do del Pa-dre;
+w: 2.~Te can-ta-mos, ¡Oh Cris-to! * Pan ba-ja--do del cie-lo;
+w: 3.~Te can-ta-mos, ¡Oh Cris-to! Cor-de-ro de la nue-va~a-lian-za;
+w: 4.~Te can-ta-mos, ¡Oh Cris-to! * tem-plo de la nue-va~a-lian-za;
+    z2 GA | B2 AB | c2 F2 | z"<("">)"D (EF) | G2 AB | (A2 A2) | z4 |]
+w: te~a-la-ba-mos, ¡Oh Cris-to! Pa-la-bra~e-ter-na de Dios._
+w: te~a-la-ba-mos, ¡Oh Cris-to! * ma--ná ver-da-de-ro.
+w: te~a-la-ba-mos, ¡Oh Cris-to! * buen Pas-tor de los hom-bres.
+w: te~a-la-ba-mos, ¡Oh Cris-to! pie-dra~an-gu-lar de~Is-ra-el._

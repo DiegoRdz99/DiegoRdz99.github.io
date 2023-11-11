@@ -1,0 +1,66 @@
+title : Quebrántame
+composer : Jésed
+key : C
+{song}
+/intro/
+[Am]  [G]  [F]    [Am]  [G]  [F]
+[Am]  [G]  [F]    [Am]  [G]  [F]
+/verse/
+Oh Se[C]ñor, mi Dios, te he buscado tanto tiempo,
+y te en[Am]cue - ntro hoy, y te hablo en oración,
+pero en mi [F]co - razón
+hay he[Dm7]ridas sin sanar,
+y en mi [F]alma solo hay oscuri[G]da - d.
+/verse/
+Oh Je[C]sús, mi Señor, tú moriste en una cruz
+para mi [Am]sal - vación, y tu sangre derramaste
+por mi [F]re - dención,
+solo [Dm7]tú tienes poder,
+sólo en [Fm]tí mi alma puede rena[G]cer
+/Coro/
+Que[C]brántame, toma lo que soy,
+[G_3]y re[Am]nué - vame,
+hazme como tú, Se[Am7_m7]ñor trans[F]fór - mame
+a tu i[Dm7]ma - gen.
+[G]  Quiero renacer en [G7]ti.
+/intermedio/
+[Am]  [G]  [F]    [Am]  [G]  [F]
+[Am]  [G]  [F]    [Am]  [G]  [F]
+/verse/
+Oh Se[C]ñor, mi Dios, me abandono en tus manos,
+pues de [Am]ba - rro soy, y tú eres el alfarero,
+vuelve a ha[F]ce - rme, oh Dios,
+Recons[Dm7]trúyeme, Señor,
+y mi [Fm]ser proclamará tu salva[G]ció - n.
+/coro/
+/coro/
+/intermedio/
+[Fadd#11]    [F]    [Fadd#11]    [F]
+[Gadd11]    [G]    [Fadd#11]    [F]
+/bridge/
+[F]Toma lo que soy,
+[G]quiero rena[Am]cer en ti[G].
+[F]Toma lo que soy,
+[G]quiero rena[Am]ce - [G]er.
+[F]Toma lo que soy,
+[G]quiero rena[Am]cer en ti[G].
+[F]Toma lo que soy,
+{[G]quiero []rena|rena[Am]ce - |ce - [G]er. |er []|en
+{[F]Toma lo que soy,|ti
+[G]quiero rena[Am]cer en ti[G].
+[F]Toma lo que soy,
+[G]quiero rena[Am]ce - [G]er.
+[F]Toma lo que soy,
+[G]quiero rena[Am]cer en ti[G].
+[F]Toma lo que soy, lo que [G]so - y.
+/bridge/
+[F]Oh - [C]oh,     [G]  [Am]
+[F]Oh - [C]oh,     [G]  [Am]
+[F]Oh - oh - oh - [G]oh.
+[F]Oh - [G]oh.
+/coro/
+/coro/
+/outro/
+[Fadd#11]    [F]    [Fadd#11]    [F]
+[Gadd11]    [G]    [Fadd#11]    [F]
+[Fadd#11]    [F]    [Gadd11]    [G]   [C]

@@ -451,7 +451,7 @@ liturgy_colors = {
 
     'Adviento': LILA, 'Cuaresma': LILA,  # purple
 
-    'Pascua': GOLD, 'Navidad': GOLD, 'Domingo de Resurrección': GOLD, 'Santa María, Madre de Dios': GOLD, 'Sagrada Familia': GOLD, 'San José': GOLD, 'Anunciación del Señor': GOLD, 'Jueves Santo': GOLD, 'Vigilia Pascual': GOLD, 'San Juan Bautista': GOLD, 'Bodas': GOLD,  # gold
+    'Pascua': GOLD, 'Navidad': GOLD, 'Domingo de Resurrección': GOLD, 'Santa María, Madre de Dios': GOLD, 'Sagrada Familia': GOLD, 'San José': GOLD, 'Anunciación del Señor': GOLD, 'Jueves Santo': GOLD, 'Vigilia Pascual': GOLD, 'San Juan Bautista': GOLD, 'Bodas': GOLD, 'Solemne': GOLD, 'Sacerdotal': GOLD, # gold
 
     'Viernes Santo': RED, 'Semana Santa': RED, 'Domingo de Ramos': RED, 'Viernes Santo': RED,  # red
 
@@ -522,6 +522,10 @@ class song:
                 pass
         try:
             metadata += f'<h4 id="song-key">Clave: {self.meta["key"]}</h2>'
+        except:
+            pass
+        try:
+            metadata += f'<h4 class="fw-bold" id="song-capo">Capo: {self.meta["capo"]}</h2>'
         except:
             pass
         html_constants = constants(backsteps, title=self.meta['title'])
