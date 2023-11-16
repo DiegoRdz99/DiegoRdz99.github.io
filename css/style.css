@@ -140,12 +140,14 @@ ul {
 
 .toolbar {
 	opacity: 0.4;
-	width: 70%;
+	width: 100%;
 }
 
 .toolbar:hover {
 	opacity: 1;
 }
+
+
 
 @media only screen and (max-width: 968px) {
 

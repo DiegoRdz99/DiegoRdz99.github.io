@@ -239,13 +239,17 @@
         
 
 <br><br><br><br>
-<div class="btn-group btn-group-lg fixed-bottom mx-auto shadow toolbar" role="group" aria-label="Basic example">
+<div class="fixed-bottom mx-auto w-75">
+<input type="range" class="form-range play" min="1" max="10" step="1" id="speed" style="visibility: hidden;" value="1">
+
+<div class="btn-group btn-group-lg mx-auto w-100 shadow toolbar" role="group" aria-label="Basic example">
     <button type="button" class="btn btn-dark" id="up" onclick="tpup()"><span class="icon">+1</span></button>
     <button type="button" class="btn btn-dark" id="down" onclick="tpdown()"><span class="icon">-1</span></button>
     <button type="button" class="btn btn-dark" onclick="tr_capo()"><span class="icon" id="tr-capo">Tp</span><sup class="super" id="count"></sup></button>
     <button type="button" class="btn btn-dark" onclick="startInverval()" id="play-but"><span class="icon">&#9654;</span></button>
     <button type="button" class="btn btn-dark" onclick="toggleDark()" id="dark-toggle"><span class="icon">&#9788;</span></button>
     <button type="button" class="btn btn-dark" onclick="ft_sp()" id="b_but"><span class="icon">&flat;</span></button>
+</div>
 </div>
 <script src="../js/abcweb-1.js"></script>
 <script src="../js/abc2svg-1.js"></script>

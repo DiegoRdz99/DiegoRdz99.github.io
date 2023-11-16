@@ -12,7 +12,7 @@ var diagrams = document.getElementsByClassName("fig");
 var backsteps = (diagrams[0].src).split("chords")[0];
 var chord_names = document.getElementsByClassName("chord_name");
 var bass_elements = document.getElementsByClassName("bass");
-var song_key = (document.getElementById('song-key').innerHTML).replace("Clave: ","");
+var song_key = (document.getElementById('song-key').innerHTML).replace("Clave: ", "");
 var trans = 0; // sets Transposition value to 0
 var capo = false; // sets transpose as standard (instead of capo)
 var accidental = false; // sets sharps as standard (instead of flats)
@@ -132,17 +132,22 @@ function ft_sp() {
 
 
 function autoScroll() {
-    window.scrollBy(0, 1);
+    var play_speed = document.getElementById("speed");
+    window.scrollBy(0, play_speed.value);
 }
 let scroll = true;
 function startInverval() {
+    var play_speed = document.getElementById("speed");
     if (scroll) {
         play_but.innerHTML = '<span class="icon">&#x23f8;</span>'
         scrolldelay = setInterval(autoScroll, 100);
+        play_speed.style.visibility = "visible";
+        console.log(play_speed.value);
     }
     else {
         play_but.innerHTML = '<span class="icon">&#9654;</span>'
         clearInterval(scrolldelay);
+        play_speed.style.visibility = "hidden";
     }
     scroll = !scroll;
 }
@@ -171,7 +176,7 @@ function toggleDark() {
     }
 }
 
-const sharp_keys = ['G','D','A','E','B','Em','Bm','F#m','C#m'];
+const sharp_keys = ['G', 'D', 'A', 'E', 'B', 'Em', 'Bm', 'F#m', 'C#m'];
 
 if (sharp_keys.includes(song_key)) {
     var b_but = document.getElementById("b_but");
