@@ -80,30 +80,28 @@ function transpose() {
 }
 
 function tpup() {
-    if (capo) { trans = trans - 1 }
-    else { trans = trans + 1 }
-    transpose()
+    if (capo) { trans = trans - 1; }
+    else { trans = mod(trans + 1, 12); }
+    transpose();
 }
 
 function tpdown() {
-    if (capo) { if (trans < 0) { trans = trans + 1 } }
-    else { trans = trans - 1 }
-    transpose()
+    if (capo) { if (trans < 0) { trans = trans + 1; } }
+    else { trans = mod(trans - 1, 12); }
+    transpose();
 }
 
 function tr_capo() {
     var output = document.getElementById("count");
     var capo_label = document.getElementById("tr-capo");
-    if (trans <= 0) {
-        capo = !capo
-        if (capo) {
-            capo_label.innerHTML = "Cp"
-            output.innerHTML = -trans
-        }
-        else {
-            capo_label.innerHTML = "Tp"
-            output.innerHTML = sign(trans)
-        }
+    capo = !capo;
+    if (capo) {
+        capo_label.innerHTML = "Cp";
+        output.innerHTML = mod(12-trans,12);
+    }
+    else {
+        capo_label.innerHTML = "Tp";
+        output.innerHTML = sign(trans);
     }
 }
 
