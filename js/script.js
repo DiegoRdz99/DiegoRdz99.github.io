@@ -52,6 +52,7 @@ mod = function (m, n) {
 
 function transpose() {
     /* Transpose chords */
+    var output = document.getElementById("count");
     for (var i = 0; i < base.length; i++) {
         if (accidental) {
             chords[i].innerHTML = chds_ft[mod(chds[base[i]] + trans, 12)];
@@ -91,6 +92,8 @@ function tpdown() {
 }
 
 function tr_capo() {
+    var output = document.getElementById("count");
+    var capo_label = document.getElementById("tr-capo");
     if (trans <= 0) {
         capo = !capo
         if (capo) {
