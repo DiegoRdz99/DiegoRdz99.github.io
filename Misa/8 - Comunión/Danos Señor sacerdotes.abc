@@ -1,0 +1,37 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Danos, Señor, sacerdotes
+T:Misa - Post-Comunión
+T:Sacerdotal
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=70
+K:G
+%
+    "G"B2AG | "D"D2 EF | "Em"G2D2 | "Bm"z2D2 | "C"c2B2 | "A"A2G2 | "D"A4 | "B7"z2 BA |
+w: Da-ños, Se-ñor, sa-cer-do-tes se-gún tu co-ra-zón, que~en sus
+    "C"G2G2 | "D"A2 Bc | "Bm"d2 G2 | "Em"z2 GG | "Am"E2E2 | "D"F2 GF | "G"G4 | z4 ||
+w: ma-nos se~ha-ga pre-sen-te en el Pan y~el Vi-no tu~a-mor.
+    "Em"G4 | "Bm"FE DB, | "C"E4 | "G"D4 | "C"C3E | "D"DE EC | "G"C4 | "D"B,2 D2 |
+w: 1.~Tú e-res sa-cer-do-te, sa-cer-do-te pa-ra siem-pre, se-
+w: 2.~Ha-ced es-to~en me-mo-ria, en me-mo-ria de mi nom-bre, y
+w: 3.~Ved co-mo~an-dáis per-di-dos, co-mo~o-ve-jas sin pas-to-res. Ro-
+w: 4.~Ven, te con-ver-ti-ré_ en un pes-ca-dor de hom-bres y
+    "Em"G4 | "A"A4 | "D"A4 | D2 D2 | "Am"E2 G2 | "A"F2 G2 | "D"A4 | "D7"z4 :|
+w: gún el ri-to de Mel--qui-se-dec.
+w: yo~es-ta-ré con vo-so-tros has-ta~el fin.
+w: gad, ro-gad, y pas-to-res os da-ré.
+w: tú guia-rás a mi pue-blo has-ta mí.

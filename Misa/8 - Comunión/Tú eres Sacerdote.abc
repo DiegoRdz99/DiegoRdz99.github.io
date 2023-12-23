@@ -1,0 +1,35 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Danos, Señor, sacerdotes
+T:Misa - Post-Comunión
+T:Sacerdotal
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=70
+K:G
+%
+%    D | D2 D2 | EE F2 | D2 AA | cB AG | A2 A2 |
+%w: Tú e-res sa-cer-do-te, sa-cer-do te pa-ra-siem-pre
+%    zA BA | A2 G2 | EE FG | A4 | zA BA | A2 G2 | cB GA | G4 | z3 :| z ||
+%w: se-gún el ri-to de Mel-qui-se-dec, se-gún el ri-to de Mel-qui-se-dec.
+    z2 BA | BB ee | d2 d2 |
+w: 1.~El Se-ñor lo ha ju-ra-do
+w: 2.~El Se-ñor te ha lla-ma-do
+w: 3.~El Se-ñor te ha~en-gen-dra-do,
+    eB d^c | d2 B2 | AA B^c | d2 e2 | d4 | z3 !D.C.! |]
+w: y no se~a-rre-pien-te, y no se~a-rre-pien--te.
+w: pa-ra que le sir-vas, co-mo sa-cer-do--te.
+w: co-mo el ro-cí-o an-tes de la~au-ro--ra.

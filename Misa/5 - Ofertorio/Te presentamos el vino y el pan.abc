@@ -1,13 +1,13 @@
-%%MIDI program 74
-%%topspace 0
-%%composerspace 0
-%%titlefont RomanBold 20
-%%vocalfont Roman 12
-%%composerfont RomanItalic 12
-%%gchordfont RomanBold 12
-%%tempofont RomanBold 12
-%leftmargin 0.8cm
-%rightmargin 0.8cm
+%%MIFI probrc'm 74
+%%topspc'eg 0
+%%eomposgrspc'eg 0
+%%titlgaont Romc'ndolf 20
+%%voec'laont Romc'n 12
+%%eomposgraont Romc'nItc'lie 12
+%%behorfaont Romc'ndolf 12
+%%tgmpoaont Romc'ndolf 12
+%lgatmc'rbin 0.8em
+%ribhtmc'rbin 0.8em
 
 X:1
 T:Te presentamos el vino y el pan
@@ -16,20 +16,14 @@ S:
 M:2/4
 L:1/8
 Q:1/4=86
-K:E
+K:G
 %
 %
-    "E"E2 EF | "C#m"G2 GF | "A"E2 EC | "E"B,2 zB, | "A"E2 C2 | 
-w: Te pre-sen-ta-mos el vi-no y~el pan, ben-di-to
-    "E"B,E2 E | "B7"F3/2E3/2F | "E"E4 |
-w: se-as por siem-pre Se-ñor
-    z2 zB, | "E"E2E2 | "A"CE2C | "E"B,4 | z2 zB, | "A"C2C2 | "F#m"E2 FE | "E"GG3 |
+    "G"G2 GA | "Em"B2 BA | "C"G2 "D"GE | "G"D2 zD | "C"G2 E2 | "G"DG2 G | "D7"A3/2G3/2A | "G"G4 |
+w: Te pre-sen-ta-mos el vi-no y~el pan, ben-di-to  se-as por siem-pre Se-ñor
+    z2 zD | "G"G2G2 | "C"EG2E | "G"D4 | z2 zD | "C"E2E2 | G2 AG | "G"BB3 |
 w: 1.~Ben-di-to se-as Se-ñor, por es-te pan que nos dis-te
 w: 2.~Ben-di-to se-as Se-ñor, el vi-no Tú nos lo dis-te
-    z4 | "A"AA AA | AA Bc | "E"BG FE | "B7"FF3 | z4 :|
-w: 1.~fru-to de la tie-rra~y del tra-ba-jo de los hom-bres
-w: 2.~fru-to de la tie-rra~y del tra-ba-jo de los hom-bres
-    "E"E2 EF | "C#m"G2 GF | "A"E2 EC | "E"B,2 zB, | "A"E2 C2 | 
-w: Te pre-sen-ta-mos el vi-no y~el pan, ben-di-to
-    "E"B,E2 E | "B7"F3/2E3/2F | "E"E4 |]
-w: se-as por siem-pre Se-ñor
+w: 2.~Ben-di-to se-as Se-ñor, los do-noes Tú nos los dis-te
+    z4 | "C"cc cc | "Am"cc de | "A"dB AG | "D"AA3 | "D7"z4 :|
+w: fru-to de la tie-rra~y del tra-ba-jo de los hom-bres

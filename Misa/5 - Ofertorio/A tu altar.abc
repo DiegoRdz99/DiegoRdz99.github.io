@@ -1,0 +1,38 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:A tu altar
+T:Misa - Ofertorio
+T:Adviento
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=140
+K:A
+%
+    zA AB | "A"(Bc2)c | "D"de dc | "A"c2 A2 |
+w: A tu al-tar,_ tra-e-mos pan y vi-no.
+    zc cd | "C#m"e2 e2 | "D"fa gf | "E"e4 |
+w: Tu cuer-po~y san-gre pron-to~e-llos se-rán.
+    "E7"ze ee | "D"f2 f2 | "E"ga gf | "A"f2 e2 |
+w: En es-ta me-sa to-do~es-tá dis-pues-to.
+    "F#m"zA AB | "D"c2 ce | "E"dc BA | "A"!fine!A4 ||
+w: Ma-ra-na-tha, ven Se-ñor no tar-des más.
+    ze ee | "C#m"e2 A2 | "D"dd cA | "E"A2 G2 |
+w: Re-ci-be Pa-dre~en Cris-to nues-tra~o-fren-da,
+    ze ee | "C#m"e2 AA | "D"dd cE | "E"E4 |
+w: nues-tro tra-bja-jo y nues-tro co-ra-zón.
+    "E7"z2 ee | "D"f2 ff | "E"ga gf | "A"f2 e2 |
+w: Cual pre-sen-te en el al-tar a-cep-ta
+    "F#m"zA AB | "D"c3e | "E"dc BA | !D.C.alfine!"A"A4 |]
+w: el fru-to del a-mor que~es-pe-ra hoy.

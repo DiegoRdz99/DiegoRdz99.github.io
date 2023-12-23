@@ -1,0 +1,28 @@
+INFO:  latexindent version 3.18, 2022-06-12, a script to indent .tex files
+       latexindent lives here: /usr/share/texlive/texmf-dist/scripts/latexindent/
+       Thu Nov 30 15:49:04 2023
+       Filename: /home/di3gordz921/Dokumente/GitHub/DiegoRdz99.github.io/CantoralLatex/MarÃ­a/__latexindent_temp_Contigo MarÃ­a.tex
+INFO:  Processing switches:
+       -y|--yaml: YAML settings specified via command line
+       -c|--cruft: cruft directory
+INFO:  Directory for backup files and /home/di3gordz921/Dokumente/GitHub/DiegoRdz99.github.io/CantoralLatex//indent.log:
+       /home/di3gordz921/Dokumente/GitHub/DiegoRdz99.github.io/CantoralLatex/
+INFO:  YAML settings read: defaultSettings.yaml
+       Reading defaultSettings.yaml from /usr/share/texlive/texmf-dist/scripts/latexindent/defaultSettings.yaml
+INFO:  YAML settings read: indentconfig.yaml or .indentconfig.yaml
+       Home directory is /home/di3gordz921 (didn't find either indentconfig.yaml or .indentconfig.yaml)
+       To specify user settings you would put indentconfig.yaml here: /home/di3gordz921/indentconfig.yaml
+       Alternatively, you can use the hidden file .indentconfig.yaml as: /home/di3gordz921/.indentconfig.yaml
+INFO:  YAML settings read: -y switch
+       YAML setting: defaultIndent:'    '
+       single-quoted string found in -y switch: '    ', substitute to     
+       Updating mainSettings with defaultIndent:     
+INFO:  Phase 1: searching for objects
+INFO:  Phase 2: finding surrounding indentation
+INFO:  Phase 3: indenting objects
+INFO:  Phase 4: final indentation check
+INFO:  Output routine:
+       Not outputting to file; see -w and -o switches for more options.
+       --------------
+INFO:  Please direct all communication/issues to:
+        https://github.com/cmhughes/latexindent.pl

@@ -1,0 +1,28 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Cordero Moncada
+C:
+M:6/8
+L:1/8
+Q:1/4=80
+K:G
+%
+    zd | "G"d3 B2c | "Em"d4 zB | "C"c2c c2B | "D"A3 G2c |
+w: Cor-de-ro de Dios, que qui-tas el pe-ca-do del
+    "G"d3 BBc | "Em"d4 z2 | "C"c4-c B | "D"A4 GF | "G"G3 z3 | "D7"z4 :|
+w: mun-do, ten pie-dad de_ no-so---tros.
+    zd | "G"d3 B2c | "Em"d4 zB | "C"c2c c2B | "D"A3 G2c |
+w: Cor-de-ro de Dios, que qui-tas el pe-ca-do del
+    "G"d3 B2c | "Em"d4 z2 | "C"c6 | "D"d4 dd | "G"d6 |
+w: mun---do, da--nos la paz.
