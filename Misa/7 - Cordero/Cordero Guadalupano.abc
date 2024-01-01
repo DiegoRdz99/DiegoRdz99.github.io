@@ -1,0 +1,34 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%%header "$T    xddd"
+%%measurenb 0
+%%setbarnb 1
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Cordero Guadalupano
+T:Misa - Cordero
+T:Misa Guadalupana
+C:Benjamín Rangel
+S:
+M:6/8
+L:1/8
+Q:1/4=100
+K:E
+%
+    !mf!B, | "E"GGG "F#m7"A2A | "E"BE3 EE | "A"ccc "E"(B2G) | "F#7"F3 "B"z3 |
+w: Cor-de-ro de Dios que qui-tas el pe-ca-do del mu-un-do,
+    !p!"G#"G2G GGF | "C#m"EC3z2 | "A#°"E2E EDE | "B"FF2 "B7"z2 :|
+w: ten pie-dad de no-so-tros, ten pie-dad de no-so-tros.
+    !mf!B, | "F#m7"AAA A2G | "B"FF2 zGA | "E"BBB "B7"(B2G) | "C#m"E3 z3 |
+w: Cor-de-ro de Dios que qui-tas el pe-ca-do del mu-un-do,
+    "C7"E3 E2F | "E"G3 z3 | "A#°"G3 "B7"F2F | "A"E6- | "E"E3 z3 |]
+w: da-nos la paz, da-nos la paz._

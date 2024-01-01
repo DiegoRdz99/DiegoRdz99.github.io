@@ -1,0 +1,47 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%%measurenb 0
+%%setbarnb 1
+%%pagewidth 8in
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Gloria Guadalupano
+T:Misa - Gloria
+T:Misa Guadalupana
+C:Benjamín Rangel
+S:
+M:4/4
+L:1/8
+Q:1/4=100
+K:E
+%
+    "E"E2GA "B"B2cd | "C#m"e2G2- "C#m7"G2AB | "A"c2c2 "D#°"c2BA | "G#m7"B2B2 "C#m7"z2E2 | "F#m7"A2B2 "B7"G3F | "E"E6 ||1
+w: Glo-ria a Dios en el cie-lo,_ y~en la tie-rra paz a los hom-bres que a-ma el Se-ñor.
+%clef none
+    z2 |"C#m"cccc "G#m7"B2B2 | "A"A2"B7"AA "E"G2G2 | "D#dim"F2"G#7"FF "C#m"E2CD | "D#7"E2F2 "G#"D2D2- | [M:2/4]D4 |
+w: 1.~Por tu~in-men-sa glo-ria te a-la-ba-mos, te ben-de-ci-mos, te a-do-ra-mos_
+    [M:4/4]"F#m"AAAG "B"F2EF | "E"G3F"A" E2"A6"EE | "C#m"E2E2 "Gdim"E2DC | "G#"D6 G2 | "F#m"A2A2 "D#dim"AAGF | "G#7"G4 G4 :|2
+w: te glo-ri-fi-ca-mos, te da-mos gra-cias, Se-ñor Dios, Rey ce-les-tial, Dios Pa-dre to-do po-de-ro-so.
+    zG | "C#m"c2cc "G#m7"BBB2 | "A"A3"B7"A "E"G2GG | "D#dim"F2FF "C#m"E2CD | "D#7"EEFF "G#"D2D2 |
+w: 2.~Se-ñor, Hi-jo ú-ni-co, Je-su-cris-to, Se-ñor Dios, Cor-de-ro de Dios, Hi-jo del Pa-dre
+    [M:2/4]z2DD | [M:4/4]"F#m"AAAA "B"F2EF | "E"G2 "A"G6 | "C#m"E3E "Gdim"E2DC | "G#"D2D4 :
+w: Tú que qui-tas el pe-ca-do del mun-do, ten pie-dad de no-so-tros.
+    CC | "F#m"AA"F#m7"AG "B"F2EF | "E"G2"A"G4G2 | "C#m"E2"Gdim"E2E2DC | "G#"GGG6 |
+w: Tú que qui-tas el pe-ca-do del mun-do, a-tien-de a nues-tra sú-pli-ca.
+    "C#m"cccc "G#m7"BBBB | "A"A2"B7"AA"E"G2G2 | "F#m"A2A2"D#dim"A2GF | "G#7"G4G4 :|3
+w: Tú que~es-tás sen-ta-do~a la de-re-cha del Pa-dre, ten pie-dad de no-so-tros.
+    z2 |"C#m"cccc "G#m7"B4 | "A"A2"B7"A2 "E"G2G2 | "D#dim"FF"G#7"FF "C#m"E2CD | "C#m"EEEE "Gdim"E2DC | "G#"D2D4zD |
+w: 3.~Por-que só-lo Tú e-res San-to, só-lo Tú Se-ñor, so-lo Tú Al-tí-si-mo, Je-su-cris-to, con
+    "F#m"A3G "B"F2EF | "E"G2G2-"A"G2"A6"EE | "C#m"E2E2 "Gdim"D2C2 | "G#"G4G4 :|4
+w: el Es-pí-ri-tu San-to_ en la glo-ria de Dios Pa-dre.
+    "A"c4-"A6"c4 | "E"B8 |]
+w: A--mén.

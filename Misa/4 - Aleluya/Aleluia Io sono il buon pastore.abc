@@ -1,0 +1,27 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Aleluia Io sono il buon pastore
+T:Misa - Aleluya
+T:Solemne
+C:Marco Frisina
+S:
+M:6/8
+L:1/8
+Q:1/4=80
+K:G
+%
+    "G"D2E "Em"GEG | "D"A3 "D7"z3 | "G"B2G "C"cBG | "D"A3 "D7"z3 |
+w: A-le-lu-u-u-ia, a-le-lu-u-u-ia,
+    "G"D2E "Em"GEG | "D"A3 "D7"zBA |1 "C"G3 "D"A3 | "G"G6 :|2 "C"G3 "Cm"A3 | "G"G6 |]
+w: a-le-lu-u-u-ia, a-le-lu-u-ia. \-~lu-u-ia

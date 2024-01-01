@@ -1,0 +1,29 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Cordero Palazón
+T:Misa - Cordero
+T:Solemne
+C:Francisco Palazón
+S:
+M:2/4
+L:1/8
+Q:1/4=55
+K:Dm
+%
+    z2 zA | "Dm"A2 FG | A3 A | "Bb"cB AG | F2 FG | "A7"A2 A2 |
+w: Cor-de-ro de Dios, que qui-tas el pe-ca-do del mun-do,
+    z2 DD | "Gm"G2 FG | "A7"A2 A2 :| z2 zA | "F"A2 FG | A3 A | "Bb"cB AG | F2 FG |[M:3/4] "A7"A2 A2 z2 |
+w: ten pie-dad de no-so-tros. Cor-de-ro de Dios, que qui-tas el pe-ca-do del mun-do,
+    [M:2/4]"Gm"(GA) BG | "Dm".A2 (GF) | "Am"E2 C2 | "Dm"D4 |]
+w: da-a-nos la paz, da-a-nos la paz.

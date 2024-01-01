@@ -1,0 +1,33 @@
+title : Tiempo de Adviento
+composer : Moisés Alejandro Sáenz
+liturgy : Adviento
+key : D
+{song}
+/verse/
+Es el [D]tiempo del Adviento,
+tiempo [F#m]de la esperanza.
+[G]Con alegría ve[Em]nimos
+a tu al[A]tar.
+Isa[D]ías nos anuncia,
+la ve[F#m]nida del Mesías.
+Una esperaza [Em]para
+todos los [A]tiempos.  [D7]
+/Coro/
+Reu[G]nidos como Iglesia,
+en la espe[D]ranza.
+Nues[Em]tra esperanza es[A9]tá
+en Ti Se[D]ñor.  [D7]
+Reu[Gm]nidos como I[C]glesia,
+en la espe[F]ranza.
+Nues[Gm]tra esperanza es[Gm6]tá
+en Ti Se[A]ñor.  [A7]
+/verse/
+Isa[D]ías nos anuncia,
+la ve[F#m]nida del Mesías.
+[G]Que preparemos [Em]el
+camino al Se[A]ñor.
+Y en Ma[D]ría es que se cumple,
+la gran[F#m]obra redentora.
+[G]Con ella inicia la es[Em]pera
+de la I[A]glesia.
+/coro/

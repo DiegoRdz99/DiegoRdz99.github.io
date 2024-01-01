@@ -1,5 +1,6 @@
 title : Caminaré
 liturgy : Difuntos
+composer : Juan Antonio Espinoza
 key : Em
 {song}
 /intro/

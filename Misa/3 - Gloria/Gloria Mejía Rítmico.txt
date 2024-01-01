@@ -1,4 +1,4 @@
-title : Gloria Solemne
+title : Gloria Mejía Rítmico
 key : Em
 liturgy : Ordinario
 {song}

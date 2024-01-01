@@ -1,0 +1,33 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Para ti
+T:Misa - Ofertorio
+T:Solemne
+C:Pbro. Benjamín Vega Robles
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:D
+%
+    DE | "D"F2 FF | "G"GG FE | "D"D4 | z2 CD | "G"B3B | "A"ABAG | "D"F4 |
+w: Pa-ra ti es mi mú-si-ca Se-ñor, mi~o-ra-ción es mú-si-ca Se-ñor.
+    z2 Bc | "G"d4 | "A"z2 AF | "Bm"B4 | z2 EF | "G"G2 GA | "A"FE DB, | "D"D4 ||1
+w: Pa-ra ti mi~o-ra-ción, pa-ra ti es mi mú-si-ca Se-ñor.
+    z2 FG | "G"B B2 B | BB cB | "D"AA3 | z2 zB, | "Em"GG GF | "E7"ED EF | "A"E4 :|2
+w: 1.~El tra-ba-jo, Se-ñor te en-tre-ga-mos, es pan de vi-da~a-mor gran-de~ha-cia ti.
+    z2 FG | "G"B B2 B | Bc2 B | "D"AA3 | z2 B,B, | "G"GG2 G | "Em"GF3 | "E7"ED EF | "A"E4 :|3
+w: 2.~Con el vi-no re-ci-be mi go-zo, que~en tu san-gre pre-cio-sa se trans-for-ma-rán.
+    z2 FG | "G"B B2 B | B2 cB | "D"AA3 | z2 zB, | "G"GG GG | "Em"GG2 F | "E7"ED EF | "A"E4 |]
+w: 3.~San-ti-fi-ca, Se-ñor nues-tros do-nes, trans-fór-ma-nos por e-llos en o-bla-ción a ti.

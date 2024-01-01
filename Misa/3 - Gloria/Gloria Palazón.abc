@@ -1,0 +1,40 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Gloria Palazón
+T:Misa - Gloria
+T:Solemne
+C:Francisco Palazón
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:D
+%
+    z2 AA | "D"d2 "Em"cB | "F#m"A2 F2 | "Em"EF GB | "A"A2 EG | "D"F2 "Bm"DD | "Em/G"E2 "A"DC | "D"D4 ||
+w: Glo-ria~a Dios en el cie-lo, y~en la tie-rra paz a los hom-bres que a-ma~el Se-ñor
+    "D"F8 EF "G"G-G"D"F2 | 
+w: 1.~Por~tu~inmensa~gloria te~a-la-ba--mos,
+w: 2.~Señor~Dios,~Rey~celestial,~Dios~Padre~todo-po-de-ro--so.
+w: 3.~Tú~que~quitas~el~pecado~del~mundo,~ten~piedad de no-so--tros;
+w: 4.~Porque~solo~tú~eres~santo, so-lo tú, Se-ñor;
+    "Em"E8 FD "A"E-E "D"F2 |
+w: te~bendecimos, te~a-do-ra--mos,
+w: Señor~Hijo~único, Je-su-cris--to;
+w: tú~que~quitas~el~pecado~del~mundo,~atiende nues-tra sú-pli-ca
+w: solo~tú~Altísimo, Je-su-cris--to;
+    "F#m"A8 "D"d-d(cc)"E7"B2"A7"A2 :|
+w: te~glorificamos,~te da--mos* gra-cias.
+w: Señor~Dios,~Cordero~de~Dios, Hi--jo del Pa-dre;
+w: tú~que~estás~sentado~a~la~derecha~del~Padre,~ten~pie-dad* de no-so-tros;
+w: con~el~Espíritu~Santo,~en~la glo-ria de Dios Pa-dre

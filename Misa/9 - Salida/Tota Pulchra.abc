@@ -1,0 +1,33 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Tota Pulchra
+T:Misa - Salida
+T:Solemne
+C:Paulin-Morales
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:D
+%
+    DE FD | zE GF | E2 D2 | AA AE | zA BA | (G2 F2) | FD FA |
+w: To-da~her-mo-sa e-res Ma-rí-a, y la man-cha o-ri-gi-nal_ no hay en ti.
+    EA A2 | GF DD | EF DE | zA Bc | dA2G | AG F2 | 
+w: Tú e-res la glo-ria de Je-su-ra-lén, tú la~a-le-grí-a de Is-ra-el.
+    FF ED | zE GF | E2 D2 | [M:7/8]BBA (GA)B2 | [M:2/4]AA BG | F2 E2 |
+w: Tú el ho-nor de nues-tro pue-blo, tú la~a-bo-ga--da de los pe-ca-do-res.
+    [M:7/8](Ad)c B2A2 | (FG)F E2D2 | [M:2/4]F^G Ad | cB A2 | =GA BG | FF E2 |
+w: ¡Oh_ Ma-rí-a! ¡Oh_ Ma-rí-a! Vir-gen pru-den-tí-si-ma, Ma-dre Cle-men-tí-si-ma.
+    AD GF | (EF) E2 | [M:6/8]AAd cBA | [M:2/4]B2 A2 | AA AG | F2 EF | E2 D2 | (E2 F2) | D4 |]
+w: Rue-ga por no-so--tros, in-ter-ce-de por no-so-tros: a nues-tro Se-ñor Je-su-cris-to. A--mén.

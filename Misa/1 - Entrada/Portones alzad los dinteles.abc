@@ -1,0 +1,45 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Portones alzad los dinteles
+C:José María Sánchez
+S:
+M:3/4
+L:1/4
+Q:1/4=160
+K:Em
+%
+    B, | "Em"E>EE | "D"FED | "Em"E3 | EEF | "C"G3 | "D"FED | "Em"E3 | E3 |
+w: Por-to-nes al-zad los din-te-les, le-van-táos puer-tas an-ti-guas,
+    "G"B2B | "D"A2A | "C"G3 | zAG | "B7"F3- | F3 | "Em"E3 | "D"z3 | "Em"z3 | "D"z3 |
+w: va~a en-trar el Rey de la Glo--ria.
+    "Em"E2E | EEE | "D"F2F | FEF | "Em"G3 | G3 | z3 | z3 |
+w: 1.~Del Se-ñor es la tie-rra~y cuan-to la lle-na.
+w: 2.~Quién_ pue-de su-bir al mon-te de Dios?_
+w: 3.~Quién_ no ju-ra con-tra~el pró-ji-mo~en fal-so.
+w: 4.~¿Quién_ es_ el Rey__ de la Glo-ria?
+    "G"G2G | GGG | "D"A2A | AGA | "Em"B2-B | B3 | z3 | z2"<("">)"B |
+w: Del Se-ñor es el or-be~y sus ha-bi-tan--tes.
+w: ¿Quién_ pue--de~en-trar_ en su re-cin--to? El
+w: Quien__ no con-fí--a en los í-do-los.
+w: Es_ el_ Se-ñor hé-roe va-le-ro--so.
+    "G"B2-B | B2B | "D"d3 | dGA | "Em"B3 | B3 | z3 | z2"<("">)"B |
+w: Él_ la fun-dó, so-bre los ma-res.
+w: hom--bre de ma-nos i-no-cen-tes. El
+w: Él re-ci-bi-rá la ben-di-ción. Le~ha~\-
+w: Es Yah-vé el fuer-te~y po-de-ro-so.
+    "C"c2-c | c2B | "Am"A3 | AGA | "B7"F3- | F3 | "Em"E3 | "D"Z | "Em"Z | "D"Z :|
+w: Él_ la~a-sen-tó so-bre los rí--os.
+w: hom--bre de pu-ro co-ra-zón.__
+w: rá jus-ti-cia~el Dios de sal-va-ción.__
+w: Él_ es el Rey_ de la Glo--ria.

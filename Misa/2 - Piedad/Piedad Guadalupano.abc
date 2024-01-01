@@ -1,0 +1,37 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%%header "$T    xddd"
+%%measurenb 0
+%%setbarnb 1
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Piedad Guadalupano
+T:Misa - Piedad
+T:Misa Guadalupana
+C:Benjamín Rangel
+S:
+M:2/4
+L:1/8
+Q:1/4=65
+K:Em
+V:S cles=treble
+V:B clef=bass octave=-1
+%
+V:S
+   !p! B |"Em"B2BB | "EmM7"B2AB | "Am7"(c2"D"dA) | "G"B2z!mf!B | "F#dim"A2"B7"AA | "Em"G2 "B7"EF | "Em"(G2"B7"F2) | "Em"!fermata!E4!fine! |
+w: Se-ñor, ten pie-dad de no-so---tros. Se-ñor, ten pie-dad de no-so--tros.
+    !mp!"Am"cccc | c2Bc | "D7"(e2dc) | "G"B4 | !mf!"F#dim"AA"B7"AA | "Em"G2"F#dim"EF | "Em"(G2FE) | "B7"!fermata!F3 !D.C.alfine! |]
+w: Cris-to ten pie-dad de no-so---tros. Cris-to, ten pie-dad de no-so---tros.
+V:B
+    z | z4 | z4 | z4 | z2 zG | F2 B,B, | E2 ^A,A, | B,4 | !fermata!E4 |
+w: Se-ñor ten pie-dad de no-so-tros.
+    z4 | z4 | z4 | z4 | !mf!FF B,B, | E2 ^A,A, | B,4 | !fermata!B3 |]

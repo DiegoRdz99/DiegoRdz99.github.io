@@ -1,0 +1,40 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Tiempo de Adviento
+T:Misa - Entrada
+T:Adviento
+C:Moisés Alejandro Sáenz
+M:3/4
+L:1/4
+Q:1/4=180
+K:D
+%
+    zDE | "D"F2F | A2F | E2D | zDE | "F#m"F2F | A2F | E2D |
+w: 1a.~Es el tiem-po del Ad-vien-to, tiem-po de la es-pe-ran-za,
+w: 1b.~I-sa-í-as nos a-nun-cia, la ve-ni-da del Me-sí-as,
+w: 2a.~Juan Bau-tis-ta~el pre-cur-sor,_ sus pa-la-bras nos in-vi-tan,
+w: 2b.~y~en Ma-rí-a~es que se cum-ple, la gran o-bra re-den-to-ra,
+    z3 | "G"GGG | GGF | "Em"E2E- | EFG | "A"E2"<("">)"E | z3 | z3 :|
+w: con a-le-grí-a ve-ni-mos_ a tu~al-tar.
+w: u-na~es-pe-ran--za pa-ra to-dos los tiem-pos.
+w: que pre-pa-re--mos el ca-mi-no~al Se-ñor.
+w: con e-lla~i-ni-cia la~es-pe-ra_ de la~I-gle-sia.
+    "D7"z2D | "G"B2B | B2B | B2B | BcB | "D"B3 | A3 | z3 |
+w: Reu-ni-dos co-mo~I-gle-sia en la~es-pe-ran-za,
+    z2A | "Em"G2G | G2G | "A9"B2B | A2G | "D"A3 | z3 | "D7"z3 |
+w: nues-tra~es-pe-ra-nza~es-tá en Ti Se-ñor.
+    [K:Dm]z2D | "Gm"B2B | B2B | "C"c2c | cdc | "F"B3 | A3 |
+w: Reu-ni-dos co-mo~I-gle-sia en la~es-pe-ran-za,
+    z2A | "Gm"G2G | G2G | "Gm6"G2G | A2B | "A"A3- | !D.C.!A2z |]
+w: nues-tra~es-pe-ra-nza~es-tá en Ti Se-ñor.

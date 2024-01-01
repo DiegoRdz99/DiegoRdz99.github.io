@@ -1,0 +1,38 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%%header "$T    xddd"
+%%measurenb 0
+%%setbarnb 1
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Santo Guadalupano
+T:Misa - Santo
+T:Misa Guadalupana
+C:Benjamín Rangel
+S:
+M:6/8
+L:1/8
+Q:1/4=100
+K:E
+%
+    "E"(G3 "B"F2B) | "C#m"E3 "E"z3 | "F#m"A3"G#m"G2"F#m"E | "B"F3 z3 |
+w: Sa--an-to, sa--an-to,
+    "E"B2B "B"B2G | "C#m"E3 "E"E2D | "F#m"C2F "E"(E2D) | "E"E6 |
+w: san-to~es el Se-ñor, Dios del u-ni-ve-er-so.
+    !mf!"A"AAA A2G | "B"F2F "G#m"G2A | "E"B2E "A"A2G | "E"G3 "B"F2 :
+w: Lle-nos es-tán el cie-lo y la tie-rra de su glo-ria.
+    !f!B | "E"(B3 "B#°7"^B3) | "C#m"c3 "A"(c=B)A | "E"(G3 "B"F3) | "E"E3 z2 :
+w: Ho-sa--nna en_ el cie--lo.
+    !p!G | "C#m"G2G "D#°7"G2G | "C#m"G3 GFG | "F#m7"A2A "B"B2F | "E"G3 z2 :
+w: Ben-di-to el que vie-ne en el nom-bre del Se-ñor
+    !f!B | "E"(B3 "B#°7"^B3) | "C#m"c3 "A"(c=B)A | "E"(G3 "B"F3) | "E"E6 |]
+w: Ho-sa--nna en_ el cie--lo.
