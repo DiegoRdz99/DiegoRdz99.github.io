@@ -1,0 +1,37 @@
+title : Gloria San Pablo
+composer : Jaime Cortés
+key : Bb
+liturgy : Ordinario
+{song}
+/Coro/
+[Bb]Gloria a [F]Dios en el [Bb]cielo,
+[Gm]  y en la [Eb]tierra [F]paz
+a los [Cm7]hombres que [F7]ama el Se[Bb]ñor.
+/verse/
+[Bb]  Por tu inmensa gloria [Eb]te ala[Bb]bamos,
+[F]te bendecimos, [Eb]te ado[Bb]ramos,
+[F]te glorificamos, [Bb]te damos gracias.
+Se[Eb]ñor Dios, [F]Rey celes[Gm]tial,
+Dios [Eb]Padre todopode[Bb]roso.
+Se[Cm7]ñor, Hijo [F]único,
+[Eb]Jesu[F]cristo  [F7]
+/coro/
+/verse/
+Se[Eb]ñor Dios, Cordero de Dios,
+Hijo del [Bb]Padre,
+tú que [F]quitas el pecado del [Bb]mundo,
+[Eb]ten pie[F]dad de no[Bb]sotros,
+tú que [F]quitas el pecado del [Bb]mundo,
+a[Eb]tiende [F]nuestra [Bb]súplica;
+tu que es[F]tás sen[Bb]tado
+a la de[F]recha del [Bb]Padre  [Gm]
+[Cm]ten pie[Eb]dad de no[F]sotros  [F7]
+/coro/
+/verse/
+Porque [Eb]sólo tú eres Santo,
+solo [F]tú Se[B]ñor,
+[Eb]sólo tú Altísimo,
+Je - [F]su - [Bb]cristo,
+[Dm]con el Es[F]píritu [Bb]Santo
+en la [F]gloria de [F7]Dios [Bb]Padre.
+/coro/

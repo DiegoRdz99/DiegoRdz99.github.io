@@ -1,0 +1,9 @@
+title : Aleluya San Pablo
+composer : Jaime Cortés
+key : Bb
+liturgy : Ordinario
+{song}
+/verse/
+[Bb]A - le[Eb]lu - ya,
+[F7]a - le[Bb]luya,  [Gm]
+[Eb]a - le[F]lu - [Bb]ya.

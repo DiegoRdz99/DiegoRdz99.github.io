@@ -1,0 +1,15 @@
+title : Aleluia Io sono il buon pastore
+composer : Marci Frisina
+key : G
+liturgy : Solemne
+{song}
+/verse/
+[G]A - le[Em]lu - u[D]ia,  [D7]
+[G]a - le[C]lu - u[D]ia,  [D7]
+[G]A - le[Em]lu - u[D]ia,  [D7]
+ale[C]lu - [D]u - [G]ia.
+/verse/
+[G]A - le[Em]lu - u[D]ia,  [D7]
+[G]a - le[C]lu - u[D]ia,  [D7]
+[G]A - le[Em]lu - u[D]ia,  [D7]
+ale[C]lu - [Cm]u - [G]ia.

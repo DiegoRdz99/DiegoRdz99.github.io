@@ -1,0 +1,28 @@
+title : Gloria II
+subtitle : Niños - Gloria
+composer : Pbro. Cesáreo Gabaraín
+key : D
+liturgy : Ordinario
+{song}
+/Coro/
+[A]Gloria, gloria, [D]gloria al Se[A]ñor.
+[D]Gloria en el [A]cielo,
+[E]Gloria en la tie[A]rra.
+/verse/
+[A]Te alabamos Señor,
+[D]te bendeci - [A]mos.
+[D] Te adoramos oh [A]Padre,
+[C#m]Dios y Rey Celes[E]tial.
+/coro/
+/verse/
+[A]Eres cordero de Dios,
+[D]Hijo del Pa - [A]dre.
+[D]Tú nos perdonas y [A]salvas,
+[C#m]nos ofreces a[E]mor.
+/coro/
+/verse/
+[A]Tú solo Santo y Señor,
+[D]Tú Jesucri - s[A]to.
+[D]Con el Espíritu [A]Santo,
+[C#m]en la gloria de [E]Dios.
+/coro/

@@ -1,0 +1,41 @@
+title : Gloria Guadalupano
+composer : Benjamín Rangel
+key : E
+liturgy : Virgen de Guadalupe
+{song}
+/Coro/
+[E]Gloria a [B]Dios en el [C#m]cielo,  [C#m7]
+y en la [A]tierra [D#°]paz a los [G#m7]hombres
+[C#m7]  que [F#m7]ama [B7]el Se[E]ñor.
+/verse/
+[C#m]Por tu inmensa [G#m]gloria,
+[A]te [B7]ala[E]bamos,
+[D#°]te [G#7]bende[C#m]cimos,
+te [D#7]ado[G#]ramos;
+[F#m]te glorifi[B]camos,
+te [E]damos [A]gra[A6]cias,
+Se[C#m]ñor Dios, [G°]Rey celes[G#]tial;
+Dios [F#m]Padre [D#°]todopode[G#7]ro - so.
+/coro/
+/verse/
+Se[C#m]ñor Hijo [G#m7]único,
+[A]Je [B7]- su [E]cristo,
+Se[D#°]ñor Dios, Cor[C#m]dero de
+[D#7]Dios, Hijo del [G#]Padre.
+Tú que [F#m]quitas el pe[B]cado del [E]mun[A]do,
+[C#m]ten pie[G°]dad de no[G#]sotros.
+Tú que [F#m]quitas el pe[B]cado del [E]mun[A]do,
+a[C#m]tien[G°]de a nuestra [G#]súplica.
+[C#m]Tú que estás sen[G#m7]tado a la
+de[A]re[B7]cha del [E]Padre,
+[F#m]ten pie[D#°]dad de no[G#7]so - tros.
+/coro/
+/verse/
+[C#m]Porque sólo [G#m7]Tú [A]e-[B7]res [E]Santo,
+[D#°]sólo [G#7]Tú Se[C#m]ñor,
+solo [C#m]Tú Altísi[G°]mo, Jesu[G#]cristo,
+con [F#m]el Es[B]píritu [E]Santo  [A]
+[A6]en la [C#m]gloria [G°]de Dios [G#]Pa - dre.
+/coro/
+/verse/
+[A]A - [A6]a - [E]mén.

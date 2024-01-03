@@ -1,0 +1,31 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Piedad San Pablo
+T:Misa - Piedad
+T:Misa San Pablo
+C:Jaime Cortés
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:Bb
+%
+    zF | "Eb"G2GB | "F"A2GF | "Gm"G2F2 | 
+w: Se-ñor, ten pie-dad de no-so-tros.
+    z2 zF | "Eb"G2GB | "F"A2zF | "D"A2Ac | "Gm"B2BB | "Eb"B2AG | "Bb"F2D2 | z4 ||
+w: Se-ñor, ten pie-dad, Se-ñor, ten pie-dad, ten pie-dad de no-so-tros. 
+    "Eb"GGGB "F"A2GF | "Gm7"G2F2 | z4 |
+w: Cris-to, ten pie-dad de no-so-tros.
+    "Eb"GGGB | "F"A2z2 | "D"AAAc | "Gm"B2BB |"Eb"B2AG | "Bb"F2D4z2!D.C.alfine! ||
+w: Cris-to, ten pie-dad, Cris-to, ten pie-dad, ten pie-dad de no-so-tros.

@@ -1,0 +1,36 @@
+title : Gloria Mejía Melódico
+composer : Alejandro Mejía
+key : G
+liturgy : Solemne
+{song}
+/Coro/
+[G]Gloria, [D7]gloria, [Em]gloria
+al Se[Am]ñor Dios [A7]en el [D7]cie - lo,
+[G]y en la [D7]tierra [Em]paz,
+a los [Am]hombres que [D7]ama el Se[G]ñor.
+/verse/
+Te ala[C]bamos, [A7]y te bende[D]cimos,
+[B7]  te ado[Em]ramos, [Am7]te glorifi[D7]camos.
+Te [G]damos gracias, Se[E7]ñor,
+por tu inmensa [Am]gloria, te damos [F#7]gracias,
+Señor, Se[Bm]ñor Dios [E7]Rey celes[Am]tial,
+Dios [D7]Padre [G]todo-[C]po-[A7]de-[D7]ro - so.
+/coro/
+/verse/
+[Em]    Señor Hijo [Am7]único, Jesu[B7]cris - to.
+Se[D#°]ñor Dios, Cordero de [Bm]Dios,
+Hijo del [B]Pa - dre.
+[G#°]  Tú que [Am]quitas el pe[D7]cado del [G]mundo,
+[C]  ten pie[Am6]dad, ten pie[B7]dad de no[Em]so - tros.
+[E7]  Tú que [Am]quitas el pe[D7]cado del [G]mundo,
+[Em]   a[C]tiende a nuestra [Am6]súplica,
+a[B7]tiende a nuestra [Em]súplica.
+Tú que es[Am]tás a la de[D7]recha del [G]Pa - dre,
+[C]  ten pie[Am]dad,
+ten pie[B7]dad de no[Em]so - tros    [D7]
+/verse/
+[G]Porque sólo [D7]Tú eres [Em]Santo,
+sólo [Am]Tú Se[A7]ñor Al[D7]tísimo,
+[G]con el Es[D7]píritu [Em]Santo
+en la [Am]gloria [D7]de Dios [G]Pa - dre.
+[Em]A [C6]- [B7]mén,  [E7]  [Am]a [D7]- [G]mén.

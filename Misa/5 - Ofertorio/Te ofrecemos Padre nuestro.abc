@@ -1,0 +1,36 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Te ofrecemos Padre nuestro
+T:Misa - Ofertorio
+T:Ordinario
+C:
+S:
+M:3/4
+L:1/4
+Q:1/4=140
+K:D
+%
+    zDF | "D"A2A | "G"B2B | "D"AF2 | zDF | "F#m"A2A | "B7"B2B | "Em"G3 |
+w: Te~o-fre-ce-mos Pa-dre nues-tro, con el vi-no~y con el pan,
+    zEF | G2G | "EmM7"A2A | "A"GE2 | zGA | "A7"c2B | A2G | "D"F3 |
+w: nues-tras pe-nas y~a-le-grí-as, el tra-ba-jo, nues-tro~a-fán.
+    [K:A]zFF | "E7"E2G | B2d | "A"cA2 | zFF | "E7"E2G | B2d | "A"c3 |
+w: 1.~Co-mo~el tri-go de los cam-pos, ba-jo~el sig-no de la cruz,
+w: 2.~A los po-bres de la tie-rra, a los que su-frien-do~es-tán,
+w: 3.~Es-tos do-nes son el sig-no, del es-fuer-zo de~u-ni-dad,
+w: 4.~Es tu pue-blo quien te~o-fre-ce, con los do-nes del al-tar,
+    [K:A]zFF | "E7"E2G | B2d | "A"cA2 | zFF | "E7"E2G | B2G | "A"A3 | 
+w: se trans-for-men nues-tras vi-das, en el cuer-po de Je-sús.
+w: cam-bia su do-lor en vi-no, co-mo la~u-va~en el la-gar.
+w: que los hom-bres rea-li-za-mos en el cam-po~y la ciu-dad.
+w: la na-tu-ra-le-za~en-te-ra, an-he-lan-do li-ber-tad.

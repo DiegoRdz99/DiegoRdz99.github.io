@@ -1,0 +1,35 @@
+title : Gloria Palazón
+composer : Francisco Palazón
+key : D
+liturgy : Solemne
+{song}
+/Coro/
+Gloria a [D]Dios [Em]en el [F#m]cielo,
+[Em]y en la tierra [A]paz,
+a los [D]hom[Bm]bres que [Em]a-[A]ma el Se[D]ñor.
+/verse/
+[D]Por tu inmensa gloria te ala[G]ba[D]mos,
+[Em]te bendecimos, te ado[A]ra[D]mos,
+[F#m]te glorificamos, te [D]damos [E7]gra[A7]cias.
+/coro/
+/verse/
+[D]Señor Dios, Rey celestial,
+Dios Padre todo pode[G]ro[D]so,
+[Em]Señor Hijo único, Jesu[A]cris[D]to,
+[F#m]Señor Dios, Cordero de Dios,
+[D]Hi - jo del [E7]Pa[A7]dre.
+/coro/
+/verse/
+[D]Tú que quitas el pecado del mundo,
+ten piedad de no[G]so[D]tros,
+[Em]tú que quitas el pecado del mundo,
+atiende nuestra [A]súpli[D]ca,
+[F#m]tú que estás sentado a la derecha del Padre,
+ten pie[D]dad de no[E7]so[A7]tros.
+/coro/
+/verse/
+[D]Porque solo tú eres santo, solo [G]tú, Se[D]ñor,
+[Em]solo tú Altísimo, Jesu[A]cris[D]to,
+[F#m]con el Espíritu Santo,
+en la [D]gloria de Dios [E7]Pa[A7]dre.
+/coro/

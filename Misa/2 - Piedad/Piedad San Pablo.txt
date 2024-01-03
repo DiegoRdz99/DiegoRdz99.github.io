@@ -1,0 +1,21 @@
+title : Piedad San Pablo
+composer : Jaime Cortez
+key : Eb
+liturgy : Ordinario
+{song}
+/verse/
+Se[Eb]ñor, ten pie[F]dad
+de no[Gm]sotros.
+Se[Eb]ñor, ten pie[F]dad;
+Se[D]ñor, ten pie[Gm]dad;
+ten pie[Eb]dad de no[Bb]sotros.
+[Eb]Cristo, ten pie[F]dad
+de no[Gm7]sotros.
+[Eb]Cristo, ten pie[F]dad;
+[D]Cristo, ten pie[Gm]dad;
+ten pie[Eb]dad de no[Bb]sotros.
+Se[Eb]ñor, ten pie[F]dad
+de no[Gm]sotros.
+Se[Eb]ñor, ten pie[F]dad;
+Se[D]ñor, ten pie[Gm]dad;
+ten pie[Eb]dad de no[Bb]sotros.
