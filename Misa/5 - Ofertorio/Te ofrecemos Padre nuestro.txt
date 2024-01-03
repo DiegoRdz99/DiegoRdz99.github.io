@@ -1,0 +1,33 @@
+title : Te ofrecemos Padre nuestro
+key : D
+liturgy : Ordinario
+{song}
+/Coro/
+Te ofre[D]cemos [G]Padre [D]nuestro,
+con el [F#m]vino y [B7]con el [Em]pan,
+nuestra penas [Em7]y ale[A]grías,
+el tra[A7]bajo, nuestro a[D]fán.
+/verse/
+Como el [E7]trigo de los [A]campos,
+bajo el [E7]signo de la [A]cruz,
+se trans[E7]formen nuestras [A]vidas,
+en el [E7]cuerpo de Je[A]sús.
+/coro/
+/verse/
+A los [E7]pobres de la [A]tierra,
+a los [E7]que sufriendo es[A]tán,
+cambia [E7]su dolor en [A]vino,
+como [E7]la uva en el la[A]gar.
+/coro/
+/verse/
+Estos [E7]dones son el [A]gisno,
+del es[E7]fuerzo de uni[A]dad,
+que los [E7]hombres reali[A]zamos,
+en el [E7]campo y la ciu[A]dad.
+/coro/
+/verse/
+Es tu [E7]pueblo quien te o[A]frece,
+con los [E7]dones del al[A]tar,
+la na[E7]turaleza en[A]tera,
+anhe[E7]lando liber[A]tad.
+/coro/

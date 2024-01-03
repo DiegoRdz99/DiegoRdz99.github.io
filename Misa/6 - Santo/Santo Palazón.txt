@@ -1,0 +1,24 @@
+title : Santo Palazón
+composer : Francisco Palazón
+key : D
+liturgy : Solemne
+{song}
+/verse/
+[D]Santo, [A]Santo, [D]Santo.
+Santo es [Bm]el [G]Se - [A]ñor.  [A7]
+[D]Santo es [G]el Se[D]ñor, 
+Dios del [F#m]u - [G]ni[D]ve [A]- r[D]so,  [A7]
+[D]Santo es [G]el Se[D]ñor, 
+Dios del [F#m]u - [G]ni[D]ve [A]- r[D]so,  [A7]
+/verse/
+[D]Llenos es[G]tá - n el [D]cielo,  [A7]
+y la [G]tierra de tu [A]gloria.  [A7]
+/Coro/
+Ho[D]sa - [F#m]nna, ho[G]sa - [D]nna,
+ho[G]sanna en el [D]cie [Gm]- [A]lo.  [A7]
+Ho[D]sa - [F#m]nna, ho[G]sa - [D]nna,
+ho[G]sanna en el [D]cie [A]- [D]lo.
+/verse/
+Ben[D]tito, [A7]  el que [D]viene
+[Bm]  en [F#m]nombre [G]del Se[A]ñor.
+/coro/

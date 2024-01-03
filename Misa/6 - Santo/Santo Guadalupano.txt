@@ -1,0 +1,20 @@
+title : Santo Guadalupano
+composer : Benjamín Rangel
+key : E
+liturgy : Virgen de Guadalupe
+{song}
+/verse/
+[E]Sa - [B]a - an[C#m]to,   [E]
+[F#m]sa - [G#m]a - [F#m]an[B]to,
+[E]santo es [B]el Se[C#m]ñor,
+[E]Dios del [F#m]uni[B]ve - r[E]so.
+/verse/
+[A]Llenos están el [B]cielo
+[G#m]y la [E]tierra [A]de su [E]glo - [B]ria.
+/Coro/
+Ho[E]sa - [B#°7]a - [C#m]nna,
+[A]e - n el [E]cie - [B]e - [E]lo.
+/verse/
+Ben[C#m]dito [D#°7]el que [C#m]viene
+en el [F#m7]nombre [B]del Se[E]ñor.
+/coro/

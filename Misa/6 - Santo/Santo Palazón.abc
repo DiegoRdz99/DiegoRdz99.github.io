@@ -16,18 +16,20 @@ T:Misa - Santo
 T:Solemne
 C:Francisco Palazón
 S:
-M:6/8
-L:1/8
-Q:1/4=80
+M:3/4
+L:1/4
+Q:1/4=120
 K:D
 %
-    "D"F2F "A"E2E | "D"D2D z3 | D2D "G"FG2 | "A"A4 z2 | "D"d2d "G"(dc)B | "D"A4 DF |
-w: San-to, San-to, San-to. San-to~es el Se-ñor. San-to~es el_ Se-ñor, Dios del
-    "F#m"A2"G"B "A"(AG2) | "D"A3 "D7"z3 | "D"d2d "G"(dc)B | "D"A4 DF | "F#m"A2"G"B "A"(AG2) | "D"F4 z2 |
-w: u-ni-ve-er-so, San-to~es el_ Se-ñor, Dios del u-ni-ve-er-so.
-    "D"AAA "G"(BA)G | "D"A2A zFE | "Bm"D2D "G"(EF)G | "A"(A/2B/2)A3 :
+    "D"F2F |"A7"E2E | "D"D2D | z3 | D2D | "Bm"F"G"G2 | "A"A3 | "A7"z3 |:
+w: San-to, San-to, San-to. San-to~es el Se-ñor.
+    "D"d2d | "G"(dc)B | "D"A3 |zDF | "F#m"A2"G"B | "D"(A"A"G2) :|1 "D"A3 | "A7"z3 |2 "D"F3 | "A7"z3 |
+w: San-to~es el_ Se-ñor, Dios del u-ni-ve-er-so, \-~so,
+    "D"AAA | "G"(BA)G | "D"A2A | "A7"zFE | "G"D2D | (EF)G | "A"(A/2B/2)A2 |
 w: Lle-nos es-tán_ el cie-lo, y la tie-rra de_ tu glo--ria
-    SzA | "D"d3."F#m"c2 F | "G"B3."D"A2D | "G"GAG "D"(F2G) | "A"A4 zA | "D"d3."F#m"c2 F | "G"B3."D"A2D | "G"GDE "D"(F2E) | "A"!fine!D4 :
-w: Ho-sa-nna, ho-sa-nna, ho-sa-nna~en el cie-e-lo. Ho-sa-nna, ho-sa-nna, ho-sa-nna~en el cie-e-lo. 
-    zA, | "D"F2F z GE | "Bm"D2D2 z D | "F#m"A2B "G"(AF)G | "A"!D.S.alfine!A4 |]
+    Sz2A | "D"d3 | "F#m".c2 F | "G"B3 | "D".A2D | "G"GAG | "D"(F2"Gm"G) | "A"A3 |
+w: Ho-sa-nna, ho-sa-nna, ho-sa-nna~en el cie-e-lo.
+    "A7"z2A | "D"d3 |"F#m".c2 F | "G"B3 | "D".A2D | "G"GDE | "D"(F2"A"E) | "D"!fine!D3 |
+w: Ho-sa-nna, ho-sa-nna, ho-sa-nna~en el cie-e-lo.
+    z2A, | "D"F2F | "A7"zGE | "D"D2D | "Bm"z2D | "F#m"A2B | "G"(AF)G | "A"!D.S.alfine!A3 |]
 w: Ben-di-to el que vie-ne en nom-bre del_ Se-ñor

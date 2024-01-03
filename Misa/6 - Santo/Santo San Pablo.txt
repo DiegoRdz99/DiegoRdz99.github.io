@@ -1,0 +1,19 @@
+title : Santo San Pablo
+composer : Jaime Cortes
+key : Bb
+liturgy : Ordinario
+{song}
+/verse/
+[Bb]Santo, Santo, Santo,
+[F]Santo es el Se[Bb]ñor,
+[Eb]Dios del Uni[Bb]verso,
+/verse/
+[Eb]Llenos están el cielo
+y la tierra de tu [Bb]gloria.
+/Coro/
+Ho[Eb]sa - [F]nna en el [D]cie - [Gm]lo,
+ho[Eb]sanna en el [Bb]cielo.
+/verse/
+Ben[Bb]dito el que viene
+en [F]nombre del Se[Eb]ñor.
+/coro/
