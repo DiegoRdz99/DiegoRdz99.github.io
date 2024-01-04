@@ -1,0 +1,13 @@
+title : Cordero Palazón
+composer : Francisco Palazón
+key : Dm
+liturgy : Solemne
+{song}
+/verse/
+Cor[Dm]dero de Dios,
+que [Bb]quitas el pecado del [A7]mundo.
+ten pie[Gm]dad de no[A7]sotros.
+/verse/
+Cor[Dm]dero de Dios,
+que [Bb]quitas el pecado del [A7]mundo.
+ten pie[Gm]dad de no[A7]sotros.

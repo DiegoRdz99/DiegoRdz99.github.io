@@ -1,5 +1,6 @@
 title : Con Jesús en el Altar
 key : G
+composer : Jimena Muñoz
 liturgy : Ordinario
 {song}
 /verse/

@@ -4,8 +4,10 @@ liturgy : Ordinario
 {song}
 /verse/
 [D]Sa - n[A]to,   [G]sa - n[A]to.
-[D]Santo es [F#m]el Seño - [G]or, Dios pode[A]roso.
-[D]Santo es [A]el Seño - [G]or, Dios del uni[A]verso.
+[D]Santo es [F#m]el Seño - [G]or,
+Dios pode[A]roso.
+[D]Santo es [A]el Seño - [G]or,
+Dios del uni[A]verso.
 Los [F#m]cielos y la [Bm]tierra
 están [Em]llenos de tu [A]glo - o - [D]ria.
 Ho[A]sa - nna, [Bm]ho - o[F#m]sa - nna,

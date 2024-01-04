@@ -465,7 +465,7 @@ liturgy_colors = {
 
     'Difuntos': BLACK,  # black
 
-    'Vírgen de Guadalupe': BLUE  # blue
+    'Virgen de Guadalupe': BLUE  # blue
 }
 
 

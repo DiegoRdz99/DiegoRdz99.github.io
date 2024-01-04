@@ -1,0 +1,20 @@
+title : Cordero Moncada
+composer : Ricardo Moncada
+key : G
+liturgy : Ordinario
+{song}
+/verse/
+Cor[G]dero de [Em]Dios,
+que [C]quitas el pe[D]cado
+del [G]mundo, ten pie[Em]dad
+[C]de no[D]so - [G]tros.  [D7]
+/verse/
+Cor[G]dero de [Em]Dios,
+que [C]quitas el pe[D]cado
+del [G]mundo, ten pie[Em]dad
+[C]de no[D]so - [G]tros.  [D7]
+/verse/
+Cor[G]dero de [Em]Dios,
+que [C]quitas el pe[D]cado
+del [G]mu - n[Em]do
+[C]da - [D]a - nos la [G]paz.

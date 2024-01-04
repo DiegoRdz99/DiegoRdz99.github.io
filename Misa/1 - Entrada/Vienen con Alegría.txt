@@ -1,5 +1,6 @@
 title : Vienen con Alegría
 liturgy : Ordinario
+composer : Pbro. Cesáreo Gabaraín
 key : D
 {song}
 /Coro/
