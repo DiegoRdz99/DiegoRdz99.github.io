@@ -13,25 +13,22 @@
 X:1
 T:Con alegría venimos a entregar
 T:Misa - Ofertorio
-T:Solemne
+T:Ordinario
 C:Pbro. Jesús Alejandro Hernández López
-M:6/8
-L:1/16
+M:3/4
+L:1/8
 Q:"Andante"
 K:D
 %
-    "D"G2F3A "Em"G2F2D2 | "G"DEF2G2 E6 | D2D3E D2A,2A,2 | EFG2F2 E6 |
+    "D"G2F3A | "Em"G2F2D2 | "G"DEF2G2 | "A"E6 | "G"D2D3E | "D"D2A,2A,2 | "Em"EFG2F2 | "A"E6 |
 w: Con a-le-grí-a ve-ni-mos a~en-tre-gar, nues-tro tra-ba-jo al pie de tu al-tar.
-    G2F3A G2F2D2 | DFB2d2 A6 |: B2A3G A2F2D2 | G2F2E2 D6 :|
+    "D"G2F3A | "Em"G2F2D2 | "G"DFB2d2 | "A"A6 |: "G"B2A3G | "D"A2F2D2 | "A"G2F2E2 | "D"D6 :|
 w: Re-ci-be~oh Pa-dre nues-tra~hu-mil-de~o-ra-ción. ¡Ben-di-to se-as por siemp-re Se-ñor!
-    z6 BBB2c2 | d2A4 G2B2G2 | A2-A4 BBB2c2 | [M:9/8]d2A2F2 G2F2G2 E6 |
+    z6 | "G"BBB2c2 | "D"d2A4 | "A"G2B2G2 | "D"A2-A4 | "G"BBB2c2 | "D"d2A2F2 | "G"G2F2G2 | "A"E6 |
 w: 1.~Dios del u-ni-ver-so, por es-te pan,_ fru-to de la tie-rra~y de nues-tro a-fán.
 w: 2.~Dios del u-ni-ver-so, por es-te vi-no, fru-to de la vid y de nues-tro a-fán.
-    [M:6/8]D2E2F2 AAA2D2 | GAB2G2 A6 | B2A3G A2F2D2 | G2F2E2 D6 !D.C.!|
+    "D"D2E2F2 | "A"AAA2D2 | "G"GAB2G2 | "D"A6 | "G"B2A3G | "D"A2F2D2 | "A"G2F2E2 | "D"D6 !D.C.!||
 w: que pre-sen-ta-mos por tu ge-ne-ro-si-dad, ¡ben-di-to se-as por siem-pre, Se-ñor!
-    G2F3A G2F2D2 | DEF2G2 E6 | D2D3E D2A,2A,2 | EFG2F2 E6 |
-w: Con a-le-grí-a ve-ni-mos a~en-tre-gar, nues-tro tra-ba-jo al pie de tu al-tar.
-    G2F3A G2F2D2 | DFB2d2 A6 | B2A3G A2F2D2 | G2F2E2 D6 |
-w: Re-ci-be~oh Pa-dre nues-tra~hu-mil-de~o-ra-ción. ¡Ben-di-to se-as por siemp-re Se-ñor!
-    B2A3G A2d2d2 | d2c2d2 d6 |]
+w: que pre-sen-ta-mos por tu ge-ne-ro-si-dad, ¡ben-di-to se-as por siem-pre, Se-ñor!
+    "G"B2A3G | "D"A2d2d2 | "A"d2c2d2 | "D"d6 |]
 w: ¡Ben-di-to se-as por siemp-re Se-ñor!

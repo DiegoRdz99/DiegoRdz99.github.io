@@ -1,0 +1,26 @@
+title : Con alegría venimos a entregar
+composer : Pbro. Jesús Alejandro Hernández López
+key : D
+liturgy : Ordinario
+{song}
+/Coro/
+[D]Con ale[Em]gría ve[G]nimos a entre[A]gar,
+[G]nuestro tra[D]bajo al [Em]pie de tu al[A]tar.
+[D]Recibe oh [Em]Padre nues[G]tra humilde
+ora[A]ción.
+[G]¡Bendito [D]seas por [A]siempre Se[D]ñor!
+[G]¡Bendito [D]seas por [A]siempre Se[D]ñor!
+/verse/
+[G]Dios del uni[D]verso, [A]por este [D]pan,
+[G]fruto de la [D]tierra y de [G]nuestro a[A]fán.
+[D]que presen[A]tamos por tu
+[G]generosi[D]dad,
+[G]¡bendito [D]seas por [A]siempre Se[D]ñor!
+/coro/
+/verse/
+[G]Dios del uni[D]verso, [A]por este [D]vino,
+[G]fruto de la [D]vid y de [G]nuestro a[A]fán.
+[D]que presen[A]tamos por tu
+[G]generosi[D]dad,
+[G]¡bendito [D]seas por [A]siempre Se[D]ñor!
+/coro/

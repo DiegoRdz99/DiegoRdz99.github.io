@@ -1,4 +1,5 @@
 title : Pescador de Hombres
+composer : Cesáreo Gabaraín
 key : C
 liturgy : Difuntos
 {song}

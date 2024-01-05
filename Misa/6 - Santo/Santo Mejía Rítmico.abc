@@ -1,0 +1,33 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Santo Mejía Rítmico
+T:Misa - Santo
+T:Ordinario
+C:Alejandro Mejía
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:C
+%V: a octave=+1
+%
+    "G"B2 (BA) | "Em"G2 G2 | "Am"cc cA | "D"B2 A2 | "G"B2 BA | "Em"G2 G2 | "Am"c2 cA | [M:4/4]"D"B2 A4 |
+w: San-to-o, san-to, san-to~es el Se-ño-or, Dios po-de-ro-so del u-ni-ver-so.
+    "D7"zD | "G"G2G2 G3F | "Em"E2E2 z2FG | "Am"A2A2A3G | "D"F2F4 :
+w: Los cie-los y la tie-rra es-tán lle-nos de su Glo-ria.
+    |: zD | "G"GG4z2A | "Em"BB4 z2B | "Am"c2AA"D"d2c2 | "G"B4z2 :|
+w: Ho-sa-nna, ho-sa-nna, ho-sa-nna~en el cie-e-lo.
+    zB | [M:2/4]"C"e2ed | "D"c2.A2 | "G"d3c | "Em"B2 .G2 | "Am"c3B | [M:4/4]"D"B2A4 :
+w: Ben-di-to~el que vie-ne en el nom-bre del Se-ño-or,
+    |: zD | "G"GG4z2A | "Em"BB4 z2B | "Am"c2AA"D"d2c2 | "G"B4z2 :| 
+w: Ho-sa-nna, ho-sa-nna, ho-sa-nna~en el cie-e-lo.

@@ -4,7 +4,7 @@ liturgy : Ordinario
 {song}
 /verse/
 [D]Sa - n[A]to,   [G]sa - n[A]to.
-[D]Santo es [F#m]el Seño - [G]or,
+[D]Santo es [A]el Seño - [G]or,
 Dios pode[A]roso.
 [D]Santo es [A]el Seño - [G]or,
 Dios del uni[A]verso.
