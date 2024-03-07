@@ -1,0 +1,37 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%%measurenb 0
+%%setbarnb 1
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Dios nos convoca
+T:Misa - Entrada
+T:Ordinario
+C:Carmelo Erdozáin
+S:
+M:2/4
+L:1/8
+Q:1/4=90
+K:C
+%
+    "C"G2 G>G | G2 "Am"E>E | "Dm"F2 "G7"F>E | DC2B, | "C"C4 |
+w: Dios nos con-vo-ca, ve-nid y~es-cu-che-mos su voz,
+    z2 zz/2G,/2 | C>C C>C | "G"D2 D>D | "Am"E>D C>E | "Em"G4 | 
+w: la me-sa~ha pre-pa-ra-do, su pan es sal-va-ción.
+    "Am"c2 B>A | "Em"G3 G | "F"A>G F>E | "G"D4 | "C"C4 | z2 :
+w: Gra-cias Se-ñor, por ser tus in-vi-ta-dos.
+    z z/2G,/2 | "C"C2 C>D | E2 G>F | E2 "G"D2 | "C"C2 zz/2G,/2 | C2 C>D | E2 GA | "Em"G4 |
+w: 1.~Ve-nid, ce-le-brad la Pa-la--bra, ve-nid a-co-ger la ver-dad;
+w: 2.~Ve-nid, ce-le-brad la~Es-pe-ran--za, ve-nid a la ce-na pas-cual;
+w: 3.~Ve-nid, ce-le-brad la Vic-to--ria, ve-nid re-no-vad la~a-mis-tad;
+    "Am"c2 B>A | "Em"G3 G | "F"A>G F>E | "G"D4 | "C"C4 | z4 :|
+w: y~en her-man-dad, can-tad la nue-va~a-lian-za.

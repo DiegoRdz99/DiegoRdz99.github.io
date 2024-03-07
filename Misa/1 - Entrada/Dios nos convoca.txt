@@ -1,0 +1,29 @@
+title : Dios nos convoca
+composer : Carmelo Erdozáin
+key : C
+liturgy : Ordinario
+{song}
+/Coro/
+[C]Dios nos convo[Am]ca,
+ve[Dm]nid [G7]y escuchemos su [C]voz,
+la mesa ha prepa[G]rado,
+su [Am]pan es salva[Em]ción.
+[Am]Gracias Se[Em]ñor,
+por [F]ser tus invi[G]ta - [C]dos.
+/verse/
+Ve[C]nid celebrad la Espera [G]- n[C]za,
+venid a la cena pas[Em]cual;
+[Am]y en herman[Em]dad,
+can[F]tad la nueva a[G]lian - za.
+/coro/
+/verse/
+Ve[C]nid celebrad la Pala [G]- [C]bra,
+venid acoger la ver[Em]dad;
+[Am]y en herman[Em]dad,
+can[F]tad la nueva a[G]lian - za.
+/coro/
+/verse/
+Ve[C]nid celebrad la Victo [G]- [C]ria,
+venid renovad la amis[Em]tad;
+[Am]y en herman[Em]dad,
+can[F]tad la nueva a[G]lian - za.

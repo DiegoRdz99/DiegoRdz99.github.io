@@ -1,0 +1,40 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%%measurenb 0
+%%setbarnb 1
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Acepta Señor nuestros dones
+T:Misa - Ofertorio
+T:Ordinario
+C:Pbro. Horacio López Ramírez
+C:Arm. Gabriel de Jesús Frausto Zamora
+S:
+M:2/4
+L:1/8
+Q:1/4=90
+K:D
+%
+    zD | "D"D2 DE | "F#m"F2 ED | "G"(G2 B2) | "A7"A4 | d3 d |d2 cB | A4 |
+w: A-cep-ta, Se-ñor, nues-tros do--nes, son el vi-no y~el pan,
+    z2 FF | G3G | A2B2 | (A3F) | D2 EG | F FF | EE EE | F4 |
+w: y con e-llos te can-ta--mos nues-tra fe, es-pe-ran-za~y ca-ri-dad;
+    z2 FF | G3G | A2B2 | (A3F) | D2 EG | F FF | EE EE | D4 |
+w: y con e-llos te can-ta--mos nues-tra fe, es-pe-ran-za~y ca-ri-dad.
+    [M:4/4][L:1/4]F2 ED | A3 D/2D/2 | B2 AG | A3 :
+w: 1.~Gra-cias, Se-ñor, por el vi-no y~el pan,
+w: 2.~Gra-cias, Se-ñor, el tra-ba-jo~es un don,
+w: 3.~Gra-cias, Se-ñor, de tu~e-ter-na bon-dad,
+    D/2D/2 | B2 AG | A3 D/2D/2 | G2 FG | E3 :|
+w: por tu~e-ter-na bon-dad, te can-ta-mos Se-ñor.
+w: en que~el hom-bre se da, co-mo~o-fren-da de~a-mor.
+w: nues-tra vi-da~es un don, te ve-ni-mos a dar.

@@ -1,0 +1,5 @@
+title : Acepta Señor nuestros dones
+composer : Pbro. Horacio López Ramírez
+key : D
+liturgy : Ordinario
+{song}
