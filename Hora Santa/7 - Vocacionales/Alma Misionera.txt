@@ -1,33 +1,34 @@
 title : Alma Misionera
 key : A
 {song}
-Se[A]ñor, [E] toma mi vida nu[F#m]
-[D]  Antes de que la es[A]pera
-[D]  Desgaste años e - [E]n mí [E+]
-Es[A]toy [E]  dispuesto a lo que qui[F#m]eras
-[D]  No importa lo que se - [A]ea
-Tú [D]lláma[E]me a ser[A]vir  [E+]
+/verse/
+Se[A]ñor, [E] toma mi vida nu[F#m]eva,
+[D]  antes de que la es[A]pera
+[D]  desgaste años e - [E]n mí. [E+]
+Es[A]toy [E]  dispuesto a lo que qui[F#m]eras,
+[D]  no importa lo que se - [A]ea,
+tú [D]lláma[E]me a ser[A]vir  [E+]
 /Coro/
 Lléva[A]me donde los [E]hombres
-Nece[F#m]siten tus pa[D]labras
-Nece[A]si - ten mis ganas de vi[E]vir
-Donde fa - [A]lte la espe[E]ranza
-Donde [F#m]falte la ale[D]gría
-Simple[A]mente [E]  por no saber de [A]Ti
+nece[F#m]siten tus pa[D]labras,
+nece[A]si - ten mis ganas de vi[E]vir.
+Donde fa - [A]lte la espe[E]ranza,
+donde [F#m]falte la ale[D]gría
+simple[A]mente [E]  por no saber de [A]Ti.
 /verse/
-Te [A]doy  [E]  mi corazón sin[F#m]cero
-[D]  Para gritar sin mi[A]edo
-[D]  Tu grandeza Se - [E]eñor
-Tendr[A]é  [E]  mis manos sin can[F#m]sancio
-[D]  Tu historia entre mis [A]labios
-Y [D]fuerza en [E]la ora[A]ción  [E]
+Te [A]doy  [E]  mi corazón sin[F#m]cero,
+[D]  para gritar sin mi[A]edo
+[D]  tu grandeza Se - [E]eñor.
+Tendr[A]é  [E]  mis manos sin can[F#m]sancio,
+[D]  tu historia entre mis [A]labios,
+y [D]fuerza en [E]la ora[A]ción  [E]
 /coro/
 /verse/
-Y a[A]sí  [E]  en marcha iré can[F#m]tando
-[D]  Por calles predi[A]cando
-[D]  Lo bello que es tu [E]a - mor
-Se[A]ñor,  [E]  tengo alma mision[F#m]era
-[D]  Condúceme a la [A]tierra
-Que [D]tenga [E]sed de [A]Dios  [E]
+Y a[A]sí  [E]  en marcha iré can[F#m]tando,
+[D]  por calles predi[A]cando
+[D]  lo bello que es tu [E]a - mor.
+Se[A]ñor,  [E]  tengo alma mision[F#m]era,
+[D]  condúceme a la [A]tierra
+que [D]tenga [E]sed de [A]Dios  [E]
 /coro/
 /coro/
