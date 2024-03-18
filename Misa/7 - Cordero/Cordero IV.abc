@@ -1,0 +1,28 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Cordero IV
+C:
+M:4/4
+L:1/8
+Q:1/4=120
+K:Em
+%
+    "D"z2AA2AA2 | "F#m"(A8 | "G".G)GGGG2FF- | "A"F2E2z2D2 | "D"A3 F4 z |1,2
+w: Cor-de-ro de Dios,_ que qui-tas el pe-ca--do del mun-do,
+    "F#m"z8 | "G"z2GG GGFF- | "A"F2E4 z2 :|3
+w: ten pie-dad de no-so--tros.
+    "Am"z4 "D7" | "G"z2G2G2F2 | "A"E8 | "F#m"z2A2A2G2 | "Bm"F8 |
+w: da-nos la paz, da-nos la paz,
+    "G"G8 | "A"E6D2 | "D"(D8 | "G"G8 | "D"F8) |]
+w: da-nos la paz.__
