@@ -1,0 +1,6 @@
+title : Honor y Gloria III
+liturgy : Cuaresma
+key : G
+{song}
+[G]Honor y [C]gloria a [D]ti, Señor Je[G]sús
+[D]  [Em]  Honor y [D]gloria a [G]ti.
