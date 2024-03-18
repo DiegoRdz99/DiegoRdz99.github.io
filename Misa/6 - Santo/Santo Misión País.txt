@@ -1,22 +1,22 @@
 title : Santo Misión País
-key : A Dórico
+key : D Dórico
 composer : Misión País
 liturgy : Ordinario
 {song}
 /intro/
-[Am]  [D]  [Am]  [D]
+[Dm]  [G]  [Dm]  [G]
 /verse/
-[Am]Santo, santo, [D]santo es el Se[Am]ñor
-Dios del uni[D]verso llenos es[F]tán
-El cielo y la ti[G]erra de su Glo - o[F]ria
-Hosanna en el [G]cie - lo
+[Dm]Santo, santo, [G]santo es el Se[Dm]ñor
+Dios del uni[G]verso llenos es[Bb]tán
+El cielo y la ti[C]erra de su Glo - o[Bb]ria
+Hosanna en el [C]cie - lo
 /verse/
-[Am]Santo, santo, [D]santo es el Se[Am]ñor
-Bendito el que [D]viene en nombre de [F]Dios
-Hosanna en el [G]cielo a a nuestro Salva[F]dor
-Hosanna en el [G]cie - lo
+[Dm]Santo, santo, [G]santo es el Se[Dm]ñor
+Bendito el que [G]viene en nombre de [Bb]Dios
+Bendito el que [C]viene en nombre de [Bb]Dios
+Hosanna en el [C]cie - lo
 /verse/
-[A]Santo, santo, [D]santo es el Se[A]ñor
-Dios del uni[D]verso llenos es[F]tán
-El cielo y la ti[G]erra de su Glo - o[F]ria
-Hosanna en el [G]cie - lo - [Asus4]o - [A]o
+[D]Santo, santo, [G]santo es el Se[D]ñor
+Dios del uni[G]verso llenos es[Bb]tán
+El cielo y la ti[C]erra de su Glo - o[Bb]ria
+Hosanna en el [C]cie - lo - [Dsus4]o - [D]o
