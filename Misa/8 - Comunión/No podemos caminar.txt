@@ -1,0 +1,28 @@
+title : No podemos caminar
+key : G
+composer : Juan Antonio Espinoza
+liturgy : Cuaresma
+{song}
+/Coro/
+[G]No po[G7]demos [C]cami[G]nar
+con [G]hambre [Em]bajo el [D]sol.  [D7]
+[G]Danos [G7]siempre el [C]mismo [G]pan:
+tu [Em]cuerpo y [D7]sangre, Se[G]ñor.
+/verse/
+Co[G]mamos [D]todos [C]de este [G]pan,
+el [Em]pan de [C]la uni[D]dad,
+[B7]en un [Em]cuerpo [C]nos u[G]nió el Se[Em]ñor,
+por [Am]medio [D7]del a[G]mor.
+/coro/
+/verse/
+Se[Gñ]ñor yo [D]tengo [C]sed de [G]ti,
+se[Em]diento es[C]toy de [D]Dios;
+[B7]pero [Em]pronto [C]llega[G]ré a [Em]ver,
+el [Am]rostro [D7]del Se[G]ñor.
+/coro/
+/verse/
+Por [G]el de[D]sierto el [C]pueblo [G]va
+can[Em]tando [C]su do[D]lor,
+[B7]en la [Em]noche [C]brilla[G]rá tu [Em]luz,
+nos [Am]guía a [D7]la ver[G]dad.
+/coro/

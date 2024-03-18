@@ -1,0 +1,36 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:No podemos caminar
+C:Juan Antonio Espinoza
+S:
+M:2/4
+L:1/8
+Q:1/4=80
+K:G
+%
+%
+P:Coro
+   "G"B3A | "G7"B3A | "C"G2 E2 | "G"D3D | "G"G3A | "Em"B2 e2 | "D"d4 | "D7"z4 |
+w: No po-de-mos ca-mi-nar con ham-bre ba-jo~el sol.
+   "G"B3A | "G7"B3A | "C"G2 E2 | "G"D3D | "Em"G3B | "D7"AG2F | "G"G4 ||
+w: Da-nos siem-pre~el mis-mo pan: tu cuer-po~y san-gre, Se-ñor.
+P:Estrofa
+   z3D | "G"G3B | "D"d3B | "C"c2 e2 | "G"d3B | "Em"G3A | "C"B2 d2 | "D"A4 |
+w: 1.~Co-ma-mos to-dos de~es-te pan, el pan de la~u-ni-dad,
+w: 2.~Se-ñor, yo ten-go sed de ti, se-dien-to~es-toy de Dios;
+w: 3.~Por el de-sier-to~el pue-blo va can-tan-do su do-lor,
+   "B7"z2 BA | "Em"G3G | "C"E3E | "G"D2 G2 | "Em"B3B | "Am"A3A | "D7"D2 G2 | "G"G4 :|
+w: en un cuer-po nos u-nió~el Se-ñor, por me-dio del a-mor.
+w: pe-ro pron-to lle-ga-ré a ver, el ros-tro del Se-ñor.
+w: en la no-che bri-lla-rá tu luz, nos guí-a~a la ver-dad.
