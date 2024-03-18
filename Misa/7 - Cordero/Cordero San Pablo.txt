@@ -1,0 +1,20 @@
+title : Cordero San Pablo
+composer : Jaime Cortes
+key : Bb
+liturgy : Ordinario
+{song}
+/verse/
+Cor[Bb]dero de [F]Dios,  [Bb]   [Gm]
+que [Eb]quitas el pe[F]cado del [Bb]mundo,
+[Eb]ten pie[F]dad, [D]ten pie[Gm]dad,
+ten pie[Eb]dad de no[Bb]sotros.
+/verse/
+Cor[Bb]dero de [F]Dios,  [Bb]   [Gm]
+que [Eb]quitas el pe[F]cado del [Bb]mundo,
+[Eb]ten pie[F]dad, [D]ten pie[Gm]dad,
+ten pie[Eb]dad de no[Bb]sotros.
+/verse/
+Cor[Bb]dero de [F]Dios,  [Bb]   [Gm]
+que [Eb]quitas el pe[F]cado del [Bb]mundo,
+[Eb]danos la [F]paz, [D]danos la [Gm]paz,
+[Eb]Danos la [Bb]paz, [F7]danos la [Bb]paz.

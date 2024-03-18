@@ -1,6 +1,6 @@
 title : La Guadalupana
 key : E
-liturgy : Vírgen de Guadalupe
+liturgy : Virgen de Guadalupe
 {song}
 /Coro/
 Desde el [E]cielo una hermosa mañana

@@ -525,7 +525,7 @@ class song:
             metadata += f'<h4 style="color:{liturgy_colors[self.meta["liturgy"]]};">Tiempo: {self.meta["liturgy"]}</h4>'
         except:
             try:
-                print(f'missed {self.meta["liturgy"]}')
+                print(f'missed {self.meta["liturgy"]} on {self.meta["title"]}')
             except:
                 pass
         try:
