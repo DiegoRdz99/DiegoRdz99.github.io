@@ -21,76 +21,77 @@ L:1/8
 Q:1/4=120
 K:A
 %
-    CD | "A"E2EE2E2E-| E.E4 zCD | "C#m"E2EE2E2E- | E.G4z DE |
-w: Te le-van-to en mis bra--zos, y te sien-to tan pe-que--ño con tu
-    "D"FF2F- "D/C#"FF2F-| "Bm"FE2D2C2B,- | "E"B,8 |
-w: ri-sa~ol-vi--do to--do mi pe-sar._
-    z4 z2 CD | "A"E2EE2E2E-| E.F4 zCD | "C#m"E2EE2E2E- | E.G4z DE |
-w: Pues tu ma-dre se~ha dor-mi--do, la~ha ven-ci-do su can-san--cio, con-tem
-    "D"FF2F- "D/C#"FF2F-| "Bm"FE2D2C2E- | "E"E8 |
-w: plán--do-la_ no de-jo de pen-sar_
-    "C#7"z4z2 FG | "F#m"AA2A2A2A- | Ac2B2A2G- | "C#m"GG4GG2 | G.B4z AG | 
-w: que se mi-ra pu-ra~y be--lla ba-jo la_ luz de la~es-tre-lla que le~a-
-    "D"F2FF- "D/C#"FE2F- | "Bm"FE2F2A2G- | "E"G8 |
-w: nun-cia~a to--do~el mun--do que~a-qui~es-tás_
-    "C#7"z4z2 FG | "F#m"A2GA2G2A- | Ac2B4A | "C#m"G2GG3GG- | G.B4z AG |
-w: y me sien-to tan in-dig--no más de-mues-tro con ca-ri--ño e-se~a-
-    "D"F2FF- "D/C#"FE2F- | "Bm"FE2F2A2B- | "E"B8 |
-w: mor que~el Pa--dre Dios_ te quie-re-dar_
+P:Estrofa 1
+    CD | "A"E2EE2E2E-| E.E4 zCD | "C#m"E2EE2E2E- | E.G4z :
+w: Te le-van-to en mis bra--zos, y te sien-to tan pe-que--ño,
+    DE | "D"FF2F- "D/C#"FF2F-| "Bm"FE2D2C2B,- | "E"B,8 |
+w: con tu ri-sa~ol-vi--do to--do mi pe-sar._
+    z4 z2 CD | "A"E2EE2E2E-| E.F4 zCD | "C#m"E2EE2E2E- | E.G4z :
+w: Pues tu ma-dre se~ha dor-mi--do, la~ha ven-ci-do su can-san--cio,
+    DE | "D"FF2F- "D/C#"FF2F-| "Bm"FE2D2C2E- | "E"E8 |
+w: con-tem-plán-do-la_ no de--jo de pen-sar_
+    "C#7"z4z2 FG | "F#m"AA2A2A2A- | Ac2B2A2G- | "C#m"GG4GG2 | G.B4z :
+w: que se mi-ra pu-ra~y be--lla ba-jo la_ luz de la~es-tre-lla
+    AG | "D"F2FF- "D/C#"FE2F- | "Bm"FE2F2A2G- | "E"G8 |
+w: que le~a-nun-cia~a to--do~el mun--do que~a-qui~es-tás_
+    "C#7"z4z2 FG | "F#m"A2GA2G2A- | Ac2B4A | "C#m"G2GG3GG- | G.B4z :
+w: y me sien-to tan in-dig--no más de-mues-tro con ca-ri--ño
+    AG | "D"F2FF- "D/C#"FE2F- | "Bm"FE2F2A2B- | "E"B8 ||
+w: e-se~a-mor que~el Pa--dre Dios_ te quie-re-dar._
+P:Coro 1
     "E7"z2GA2B2z | "A"c3A4z | z8 | "C#m"B3G3G2 | A4G4 |
-w: por e-so, duer-me, duer-me~Hi-jo mí-o
-    "D"F2GA- "D/C#"AA2A- | "Bm"A2GF2E2G- | "E"G8 |
-w: yo pro-te--ge-ré_ tu ma-jes-tad_
-    "E7"z8 | "A"A3c4z | z8 | "C#m"G3G3G2 | G4B4 |
-w: duer-me, duer-me~Hi-jo mí-o
-    "D"F2FF- "D/C#"FG2A- | "Bm"AF4z2z | "D"F2FF2G2A- | "E"AG2F2G2A- | "D"A4z4 | 
+w: Por e-so, duer-me, duer-me~Hi-jo mí-o,
+    "D"F2GA- "D/C#"AA2A- | "Bm"A2GF2E2G- | "E"G8 | "E7"z8 | "A"A3c4z | z8 | "C#m"G3G3G2 | G4B4 |
+w: yo pro-te--ge-ré_ tu ma-jes-tad._ Duer-me, duer-me~Hi-jo mí-o,
+    "D"F2FF- "D/C#"FG2A- | "Bm"AF4z2z | "D"F2FF2G2A- | "E"AG2F2G2A- | "D"A4z4 ||
+w: qué-da-te en mis bra--zos, es-ta no-che pue--des des-can-sar._
+P:Estrofa 2
+    z4z2CD | "A"E2EE2E2E-| EF2E4D | "C#m"E2EE2E2E- | E.G4z :
+w: Te me pier-des en el tem--po y~un te-mor en mí yo sien--to,
+    DE | "D"FF2F- "D/C#"FF2F-| "Bm"FE2D2C2B,- | "E"B,8 |
+w: pe-ro~al ver-te pre--di-car_ se vuel-ve paz._
+    z4A2G2 | "A"E2EE2E2E-| E.F3 E2E2 | "C#m"E2EE2E2E- | E.G4z :
+w: Tú na-cis-te pa-ra es--to, y tu vo-lun-tad has pues--to
+    DE | "D"FF2F- "D/C#"FF2F-| "Bm"FE2D2C2E- | "E"E8 |
+w: en las co-sas de_ tu Pa--dre tra-ba-jar._
+    "C#7"z4zFFG | "F#m"AA2A2A2A- | Ac2B2A2G- | "C#m"GG2G2G2G- | G.B4z :
+w: Y aun-que due-le es-cu-char--te y sen-tir-- que no~e-res mí--o
+    AG | "D"F2FF- "D/C#"FE2F- | "Bm"FE2F2A2G- | "E"G8 |
+w: me con-sue-la ver_ con-ten--ta~a tu ma-má._
+    "C#7"z4F2G2 | "F#m"A2GA2G2A- | Ac3B2A2 | "C#m"G2GG3GG- | G.B4z 
+w: Y me~a-bra-zas con ter-nu--ra y con-tem-plo tu~her-mo-su--ra,
+    AG | "D"F2FF- "D/C#"FE2F- | "Bm"FE2F2A2B- | "E"B8 ||
+w: y~en mis bra-zos te_ le-van--to~u-na vez más._
+P:Coro 2
+    "E7"z2GA2B2z | "A"c3A4z | z8 | "C#m"B3G3G2 | A4G4 |
+w: Por e-so, duer-me, duer-me~Hi-jo mí-o
+    "D"F2GA- "D/C#"AA2A- | "Bm"A2GF2E2G- | "E"G8 | "E7"z8 | "A"A3c4z | z8 | "C#m"G3G3G2 | G4B4 |
+w: tu mi-sión_ aún pue--de es-pe-rar._ Duer-me, duer-me~Hi-jo mí-o
+    "D"F2FF- "D/C#"FG2A- | "Bm"AF4z3 | "D"F2FF2G2A- | "E"AG2F2G2A- | "D"A4z4 ||
 w: qué-da-te en mis bra--zos, es-ta no-che pue--des des-can-sar_
-    z4z2CD | "A"E2EE2E2E-| EF2E4D | "C#m"E2EE2E2E- | E.G4z DE |
-w: Te me pier-des en el tem--po y~un te-mor en mí yo sien--to, pe-ro~al
-    "D"FF2F- "D/C#"FF2F-| "Bm"FE2D2C2B,- | "E"B,8 |
-w: ver-te pre--di-car_ se vuel-ve paz._
-    z4A2G2 | "A"E2EE2E2E-| E.F3 E2E2 | "C#m"E2EE2E2E- | E.G4z DE |
-w: Tú na-cis-te pa-ra es--to, y tu vo-lun-tad has pues--to en las
-    "D"FF2F- "D/C#"FF2F-| "Bm"FE2D2C2E- | "E"E8 |
-w: co-sas de_ tu Pa--dre tra-ba-jar_
-    "C#7"z4zFFG | "F#m"AA2A2A2A- | Ac2B2A2G- | "C#m"GG2G2G2G- | G.B4z AG |
-w: y aun-que due-le es-cu-char--te y sen-tir-- que no~e-res mí--o me con-
-    "D"F2FF- "D/C#"FE2F- | "Bm"FE2F2A2G- | "E"G8 |
-w: sue-la ver_ con-ten--ta~a tu ma-má_
-    "C#7"z4F2G2 | "F#m"A2GA2G2A- | Ac3B2A2 | "C#m"G2GG3GG- | G.B4z AG |
-w: y me~a-bra-zas con ter-nu--ra y con-tem-plo tu~her-mo-su--ra y~en mis
-    "D"F2FF- "D/C#"FE2F- | "Bm"FE2F2A2B- | "E"B8 |
-w: bra-zos te_ le-van--to~u-na vez más._
-    %    "E7"z2GA2B2z | "A"c3A4z | z8 | "C#m"B3G3G2 | A4G4 |
-w: por e-so, duer-me, duer-me~Hi-jo mí-o
-    "D"F2GA- "D/C#"AA2A- | "Bm"A2GF2E2G- | "E"G8 |
-w: tu mi-sión_ aún pue--de es-pe-rar_
-    "E7"z8 | "A"A3c4z | z8 | "C#m"G3G3G2 | G4B4 |
-w: duer-me, duer-me~Hi-jo mí-o
-    "D"F2FF- "D/C#"FG2A- | "Bm"AF4z2z | "D"F2FF2G2A- | "E"AG2F2G2A- | "D"A4z4 | 
-w: qué-da-te en mis bra--zos, es-ta no-che pue--des des-can-sar_
-    "A"z8 | z4zCCD | "A"E2EE2E2E-| EF2E2E2E- | "C#m"E2EE2E2E- | E.G4z DE |
-w: A-ho-ra yo de-sa-pa-rez--co sien-to que_ me des-fa-llez--co ve-o
-    "D"FF2F- "D/C#"FF2F-| "Bm"FE2D2C2B,- | "E"B,8 |
-w: lá-gri-mas_ en tí_ y~en tu ma-má
-    z4z2CD | "A"EE2E2E2E-| E.F4zCD | "C#m"E2EE3EE- | E.G4z DE |
-w: me sos-tie-nes fir-me-men--te, y me be-sas en la fren-te y~aun-que
-    "D"FF2F- "D/C#"FF2F| "Bm"FE2D2A2G- | "E"G8 |
-w: dé-bil-men--te tu voz pue-do~es-cu-char_
+P:Estrofa 3
+    "A"z8 | z4zCCD | "A"E2EE2E2E-| EF2E2E2E- | "C#m"E2EE2E2E- | E.G4z :
+w: A-ho-ra yo de-sa-pa-rez--co sien-to que_ me des-fa-llez--co
+    DE | "D"FF2F- "D/C#"FF2F-| "Bm"FE2D2C2B,- | "E"B,8 |
+w: ve-o lá-gri-mas_ en tí_ y~en tu ma-má
+    z4z2CD | "A"EE2E2E2E-| E.F4zCD | "C#m"E2EE3EE- | E.G4z :
+w: me sos-tie-nes fir-me-men--te, y me be-sas en la fren-te
+    DE | "D"FF2F- "D/C#"FF2F| "Bm"FE2D2A2G- | "E"G8 |
+w: y~aun-que dé-bil-men--te tu voz pue-do~es-cu-char:_
     "C#7"z4z2 FG | "F#m"AA2A2A2A- | Ac2B2A2G- | "C#m"GG2G2G2G- | G.B4z AG | 
-w: Pa-dre mí-o, ve des-can--sa que tu co--ra-zón re-man--sa has cum-
+w: "Pa-dre mí-o, ve des-can--sa, que tu co--ra-zón re-man--sa, has cum-
     "D"F2EF- "D/C#"FE2F- | "Bm"FE2F2A2G- | "E"G8 |
 w: pli-do de_ tu Dios_ la vo-lun-tad._
     "C#7"z4F2G2 | "F#m"A2GA2G2A- | Ac3B2A2 | "C#m"G2GG2G2G- | G.B4z AG |
 w: Nos cui-das-te con tu vi--da, tu mi-sión es-tá cum-pli--da aho-ra
     "D"F2EF- "D/C#"FE2F- | "Bm"FE2F2A2B- | "G"B8 |
-w: go-za de_ la Pa--tria Ce-les-tial_
+w: go-za de_ la Pa--tria Ce-les-tial."_
     "E"z8 | "A"A3c4z | z8 | "C#m"G3G3G2 | G4B4 |
-w: duer-mo, duer-mo~Hi-jo mí-o
+w: Duer-mo, duer-mo~Hi-jo mí-o
     "D"F2FF- "D/C#"FG2A- | "Bm"AG2F2E2G- | "E"G8 |
-w: duer-mo~en tu_ glo-rio--sa ma-jes-tad_
+w: duer-mo~en tu_ glo-rio--sa ma-jes-tad._
     "E7"z2A3G3 | "A"A3c4z | z8 | "C#m"G3G3G2 | G4.B2zE |
-w: aho-ra duer-mo, duer-mo~Hi-jo mí-o me
+w: Aho-ra duer-mo, duer-mo~Hi-jo mí-o me
     "D"F2FF- "D/C#"FG2A- | "Bm"AF4z2z | "D"F2FF2G2A- | "E"AG2F2G2A- |
 w: que-do en_ tus bra--zos, aho-ra~en Ti ya pue--do des-can-sar
     "D"A3A- "D/C#"Ac2c- | "Bm"cA4z2z | "D"F2FF2G2A- | "E"AG2F2G2A- |"F"A4z4 | "G"z8 | "A"z8 |]

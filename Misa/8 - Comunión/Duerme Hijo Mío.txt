@@ -1,0 +1,47 @@
+title : Duerme Hijo Mío
+composer : Jésed
+liturgy : San José
+key : A
+{song}
+/verse/
+Te le[A]vanto en mis brazos,
+y te [C#m]siento tan pequeño,
+con tu [D]rsa olvi[D_7]do to[Bm]do mi pesa[E]r
+Pues tu [A]madre se ha dormido,
+la ha ven[C#m]cido su cansancio,
+contem[D]plándol[D_7]a no d[Bm]ejo de pensa[E]r
+/prechorus/
+[C#7]  que se [F#m]mira pura y bella
+bajo l[C#m]a luz de la estrella,
+que le a[D]nuncia a t[D_7]odo el
+m[Bm]undo que aauí est[E]ás.
+[C#7]  Y me [F#m]siento tan indigno más
+de[C#m]muestro con cariño
+ese a[D]mor que el P[D_7]adre
+Di[Bm]os te quiere d[E]ar.
+/Coro-1/
+[E7] Por eso [A]duerme, [C#m]duerme hijo mí - o,
+[D]yo prot[D_7]eger[Bm]é tu magest[E]ad.
+[E7]  [A]Duerme, [C#m]duerme Hijo mí - o,
+[D]quédat[D_7]e en mis br[Bm]azos,
+[D]esta noche pu[E]edes descans[D]ar.
+/verse/
+Te me [A]pierdes en el templo
+y un te[C#m]mor en mí yo siento,
+pero al [D]verte pr[D_7]edic[Bm]ar se vuelve p[E]az.
+Tú na[A]ciste para esto,
+y tu [C#m]voluntad has puesto
+en las [D]cosas d[D_7]e tu P[Bm]adre trabaj[E]ar.
+/prechorus/
+[C#7]  Y aunque [F#m]duele escucharte
+y sent[C#m]ir que no eres mío,
+me con[D]suela v[D_7]er cont[Bm]enta a tu mam[E]á.
+[C#7]  Y me a[F#m]brazas con ternura
+y con[C#m]templo tu hermosura,
+y en mis [D]brazos t[D_7]e lev[Bm]anto una vez m[E]ás.
+/Coro-2/
+[E7] Por eso [A]duerme, [C#m]duerme hijo mí - o,
+[D]tu mis[D_7]ión aún p[Bm]uede esper[E]ar.
+[E7]  [A]Duerme, [C#m]duerme Hijo mí - o,
+[D]quédat[D_7]e en mis br[Bm]azos,
+[D]esta noche pu[E]edes descans[D]ar.
