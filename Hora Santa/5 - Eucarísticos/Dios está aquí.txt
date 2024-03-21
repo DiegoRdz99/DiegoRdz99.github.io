@@ -1,0 +1,27 @@
+title : Dios está aquí
+key : D
+{song}
+/verse/
+[D]Dios es[A]tá a[Bm]quí,
+tan [G]cierto como el aire [A]que
+res[D]pi - ro;  [Am]  [D7]
+tan [G]cierto como en la ma[A]ñana
+se le[D]van - [A]ta el [Bm]sol  [D7]
+Tan [G]cierto como que te [Em]hablo
+y me [A]puedes o[D]ír.
+/verse/
+[D]Dios es[A]tá en [Bm]ti,
+tan [G]cierto como el aire [A]que
+res[D]pi - ro;  [Am]  [D7]
+tan [G]cierto como en la ma[A]ñana
+se le[D]van - [A]ta el [Bm]sol  [D7]
+Tan [G]cierto como que te [Em]hablo
+y me [A]puedes o[D]ír.
+/verse/
+[D]Dios es[A]tá [Bm]mí,
+tan [G]cierto como el aire [A]que
+res[D]pi - ro;  [Am]  [D7]
+tan [G]cierto como en la ma[A]ñana
+se le[D]van - [A]ta el [Bm]sol  [D7]
+Tan [G]cierto como que te [Em]hablo
+y me [A]puedes o[D]ír.
