@@ -1,1 +1,23 @@
 title : Te Entrego
+composer : Joan Sanchez
+key : G
+{song}
+/verse/
+[G]  Haz lo que quieras con[C]mi - go,
+[Em]  haz lo que quieras de mí.[D]
+[Am]  Hoy yo te ofrezco mi vi [Em]- da,
+[C]  hoy yo me rindo ante ti.[D]
+/verse/
+[G]  Haz lo que quieras con[C]mi - go,
+[Em]  haz lo que quieras de mí.[D]
+[Am]  Hoy yo te ofrezco mi vi [Em]- da,
+[C]  hoy yo me rindo ante ti.[D]
+/Coro/
+Te entre [G] go,
+todo lo que [Am]soy y todo lo que [Em]tengo,
+todo lo que [D]quiero y todo lo que [C]sueño,
+a [Am]ti, Señor Je[D]sús.
+Te entre [G] go,
+todo lo que [Am]soy y todo lo que [Em]tengo,
+todo lo que [D]quiero y todo lo que [C]sueño,
+a [Am]ti, Señor Je[D]sús.
