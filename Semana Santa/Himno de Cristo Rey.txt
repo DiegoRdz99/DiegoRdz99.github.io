@@ -1,0 +1,19 @@
+title : Himno de Cristo Rey
+liturgy : Domingo de Ramos
+key : G
+{song}
+/Coro/
+Que [G]viva mi Cristo,
+que viva mi [D]Rey.
+Que im[C]pere do[G]quiera
+triun[D]fante su [G]ley. [G7]
+Que im[C]pere do[G]quiera
+triun[D]fante su [G]ley.
+[G]¡Viva Cristo Rey!, ¡Viva!
+[C]¡Viva [D]Cristo [G]Rey!
+/verse/
+Mexi[G]canos un padre te[D]ne - [Am]mos,
+que nos [D]dio de la patria la u[G]nió - n.
+A ese [G]padre gozoso can[Am]te - mos,
+empu[G]ñando con [D]fe su pen[G]dón.
+/coro/
