@@ -1,0 +1,19 @@
+title : Cordero Panamericano
+liturgy : Ordinario
+key : Em
+{song}
+/verse/
+{Cor[Em]dero de Dios,  []|Cordero de Dios
+que [G]quitas el pe[D]ca - do del [G]mundo,
+ten pie[Em]dad  [D]  de no[Em]sotros;
+ten pie[Em]dad  [D]  de no[Em]sotros.
+/verse/
+{Cor[Em]dero de Dios,  []|Cordero de Dios
+que [G]quitas el pe[D]ca - do del [G]mundo,
+ten pie[Em]dad  [D]  de no[Em]sotros;
+ten pie[Em]dad  [D]  de no[Em]sotros.
+/verse/
+{Cor[Em]dero de Dios,  []|Cordero de Dios
+que [G]quitas el pe[D]ca - do del [G]mundo,
+da - [Em]nos  [D]  la - a [Em]paz;
+da - [Em]nos  [D]  la - a [Em]paz.
