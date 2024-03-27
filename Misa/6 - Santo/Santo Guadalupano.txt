@@ -12,7 +12,7 @@ liturgy : Virgen de Guadalupe
 [A]Llenos están el [B]cielo
 [G#m]y la [E]tierra [A]de su [E]glo - [B]ria.
 /Coro/
-Ho[E]sa - [B#°7]a - [C#m]nna,
+Ho[E]sa - [C°7]a - [C#m]nna,
 [A]e - n el [E]cie - [B]e - [E]lo.
 /verse/
 Ben[C#m]dito [D#°7]el que [C#m]viene
