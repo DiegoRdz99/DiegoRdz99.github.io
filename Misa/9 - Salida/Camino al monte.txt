@@ -3,26 +3,26 @@ key : G
 liturgy : Cuaresma
 {song}
 /verse/
-[G]  Camino al [G]monte,
-[C]  se ve un [D]hombre y una [G]cruz.
+[G]  [C]  [D]  [G]  Camino al [G]monte,
+[C]  se ve un [D]hombre y una [G]cruz.  [C]  [D]
 [G]  Detrás le [G]sigue
-[C]  la gente [D]que le lla[G]ma Jesús.
+[C]  la gente [D]que le lla[G]ma Jesús.  [Dm]  [G7]
 /Coro/
 [C]  Ya sé su [D]no - mbre,
 [G]  pe[D]ro no [Em]sé
-[C]  por qué le [D]crucifican a [G]él.
+[C]  por qué le [D]crucifican a [G]él.  [G7]
 [C]  Ya sé su [D]no - mbre,
 [G]  pe[D]ro no [Em]sé
-[C]  por qué le [D]crucifican a [G]él.
+[C]  por qué le [D]crucifican a [G]él.  [C]  [D]
 /verse/
 [G]  Sigue su [G]marcha,
-[C]  como el [D]ave sigue al [G]sol.
+[C]  como el [D]ave sigue al [G]sol.  [C]  [D]
 [G]  Pero no [G]saben
-[C]  que cruci[D]fican al [G]Salvador.
+[C]  que cruci[D]fican al [G]Salvador.  [Dm]  [G7]
 /coro/
 /verse/
 [G]  Se apaga el [G]cielo,
-[C]  por fin ya [D]todo termi[G]nó.
+[C]  por fin ya [D]todo termi[G]nó.  [C]  [D]
 [G]  Solo el padre [G]sabe
-[C]  todo lo [D]que el hi[G]jo sufrió.
+[C]  todo lo [D]que el hi[G]jo sufrió.  [Dm]  [G7]
 /coro/
