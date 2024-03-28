@@ -1,27 +1,27 @@
 title : Alma de Cristo
 subtitle : Misa - Post-comunión
-key : C
+key : D
 liturgy : Ordinario
 {song}
 /intro/
-[C]  [F]  [C]  [F]
+[D]  [G]  [D]  [G]
 /verse/
-{[C]Alma de Cristo, [F]|  Santifícame
-{[C]Cuerpo de Cristo, [F]|  Sálvame
-{[C]Sangre de Cristo, [F]|  Embriágame
-[Dm]Agua del cos[Dm7]tado de [G7]Cristo,
-{láva|láva[C] - ame| - ame
+{[D]Alma de Cristo, [G]|  Santifícame
+{[D]Cuerpo de Cristo, [G]|  Sálvame
+{[D]Sangre de Cristo, [G]|  Embriágame
+[Em]Agua del cos[Em7]tado de [A7]Cristo,
+{láva|láva[D] - ame| - ame
 /verse/
-{[C]Pasión de Cristo, [F]|  Confórtame
-{[C]Oh, mi buen Jesús, [F]|  Óyeme
-{[C]Dentro de tus llagas, [F]|  escóndeme
-[Dm]No per[Dm7]mitas,
-que me a[G7]parte de - [C]e Ti
+{[D]Pasión de Cristo, [G]|  Confórtame
+{[D]Oh, mi buen Jesús, [G]|  Óyeme
+{[D]Dentro de tus llagas, [G]|  escóndeme
+[Em]No per[Em7]mitas,
+que me a[A7]parte de - [D]e Ti
 /Coro/
-[Gm]        [C7]  Del ma[F]ligno ene[G]migo
-De[C]fiéndeme [Em7]         [Am]
-En la [Am7]hora de mi [F]muerte, [G]  llá[C]ma - ame
-[Gm]        [C7]   Y [F]mándame ir a [G]Ti
-Para [C]que con tus [Em7]santos te a[Am]labe
-[Am7] Por los [F]siglos de los [G]siglos
-A[C]mén
+[Am]        [D7]  Del ma[G]ligno ene[A]migo
+De[D]fiéndeme [D_7]      [Bm]
+En la [Bm7]hora de mi [G]muerte, [A]  llá[D]ma - ame
+[Am]        [D7]   Y [G]mándame ir a [A]Ti
+Para [D]que con tus [D_7]santos te a[Bm]labe
+[Bm7] Por los [G]siglos de los [A]siglos
+A[D]mén

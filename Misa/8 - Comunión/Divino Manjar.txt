@@ -1,0 +1,55 @@
+title : Divino Manjar
+composer : José Egusquiza A.
+key : D
+liturgy : Solemne
+{song}
+/verse/
+[Dm]  Son tu [F]cuerpo y tu [A]sangre, Se[Dm]ñor,
+mara[Bb]villa y pro[Gm]digio de a[A]mor.
+[Gm]  Ali[C]mento del [F]alma,
+ri[Gm]queza sin [Dm]par,
+divino man[A]jar.
+[Gm]  Ali[C]mento del [F]alma,
+ri[Gm]queza sin [Dm]par,
+divino man[A]jar.
+/Coro/
+[D]Eu - [A]caris[Bm]tí - a,
+[G]divi[D]no ali[A]men - to,
+[A7]celestial sus[D]ten - [Bm]to
+[G]para [Em]cami[A]nar.
+[D]Eu - [A]caris[Bm]tí - a,
+[G]divi[D]no ali[A]men - to,
+[G]don [A]del [F#m]cie - [Bm]lo,
+[G]para el [A]mundo en[D]te - ro,
+[G]sa - [A]cra - [D]men - [Bm]to,
+[G]divi[A]no man[D]jar.
+/verse/
+[Dm]  Anun[F]ciamos tu [A]muerte, Se[Dm]ñor,
+procla[Bm]mamos tu [Gm]resurre[A]cción.
+[Gm]  De tu al[C]tar reci[F]bimos
+la [Gm]fuerza y va[Dm]lor
+para la mi[A]sión.
+[Gm]  De tu al[C]tar reci[F]bimos
+la [Gm]fuerza y va[Dm]lor
+para la mi[A]sión.
+/coro/
+/verse/
+[Dm]  Sacer[F]dotes mi[A]nistros de [Dm]luz,
+consa[Bb]grados por [Gm]Cristo Je[A]sús.
+[Gm]  A sus [C]manos de[F]sciendes
+al [Gm]oír su [Dm]voz,
+Cordero de [A]Dios.
+[Gm]  A sus [C]manos de[F]sciendes
+al [Gm]oír su [Dm]voz,
+Cordero de [A]Dios.
+/coro/
+/verse/
+[Dm]  En tu [F]seno el Ver[A]bo se encar[Dm]nó,
+oh Ma[Bb]ría sa[Gm]grario de [A]Dios.
+[Gm]  Pura [C]llena de [F]gracia,
+Ma[Gm]dre Virgi[Dm]nal,
+Reina Celes[A]tial.
+[Gm]  Pura [C]llena de [F]gracia,
+Ma[Gm]dre Virgi[Dm]nal,
+Reina Celes[A]tial.
+/coro/
