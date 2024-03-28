@@ -1,5 +1,6 @@
 title : Jueves Santo
 composer : Salmo 115
+key : D
 {song}
 /Coro/
 [D]  Gracias, Se[Bm]ño - r,
