@@ -1,0 +1,32 @@
+title : Viernes Santo
+composer : Salmo 30
+key : Em
+{song}
+/Coro/
+[Em]  Padre en tus [D]manos,
+[Bm]  encomiendo mi es[Em]píritu.
+/verse/
+[Em]  A ti, Señor, me a[D]cojo,
+[Bm]  que no quede yo nunca defrau[Em]dado.
+[Em]  En tus manos encomiendo mi es[D]píritu,
+[Bm]  y tú, mi Dios, me libra[Em]rás.
+/coro/
+/verse/
+[Em]  Se burlan de mí mis enemigos,
+[Em]  mis vecinos y parientes de mí se es[D]pantan,
+[Bm]  los que me ven pasar huyen de [Em]mí.
+[Em]  Estoy en el olvido, como un [D]muerto,
+[Bm]  como un objeto tirado en la ba[Em]sura.
+/coro/
+/verse/
+[Em]  Pero yo, Señor, en ti con[D]fío.
+[Bm]  Tú eres mi [Em]Dios,
+[Em]  y en tus manos está mi des[D]tino.
+[Bm]  Líbrame de los enemigos que me per[Em]siguen.
+/coro/
+/verse/
+[Em]  Vuelve, Señor, tus ojos a tu [D]siervo,
+[Bm]  y sálvame, por tu miseri[Em]cordia.
+[Em]  Sean fuertes y valientes de cora[D]zón,
+[Bm]  ustedes, los que esperan en el Se[Em]ñor.
+/coro/
