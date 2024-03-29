@@ -1,0 +1,5 @@
+title : Cantemos al Señor
+key : D
+{song}
+/Coro/
+Can[D]temos al Se[F#m]ñor

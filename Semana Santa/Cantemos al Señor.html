@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <title>Semana Santa</title>
+    <title>Cantemos al Señor</title>
     <link rel="icon" type="image/x-icon" href="../Logo.svg">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta http-equiv="Content-Style-Type" content="text/css">
@@ -34,7 +34,7 @@
                     <a href="../Alabanzas/index.html" class="nav-link">Alabanzas</a>
                 </li>
                 <li class="nav-item">
-                    <a href="../Semana Santa/index.html" class="nav-link active">Semana Santa</a>
+                    <a href="../Semana Santa/index.html" class="nav-link">Semana Santa</a>
                 </li>
                 <li class="nav-item">
                     <a href="../Villancicos/index.html" class="nav-link">Villancicos</a>
@@ -57,30 +57,58 @@
 </nav>
 <body class="p-4 content pt-5">
 <br>
-            
-    <div class="container-fluid">
-      <p class="text-center fs-1 fw-bolder pt-2">Semana Santa</p>
-    </div>
-    <div class="list-group"><a href="Amémonos de Corazón.html" class="list-group-item list-group-item-action">Amémonos de Corazón</a>
-<a href="Cantemos al Señor.html" class="list-group-item list-group-item-action">Cantemos al Señor</a>
-<a href="Diario de María.html" class="list-group-item list-group-item-action">Diario de María</a>
-<a href="Discípulo.html" class="list-group-item list-group-item-action">Discípulo</a>
-<a href="Ha Vencido el Cordero.html" class="list-group-item list-group-item-action">Ha Vencido el Cordero</a>
-<a href="Himno de Cristo Rey.html" class="list-group-item list-group-item-action">Himno de Cristo Rey</a>
-<a href="Hosanna, Hosanna.html" class="list-group-item list-group-item-action">Hosanna, Hosanna</a>
-<a href="Lávame, Señor.html" class="list-group-item list-group-item-action">Lávame, Señor</a>
-<a href="Perdona a tu pueblo.html" class="list-group-item list-group-item-action">Perdona a tu pueblo</a>
-<a href="Pueblo mío, qué te he hecho.html" class="list-group-item list-group-item-action">Pueblo mío, qué te he hecho</a>
-<a href="Resucitó.html" class="list-group-item list-group-item-action">Resucitó</a>
-<a href="Saliendo del Pretorio.html" class="list-group-item list-group-item-action">Saliendo del Pretorio</a>
-<a href="Señor, no sólo lávame los pies.html" class="list-group-item list-group-item-action">Señor, no sólo lávame los pies</a>
-<a href="Siervo doliente.html" class="list-group-item list-group-item-action">Siervo doliente</a>
-<a href="Tú reinarás.html" class="list-group-item list-group-item-action">Tú reinarás</a>
-<a href="Un Dios Débil - Estación IV.html" class="list-group-item list-group-item-action">Un Dios Débil - Estación IV</a>
-<a href="Un mandamiento nuevo.html" class="list-group-item list-group-item-action">Un mandamiento nuevo</a>
+            <h1>Cantemos al Señor</h1><h2>Semana Santa</h2><h4 id="song-key">Clave: D</h2>
 
-                    </div>
-                </body>
-                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
-            </html>
-            
+        <br>
+        <span class="fs-2 fw-bold">Coro</span>
+        <br>
+        <table class="chorus" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+        <td>
+                
+        <table class="linewithchord" border="0" cellpadding="0" cellspacing="0">
+            <tr class="chordline"><td></td>
+        <td class="chord ">
+            <span class="root">D</span><span class="quality"></span>
+            <div class="diagram">
+                <span class="chord_name">D</span>
+                <img class="fig" src="../chords/D.svg">
+            </div>
+        </td>
+        <td class="chord">
+            <span class="root">F♯</span><span class="quality">m</span>
+            <div class="diagram">
+                <span class="chord_name">F♯m</span>
+                <img class="fig" src="../chords/Gbm.svg">
+            </div>
+        </td></tr>
+            <tr class="lyricsline"><td>Can</td><td>temos&nbsp;al&nbsp;Se</td><td>ñor</td></tr>
+        </table>
+        
+        </td>
+        </tr>
+        </table>
+        <br>
+        
+
+<br><br><br><br>
+<div class="fixed-bottom mx-auto w-75">
+<input type="range" class="form-range play" min="1" max="10" step="1" id="speed" style="visibility: hidden;" value="1">
+
+<div class="btn-group btn-group-lg mx-auto w-100 shadow toolbar" role="group" aria-label="Basic example">
+    <button type="button" class="btn btn-dark" id="up" onclick="tpup()"><span class="icon">+1</span></button>
+    <button type="button" class="btn btn-dark" id="down" onclick="tpdown()"><span class="icon">-1</span></button>
+    <button type="button" class="btn btn-dark" onclick="tr_capo()"><span class="icon" id="tr-capo">Tp</span><sup class="super" id="count"></sup></button>
+    <button type="button" class="btn btn-dark" onclick="startInverval()" id="play-but"><span class="icon">&#9654;</span></button>
+    <button type="button" class="btn btn-dark" onclick="toggleDark()" id="dark-toggle"><span class="icon">&#9788;</span></button>
+    <button type="button" class="btn btn-dark" onclick="ft_sp()" id="b_but"><span class="icon">&flat;</span></button>
+</div>
+</div>
+<script src="../js/abcweb-1.js"></script>
+<script src="../js/abc2svg-1.js"></script>
+<script src="../js/snd-1.js"></script>
+<script src="../js/script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
+</html>
+        
