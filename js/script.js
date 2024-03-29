@@ -141,7 +141,7 @@ function startInverval() {
     var play_speed = document.getElementById("speed");
     if (scroll) {
         play_but.innerHTML = '<span class="icon">&#x23f8;</span>'
-        scrolldelay = setInterval(autoScroll, 100);
+        scrolldelay = setInterval(autoScroll, 200);
         play_speed.style.visibility = "visible";
         console.log(play_speed.value);
     }
