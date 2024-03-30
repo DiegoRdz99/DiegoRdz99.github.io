@@ -1,0 +1,12 @@
+title : Vive Jesús
+key : G
+{song}
+/verse/
+[G]Vi - ve Je[Em]sús, el Se[Am]ñor.
+[D]Vi - ve Jesús, el Se[G]ño - or.
+[G]Vi - ve Je[Em]sús, el Se[Am]ñor.
+[D]Vi - ve Jesús, el Se[G]ño - or.
+/Coro/
+Él [C]vi - ve, Él [Cm]vi - ve,
+Él [G]vi - ve, [Em]vi - ve.
+[C] Vi - ve Je[D]sús, el Se[G]ñor.
