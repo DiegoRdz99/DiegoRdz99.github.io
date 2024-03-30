@@ -1,0 +1,8 @@
+title : Aleluya, el Señor resucitó
+key : C
+{song}
+/Coro/
+[C]  Aleluya, ale[G]luya,
+ale[G7]luya, ale[C]luya.
+[C7]  Aleluya, ale[F]luya,
+el Se[C]ñor re[G]suci[C]tó.

@@ -610,7 +610,7 @@ def create_index(folder_path):
                     songs.remove('index.html')
                 except:
                     pass
-                ID = folder[4:7]
+                ID = folder[4:7] + folder[-1]
                 # funName = 'show'+'_'.join(folder[4:].split(' '))
                 # preamble += f'<ul class="order">\n<label onclick="{funName}()"><li class="folder">{folder}</li></label>\n</ul>'
 

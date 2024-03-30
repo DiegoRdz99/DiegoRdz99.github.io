@@ -1,0 +1,53 @@
+title : Oh Yahvé, Señor nuestro
+subtitle : Salmo de la 1° Lectura
+composer : Salmo 8
+liturgy : Vigilia Pascual
+key : G
+{song}
+/Coro/
+[G]  Oh Yahvé, Señor [Bm]nuestro
+que glo[C]rioso es tu nombre
+por [D]toda la tierra.
+[G]  Oh Yahvé, Señor [Bm]nuestro
+que glo[C]rioso es tu nombre
+por [D]toda la [G]tierra.
+/verse/
+[G]  Dios de los [Bm]pa - dres,
+y Se[C]ñor de la [Am]mi - seri[D]cor - dia,
+[G]  que hiciste con [Bm]tu pala - bra,
+[C]todo el [D]univer - so,
+[Em]  y en tu sa[Bm]bidurí - a
+[Em]has formado al [Bm]hom - bre
+[C]  para que [G]do - minase
+con [C]santi[A]dad en el [D]mun - do.
+/coro/
+/verse/
+[G]  Al ver el [Bm]cie - lo,
+he[C]chura [Am]de tus [D]de - dos,
+[G]  la luna y [Bm]las estrellas
+[C]qué tú [Am]has cre[D]a - do.
+¿[Em]Qué es el [Bm]hom - bre,
+para [Em]que te de él te a[Bm]cuer - des;
+[C]  los hijos [G]de Adán,
+para [C]que de [A]ellos [D]cui - des.
+/coro/
+/verse/
+[G]  Apenas [Bm]inferior
+a un [C]Dios, [Am]Tú lo hi[D]cis - te.
+[G]  Lo coro[Bm]naste de glo - ria
+[C]y de [Am]esplen[D]dor.
+[Em]  De las obras [Bm]de tus manos,
+Se[Em]ñor tú le hi[Bm]ciste;
+[C]  todo lo has [G]pues - to,
+[C]tú ba[A]jo sus [D]pies.
+/coro/
+/verse/
+[G]  Tú nos has [Bm]e - legido
+desde [C]antes [Am]de los [D]tiem - pos
+[G]  en la per[Bm]sona de Cristo
+Je[C]sús, tu [Am]Hijo a[D]ma - do,
+[Em]  y en él Tú [Bm]nos has dado
+[Em]el ser tus [Bm]hi - jos,
+[C]  en él nos [G]has llamado
+[C]a tu e[A]terna [D]glo - ria.
+/coro/

@@ -1,0 +1,35 @@
+title : Como busca la cierva
+subtitle : Salmo de la 7° Lectura
+composer : Salmo 42
+liturgy : Vigilia Pascual
+key : D
+{song}
+/Coro/
+Como busca la [D]cierva,
+las fuentes de [G]a - [A]gua,
+[D]  así mi alma te [Em]bus - ca,
+a [Bm]ti Dios [G]mí - [D]o.
+/verse/
+[A]  Mmi alma tiene [D]sed,
+[B7]sed del Dios [Em]vi - vo.
+[G]  ¿Cuándo entraré a [Bm]ver
+el [Em]ros - tro de [A]Dios.
+/coro/
+/verse/
+[A]  ¿En dónde está tu [D]Dios,
+[B7]oh alma [Em]mí - a?
+[G]  Pronto deseo lle[Bm]gar
+a tu [Em]ca - sa Se[A]ñor.
+/coro/
+/verse/
+[A]  Tu luz y tu ver[D]dad,
+[B7]en - vía a mi [Em]al - ma,
+[G]  ellas me guia[Bm]rán
+a tu mo[Em]ra - da Se[A]ñor.
+/coro/
+/verse/
+[A]  Y llegaré a tu al[D]tar,
+¡[B7]Dios de mi [Em]vi - da!
+[G]  Allí te alaba[Bm]ré
+Se[Em]ñor mi [A]Dios.
+/coro/

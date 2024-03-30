@@ -1,5 +1,56 @@
 title : Cantemos al Señor
+subtitle : Salmo de la 3° Lectura
+composer : Éxodo 15
+liturgy : Vigilia Pascual
 key : D
 {song}
 /Coro/
-Can[D]temos al Se[F#m]ñor
+Can[D]temos al Se[F#m]ñor,
+sub[G]lime es su vic[A]to - ria.
+Can[D]temos al Se[F#m]ñor,
+sub[G]lime es su vic[A]to - [D]ria.
+/verse/
+Can[Gm]tad al Se[C]ñor,
+pues [F]se cubrió de [Dm]gloria,
+ca[Em]ballos y ji[A]netes
+arro[D]jó en el [D7]mar,
+mi forta[Gm]leza y mi [C]canto
+[F]es es Se[Dm]ñor,
+Él [Em]es mi salva[A]ción.  [A7]
+/coro/
+/verse/
+[Gm]Él es mi [C]Dios,
+[F]yo lo alaba[Dm]ré,
+es [Em]el Dios de mis [A]padres;
+yo le [D]cantaré.
+El Se[Gm]ñor es un gue[C]rrero,
+su [F]nombre es el Se[D]ñor,
+Él [Em]es nuestra salva[A]ción.  [A7]
+/coro/
+/verse/
+Los [Gm]carros y ji[C]netes
+del [F]Faraón de E[Dm]gipto,
+la [Em]flor de sus gue[A]rreros
+arro[D]jó en el mar.  [D7]
+Ca[Gm]yeron hasta el [C]fondo,
+las [F]olas los cu[Dm]brieron.
+¡Qué [Em]grande es el Se[A]ñor!  [A7]
+/coro/
+/verse/
+Tu [Gm]diestra, Se[C]ñor,
+re[F]tumba por su [Dm]fuerza.
+Tu [Em]diestra, Se[A]ñor,
+de[D]rrota al ene[D7]migo.
+Has [Gm]guiado por tu a[C]mor
+al pue[F]blo que resca[Dm]taste,
+[Em]hasta tu mo[A]rada.  [A7]
+/coro/
+/verse/
+¿[Gm]Quién como [C]Tú,
+Se[F]ñor entre los [Dm]grandes?
+¿[Em]Quién como [A]Tú,
+sub[D]lima en santi[D7]dad?
+Gran[Gm]dioso en pro[C]digios,
+au[F]tor de mara[Dm]villas.
+¡Tú [Em]eres el Salva[A]dor!  [A7]
+/coro/
