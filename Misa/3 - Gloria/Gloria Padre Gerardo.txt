@@ -6,33 +6,34 @@ liturgy : Solemne
 /Coro/
 [G]Glo - ria, [Em]glo - ria
 a [C]Dio - s [Am]e - n el [D]cie - elo
-y en la [G]tie - rra [Em]paz
-a los [C]hombres que [Am]ama el Se[D]ñor
-y en la [G]tie - rra [Em]paz
-a los [C]hombres que [D]ama el Se[D]ñor
+y en la [G]tie - [B7]rra [Em]paz
+a los [C]hombres que [A]ama el Se[D]ñor
+y en la [G]tie - [B7]rra [Em]paz
+a los [C]hombres que [D]ama el Se[G]ñor
 /verse/
 Te ala[G]bamos de bendecimos,
 te ado[Eb]ramos, glorifi[Bb]camos oh [F]Dios
 [Cm]Padre y Rey Celes[G]tial.
 [Bb]Gloria al Se[F]ñor,
-[Cm]Dios Todopode[D]ro - so
+[Cm]Dios Todopode[D]ro - so  [D7]
 /coro/
 /verse/
 Se[G]ñor Jesucristo, Cordero de Dios
 [Eb]Hijo del Padre, [Bb]Tú - u que quitas
 [Cm] e - el pecado del [G]mundo,
 ten pie[Bb]dad de nosotros oh [F]Dios,
-a[Cm]tiende a tu pueblo Se[D]ñor.
+a[Cm]tiende a tu pueblo Se[D]ñor.  [D7]
 /coro/
 /verse/
 [G]Tú que estás sentado a la derecha del Padre,
 [C]ten pie[A]dad de no[D]sotros
-porque [G]solo Tú eres [Em]santo,
-[C]solo Tú - u Se[D]ñor,
-solo [G]Tú, Altísi[Em]mo, Je - esu[C]cri - [A]is - [D]to.
-[G]Con el Espíritu [Em]Sa - anto
-en la [C]Gloria del Padre a[D]mén.
-En la [C]Gloria del Padre a[D]mén.
+porque [G]solo [D]Tú eres [Em]santo,
+[C]solo [Am]Tú - u Se[D]ñor,
+solo [G]Tú, Altísi[Em]mo,
+Je - esu[C]cri - [A]is - [D]to.
+[G]Con el [D]Espíritu [Em]Sa - anto
+en la [C]Gloria del [Am]Padre a[D]mén.
+En la [C]Gloria del [Am]Padre a[D]mén.
 A - [G]mén.
 Glo[C]ria a [A]tí, [D]a - [G]mén.
 Glo[C]ria a [A]tí, [D]a - [G]mén.

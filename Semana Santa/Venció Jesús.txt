@@ -1,0 +1,41 @@
+title : Venció Jesús
+composer : Jésed
+key : C
+liturgy : Vigilia Pascual
+{song}
+/Coro/
+[Am]  Camino del Cal[Em]va - rio,
+[Am]  cargando el Ma[C]dero;
+[F]  coronado de es[Em]pinas,
+[F]  parece derro[E]ta - [E7]do.
+[Am]  Al fin llegó a la [Em]cima,
+[Am]  y a la vista de [C]todos
+[F]  fue levan[Em]tado,
+[F]  clavado en la [E]cruz,
+con[F]templa a Je[E]sús.
+/prechorus/
+[Am]Eran nuestras [Em]culpas,
+[Am]las que él car[C]gaba,
+[F]fue puesto en la [C]tumba,
+y [F]descendió al Se[E]ól
+Y a[F]hí con po[G]der,
+al mal[F]vado ene[Dm]migo ven[G]ció.
+/Coro/
+[C]  Venció Je[G]sús,
+de [F]Gloria se cu[G]brió;
+[C]  venció Jesús,
+a la [F]muerte derro[G]tó.
+[Am]  Venció Je[Em]sús,
+mi pe[F]cado ya pa[G]gó;
+[Am]  venció Je[Em]sús,
+[F]  venció Je[G]sú - [C]us.
+/intermedio/
+[G]  [F]  [G]
+/verse/
+[C]  Camino de vic[G]to - ria,
+[C]  portando el estan[G]dar - te;
+[Am]  coronado de [F]glo - ria,
+[Dm]  le vemos vence[G]dor.
+/verse/
+[C]  Al fin llegó a los [G]cie - los,
+[C]  y a la vista de [G]to - dos.
