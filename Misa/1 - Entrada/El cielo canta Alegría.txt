@@ -1,0 +1,29 @@
+title : El Cielo Canta Alegría
+composer : Pablo Sosa
+key : Bm
+liturgy : Pascua
+{song}
+/intro/
+[Bm]        [G] [A] [D]
+[Bm]        [F#]   [Bm]
+/verse/
+[Bm]El cielo canta ale[D]gría,
+¡ale[G]lu - [A]u [D]ya!
+[Bm]Porque en tu vida y la mía,
+brilla la [F#]glo - ria de [Bm]Dios.
+/Coro/
+[A]¡A - le - [D]lu - ya!
+[A]¡A - lelu[D]ya!
+[A]¡A - le - [D]lu - ya!
+[G]¡A - lelu[Bm]ya!    [F#]   [Bm]
+/verse/
+[Bm]El cielo canta ale[D]gría,
+¡ale[G]lu - [A]u [D]ya!
+[Bm]Porque a tu vida y la mía,
+las une el [F#]a - mor de [Bm]Dios.
+/coro/
+[Bm]El cielo canta ale[D]gría,
+¡ale[G]lu - [A]u [D]ya!
+[Bm]Porque a tu vida y la mía,
+proclama[F#]rán al Se[Bm]ñor.
+/coro/

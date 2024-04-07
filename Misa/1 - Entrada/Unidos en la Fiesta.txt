@@ -1,0 +1,29 @@
+title : Unidos en la Fiesta
+composer : Joaquín Madurga
+key : C
+liturgy : Pascua
+{song}
+/Coro/
+U[C]nidos en la fiesta,
+la ale[G]gría se hace can[C]ción.
+U[C]nidos en la fe,
+la ale[G]gría se hace ora[C]ción.
+/verse/
+Canta[D7]remos al Se[G7]ñor
+ale[D7]luyas con himnos y [G7]salmos,
+porque [D7]grande es el a[G7]mor
+que en no[D7]sotros por siempre mos[G7]tró.
+/coro/
+/verse/
+Nuestras [D7]voces canta[G7]rán
+el a[D7]mor de su misericordia
+porque [D7]sabe perdo[G7]nar,
+y nos [D7]llena de eterna bon[G7]dad.
+/coro/
+/verse/
+/verse/
+Canta[D7]remos al Se[G7]ñor
+[D7]luyas al son de instru[G7]mentos,
+y se[D7]rá nuestra can[G7]ción
+la ala[D7]banza que ensalza su a[G7]mor.
+/coro/
