@@ -1,0 +1,29 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Aleluya Hawaii
+C:
+M:C
+L:1/8
+Q:1/4=150
+K:G
+%
+%
+    B2BA3G2 | "C"c4 z2B2 | "D"A3d3B2- | "G"B4 z4 |
+w: A-le-lu--ya, a-le-lu-ya,_
+    B2BA3G2 | "C"A4 z2G2 | "Am"G4B4 | "D7"A4 z4 ||
+w: a-le-lu--ya, a-le-lu-ya.
+    "G"B2BA3G2 | "C"c4 z2B2 | "D"A3d3B2- | "G"B4 z4 |
+w: A-le-lu--ya, a-le-lu-ya,_
+    "G"B2BA3G2 | "C"A4 z2G2 | "Am"F8 | "D"F6G2 | "G"G8 |]
+w: a-le-lu--ya, a-le-lu--ya.
