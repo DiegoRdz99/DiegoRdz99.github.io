@@ -1,0 +1,48 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1 
+T:Himno San José Obrero
+T:Misa - Salida
+T:San José Obrero
+C:
+M:2/4
+L:1/8
+Q:1/4=120
+K:E
+%
+    B,B, | "E"E2 B,E | "B"F2 FG | "A"AG FE | "B2"F2 :
+w: San Jo-sé vir-tu-o-so cus-to-dio de Je-sús,
+    zB, | "E"E2 B,E | "B"F2 F2 | "A"AG FE | "B"F2 :
+w: a ti~en-co-men-da-mos nues-tra vo-ca-ción.
+    zC | "A"cc cc | "E"B2 BG | "A"AG FE | "B"F2 :
+w: A-le-gres tra-ba-ja-mos por nues-tro i-de-al,
+    zE | "A"EE B,E | "B"FF FA | "B7"G2 FF | E4 ||
+w: for-mán-do-nos pas-to-res pa-ra~el pue-blo de Dios.
+    z2 CD | "A"EE EE | E-E DE | "B"FF FF | F2 :
+w: 1.~Siem-pre fie-les co-mo tú_ al lla-ma-do del Se-ñor,
+w: 2.~Tu si-len-cio nos da~e-jem-plo de  con-tem-pla-ción de~a-mor,
+w: 3.~A-sí co-mo tra-ba-jas-te por Ma-rí-a y Je-sús,
+    CD | "A"EE EE | EE DE | "B"FF FF | F2 :
+w: se-gui-re-mos o-be-dien-tes el ca-mi-no de la cruz.
+w: siem-pre fuis-te dis-po-ni-ble a la vo-lun-tad de Dios.
+w: nos for-ma-mos en ser-vi-cio por la fa-mi-lia de Dios.
+    ED | CC CD | ED EF | GG GG | G2 :1
+w: Hom-bre jus-to que cui-das-te~a la fa-mi-lia~en Na-za-ret,
+w: Das e-jem-plo de jus-ti-cia,~ho-nes-ti-dad y rec-ti-tud,
+w: Cui-da nues-tra vo-ca-ción pa-ra~al-can-zar el i-de-al,
+    zG | A2 A2 | G2 A2 | B4 | z2 :|2
+w: pro-té-ge-nos tam-bién.
+    zG | (3A2A2A2 | (3G2G2A2 | B4 | z2 :|3
+w: e-jem-plo de~en-tre-ga~al Se-ñor
+    GG | A2 A2 | (3G2G2A2 | B4 | z2 |]
+w: y ser-vir al Pue-blo de Dios.
