@@ -6,6 +6,8 @@
 %%composerfont RomanItalic 12
 %%gchordfont RomanBold 12
 %%tempofont RomanBold 12
+%%measurenb 0
+%%setbarnb 1
 %leftmargin 0.8cm
 %rightmargin 0.8cm
 

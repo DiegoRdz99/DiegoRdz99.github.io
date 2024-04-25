@@ -23,8 +23,8 @@
 %  includehead,
  left=15mm,
  right=15mm,
- top=20mm,
- bottom=20mm
+ top=10mm,
+ bottom=10mm
  }
 
 
@@ -47,22 +47,22 @@
 % -----
 
 \begin{document}
-\pagestyle{fancy}
-\renewcommand{\headrulewidth}{0pt}
+% \pagestyle{fancy}
+% \renewcommand{\headrulewidth}{0pt}
 % \setlength{\headheight}{10mm}
 \setlength\columnsep{10mm}
 \renewcommand{\tabcolsep}{0pt}
 \newcommand{\Major}{$\Delta$}
 \let\oldsharp\sharp
 \renewcommand{\textsharp}{$\oldsharp$}
-\renewcommand{\sharp}[1]{{\textsharp}#1}
+% \newcommand{\sharpmusic}[1]{{\textsharp}#1}
 \newcommand{\tit}[2]{\vspace{5pt}\noindent\begin{tcolorbox}[leftrule=3mm,top=0.5mm,bottom=0.5mm,left=1mm,colback=#2!20,colframe=#2!75!black]{\large\textbf{#1}}\end{tcolorbox}}
 \newcommand{\chorus}[1]{\vspace{5pt}\noindent\begin{tcolorbox}[leftrule=3mm,rightrule=3mm,top=2mm,bottom=2mm,left=1mm,colback=chorus!20,colframe=chorus!75!black]{\large\textbf{Coro#1}}\end{tcolorbox}}
 
 \title{\Huge\textbf{Cantoral Popular}}
 
-\rhead[XD\\]{Hora Santa - Adoración\\}
-\lhead{Hora Santa}
+% \rhead[XD\\]{Hora Santa - Adoración\\}
+% \lhead{Hora Santa}
 
 % \author{Diego Rodríguez}
 
@@ -71,8 +71,12 @@
 \maketitle
 
 
-
-
 \include{María/Contigo María.tex}
+
+\include{María/Un Mundo Hizo Dios.tex}
+
+\include{Hora Santa/5 - Eucarísticos/Jesús está vivo.tex}
+
+\include{Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex}
 
 \end{document}

@@ -23,7 +23,7 @@ class line:
 
     def set_c_line(self, chords):
         self._c_line = '&'.join(
-            [chord.replace('#', r'{\sharp}').replace('b', r'{\flat}').replace('^',r'{\Major}') for chord in chords])
+            [chord.replace('#', r'{\textsharp}').replace('b', r'{\flat}').replace('^',r'{\Major}').replace('_', r'{/}') for chord in chords])
 
     def set_line(self, lst):
         return '&'.join(lst)
@@ -203,8 +203,11 @@ class song:
                 self.teile[x].part_counter = part_counter[type(self.teile[x])]
                 x += 1
         for teil in self.teile:
-            if part_counter[type(teil)] > 1:
-                teil.title += f' {teil.part_counter}'
+            try:
+                if part_counter[type(teil)] > 1:
+                    teil.title += f' {teil.part_counter}'
+            except:
+                pass
         metadata = '\\noindent'
 
     def to_latex(self):
@@ -233,6 +236,9 @@ dirs = sorted(os.listdir(path))
 print(f'curent path: {path}')
 
 create_latex('María/Contigo María.txt')
+create_latex('María/Un Mundo Hizo Dios.txt')
+create_latex('Hora Santa/5 - Eucarísticos/Jesús está vivo.txt')
+create_latex('Hora Santa/5 - Eucarísticos/Vida en Abundancia.txt')
 
 
 if __name__ == '__main__' and False:
