@@ -1,0 +1,44 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%%measurenb 0
+%%setbarnb 1
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Cristo nos une
+T:Misa - Entrada
+T:Ordinario
+C:Carmelo Erdozáin
+S:
+M:2/4
+L:1/4
+Q:1/2=68
+K:G
+%
+P:Coro
+    "G"G2 | "Em"G>"Bm"A | "D"F2 | "D7"D D | "G"B2 | "Em"B>c | "D"A2 |
+w: 1.~Cris-to nos u-ne en tor-no~a su~al-tar.
+w: 2.~Cris-to nos u-ne nos da su man-jar.
+    z>A | "Bm"d2 | "C"d "Am"c | "G/D"B2 | "D7"c "Bm"B | "D7"A2- | A2 |1 "G"G2 :|2 "G"G2 ||
+w: Al-tar de~her-man-dad y~es-pe-ran--za. 
+w: Man-jar ce-les-tial, pan de Pas--cua.
+P:Estrofas 1 y 2
+    "Em"zG/2A/2 | "G"B>B | "Em"Bc | "D"A>A | A"Bm"B | "Em"G>G | "C"cB | "G"B2 | "D"A2 |
+w: 1.~Su pa-la-bra es ca-mi-no, es ver-dad y da la vi-da.
+w: 2.~Con la lám-pa-ra~en-cien-di-da es-pe-ra-mos tu lle-ga-da.
+    zG/2A/2 | "G"B>c | "Em"Bc | "D"A>A | A"Bm"B | "Em"GG | "C"cB | "D"A2 | "G"G2 !D.C.!||
+w: Su man-jar es sa-cra-men-to y~es ma-ná de~Eu-ca-ris-tí-a.
+w: Con los him-nos de la~I-gle-sia ce-le-bra-mos hoy la~A-lian-za.
+P:Estrofa 3
+    "Em"E2 | E>G | "B"F2 | B,2 | z2 | "Em"G2 | G>B | "D"A>d | d2 |
+w: Cuer-po de Cris-to, cá-liz de sal-va-ción,
+    z2 | "Bm"d2 | "C"d "Am"c | "G"B2 | "D"c "Bm"B | "D7"A2- | A G | "G"G2- | "A"G2 z2 |]
+w: San-to mis-te-rio~Eu-ca-rís--ti-co._

@@ -1,0 +1,40 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%wordsfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Dios mío, Trinidad a quien adoro
+T:Misa - Comunión
+T:Santísima Trinidad
+C:
+S:
+M:2/4
+L:1/8
+Q:1/4=82
+K:Eb
+%
+    G | "Cm"GG GG | "Fm"FF ED | "Cm"C2 C2 | z2 :
+w: ¡Dios mí-o, Tri-ni-dad a quien a-do-ro!
+    zG | "Fm"cc cc | "Bb"BB AB | "Eb"A2 G2 | 
+w: 1.~La~I-gle-sia nos su-mer-ge~en tu mis-te-rio;
+w: 2.~Ha-ced de nues-tras al-mas vues-tro cie-lo,
+    zG DE | "G7"F2 F2 | AA GF | "Cm"E2 E2 | zC "Fm"AF | "G7"G2 "G7"G2 ||
+w: te con-fe-sa-mos y te ben-de-ci-mos. Se-ñor, Dios nues-tro.
+w: lle-vad-nos al ho-gar don-de tú~ha-bi-tas. Se-ñor, Dios nues-tro.
+    z2 CD | "Cm"E2 EE | "Fm"FF ED | "Cm"C2 C2 |
+w: 1.~Co-mo~un rí-o~en el mar de tu gran-de-za,
+w: 2.~Oh Pa-la-bra del Pa-dre te~es-cu-cha-mos,
+    z2 zC | "Fm"AA AA | "Bb"BB BF | "Eb"A2 A2 |
+w: el tiem-po des-em-bo-ca~en hoy e-ter-no,
+w: Oh Pa-dre mi-ra~el ros-tro de tu Ver-bo;
+    z2 DE | "G7"F-F FF | AA GF | "Cm"E2 E2 | zC "Fm"AF | "G7"G2 G2 |]
+w: lo pe--que-ño se~a-ne-ga~en lo~in-fi-ni-to. Se-ñor, Dios nues-tro.
+w: Oh Es-pí-ri-tu de~a-mor, ven a no-so-tros. Se-ñor, Dios nues-tro.

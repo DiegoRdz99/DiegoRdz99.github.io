@@ -1,0 +1,35 @@
+%abc-2.2
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:El Dios uno y trino
+T:Misa - Entrada
+T:Santísima Trinidad
+C:Juan Jáuregui
+S:
+M:6/8
+L:1/8
+Q:1/4=86
+K:D
+%
+    F | "Bm"FFB "Em"GGG | "A7"EEA "D"F2 : 
+w: El Dios u-no~y tri-no mis-te-rio de~a-mor
+    F | "G"DDG "Em"EEE |1 "A7"CDE "D"F2 :|2 "F#7"EDC "Bm"B,3 ||
+w: ha-bi-ta~en los cie-los y~en mi co-ra-zón. mi co-ra-zón.
+    "D"FGA "G"B2B | "Em"E2E "A7"A2A | "Bm"DEF "Em"G2G | "A7"E2E "D"F2F | 
+w: 1.~Dios es-con-di-do~en el mis-te-rio, co-mo la luz que~a-pa-ga~es-tre-llas;
+w: 2.~No~es so-le-dad, es com-pa-ñí-a, es un ho-gar tu vi-da~e-ter-na,
+w: 3.~Pa-dre de to-dos, siem-pre jo-ven al Hi-jo~a-ma-do~en-te-ro~en-gen-dras,
+    "D"FGA "G"B2B | "Em"d2B "D"A2A | "Bm"FGA "G"B2B | "C#"c2B "F#"^A3 | !D.C.!A6 |]
+w: Dios que te~o-cul-tas a los sa-bios, y~a los pe-que-ños te re-ve-las.
+w: es el a-mor que se des-bor-da de~un mar in-men-so sin ri-be-ras.
+w: y~el San-to~Es-pí-ri-tu pro-ce-de co-mo~el A-mor que~a los dos se-lla.

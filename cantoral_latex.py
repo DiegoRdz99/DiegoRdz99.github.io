@@ -86,11 +86,11 @@ class chorus:
 class verse:
     def __init__(self, raw, part_id=''):
         self.raw = raw.replace(' ', r'\,')
-        self.title = 'Estrofa'
+        self.id = (' ' + part_id) if part_id != '' else ''
+        self.title = f'Estrofa{self.id}'
         self.color = 'verse'
         self.instrumental = False
-        self.id = (' ' + part_id) if part_id != '' else ''
-        self.repeat_counter = 1
+        self.repeat_counter = 1 if self.id == '' else 0
 
     def to_latex(self):
         repeat_marker = f'\\,(\\texttimes{self.repeat_counter})' if self.repeat_counter > 1 else ''
@@ -157,7 +157,8 @@ class intro(intermedio):
         super().__init__(raw, part_id)
         self.raw = raw.replace(' ', '\\quad')
         self.instrumental = True
-        self.title = 'Intro'
+        self.id = (' ' + part_id) if part_id != '' else ''
+        self.title = f'Intro{self.id}'
         self.color = 'intro'
 
 
@@ -217,7 +218,7 @@ class song:
         except:
             metadata = f'{self.meta["composer"]}'
         
-        preamble = f'\\section*{{{self.meta["title"]}}}\n{metadata}\n\\begin{{multicols}}{{2}}\n'
+        preamble = f'%\\section*{{{self.meta["title"]}}}\n{metadata}\n\\begin{{multicols}}{{2}}\n'
         footer = f'\n\\end{{multicols}}'
         return preamble + latex + footer
 
@@ -239,6 +240,11 @@ create_latex('María/Contigo María.txt')
 create_latex('María/Un Mundo Hizo Dios.txt')
 create_latex('Hora Santa/5 - Eucarísticos/Jesús está vivo.txt')
 create_latex('Hora Santa/5 - Eucarísticos/Vida en Abundancia.txt')
+create_latex('Hora Santa/5 - Eucarísticos/Que bien se está aquí II.txt')
+create_latex('Semana Santa/Mi Dios está vivo.txt')
+create_latex('Originales/Popurrí Día de las Madres.txt')
+create_latex('Alabanzas/Popurrí Pentecostés.txt')
+create_latex('Alabanzas/Popurrí Pentecostés2.txt')
 
 
 if __name__ == '__main__' and False:
