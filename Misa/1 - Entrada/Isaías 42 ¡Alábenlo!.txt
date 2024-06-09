@@ -1,0 +1,34 @@
+title : Isaías 42 ¡Alábenlo!
+key : C
+composer : Jésed
+liturgy : Ordinario
+{song}
+/verse/
+[F]Can - ten [C]al Señor [G]un canto [C]nuevo,
+[F]desde lo más le[C]jano [G]de la [C]tierra.
+/Coro/
+¡[F]A - [C]lábenlo!, ¡[G]A - [C]lábenlo!
+¡[F]A - [C]laben al [G]Se - [C]ñor!
+¡[F]A - [C]lábenlo!, ¡[G]A - [C]lábenlo!
+¡[F]A - [C]laben al [G]Se - [C]ñor!
+/intermedio/
+[F]   [C]   [G]   [Am]
+[F]   [C]   [G]   [C]
+/verse/
+[F]Quienes na[C]ve - gan [G]por el [C]mar,
+[F]y las cria[C]turas que [G]viven en [C]él.
+[F]Los pa[C]íses [G]de las [C]costas
+[F]y sus habi[C]ta - a - an[G]tes.
+/coro/
+/verse/
+[F]¡Qué se a[C]legren [G]el de[C]sierto
+[F]y sus ciu[C]da - a - a[G]des.
+[F]¡Qué alcen la [C]voz [G]desde los [C]montes
+[F]y pro[C]clamen su [G]a - la[C]banza.
+/coro/
+/verse/
+[F]El Señor [C]saldrá [G]como un [C]héroe
+[F]y lucha[C]rá con ar[G]dor de un gue[C]rrero.
+[F]Al - za[C]rá la voz, un [G]grito de [C]guerra
+[F]y derrota[C]rá a sus [G]e - ne[C]migos.
+/coro/
