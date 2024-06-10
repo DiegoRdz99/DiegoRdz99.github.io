@@ -1,0 +1,13 @@
+title : Piedad Alegre
+liturgy : Ordinario
+key : G
+{song}
+/verse/
+[G]Ten pie[D]dad, de no[C]sotros ten pie[D]dad, Señor.
+[G]Ten pie[D]dad, de no[C]sotros ten pie[D]dad, Señor.
+/verse/
+[Em]Cristo ten piedad, de no[D]sotros ten piedad,
+{[C]Cristo ten pie[Am]da - | de no[D]a - ad, |sotros ten pie
+/verse/
+{[G]Ten pie|dad.[D]dad, de no[C]sotros ten pie[D]dad, Señor.
+[G]Ten pie[D]dad, de no[C]sotros ten pie[D]dad, Señor.
