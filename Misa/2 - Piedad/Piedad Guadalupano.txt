@@ -4,17 +4,17 @@ key : Em
 liturgy : Virgen de Guadalupe
 {song}
 /verse/
-Se[Em]ñor, ten pie[E^7]dad
+Se[Em]ñor, ten pie[E7]dad
 de no[Am7]so - [D]o - [G]tros.
 Se[F#°]ñor, [B7]ten pie[Em]dad
-de no[Em]so - [B7]o - [Em]tros.
+[F#]de no[Em]so - [B7]o - [Em]tros.  [E7]
 /verse/
-[Am]Cristo, ten piedad
-de no[D7]so - o - [G]tros.
+[Am]Cristo, ten pie[D7]dad
+de no[C]so - [D7]o - [G]tros.
 [F#°]Cristo, [B7]ten pie[Em]dad
-[F#°]de no[Em]so - o - [B7]tros.
+[F#]de no[Em]so - o - [B7]tros.
 /verse/
-Se[Em]ñor, ten pie[E^7]dad
+Se[Em]ñor, ten pie[E7]dad
 de no[Am7]so - [D]o - [G]tros.
 Se[F#°]ñor, [B7]ten pie[Em]dad
-de no[Em]so - [B7]o - [Em]tros.
+[F#]de no[Em]so - [B7]o - [Em]tros.
