@@ -1,0 +1,7 @@
+title : Aleluya Niños
+key : G
+liturgy : Ordinario
+{song}
+/verse/
+[G]A - le - [C]lu - ya, [D]alelu - [G]ya.
+[Em]A - le - [Am]lu - ya, [D]alelu - [G]ya.

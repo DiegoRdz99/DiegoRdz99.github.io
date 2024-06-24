@@ -7,6 +7,8 @@
 %%wordsfont Roman 12
 %%composerfont RomanItalic 12
 %%gchordfont RomanBold 12
+%%measurenb 0
+%%setbarnb 1
 %leftmargin 0.8cm
 %rightmargin 0.8cm
 
@@ -38,4 +40,3 @@ w: Ho-o-sa-a-nna En el cie-lo
 w: Ho-o-sa-a-nna Ho-o-sa-a-nna
     "Bm"G F E D | "Em"E3 z | "F#7"F2 F2 | "Bm"B,2 B,2 |
 w: Ho-o-sa-a-nna En el cie-lo
-%

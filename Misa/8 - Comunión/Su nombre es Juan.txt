@@ -1,0 +1,27 @@
+title : Su nombre es Juan
+composer : Javier Brú
+key : F
+liturgy : Juan el Bautista
+/verse/
+[F]Por aquellos [Gm]días
+le lle[C7]gó el tiempo a Isa[F]bel.
+[Dm]Parientes, ve[Gm]cinos,
+se ale[G7]graron con [F]ella.
+[D7]Porque grande [Gm]se manifes[C7]tó
+el Dios de Isra[F]el,
+[Dm]pues dio a luz un [Gm]hijo
+aun siendo es[C7]téril y [F]vieja.
+/prechorus/
+Y aun[Bb]que todos pen[C]saban
+en lla[Am]marlo como el [Dm]padre
+se o[Bb]pu - [Gm]so Isa[C7]bel.
+"Su [Bb]nombre será [C]Juan"
+les dijo y [Am]todos comen[Dm]taban:
+"¿Co[Gm]mó [G7]puede [C7]ser?"
+/Coro/
+¡[F]Juan, su [C]nombres es [Dm]Juan!
+Es [Bb]voz que pre[F]para
+el ca[Gm]mino al Se[C7]ñor!
+¡[F]Juan, su [C]nombres es [Dm]Juan!
+Pro[Bb]feta, bau[F]tista,
+en[C7]viado de [F]Dios.

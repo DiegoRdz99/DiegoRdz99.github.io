@@ -1,0 +1,7 @@
+title : Aleluya Tradicional
+key : G
+liturgy : Ordinario
+{song}
+/verse/
+Ale[G]luya, [C]a - le[D]luya - [G]a.  [Em]
+[C]Ale - e[D]lu - [G]ya.
