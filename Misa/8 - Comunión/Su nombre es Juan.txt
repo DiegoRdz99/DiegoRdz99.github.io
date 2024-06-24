@@ -7,7 +7,7 @@ liturgy : Juan el Bautista
 [F]Por aquellos [Gm]días
 le lle[C7]gó el tiempo a Isa[F]bel.
 [Dm]Parientes, ve[Gm]cinos,
-se ale[G7]graron con [F]ella.
+se ale[C7]graron con [F]ella.
 [D7]Porque grande [Gm]se manifes[C7]tó
 el Dios de Isra[F]el,
 [Dm]pues dio a luz un [Gm]hijo
@@ -35,6 +35,7 @@ el [C7]nombre de su [F]hijo.
 pa[C7]labras expre[F]sar
 [Dm]lo que el ángel [Gm]en el templo
 un [C7]día le [F]dijo.
+/bridge/
 Pi[Bb]diendo una ta[C]blilla
 escri[Am]bía conven[Dm]cido:
 "Su [Bb]nom - [Gm]bre es [C7]Juan"
