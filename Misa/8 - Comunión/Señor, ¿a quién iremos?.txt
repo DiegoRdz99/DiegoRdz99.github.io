@@ -1,0 +1,28 @@
+title : Señor, ¿a quién iremos?
+composer : Alejandro Mejía
+key : F
+liturgy : Apóstoles
+{song}
+/Coro/
+Se[F]ñor, ¿a [C]quién i[Dm]remos?
+Tú [Bb]tienes pa[Gm]labras de [C]vi - da.
+[C+]  No[F]sotros he[A7]mos cre[Dm]ído.
+Que [Bb]tú eres el [C7]Hijo de [F]Dios.
+/verse/
+"Soy el [F]pan que os [C]da la vida e[Dm]terna.
+El que [Bb]viene a [Gm]mí no tendrá [C]hambre.
+El que [F]viene a [F7]mí no ten[Bb]drá sed." [Bbm]
+A[F]sí ha ha[Gm]blado el Se[C]ñor.
+/coro/
+/verse/
+No bus[F]quéis ali[C]mento que pe[Dm]rece.
+Sino a[Bb]quel que per[Gm]dura eterna[C]mente.
+El que o[F]frece del [F7]Hijo del [Bb]hombre [Bbm]
+el [F]Padre [Gm]os ha en[C]viado.
+/coro/
+/verse/
+No es Moi[F]sés quien os [C]dio pan del [Dm]cielo.
+Es mi [Bb]Padre quien [Gm]da pan verda[C]dero.
+Porque el [F]pan de Dios [F7]baja del [Bb]cielo [Bbm]
+y [F]da la [Gm]vida al [C]mundo.
+/coro/
