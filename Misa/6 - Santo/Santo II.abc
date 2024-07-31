@@ -1,3 +1,4 @@
+%abc-2.2
 %%MIDI program 74
 %%topspace 0
 %%composerspace 0
@@ -48,7 +49,7 @@ w: Sa-a-a-a-a-a-a-an-to_
 V:2
     B2 B2 | x4       |  x4      |  x4        | E2 B2 | "D"A2 F2 | "C"G2 E2 | "B7"F2 ^D2 | 
 w: cie-lo Sa-a-a-a-a-a-a-an-
-    [M:4/4]"Em"E4 !FINE!: x4 | x6 EF |  "C"G2G4FE | "B7"!D.S.alfine!F2z4zD |
+    [M:4/4]"Em"E4 !fine!: x4 | x6 EF |  "C"G2G4FE | "B7"!D.S.alfine!F2z4zD |
 w: to en el nom-bre del Se-ñor Ho-
 V:1
     [M:4/4] "Em"z3E BB AG | "D"A2A2 z4 | x8        |  x8      |
