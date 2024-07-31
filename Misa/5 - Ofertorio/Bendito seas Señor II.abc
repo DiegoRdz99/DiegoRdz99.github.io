@@ -1,0 +1,38 @@
+%%MIDI program 74
+%%topspace 0
+%%composerspace 0
+%%titlefont RomanBold 20
+%%vocalfont Roman 12
+%%composerfont RomanItalic 12
+%%gchordfont RomanBold 12
+%%tempofont RomanBold 12
+%leftmargin 0.8cm
+%rightmargin 0.8cm
+
+X:1
+T:Bendito seas Señor II
+T:Misa - Ofertorio
+T:Ordinario
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=130
+K:G
+%
+    "G"zDDD DDDD- | "D"D2DD EF2G- | "Em"G E6 z |
+w: 1.~Ben-di-to se-as Se-ñor,_ Dios del U-ni-ver--so,
+w: 2.~Ben-di-to se-as Se-ñor,_ Dios del U-ni-ver--so,
+    "C"zGGG GGGA- | "D"A2AA AA2c- | "C"cccc cBGG- | "D"G A4 z :
+w: por es-te pan que nos das,_ fru-to de la tie--rra~y del tra-ba-jo del hom--re.
+w: por el vi-no que nos das,_ fru-to de la vid_ y del tra-ba-jo del hom--re.
+    zG | "C"cc2c2c2c- | cc2c2c2c- | "D"c A2 A4 z |
+w: Que re-ci-bi-mos de_ tu ge-ne-ro--si-dad,
+    "Bm"z2 BB BB2B- | B B2 G2 A2 B- | "Em"B8 | z4 "Em"z2 "D"z2 |
+w: y~hoy te pre-sen-ta--mos en tu~al-tar,
+    "C"z2GG GGGG | "D"BA2A2 A2c- | "G"c(BAB)-"D/F#"B4 | "Em"z4 "D"z4 |
+w: y se-rá pa-ra no-so-tros pan de vi--da.___
+    "C"z2G2GG2B- | "D"BA4zGG- | "G"G8 | "Em"z8 |
+w: Ben-di-to se--as, Se-ñor._
+    "C"z2G2GG2B- | "D"BA4zGG- | "G"G8 | "D"z8 :|
+w: Ben-di-to se--as, Se-ñor._

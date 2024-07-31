@@ -1,0 +1,20 @@
+title : Bendito Seas Señor
+key : G
+liturgy : Ordinario
+{song}
+/verse/
+[G] Bendito seas Se[D]ñor, Dios del Uni[Em]verso
+[C] por este pan que nos [D]das,
+fruto de la [C]tierra y del trabajo del ho[D]mbre.
+/Coro/
+Que [C]recibimos de tu gene[D]rosidad,
+[Bm]  y hoy te presen[Bm7]tamos en tu al[Em]tar,
+[Em]  [D]  [C]  y será para no[D]sotros
+pan de [G]vida - a[D_3].  [Em]   [D]
+[C]  Bendito se[D]as Se[G]ñor.  [Em]
+[C]  Bendito se[D]as Se[G]ñor.  [D]
+/verse/
+[G] Bendito seas Se[D]ñor Dios del Uni[Em]verso
+[C] por el vino que nos [D]das,
+fruto de la [C]vid y del trabajo del ho[D]mbre.
+/coro/
