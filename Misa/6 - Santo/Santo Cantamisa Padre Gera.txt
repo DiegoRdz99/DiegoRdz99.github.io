@@ -1,4 +1,5 @@
-title : Santo I
+title : Santo Cantamisa Padre Gera
+composer : Pbro. Gerardo Flores
 key : G
 liturgy : Ordinario
 {song}

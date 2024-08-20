@@ -218,7 +218,7 @@ class song:
         except:
             metadata = f'{self.meta["composer"]}'
         
-        preamble = f'%\\section*{{{self.meta["title"]}}}\n{metadata}\n\\begin{{multicols}}{{2}}\n'
+        preamble = f'\\section*{{{self.meta["title"]}, {metadata}}}\n\\begin{{multicols}}{{2}}\n'
         footer = f'\n\\end{{multicols}}'
         return preamble + latex + footer
 
@@ -226,7 +226,10 @@ class song:
 def create_latex(file_path):
     file_name = file_path.split('/')[-1][:-4] # FILE NAME
     name_ext = '/'.join(file_path.split('/')[:-1]) # FOLDER NAME
-    newfile = open(f'CantoralLatex/{name_ext}/{file_name}.tex', 'w', encoding='utf-8')
+    if 'CantoralLatex' in file_path:
+        newfile = open(f'{name_ext}/{file_name}.tex', 'w', encoding='utf-8')
+    else:
+        newfile = open(f'CantoralLatex/{name_ext}/{file_name}.tex', 'w', encoding='utf-8')
     newfile.write(song(file_path, folder=name_ext).to_latex())
     newfile.close()
 
@@ -241,6 +244,12 @@ create_latex('María/Un Mundo Hizo Dios.txt')
 create_latex('Hora Santa/5 - Eucarísticos/Jesús está vivo.txt')
 create_latex('Hora Santa/5 - Eucarísticos/Vida en Abundancia.txt')
 create_latex('Hora Santa/5 - Eucarísticos/Que bien se está aquí II.txt')
+# Vocacionales
+create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Aquí hay un muchacho.txt')
+create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Jeremías.txt')
+create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/No Temas.txt')
+create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.txt')
+
 create_latex('Semana Santa/Mi Dios está vivo.txt')
 create_latex('Originales/Popurrí Día de las Madres.txt')
 create_latex('Alabanzas/Popurrí Pentecostés.txt')

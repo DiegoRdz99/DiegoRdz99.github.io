@@ -245,7 +245,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
@@ -282,7 +281,7 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
@@ -320,7 +319,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
@@ -332,6 +330,7 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.c
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
@@ -863,12 +862,18 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-l
 INPUT ./CantoralLatex.aux
 INPUT CantoralLatex.aux
 INPUT CantoralLatex.aux
-INPUT ./Alabanzas/Popurrí Pentecostés.aux
-INPUT Alabanzas/Popurrí Pentecostés.aux
-INPUT Alabanzas/Popurrí Pentecostés.aux
-INPUT ./Alabanzas/Popurrí Pentecostés2.aux
-INPUT Alabanzas/Popurrí Pentecostés2.aux
-INPUT Alabanzas/Popurrí Pentecostés2.aux
+INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
+INPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
+INPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
 OUTPUT CantoralLatex.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -917,42 +922,82 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT ./Alabanzas/Popurrí Pentecostés.tex
-OUTPUT Alabanzas/Popurrí Pentecostés.aux
-INPUT ./Alabanzas/Popurrí Pentecostés.tex
-INPUT ./Alabanzas/Popurrí Pentecostés.tex
-INPUT ./Alabanzas/Popurrí Pentecostés.tex
-INPUT ./Alabanzas/Popurrí Pentecostés.tex
-INPUT Alabanzas/Popurrí Pentecostés.tex
-INPUT ./Alabanzas/Popurrí Pentecostés.tex
-INPUT Alabanzas/Popurrí Pentecostés.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/alegreya/algr_fbntfe.enc
+INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
+OUTPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
+INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
+INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
+INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
+INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
+INPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
+INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
+INPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-ts1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-ts1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Regular-lf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
-INPUT ./Alabanzas/Popurrí Pentecostés2.tex
-OUTPUT Alabanzas/Popurrí Pentecostés2.aux
-INPUT ./Alabanzas/Popurrí Pentecostés2.tex
-INPUT ./Alabanzas/Popurrí Pentecostés2.tex
-INPUT ./Alabanzas/Popurrí Pentecostés2.tex
-INPUT ./Alabanzas/Popurrí Pentecostés2.tex
-INPUT Alabanzas/Popurrí Pentecostés2.tex
-INPUT ./Alabanzas/Popurrí Pentecostés2.tex
-INPUT Alabanzas/Popurrí Pentecostés2.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Regular-lf-ts1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-ts1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-ts1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-ts1--base.tfm
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.tex
+OUTPUT Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.tex
+OUTPUT Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+OUTPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
 INPUT CantoralLatex.aux
-INPUT ./Alabanzas/Popurrí Pentecostés.aux
-INPUT Alabanzas/Popurrí Pentecostés.aux
-INPUT Alabanzas/Popurrí Pentecostés.aux
-INPUT ./Alabanzas/Popurrí Pentecostés2.aux
-INPUT Alabanzas/Popurrí Pentecostés2.aux
-INPUT Alabanzas/Popurrí Pentecostés2.aux
+INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
+INPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
+INPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
 INPUT ./CantoralLatex.out
 INPUT ./CantoralLatex.out
-INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/alegreya/algr_fbntfe.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb

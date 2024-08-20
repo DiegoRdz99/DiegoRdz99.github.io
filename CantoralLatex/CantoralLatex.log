@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.9.4)  18 MAY 2024 16:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.7.23)  7 AUG 2024 22:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **/home/di3gordz921/Dokumente/GitHub/DiegoRdz99.github.io/CantoralLatex/CantoralLatex.tex
 (/home/di3gordz921/Dokumente/GitHub/DiegoRdz99.github.io/CantoralLatex/CantoralLatex.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-12-17> (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
-File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: bk11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@chapter=\count186
@@ -20,8 +20,8 @@ File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count191
 \c@figure=\count192
 \c@table=\count193
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
 \bibindent=\dimen140
 ) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -44,8 +44,8 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box51
-\beforetitleunit=\skip49
-\aftertitleunit=\skip50
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
 \ttl@plus=\dimen143
 \ttl@minus=\dimen144
 \ttl@toksa=\toks17
@@ -100,23 +100,23 @@ LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
 ) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2022/06/24 version 5.1.1 text color boxes
+Package: tcolorbox 2023/03/17 version 6.0.3 text color boxes
  (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks20
 \pgfutil@tempdima=\dimen148
 \pgfutil@tempdimb=\dimen149
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box52
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
-Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks21
 \pgfkeys@temptoks=\toks22
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks23
 ))
 \pgf@x=\dimen150
@@ -140,19 +140,19 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \t@pgf@tokc=\toks26
 \pgf@sys@id@count=\count199
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count266
 \pgfsyssoftpath@bigbuffer@items=\count267
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -170,18 +170,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen160
 \pgfmath@count=\count268
 \pgfmath@box=\box53
 \pgfmath@toks=\toks27
 \pgfmath@stack@operand=\toks28
 \pgfmath@stack@operation=\toks29
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count269
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen161
 \pgf@picmaxx=\dimen162
 \pgf@picminy=\dimen163
@@ -197,65 +197,65 @@ File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@zx=\dimen173
 \pgf@zy=\dimen174
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen175
 \pgf@path@lasty=\dimen176
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen177
 \pgf@shorten@start@additional=\dimen178
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box54
 \pgf@hbox=\box55
 \pgf@layerbox@main=\box56
 \pgf@picture@serial@count=\count270
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen179
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen180
 \pgf@pt@y=\dimen181
 \pgf@pt@temp=\dimen182
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen183
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen184
 \pgf@sys@shading@range@num=\count271
 \pgf@shadingcount=\count272
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box57
-)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box58
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen185
 \pgf@nodesepend=\dimen186
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks30
@@ -284,17 +284,17 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \tcb@temp=\box66
 ) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip51
-\f@nch@O@elh=\skip52
-\f@nch@O@erh=\skip53
-\f@nch@O@olh=\skip54
-\f@nch@O@orh=\skip55
-\f@nch@O@elf=\skip56
-\f@nch@O@erf=\skip57
-\f@nch@O@olf=\skip58
-\f@nch@O@orf=\skip59
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
 ) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
  (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
@@ -332,7 +332,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \Hy@linkcounter=\count278
 \Hy@pagecounter=\count279
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -342,23 +342,23 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count280
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4162.
-Package hyperref Info: Link nesting OFF on input line 4167.
-Package hyperref Info: Hyper index ON on input line 4170.
-Package hyperref Info: Plain pages OFF on input line 4177.
-Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4410.
+Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count281
  (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4748.
+LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen188
  (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -368,13 +368,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count282
 \Field@Width=\dimen189
 \Fld@charsize=\dimen190
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
  (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -385,7 +385,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
  (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -399,54 +399,54 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip60
+\Hy@SectionHShift=\skip61
 ) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip61
-\cftbeforetoctitleskip=\skip62
-\cftaftertoctitleskip=\skip63
-\cftbeforepartskip=\skip64
-\cftpartnumwidth=\skip65
-\cftpartindent=\skip66
-\cftbeforechapskip=\skip67
-\cftchapindent=\skip68
-\cftchapnumwidth=\skip69
-\cftbeforesecskip=\skip70
-\cftsecindent=\skip71
-\cftsecnumwidth=\skip72
-\cftbeforesubsecskip=\skip73
-\cftsubsecindent=\skip74
-\cftsubsecnumwidth=\skip75
-\cftbeforesubsubsecskip=\skip76
-\cftsubsubsecindent=\skip77
-\cftsubsubsecnumwidth=\skip78
-\cftbeforeparaskip=\skip79
-\cftparaindent=\skip80
-\cftparanumwidth=\skip81
-\cftbeforesubparaskip=\skip82
-\cftsubparaindent=\skip83
-\cftsubparanumwidth=\skip84
-\cftbeforeloftitleskip=\skip85
-\cftafterloftitleskip=\skip86
-\cftbeforefigskip=\skip87
-\cftfigindent=\skip88
-\cftfignumwidth=\skip89
+\cftparskip=\skip62
+\cftbeforetoctitleskip=\skip63
+\cftaftertoctitleskip=\skip64
+\cftbeforepartskip=\skip65
+\cftpartnumwidth=\skip66
+\cftpartindent=\skip67
+\cftbeforechapskip=\skip68
+\cftchapindent=\skip69
+\cftchapnumwidth=\skip70
+\cftbeforesecskip=\skip71
+\cftsecindent=\skip72
+\cftsecnumwidth=\skip73
+\cftbeforesubsecskip=\skip74
+\cftsubsecindent=\skip75
+\cftsubsecnumwidth=\skip76
+\cftbeforesubsubsecskip=\skip77
+\cftsubsubsecindent=\skip78
+\cftsubsubsecnumwidth=\skip79
+\cftbeforeparaskip=\skip80
+\cftparaindent=\skip81
+\cftparanumwidth=\skip82
+\cftbeforesubparaskip=\skip83
+\cftsubparaindent=\skip84
+\cftsubparanumwidth=\skip85
+\cftbeforeloftitleskip=\skip86
+\cftafterloftitleskip=\skip87
+\cftbeforefigskip=\skip88
+\cftfigindent=\skip89
+\cftfignumwidth=\skip90
 \c@lofdepth=\count288
 \c@lotdepth=\count289
-\cftbeforelottitleskip=\skip90
-\cftafterlottitleskip=\skip91
-\cftbeforetabskip=\skip92
-\cfttabindent=\skip93
-\cfttabnumwidth=\skip94
+\cftbeforelottitleskip=\skip91
+\cftafterlottitleskip=\skip92
+\cftbeforetabskip=\skip93
+\cfttabindent=\skip94
+\cfttabnumwidth=\skip95
 ) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-12-17 L3 programming layer (loader) 
+Package: expl3 2023-02-22 L3 programming layer (loader) 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
 \l__pdf_internal_box=\box67
 ))
-Package: l3keys2e 2022-12-17 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count291
@@ -456,7 +456,7 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 Package: titletoc 2021/07/05 v2.14 TOC entries
 \ttl@leftsep=\dimen191
 ) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/12/26 3.84 The Babel package
+Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count294
 \U@D=\dimen192
 \l@unhyphenated=\language85
@@ -502,8 +502,8 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \page@free=\dimen259
 \premulticols=\dimen260
 \postmulticols=\dimen261
-\multicolsep=\skip95
-\multicolbaselineskip=\skip96
+\multicolsep=\skip96
+\multicolbaselineskip=\skip97
 \partial@page=\box69
 \last@line=\box70
 \maxbalancingoverflow=\dimen262
@@ -557,38 +557,38 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \colbreak@box=\box112
 \mc@col@check@num=\count309
 )
-LaTeX Font Info:    Trying to load font information for T1+Alegreya-LF on input line 49.
+LaTeX Font Info:    Trying to load font information for T1+Alegreya-LF on input line 51.
  (/usr/share/texlive/texmf-dist/tex/latex/alegreya/T1Alegreya-LF.fd
 File: T1Alegreya-LF.fd 2019/10/08 (autoinst) Font definitions for T1/Alegreya-LF.
 )
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <10.95> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 49.
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 51.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 49.
+(Font)              scaled to size 10.95pt on input line 51.
  (./CantoralLatex.aux
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
- (./Alabanzas/Popurrí Pentecostés.aux) (./Alabanzas/Popurrí Pentecostés2.aux))
+ (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux))
 \openout1 = `CantoralLatex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count310
@@ -610,13 +610,13 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \c@mv@tabular=\count316
 \c@mv@boldtabular=\count317
-Package hyperref Info: Link coloring OFF on input line 49.
+Package hyperref Info: Link coloring OFF on input line 51.
  (./CantoralLatex.out) (./CantoralLatex.out)
 \@outlinefile=\write4
 \openout4 = `CantoralLatex.out'.
 
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -653,291 +653,253 @@ LaTeX Info: Redefining \% on input line 49.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <17.28> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 72.
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 72.
+(Font)              scaled to size 17.28pt on input line 74.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <24.88> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 72.
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 72.
+(Font)              scaled to size 24.88pt on input line 74.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <24.88> not available
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 72.
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 24.88pt on input line 72.
+(Font)              scaled to size 24.88pt on input line 74.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <12> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 72.
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 72.
+(Font)              scaled to size 12.0pt on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 72.
+(Font)              <12> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 72.
+(Font)              <8> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 72.
+(Font)              <6> on input line 74.
 
 LaTeX Warning: No \author given.
 
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-\openout2 = `"Alabanzas/Popurrí Pentecostés.aux"'.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/alegreya/algr_fbntfe.enc}]
+\openout2 = `"Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux"'.
 
- (./Alabanzas/Popurrí Pentecostés.tex
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <12> not available
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 6.
+ (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <14.4> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <14.4> not available
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 6.
+(Font)              scaled to size 14.4pt on input line 1.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <12> not available
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 9.
+(Font)              <10.95> on input line 8.
 
-Overfull \hbox (11.82828pt too wide) in paragraph at lines 7--13
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--44
+Underfull \hbox (badness 10000) in paragraph at lines 3--19
 
  []
 
+LaTeX Font Info:    Trying to load font information for TS1+Alegreya-LF on input line 56.
+(/usr/share/texlive/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
+File: TS1Alegreya-LF.fd 2019/10/08 (autoinst) Font definitions for TS1/Alegreya-LF.
+)
+LaTeX Font Info:    Font shape `TS1/Alegreya-LF/m/n' in size <10.95> not available
+(Font)              Font shape `TS1/Alegreya-LF/regular/n' tried instead on input line 56.
+LaTeX Font Info:    Font shape `TS1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 56.
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--95
+Underfull \hbox (badness 10000) in paragraph at lines 20--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--142
+Underfull \hbox (badness 10000) in paragraph at lines 61--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--153
+Underfull \hbox (badness 10000) in paragraph at lines 84--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--194
+Underfull \hbox (badness 10000) in paragraph at lines 107--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--235
+Underfull \hbox (badness 10000) in paragraph at lines 118--164
 
  []
 
 
-Overfull \hbox (33.37769pt too wide) in paragraph at lines 246--251
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--258
+Underfull \hbox (badness 10000) in paragraph at lines 165--199
 
  []
 
+LaTeX Font Info:    Font shape `TS1/Alegreya-LF/b/n' in size <12> not available
+(Font)              Font shape `TS1/Alegreya-LF/bold/n' tried instead on input line 201.
+LaTeX Font Info:    Font shape `TS1/Alegreya-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 201.
 
-Overfull \hbox (10.766pt too wide) in paragraph at lines 262--268
-[] 
- []
-
-
-Overfull \hbox (17.33237pt too wide) in paragraph at lines 269--274
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 259--287
+Underfull \hbox (badness 10000) in paragraph at lines 203--219
 
  []
 
-
-Overfull \vbox (9.48117pt too high) has occurred while \output is active []
-
+)
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/sl' in size <10.95> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/sl' tried instead on input line 288.
+(Font)              Font shape `T1/Alegreya-LF/regular/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/sl' in size <10.95> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on input line 288.
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on input line 92.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 288.
+(Font)              scaled to size 10.95pt on input line 92.
  [2
 
-])
-\openout2 = `"Alabanzas/Popurrí Pentecostés2.aux"'.
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc}]
+\openout2 = `"Hora Santa/7 - Vocacionales/Jeremías.aux"'.
 
- (./Alabanzas/Popurrí Pentecostés2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--49
+ (./Hora Santa/7 - Vocacionales/Jeremías.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--96
+Underfull \hbox (badness 10000) in paragraph at lines 14--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--143
+Underfull \hbox (badness 10000) in paragraph at lines 37--47
 
  []
 
 
-Overfull \hbox (31.53458pt too wide) in paragraph at lines 172--177
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--178
+Underfull \hbox (badness 10000) in paragraph at lines 48--70
 
  []
 
 
-Overfull \hbox (28.93562pt too wide) in paragraph at lines 182--188
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 179--201
+Underfull \hbox (badness 10000) in paragraph at lines 71--99
 
  []
 
 
-Overfull \hbox (10.73691pt too wide) in paragraph at lines 212--217
-[] 
- []
-
-
-Overfull \hbox (16.06981pt too wide) in paragraph at lines 236--241
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 202--248
+Underfull \hbox (badness 10000) in paragraph at lines 100--110
 
  []
 
 
-Overfull \hbox (44.95175pt too wide) in paragraph at lines 259--264
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--283
+Underfull \hbox (badness 10000) in paragraph at lines 111--163
 
  []
 
 
-Overfull \hbox (15.55466pt too wide) in paragraph at lines 336--341
-[] 
- []
-
-
-Overfull \hbox (15.55466pt too wide) in paragraph at lines 342--347
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 284--348
+Underfull \hbox (badness 10000) in paragraph at lines 167--177
 
  []
 
-[3
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--197
+
+ []
+
+) [3
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 349--377
+\openout2 = `"Hora Santa/7 - Vocacionales/No Temas.aux"'.
+
+ (./Hora Santa/7 - Vocacionales/No Temas.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--418
+Underfull \hbox (badness 10000) in paragraph at lines 20--66
 
  []
 
 
-Overfull \hbox (21.75974pt too wide) in paragraph at lines 422--428
-[] 
- []
-
-
-Overfull \hbox (21.75974pt too wide) in paragraph at lines 435--440
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 419--447
+Underfull \hbox (badness 10000) in paragraph at lines 67--95
 
  []
 
 
-Overfull \hbox (25.61415pt too wide) in paragraph at lines 451--457
-[] 
- []
-
-
-Overfull \hbox (7.63057pt too wide) in paragraph at lines 458--463
-[] 
- []
-
-
-Overfull \hbox (5.3931pt too wide) in paragraph at lines 464--469
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--512
+Underfull \hbox (badness 10000) in paragraph at lines 96--124
 
  []
 
 
-Overfull \hbox (38.93686pt too wide) in paragraph at lines 529--534
-[] 
- []
-
-
-Overfull \hbox (38.93686pt too wide) in paragraph at lines 535--540
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 513--553
+Underfull \hbox (badness 10000) in paragraph at lines 128--180
 
  []
 
-) [4] (./CantoralLatex.aux
+) [4
+
+
+
+]
+\openout2 = `"Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux"'.
+
+ (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--179
+
+ []
+
+) [5
+
+
+
+] (./CantoralLatex.aux
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
- (./Alabanzas/Popurrí Pentecostés.aux) (./Alabanzas/Popurrí Pentecostés2.aux))
+ (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux))
 Package rerunfilecheck Info: File `CantoralLatex.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22740 strings out of 476182
- 429284 string characters out of 5796582
- 1928793 words of memory out of 6000000
- 42657 multiletter control sequences out of 15000+600000
- 612803 words of font info for 55 fonts, out of 8000000 for 9000
+ 22935 strings out of 476041
+ 436967 string characters out of 5793164
+ 1909388 words of memory out of 6000000
+ 42970 multiletter control sequences out of 15000+600000
+ 642418 words of font info for 62 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 83i,9n,89p,517b,611s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/alegreya/algr_fbntfe.enc}</usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on CantoralLatex.pdf (4 pages, 167148 bytes).
+ 83i,9n,89p,517b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on CantoralLatex.pdf (5 pages, 173776 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

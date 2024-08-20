@@ -59,6 +59,6 @@ Con mis p[G]anes y mis p[D]eces
 Toma [Em]todo y re[A]pártelo Se[D]ñor  [A7]
 /coro/
 /coro/
-/outro/
+/outro_verse/
 [G]Todo cuanto ten[A]go tómal[D]o
 A[D]quí hay un mu[D^7]chacho

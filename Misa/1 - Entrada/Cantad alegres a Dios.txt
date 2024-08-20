@@ -1,4 +1,5 @@
 title : Cantad alegres a Dios
+composer : Jésed
 key : G
 liturgy : Ordinario
 {song}
