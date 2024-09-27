@@ -1,4 +1,4 @@
-title : Gloria Alegre
+title : Gloria Padre Pepe
 key : D
 liturgy : Ordinario
 {song}

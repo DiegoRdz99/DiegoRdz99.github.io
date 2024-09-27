@@ -214,7 +214,7 @@ class song:
     def to_latex(self):
         latex = '\n'.join([teil.to_latex() for teil in self.teile])
         try:
-            metadata = f'{self.meta["composer"]}\hfill{self.meta["capo"]}'
+            metadata = f'{self.meta["composer"]}\\hfill{self.meta["capo"]}'
         except:
             metadata = f'{self.meta["composer"]}'
         
@@ -250,10 +250,7 @@ create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Jeremías.txt')
 create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/No Temas.txt')
 create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.txt')
 
-create_latex('Semana Santa/Mi Dios está vivo.txt')
-create_latex('Originales/Popurrí Día de las Madres.txt')
-create_latex('Alabanzas/Popurrí Pentecostés.txt')
-create_latex('Alabanzas/Popurrí Pentecostés2.txt')
+create_latex('Misa/5 - Ofertorio/Como la Uva.txt')
 
 
 if __name__ == '__main__' and False:
