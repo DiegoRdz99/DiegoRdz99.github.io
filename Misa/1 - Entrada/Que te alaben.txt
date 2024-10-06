@@ -1,0 +1,26 @@
+title : Que te alaben
+composer : Jésed
+key : G
+{song}
+/verse/
+[G]  Que te alaben, Se[D]ñor todas tus crea[C]tu - ras,
+[G]  Desde el amane[D]cer, hasta [C]más allá
+[Am]  de la puesta del [D]sol.
+[G]  Si el ave te a[D]laba al levan[C]tarse el sol,
+[G]  yo también te a[D]labo, mi [C]Dios, mi luz
+[Am]  y mi a[D]mor.
+/Coro/
+{[G]Can[]ten,|¡Canten []creaturas de [D]Dios,|al Señor!
+me [C]uno hoy  [Am]  a su ora[D]ción.
+{A[G]láben|[]lo, |¡Ala - []por |[]su esplen|ben - [D]dor,|lo!
+También [C]soy creatura de [Am]esta orquesta
+que a[D]laba a [G]Dios.
+/verse/
+[G]  Cuando cae la [D]noche y brilla la [C]lu - na,
+[G]  te doy gracias, Se[D]ñor,
+por [C]la hermosu [Am]- ra de tu a[D]mor.
+[G]  Y al brillas las es[D]trellas te alabo con [C]e - llas,
+[G]  y en la paz del si[D]lencio,
+des[C]canso en Ti,  [Am]  mi Padre de a[D]mor.
+/coro/
+/coro/
