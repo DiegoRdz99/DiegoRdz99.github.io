@@ -1,0 +1,39 @@
+title : Himno San Teófimo
+key : G
+{song}
+/Coro/
+¡Salve, [G]salve, San Teófimo [D]mártir,
+que tu [C]vida ofren[D]daste por [G]Dios!
+[G7]  Segui[C]remos va[D]lientes tus [G]huellas,
+[Em]  del mar[C]tirio y las [D]almas en [G]pos.
+[G7]  Segui[C]remos va[D]lientes tus [G]huellas,
+[Em]  del mar[C]tirio y las [D]almas en [G]pos.
+/verse/
+Son tus [Am]restos, oh [E7]mártir a[Am]mado,
+que el vi[Am]cario de [E7]Cristo nos [Am]diera,
+el bla[C]zón, la glo[D]riosa ban[G]dera,
+[Em]  que sa[C]bemos guar[A7]dar con ho[D]nor.
+/coro/
+/verse/
+Nuestra [Am]casa ben[E7]dita esco[Am]giste,
+para [Am]darnos la [E7]luz y el con[Am]suelo
+y vi[C]vir en con[D]tinuo des[G]velo,
+[Em]  custo[C]diando el re[A7]dil del Se[D]ñor.
+/coro/
+/verse/
+Con tu [Am]sangre pre[E7]ciosa qui[Am]siste,
+fecun[Am]dar nuestro [E7]férvido a[Am]nhelo
+de lle[C]var muchas [D]almas al [G]cielo,
+[Em]  de mo[C]rir por la [A7]gloria de [D]Dios.
+/coro/
+/verse/
+El ful[Am]gor de tus [E7]grandes vir[Am]tudes,
+nuestra [Am]senda espi[E7]nosa ilu[Am]mina,
+y nos [C]muestra la [D]meta di[G]vina,
+[Em]  do' nos [C]llama la [A7]voz del Se[D]ñor.
+/coro/
+/verse/
+¡Sacer[Am]docio sub[E7]lime de [Am]Cristo!
+Hacia [Am]ti llega[E7]remos un [Am]día,
+pues San [C]Teófimo [D]mártir nos [G]guía,
+[Em]  con ter[C]nura de [A7]padre y pas[D]tor.

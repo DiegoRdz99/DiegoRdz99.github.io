@@ -21,10 +21,10 @@
 \geometry{
  letterpaper,
 %  includehead,
- left=15mm,
- right=15mm,
+ left=10mm,
+ right=10mm,
  top=5mm,
- bottom=10mm
+ bottom=15mm
  }
 
 
@@ -61,7 +61,7 @@
 \newcommand{\tit}[2]{\vspace{5pt}\noindent\begin{tcolorbox}[leftrule=3mm,top=0.5mm,bottom=0.5mm,left=1mm,colback=#2!20,colframe=#2!75!black]{\large\textbf{#1}}\end{tcolorbox}}
 \newcommand{\chorus}[1]{\vspace{5pt}\noindent\begin{tcolorbox}[leftrule=3mm,rightrule=3mm,top=2mm,bottom=2mm,left=1mm,colback=chorus!20,colframe=chorus!75!black]{\large\textbf{Coro#1}}\end{tcolorbox}}
 
-\title{\Huge\textbf{Vocacionales}}
+\title{\Huge\textbf{Cantoral Chingón}}
 
 % \rhead[XD\\]{Hora Santa - Adoración\\}
 % \lhead{Hora Santa}
@@ -72,24 +72,58 @@
 
 \maketitle
 
+\titlespacing*{\chapter}{0pt}{0pt}{10pt}
+\let\clearpage\relax
 
-% \include{María/Contigo María.tex}
+\chapter{Misa}
 
-% \include{María/Un Mundo Hizo Dios.tex}
+\section{Ofertorio}
+
+\include{Misa/5 - Ofertorio/Como la Uva.tex}
+
+\newpage
+\chapter{María}
+
+\include{María/Contigo María.tex}
+
+\newpage
+\include{María/Un Mundo Hizo Dios.tex}
+\hrule
+\include{María/Oh Reina.tex}
+
+
+\chapter{Vocacionales}
 
 \include{Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex}
 
-% \include{Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex}
+\newpage
+\include{Hora Santa/7 - Vocacionales/Jeremías}
 
-% \include{Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex}
+\newpage
+\include{Hora Santa/7 - Vocacionales/No Temas}
 
-% \include{Semana Santa/Mi Dios está vivo.tex}
+\newpage
+\include{Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí}
 
-% \include{Alabanzas/Popurrí Pentecostés.tex}
+\newpage
+\chapter{Hora Santa}
 
-% \include{Alabanzas/Popurrí Pentecostés2.tex}
+\section{Eucarísticos}
 
-% \include{Misa/5 - Ofertorio/Como la Uva.tex}
+\include{Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex}
+\hrule
+\include{Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex}
+
+\chapter{Alabanzas}
+
+\include{Alabanzas/Popurrí Pentecostés.tex}
+
+\include{Alabanzas/Popurrí Pentecostés2.tex}
+
+\newpage
+\chapter{Semana Santa}
+
+\include{Semana Santa/Mi Dios está vivo.tex}
 
 
 

@@ -233,9 +233,45 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regu
 INPUT ./CantoralLatex.aux
 INPUT ./CantoralLatex.aux
 INPUT CantoralLatex.aux
+INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
+INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
+INPUT Misa/5 - Ofertorio/Como la Uva.aux
+INPUT ./María/Contigo María.aux
+INPUT ./María/Contigo María.aux
+INPUT María/Contigo María.aux
+INPUT ./María/Un Mundo Hizo Dios.aux
+INPUT ./María/Un Mundo Hizo Dios.aux
+INPUT María/Un Mundo Hizo Dios.aux
+INPUT ./María/Oh Reina.aux
+INPUT ./María/Oh Reina.aux
+INPUT María/Oh Reina.aux
 INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
 INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
 INPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
+INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
+INPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
+INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
+INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
+INPUT Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
+INPUT ./Alabanzas/Popurrí Pentecostés.aux
+INPUT ./Alabanzas/Popurrí Pentecostés.aux
+INPUT Alabanzas/Popurrí Pentecostés.aux
+INPUT ./Alabanzas/Popurrí Pentecostés2.aux
+INPUT ./Alabanzas/Popurrí Pentecostés2.aux
+INPUT Alabanzas/Popurrí Pentecostés2.aux
+INPUT ./Semana Santa/Mi Dios está vivo.aux
+INPUT ./Semana Santa/Mi Dios está vivo.aux
+INPUT Semana Santa/Mi Dios está vivo.aux
 OUTPUT CantoralLatex.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -249,10 +285,10 @@ INPUT ./CantoralLatex.out
 INPUT ./CantoralLatex.out
 INPUT CantoralLatex.out
 INPUT CantoralLatex.out
+OUTPUT CantoralLatex.pdf
 INPUT ./CantoralLatex.out
 INPUT ./CantoralLatex.out
 OUTPUT CantoralLatex.out
-OUTPUT CantoralLatex.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
@@ -270,37 +306,141 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/alegreya/algr_fbntfe.enc
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
+INPUT ./Misa/5 - Ofertorio/Como la Uva.tex
+OUTPUT Misa/5 - Ofertorio/Como la Uva.aux
+INPUT ./Misa/5 - Ofertorio/Como la Uva.tex
+INPUT ./Misa/5 - Ofertorio/Como la Uva.tex
+INPUT Misa/5 - Ofertorio/Como la Uva.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Regular-lf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1--base.tfm
+INPUT ./María/Contigo María.tex
+OUTPUT María/Contigo María.aux
+INPUT ./María/Contigo María.tex
+INPUT ./María/Contigo María.tex
+INPUT María/Contigo María.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-ts1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-ts1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-ts1--base.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc
+INPUT ./María/Un Mundo Hizo Dios.tex
+OUTPUT María/Un Mundo Hizo Dios.aux
+INPUT ./María/Un Mundo Hizo Dios.tex
+INPUT ./María/Un Mundo Hizo Dios.tex
+INPUT María/Un Mundo Hizo Dios.tex
+INPUT ./María/Oh Reina.tex
+OUTPUT María/Oh Reina.aux
+INPUT ./María/Oh Reina.tex
+INPUT ./María/Oh Reina.tex
+INPUT María/Oh Reina.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1.tfm
 INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
 OUTPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
 INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
 INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
 INPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-ts1.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-ts1.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Regular-lf-t1.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1--base.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Regular-lf-ts1.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-ts1--base.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-ts1.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-ts1--base.tfm
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.tex
+OUTPUT Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT Hora Santa/7 - Vocacionales/Jeremías.tex
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.tex
+OUTPUT Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT Hora Santa/7 - Vocacionales/No Temas.tex
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+OUTPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
+INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
+OUTPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
+INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
+INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
+INPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
+INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex
+OUTPUT Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
+INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex
+INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex
+INPUT Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex
+INPUT ./Alabanzas/Popurrí Pentecostés.tex
+OUTPUT Alabanzas/Popurrí Pentecostés.aux
+INPUT ./Alabanzas/Popurrí Pentecostés.tex
+INPUT ./Alabanzas/Popurrí Pentecostés.tex
+INPUT Alabanzas/Popurrí Pentecostés.tex
+INPUT ./Alabanzas/Popurrí Pentecostés2.tex
+OUTPUT Alabanzas/Popurrí Pentecostés2.aux
+INPUT ./Alabanzas/Popurrí Pentecostés2.tex
+INPUT ./Alabanzas/Popurrí Pentecostés2.tex
+INPUT Alabanzas/Popurrí Pentecostés2.tex
+INPUT ./Semana Santa/Mi Dios está vivo.tex
+OUTPUT Semana Santa/Mi Dios está vivo.aux
+INPUT ./Semana Santa/Mi Dios está vivo.tex
+INPUT ./Semana Santa/Mi Dios está vivo.tex
+INPUT Semana Santa/Mi Dios está vivo.tex
 INPUT CantoralLatex.aux
+INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
+INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
+INPUT Misa/5 - Ofertorio/Como la Uva.aux
+INPUT ./María/Contigo María.aux
+INPUT ./María/Contigo María.aux
+INPUT María/Contigo María.aux
+INPUT ./María/Un Mundo Hizo Dios.aux
+INPUT ./María/Un Mundo Hizo Dios.aux
+INPUT María/Un Mundo Hizo Dios.aux
+INPUT ./María/Oh Reina.aux
+INPUT ./María/Oh Reina.aux
+INPUT María/Oh Reina.aux
 INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
 INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
 INPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT ./Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT Hora Santa/7 - Vocacionales/Jeremías.aux
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT ./Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT Hora Santa/7 - Vocacionales/No Temas.aux
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT ./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
+INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
+INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
+INPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
+INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
+INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
+INPUT Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
+INPUT ./Alabanzas/Popurrí Pentecostés.aux
+INPUT ./Alabanzas/Popurrí Pentecostés.aux
+INPUT Alabanzas/Popurrí Pentecostés.aux
+INPUT ./Alabanzas/Popurrí Pentecostés2.aux
+INPUT ./Alabanzas/Popurrí Pentecostés2.aux
+INPUT Alabanzas/Popurrí Pentecostés2.aux
+INPUT ./Semana Santa/Mi Dios está vivo.aux
+INPUT ./Semana Santa/Mi Dios está vivo.aux
+INPUT Semana Santa/Mi Dios está vivo.aux
 INPUT ./CantoralLatex.out
 INPUT ./CantoralLatex.out
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb

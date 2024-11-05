@@ -239,40 +239,42 @@ path = pathlib.Path(__file__).parent.resolve()  # Automated path retriever
 dirs = sorted(os.listdir(path))
 print(f'curent path: {path}')
 
-create_latex('María/Contigo María.txt')
-create_latex('María/Un Mundo Hizo Dios.txt')
-create_latex('Hora Santa/5 - Eucarísticos/Jesús está vivo.txt')
-create_latex('Hora Santa/5 - Eucarísticos/Vida en Abundancia.txt')
-create_latex('Hora Santa/5 - Eucarísticos/Que bien se está aquí II.txt')
-# Vocacionales
-create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Aquí hay un muchacho.txt')
-create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Jeremías.txt')
-create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/No Temas.txt')
-create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.txt')
+# create_latex('María/Contigo María.txt')
+# create_latex('María/Un Mundo Hizo Dios.txt')
+# create_latex('Hora Santa/5 - Eucarísticos/Jesús está vivo.txt')
+# create_latex('Hora Santa/5 - Eucarísticos/Vida en Abundancia.txt')
+# create_latex('Hora Santa/5 - Eucarísticos/Que bien se está aquí II.txt')
+# # Vocacionales
+# create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Aquí hay un muchacho.txt')
+# create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Jeremías.txt')
+# create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/No Temas.txt')
+# create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.txt')
 
-create_latex('Misa/5 - Ofertorio/Como la Uva.txt')
+# create_latex('Misa/5 - Ofertorio/Como la Uva.txt')
 
 
-if __name__ == '__main__' and False:
+if __name__ == '__main__':
     import os
     import pathlib
-    path = pathlib.Path(__file__).parent.resolve()  # Automated path retriever
+    # path = pathlib.Path(__file__).parent.resolve()  # Automated path retriever
+    path = '/Users/diegordz/Documents/DiegoRdz99.github.io/CantoralLatex'
     dirs = sorted(os.listdir(path))
     print(f'curent path: {path}')
 
-    def rech_backsteps(path, sub_path, is_file=False):
-        if str(path) == str(sub_path):
-            return ''
-        else:
-            backsteps = len(str(sub_path).split('/'))-len(str(path).split('/'))
-            if is_file:
-                backsteps -= 1
-            pre = ''
-            for i in range(backsteps):
-                pre += '../'
-            return pre
+    # def rech_backsteps(path, sub_path, is_file=False):
+    #     if str(path) == str(sub_path):
+    #         return ''
+    #     else:
+    #         backsteps = len(str(sub_path).split('/'))-len(str(path).split('/'))
+    #         if is_file:
+    #             backsteps -= 1
+    #         pre = ''
+    #         for i in range(backsteps):
+    #             pre += '../'
+    #         return pre
+
     folders = [str(path)+'/'+i for i in dirs if i.find('.') == -1]
-    abc_songs = []
+    # abc_songs = []
     for folder in folders:
         dirs = sorted(os.listdir(folder))
         songs = [i for i in dirs if i[-4:] == '.txt']
@@ -280,19 +282,14 @@ if __name__ == '__main__' and False:
         sub_folders = [i for i in dirs if i.find('.') == -1]
         if sub_folders == []:
             for s in songs:
-                create_html(folder+'/'+s)
-                abc_songs += [(s, folder.split('/')[-1]+'/')]
-            create_index(folder)
+                create_latex(folder+'/'+s)
+                # abc_songs += [(s, folder.split('/')[-1]+'/')]
+            # create_index(folder)
         else:
             for sub_folder in sub_folders:
                 dirs = sorted(os.listdir(folder+'/'+sub_folder))
                 songs = [i for i in dirs if i[-4:] == '.txt']
                 for s in songs:
-                    if sub_folder == '8 - Comunión':
-                        comunion = True
-                    else:
-                        comunion = False
-                    create_html(folder+'/'+sub_folder+'/'+s, comunion=comunion)
-                    abc_songs += [(s, folder.split('/')
-                                   [-1]+'/'+sub_folder+'/')]
-                create_index(folder)
+                    create_latex(folder+'/'+sub_folder+'/'+s)
+                    # abc_songs += [(s, folder.split('/')[-1]+'/'+sub_folder+'/')]
+                # create_index(folder)
