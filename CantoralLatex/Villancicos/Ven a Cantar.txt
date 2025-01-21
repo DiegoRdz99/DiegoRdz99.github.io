@@ -1,0 +1,19 @@
+title : Ven a Cantar
+{song}
+/verse/
+[A]  Otro año que [D]queda atrás, [A]  mil momentos por [E]recordar.
+[A]  Otro año, mil [D]sueños más [A]hechos [E]reali[A]dad.
+[A]  Los problemas vie[D]nen y van, [A]  y al final todo [E]sigue igual.
+[A]  No hay montaña que [E]pueda más [A]que la [E]volun[A]tad.
+/prechorus/
+[C#7]  Alzo mi [F#m]copa aquí, [E]  para brin[A]dar por ti,
+[C#7]  y dese[F#m]arte lo me[E]jor.   [E7]
+/Coro/
+[A]  Navidad, feliz [D]navidad, [A]  vuelve a casa, vuel[E]ve al hogar.
+[A]  Navidad, feliz [D]navidad,  [A]el ca[E]lor de ho[A]gar.
+[A]  Ven a cantar, ven a can[D]tar, que ya lle[E]gó la navi[A]dad.
+[A]  Ven a cantar, ven a can[D]tar, que ya está a[E]quí la navi[A]dad.
+/verse/
+[A]  Gira el mundo, gira el re[D]loj, [A]  gira el viento, la [E]mar y el sol.
+[A]  Dale vuelta a tu [D]corazón, y [A]lléna[E]lo de a[A]mor.
+/coro/

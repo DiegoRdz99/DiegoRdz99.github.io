@@ -12,16 +12,17 @@
 
 X:1
 T:Piedad I
+T:Misa - Piedad
 C:
-M:3/4
-L:1/4
-Q:1/2=90
+M:6/8
+L:1/8
+Q:1/4=90
 K:Em
 %
 %
-    D | "Em"E3 | z F G | "D"A3 | z E F | "C"G3 | "B7"F3 | "Em"E3 | z2 !fine!:|
+    z2D | "Em"E3 zFG | "D"A3 zEF | "C"G3 "B7"F3 | "Em"E3 !fine!:|
 w: Se-ñor, ten pie-dad de no-so-o-tros
-    "Am"c c2 | z B A | "G"B3 | z A G |
+    "Am"cc2 zBA | "G"B3 zAG |
 w: Cris-to, ten pie-dad de no-
-    |1 "B7"A3 | G2 A | "Em"B3 |"E7"z3 :|2 A3 | G2 F | E3 | z2 !D.C.alfine!|]
+    |1 "B7"A3 G2 A | "Em"B3 "E7"z3 :|2 A3 G2F | E3 !D.C.alfine!|]
 w: so-o-o-tros so-o-o-tros

@@ -1,0 +1,46 @@
+title : La Negra Tomasa
+composer : Caifanes
+{song}
+/intro/
+[Dm]
+/verse/
+Es[Dm]toy tan enamorado de la negra To[A]masa,
+que cuando se va de la casa, triste me [Dm]pongo.
+Es[Dm]toy tan enamorado de la negra To[A]masa,
+que cuando se va de la casa, triste me [Dm]pongo.
+/intermedio/
+[Dm]
+/verse/
+Es[Dm]toy tan enamorado de mi negra pre[A]ciosa,
+que cuando se va de la casa, triste me [Dm]pongo.
+Es[Dm]toy tan enamorado de mi negra pre[A]ciosa,
+que cuando se va de la casa, triste me [Dm]pongo.
+/prechorus/
+[C]¡Ay, [Bb]ay, [A]ay!
+/Coro/
+Esa negra l[A]inda que me tiene l[Dm]oco,
+que me c[A]ome poquito a [Dm]poco.
+Esa negra l[A]inda que me tiene l[Dm]oco,
+que me c[A]ome poquito a [Dm]poco.
+/intermedio/
+[Dm]
+/verse/
+Es[Dm]toy tan enamorado de la negra To[A]masa,
+que cuando se va de la casa, triste me [Dm]pongo.
+Es[Dm]toy tan enamorado de mi negra pre[A]ciosa,
+que cuando se va de la casa, triste me [Dm]pongo.
+/intermedio-(Solo)/
+[Dm]    [A]    [Dm]     [A]     [Dm]
+/prechorus/
+[C]¡Ay, [Bb]ay, [A]ay!
+/coro/
+/bridge/
+La-ra-la, la-[A]ra-la, la-ra, la-[Dm]ra-la.
+Mi negra [A]linda nunca me [Dm]dejes.
+La-ra-la, la-[A]ra-la, la-ra, la-[Dm]ra-la.
+Mi negra [A]linda nunca me [Dm]dejes.
+/outro/
+[F#m]    [C#_F]    [Em]    [B_D#]    [Dm]    [A_C#]    [C]   [B]
+[F#m]    [C#_F]    [Em]    [B_D#]    [Dm]    [A_C#]    [C]   [B]
+[F#m]    [C#_F]    [Em]    [B_D#]    [Dm]    [A_C#]    [C]   [B]
+[F#m]    [C#_F]    [Em]    [B_D#]    [Dm]    [A_C#]    [C]   [B]

@@ -1,0 +1,28 @@
+title : Háblame amado Señor
+key : G
+{song}
+/verse/
+[G]  Háblame amado Señor
+[Am]  Cuéntame tus deseos hoy
+[Bm]  Ábreme mis oídos
+[C]  Está dispuesto mi corazón
+[G]  Háblame amado Señor
+[Am]  Cuéntame tus deseos hoy
+[Bm]  Ábreme mis oídos
+[C]  Está dispuesto mi corazón
+/prechorus/
+Eres mi [Am]paz, mi gozo y mi consuelo
+Eres mi [C]fuerza, amor y mi anhelo
+Eres quien [G]me anima y me da vida
+Eres mi ins[G]piración el agua viva
+Eres mi [Am]paz, mi gozo y mi consuelo
+Eres mi [C]fuerza, amor y mi anhelo
+Eres quien [G]me anima y me da vida
+Eres mi ins[G]piración el agua viva
+/Coro/
+Ve - [G]en, Espíritu ve - [Am]en
+[Am_2] Eres en [C]todo mome - [Am]ento
+Una ca[C]ricia di[D]vina
+Ve - [G]en, Espíritu ve - [Am]en
+[Am_2] Eres en [C]todo mome - [Am]ento
+Una ca[C]ricia di[D]vina

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.25)  7 OCT 2024 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.25)  16 JAN 2025 18:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -568,7 +568,7 @@ LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
  (./CantoralLatex.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
- (./Misa/5 - Ofertorio/Como la Uva.aux) (./María/Contigo María.aux) (./María/Un Mundo Hizo Dios.aux) (./María/Oh Reina.aux) (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux) (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux) (./Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux) (./Alabanzas/Popurrí Pentecostés.aux) (./Alabanzas/Popurrí Pentecostés2.aux) (./Semana Santa/Mi Dios está vivo.aux))
+ (./Misa/5 - Ofertorio/Como la Uva.aux) (./María/Contigo María.aux) (./María/Un Mundo Hizo Dios.aux) (./María/Oh Reina.aux) (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux) (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux) (./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux) (./Semana Santa/Mi Dios está vivo.aux))
 \openout1 = `CantoralLatex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -653,27 +653,27 @@ LaTeX Info: Redefining \% on input line 51.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <17.28> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 74.
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 74.
+(Font)              scaled to size 17.28pt on input line 75.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <24.88> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 74.
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 74.
+(Font)              scaled to size 24.88pt on input line 75.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <24.88> not available
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 74.
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 24.88pt on input line 74.
+(Font)              scaled to size 24.88pt on input line 75.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <12> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 74.
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 74.
+(Font)              scaled to size 12.0pt on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 74.
+(Font)              <12> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 74.
+(Font)              <8> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 74.
+(Font)              <6> on input line 75.
 
 LaTeX Warning: No \author given.
 
@@ -683,25 +683,25 @@ LaTeX Warning: No \author given.
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/alegreya/algr_fbntfe.enc}]
 Cap\'{\i }tulo 1.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <10.95> not available
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 78.
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 78.
+(Font)              scaled to size 10.95pt on input line 79.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <20.74> not available
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 78.
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 20.74pt on input line 78.
+(Font)              scaled to size 20.74pt on input line 79.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <20.74> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 78.
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 78.
+(Font)              scaled to size 20.74pt on input line 79.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 80.
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 81.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 80.
+(Font)              scaled to size 14.4pt on input line 81.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <14.4> not available
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 80.
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 81.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 80.
+(Font)              scaled to size 14.4pt on input line 81.
 \openout2 = `"Misa/5 - Ofertorio/Como la Uva.aux"'.
 
 (./Misa/5 - Ofertorio/Como la Uva.tex
@@ -735,7 +735,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--136
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.84 \newpage
+l.85 \newpage
               [1]
 Cap\'{\i }tulo 2.
 \openout2 = `"María/Contigo María.aux"'.
@@ -1010,230 +1010,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--54
  []
 
 )
-\openout2 = `"Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux"'.
+\openout2 = `"Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux"'.
 
- (./Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--48
+ (./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--77
+Underfull \hbox (badness 10000) in paragraph at lines 56--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--100
+Underfull \hbox (badness 10000) in paragraph at lines 109--149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--123
+Overfull \vbox (63.11821pt too high) has occurred while \output is active []
 
- []
-
-)
-Cap\'{\i }tulo 5.
-\openout2 = `"Alabanzas/Popurrí Pentecostés.aux"'.
-
-(./Alabanzas/Popurrí Pentecostés.tex [8]
-Underfull \hbox (badness 10000) in paragraph at lines 3--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--77
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--152
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 153--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--234
-
- []
-
-
-Overfull \hbox (19.1513pt too wide) in paragraph at lines 245--250
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 235--257
-
- []
-
-
-Overfull \hbox (3.10599pt too wide) in paragraph at lines 268--273
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--286
-
- []
-
-[9])
-\openout2 = `"Alabanzas/Popurrí Pentecostés2.aux"'.
-
- (./Alabanzas/Popurrí Pentecostés2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--142
-
- []
-
-
-Overfull \hbox (17.3082pt too wide) in paragraph at lines 171--176
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--177
-
- []
-
-[10]
-Overfull \hbox (14.70924pt too wide) in paragraph at lines 181--187
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--200
-
- []
-
-
-Overfull \hbox (1.84343pt too wide) in paragraph at lines 235--240
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 201--247
-
- []
-
-
-Overfull \hbox (30.72537pt too wide) in paragraph at lines 258--263
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--282
-
- []
-
-
-Overfull \hbox (1.32828pt too wide) in paragraph at lines 335--340
-[] 
- []
-
-
-Overfull \hbox (1.32828pt too wide) in paragraph at lines 341--346
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--347
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--376
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--417
-
- []
-
-[11]
-Overfull \hbox (7.53336pt too wide) in paragraph at lines 421--427
-[] 
- []
-
-
-Overfull \hbox (7.53336pt too wide) in paragraph at lines 434--439
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--446
-
- []
-
-
-Overfull \hbox (11.38777pt too wide) in paragraph at lines 450--456
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 447--511
-
- []
-
-
-Overfull \hbox (24.71048pt too wide) in paragraph at lines 528--533
-[] 
- []
-
-
-Overfull \hbox (24.71048pt too wide) in paragraph at lines 534--539
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 512--552
-
- []
-
-) [12]
-Cap\'{\i }tulo 6.
+ [8])
 \openout2 = `"Semana Santa/Mi Dios está vivo.aux"'.
 
-(./Semana Santa/Mi Dios está vivo.tex
+ (./Semana Santa/Mi Dios está vivo.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--37
 
  []
@@ -1248,30 +1048,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--143
 
  []
 
-) (./CantoralLatex.aux
+LaTeX Info: Redefining \. on input line 147.
+LaTeX Info: Redefining \% on input line 147.
+[9]) (./CantoralLatex.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
- (./Misa/5 - Ofertorio/Como la Uva.aux) (./María/Contigo María.aux) (./María/Un Mundo Hizo Dios.aux) (./María/Oh Reina.aux) (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux) (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux) (./Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux) (./Alabanzas/Popurrí Pentecostés.aux) (./Alabanzas/Popurrí Pentecostés2.aux) (./Semana Santa/Mi Dios está vivo.aux))
+ (./Misa/5 - Ofertorio/Como la Uva.aux) (./María/Contigo María.aux) (./María/Un Mundo Hizo Dios.aux) (./María/Oh Reina.aux) (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux) (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux) (./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux) (./Semana Santa/Mi Dios está vivo.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `CantoralLatex.out' has not changed.
-(rerunfilecheck)             Checksum: 9FCB12FEEA9D80EF5DE52549F49C0E4F;637.
+(rerunfilecheck)             Checksum: 533D02522CEF968A4AF7338631AB4287;549.
  ) 
 Here is how much of TeX's memory you used:
- 23165 strings out of 474116
- 445898 string characters out of 5743682
+ 23085 strings out of 474116
+ 443279 string characters out of 5743682
  1986187 words of memory out of 5000000
- 45027 multiletter control sequences out of 15000+600000
- 731499 words of font info for 70 fonts, out of 8000000 for 9000
+ 44965 multiletter control sequences out of 15000+600000
+ 731953 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,9n,93p,508b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on CantoralLatex.pdf (13 pages, 202035 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on CantoralLatex.pdf (10 pages, 255010 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 69 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 128 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

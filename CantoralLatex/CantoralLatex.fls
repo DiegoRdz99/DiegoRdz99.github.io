@@ -260,15 +260,9 @@ INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
 INPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
-INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
-INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
-INPUT Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
-INPUT ./Alabanzas/Popurrí Pentecostés.aux
-INPUT ./Alabanzas/Popurrí Pentecostés.aux
-INPUT Alabanzas/Popurrí Pentecostés.aux
-INPUT ./Alabanzas/Popurrí Pentecostés2.aux
-INPUT ./Alabanzas/Popurrí Pentecostés2.aux
-INPUT Alabanzas/Popurrí Pentecostés2.aux
+INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
+INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
+INPUT Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
 INPUT ./Semana Santa/Mi Dios está vivo.aux
 INPUT ./Semana Santa/Mi Dios está vivo.aux
 INPUT Semana Santa/Mi Dios está vivo.aux
@@ -381,26 +375,18 @@ OUTPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
 INPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
-INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex
-OUTPUT Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
-INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex
-INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex
-INPUT Hora Santa/5 - Eucarísticos/Vida en Abundancia.tex
-INPUT ./Alabanzas/Popurrí Pentecostés.tex
-OUTPUT Alabanzas/Popurrí Pentecostés.aux
-INPUT ./Alabanzas/Popurrí Pentecostés.tex
-INPUT ./Alabanzas/Popurrí Pentecostés.tex
-INPUT Alabanzas/Popurrí Pentecostés.tex
-INPUT ./Alabanzas/Popurrí Pentecostés2.tex
-OUTPUT Alabanzas/Popurrí Pentecostés2.aux
-INPUT ./Alabanzas/Popurrí Pentecostés2.tex
-INPUT ./Alabanzas/Popurrí Pentecostés2.tex
-INPUT Alabanzas/Popurrí Pentecostés2.tex
+INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
+OUTPUT Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
+INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
+INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
+INPUT Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
 INPUT ./Semana Santa/Mi Dios está vivo.tex
 OUTPUT Semana Santa/Mi Dios está vivo.aux
 INPUT ./Semana Santa/Mi Dios está vivo.tex
 INPUT ./Semana Santa/Mi Dios está vivo.tex
 INPUT Semana Santa/Mi Dios está vivo.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Italic-lf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1--base.tfm
 INPUT CantoralLatex.aux
 INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
 INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
@@ -429,21 +415,16 @@ INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
 INPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
-INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
-INPUT ./Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
-INPUT Hora Santa/5 - Eucarísticos/Vida en Abundancia.aux
-INPUT ./Alabanzas/Popurrí Pentecostés.aux
-INPUT ./Alabanzas/Popurrí Pentecostés.aux
-INPUT Alabanzas/Popurrí Pentecostés.aux
-INPUT ./Alabanzas/Popurrí Pentecostés2.aux
-INPUT ./Alabanzas/Popurrí Pentecostés2.aux
-INPUT Alabanzas/Popurrí Pentecostés2.aux
+INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
+INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
+INPUT Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
 INPUT ./Semana Santa/Mi Dios está vivo.aux
 INPUT ./Semana Santa/Mi Dios está vivo.aux
 INPUT Semana Santa/Mi Dios está vivo.aux
 INPUT ./CantoralLatex.out
 INPUT ./CantoralLatex.out
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb

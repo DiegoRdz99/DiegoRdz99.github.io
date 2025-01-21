@@ -1,0 +1,25 @@
+title : El Ascensor
+composer : Los Reyes Locos
+{song}
+/intro/
+[Bb]    [Eb]    [Bb]    [Eb]    [Bb]    [Eb]    [Bb]    [Eb]
+[Bb]    [Eb]    [Bb]    [Eb]
+/verse-(x4)/
+Arriba [Bb]voy, (voy, voy) abajo es[Eb]toy. (toy, toy)
+/intermedio/
+[Bb]    [Eb]    [Bb]    [Eb]
+[Bb]    [Eb]    [Bb]    [Eb]
+/intro/
+[Bb]    [Eb]    [Bb]    [Eb]    [Bb]    [Eb]    [Bb]    [Eb]
+[Bb]    [Eb]    [Bb]    [Eb]
+/verse-(x4)/
+Arriba [Bb]voy, (voy, voy) abajo es[Eb]toy. (toy, toy)
+/intermedio/
+[Bb]    [Eb]    [Bb]    [Eb]
+[Bb]    [Eb]    [Bb]    [Eb]
+/verse-(x4)/
+Arriba [Bb]voy, (voy, voy) abajo es[Eb]toy. (toy, toy)
+/intermedio/
+[Bb]    [Eb]    [Bb]    [Eb]
+[Bb]    [Eb]    [Bb]    [Eb]
+[Bb]    [Eb]    [Bb]    [Eb]

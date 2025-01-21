@@ -23,7 +23,7 @@ class line:
 
     def set_c_line(self, chords):
         self._c_line = '&'.join(
-            [chord.replace('#', r'{\textsharp}').replace('b', r'{\flat}').replace('^',r'{\Major}').replace('_', r'{/}') for chord in chords])
+            [chord.replace('#', r'{\sh}').replace('b', r'{\fl}').replace('^',r'{\Major}').replace('_', r'{/}') for chord in chords])
 
     def set_line(self, lst):
         return '&'.join(lst)
@@ -62,7 +62,7 @@ class Chorus:
         self.raw = raw.replace(' ', r'\,')  # Spaces in html
         self.id = (' ' + part_id) if part_id != '' else ''
         self.color = 'chorus'
-        self.title = 'Coro'
+        self.title = f'Coro{self.id}'
         self.repeat_counter = 1
 
     def to_latex(self):
@@ -75,7 +75,8 @@ class Chorus:
 class chorus:
     def __init__(self, raw, part_id=''):
         self.repeat_counter = 1
-        self.title = 'Coro'
+        self.id = (' ' + part_id) if part_id != '' else ''
+        self.title = f'Coro{self.id}'
 
     def to_latex(self):
         repeat_marker = f'\\,(\\texttimes{self.repeat_counter})' if self.repeat_counter > 1 else ''
@@ -116,38 +117,42 @@ class general:
 class prechorus(verse):
     def __init__(self, raw, part_id=''):
         super().__init__(raw, part_id)
-        self.title = 'Pre-coro'
+        self.id = (' ' + part_id) if part_id != '' else ''
+        self.title = f'Pre-coro{self.id}'
         self.color = 'prechorus'
 
 
 class bridge(verse):
     def __init__(self, raw, part_id=''):
         super().__init__(raw, part_id)
-        self.title = 'Puente'
+        self.id = (' ' + part_id) if part_id != '' else ''
+        self.title = f'Puente{self.id}'
         self.color = 'bridge'
 
 
 class outro_verse(verse):
     def __init__(self, raw, part_id=''):
         super().__init__(raw, part_id)
-        self.title = 'Outro'
+        self.id = (' ' + part_id) if part_id != '' else ''
+        self.title = f'Outro{self.id}'
         self.color = 'outro'
 
 
 class intro_verse(verse):
     def __init__(self, raw, part_id=''):
         super().__init__(raw, part_id)
-        self.title = 'Intro'
+        self.id = (' ' + part_id) if part_id != '' else ''
+        self.title = f'Intro{self.id}'
         self.color = 'intro'
 
 
 class intermedio(verse):
     def __init__(self, raw, part_id=''):
         self.raw = raw.replace(' ', '\\quad')
-        self.title = 'Intermedio'
+        self.id = (' ' + part_id) if part_id != '' else ''
+        self.title = f'Intermedio{self.id}'
         self.klass = 'inst'
         self.instrumental = True
-        self.id = (' ' + part_id) if part_id != '' else ''
         self.color = 'intermedio'
         self.repeat_counter = 1
 
@@ -165,7 +170,8 @@ class intro(intermedio):
 class outro(intermedio):
     def __init__(self, raw, part_id=''):
         super().__init__(raw, part_id)
-        self.title = 'Outro'
+        self.id = (' ' + part_id) if part_id != '' else ''
+        self.title = f'Outro{self.id}'
         self.color = 'outro'
 
 
@@ -251,6 +257,10 @@ print(f'curent path: {path}')
 # create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.txt')
 
 # create_latex('Misa/5 - Ofertorio/Como la Uva.txt')
+# create_latex('CantoralLatex/Inmaculada/La Muralla Verde.txt')
+# create_latex('CantoralLatex/Villancicos/Arre Borriquito.txt')
+# create_latex('CantoralLatex/Villancicos/Burrito Sabanero.txt')
+# create_latex('CantoralLatex/Villancicos/Como en Belén.txt')
 
 
 if __name__ == '__main__':
