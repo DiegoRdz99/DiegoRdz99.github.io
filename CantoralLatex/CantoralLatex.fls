@@ -236,6 +236,9 @@ INPUT CantoralLatex.aux
 INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
 INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
 INPUT Misa/5 - Ofertorio/Como la Uva.aux
+INPUT ./Misa/5 - Ofertorio/Con el vino y con el pan.aux
+INPUT ./Misa/5 - Ofertorio/Con el vino y con el pan.aux
+INPUT Misa/5 - Ofertorio/Con el vino y con el pan.aux
 INPUT ./María/Contigo María.aux
 INPUT ./María/Contigo María.aux
 INPUT María/Contigo María.aux
@@ -321,6 +324,14 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Regular-lf-t1.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1--base.tfm
+INPUT ./Misa/5 - Ofertorio/Con el vino y con el pan.tex
+OUTPUT Misa/5 - Ofertorio/Con el vino y con el pan.aux
+INPUT ./Misa/5 - Ofertorio/Con el vino y con el pan.tex
+INPUT ./Misa/5 - Ofertorio/Con el vino y con el pan.tex
+INPUT Misa/5 - Ofertorio/Con el vino y con el pan.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Italic-lf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1--base.tfm
 INPUT ./María/Contigo María.tex
 OUTPUT María/Contigo María.aux
 INPUT ./María/Contigo María.tex
@@ -343,7 +354,6 @@ OUTPUT María/Oh Reina.aux
 INPUT ./María/Oh Reina.tex
 INPUT ./María/Oh Reina.tex
 INPUT María/Oh Reina.tex
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1.tfm
 INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
 OUTPUT Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux
 INPUT ./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
@@ -385,12 +395,13 @@ OUTPUT Semana Santa/Mi Dios está vivo.aux
 INPUT ./Semana Santa/Mi Dios está vivo.tex
 INPUT ./Semana Santa/Mi Dios está vivo.tex
 INPUT Semana Santa/Mi Dios está vivo.tex
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Italic-lf-t1.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1--base.tfm
 INPUT CantoralLatex.aux
 INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
 INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
 INPUT Misa/5 - Ofertorio/Como la Uva.aux
+INPUT ./Misa/5 - Ofertorio/Con el vino y con el pan.aux
+INPUT ./Misa/5 - Ofertorio/Con el vino y con el pan.aux
+INPUT Misa/5 - Ofertorio/Con el vino y con el pan.aux
 INPUT ./María/Contigo María.aux
 INPUT ./María/Contigo María.aux
 INPUT María/Contigo María.aux

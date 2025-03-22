@@ -1,0 +1,28 @@
+title : Con el vino y con el pan
+key : Bm
+liturgy : Ordinario
+{song}
+/intro/
+[Bm]    [Asus2]    [Bm]    [Asus2]
+/verse/
+[Bm]  Con nuestras [A]manos, ya can[Bm]sadas  [A]
+[G]  Y nuestros [A]pies, de tanto an[D]dar  [Am] [D7]
+[G]  Venimos [A]hoy a presen[D]tar-[F#m]nos Se[Bm]ñor
+[G]Ante [Em]  tu al[A]tar
+[Bm]  Es nuestra o[A]frenda, nuestro [Bm]canto  [A]
+[G]  Una oraci[A]ón univer[D]sal  [Am] [D7]
+[G]  Que te que[A]remos ofre[D]cer [F#m]hoy Se[Bm]ñor
+[G]Para que nos [E]puedas perdo[A]nar [A7]
+/Coro/
+Y a[D]sí con el vino y [A]con el pan
+nuestras [G]vidas [E]  puedas cambi[A]a-ar
+Y a[D]sí con el vino y [A]con el pan
+Cristos [G]nuevos seamos [E]para la hu[A]manidad [F#7#9]
+/intermedio/
+[Bm]     [Asus2]      [Bm]     [Asus2]
+/verse/
+[Bm]  Sabemos [A]que es largo el ca[Bm]mino  [A]
+[G]  Y que lo [A]tenemos que an[D]dar  [Am] [D7]
+[G]  Cristo llé[A]vanos de tu [D]ma-[F#m]no oh Se[Bm]ñor
+[G]Para que no [E]volvamos a[A]trás  [A7]
+/coro/

@@ -1,0 +1,37 @@
+title : Alianza
+composer : Hermana Glenda
+liturgy : Matrimonio
+key : A
+{song}
+/intro/
+[A]    [D]   [E]   [D]
+[A]    [D]   [E]   [D]
+/verse/
+En la po[A]breza o la ri[E]queza te amar[A]é,
+en la sa[A]lud o en la enfermed[D]ad yo te ama[E]ré.
+En la tris[F#m]teza o la ale[E]gría,
+en la tor[D]menta o en la [A]paz,
+ante [F#m]todo y sobre todo te ama[E]ré.
+/Coro/
+[D]Tú me amarás[A],   [E]yo te a - ma[F#m]ré,
+a[D]lianza e[Bm]terna entre [E]tú y yo.
+[D]Tú me amarás[A],   [E]yo te a - ma[F#m]ré,
+has[D]ta que la muerte nos [E]una más.
+/intermedio/
+[A]    [D]   [E]   [D]
+[A]    [D]   [E]   [D]
+/verse/
+En las [A]buenas o en las [E]malas te ama[A]ré,
+en el pe[A]cado o en la [D]gracia te ama[E]ré.
+En la [F#m]noche o en el [E]día,
+en la [D]fuerza o la debili[A]dad,
+ante [F#m]todo y sobre todo te ama[E]ré.
+/coro/
+/Coro-2/
+[D]Tú me amarás[A],   [E]yo te a - ma[F#m]ré,
+a[D]lianza e[Bm]terna entre [E]tú y yo.
+[D]Tú me amarás[A],   [E]yo te a - ma[F#m]ré,
+has[D]ta que la muerte nos [E]u - na [D]má - [E]s.
+/outro_verse/
+A - a - [A]a - a - a - [D]as.
+[Bm]Hasta que la muerte nos [E]u - na [A]más.
