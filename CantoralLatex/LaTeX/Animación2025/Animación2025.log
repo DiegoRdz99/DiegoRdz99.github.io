@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.25)  28 MAR 2025 08:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.25)  28 MAR 2025 08:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/diegordz/Documents/DiegoRdz99.github.io/CantoralLatex/CantoralLatex.tex
-(/Users/diegordz/Documents/DiegoRdz99.github.io/CantoralLatex/CantoralLatex.tex
+**/Users/diegordz/Documents/DiegoRdz99.github.io/CantoralLatex/LaTeX/Animación2025/Animación2025.tex
+(/Users/diegordz/Documents/DiegoRdz99.github.io/CantoralLatex/LaTeX/Animación2025/Animación2025.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/book.cls
@@ -565,11 +565,9 @@ LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <10.95> not availabl
 (Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 51.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
 (Font)              scaled to size 10.95pt on input line 51.
- (./CantoralLatex.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
- (./Misa/5 - Ofertorio/Como la Uva.aux) (./Misa/5 - Ofertorio/Con el vino y con el pan.aux) (./María/Contigo María.aux) (./María/Un Mundo Hizo Dios.aux) (./María/Oh Reina.aux) (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux) (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux) (./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux) (./Semana Santa/Mi Dios está vivo.aux))
-\openout1 = `CantoralLatex.aux'.
+
+No file Animación2025.aux.
+\openout1 = `Animación2025.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
@@ -589,7 +587,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
- (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count313
 \scratchdimen=\dimen267
@@ -611,9 +609,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 \c@mv@tabular=\count319
 \c@mv@boldtabular=\count320
 Package hyperref Info: Link coloring OFF on input line 51.
- (./CantoralLatex.out) (./CantoralLatex.out)
 \@outlinefile=\write4
-\openout4 = `CantoralLatex.out'.
+\openout4 = `Animación2025.out'.
 
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
@@ -683,428 +680,46 @@ LaTeX Warning: No \author given.
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/alegreya/algr_fbntfe.enc}]
 Cap\'{\i }tulo 1.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <10.95> not available
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 79.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 79.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <20.74> not available
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 79.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 20.74pt on input line 79.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <20.74> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 79.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 79.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 81.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 81.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <14.4> not available
 (Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 81.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 81.
-\openout2 = `"Misa/5 - Ofertorio/Como la Uva.aux"'.
-
-(./Misa/5 - Ofertorio/Como la Uva.tex
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <12> not available
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 5.
+(Font)              scaled to size 10.95pt on input line 81.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <20.74> not available
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 81.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 8.
+(Font)              scaled to size 20.74pt on input line 81.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <20.74> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on input line 81.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 20.74pt on input line 81.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--125
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--136
-
- []
-
-)
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.85 \newpage
-              [1]
-\openout2 = `"Misa/5 - Ofertorio/Con el vino y con el pan.aux"'.
-
- (./Misa/5 - Ofertorio/Con el vino y con el pan.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--106
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--135
-
- []
-
-)
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/sl' in size <10.95> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/sl' tried instead on input line 88.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/sl' in size <10.95> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on input line 88.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 88.
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
- [2]
-Cap\'{\i }tulo 2.
-\openout2 = `"María/Contigo María.aux"'.
-
-(./María/Contigo María.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--77
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--106
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--123
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--152
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--172
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+Alegreya-LF on input line 174.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
-File: TS1Alegreya-LF.fd 2019/10/08 (autoinst) Font definitions for TS1/Alegreya-LF.
-)
-LaTeX Font Info:    Font shape `TS1/Alegreya-LF/b/n' in size <12> not available
-(Font)              Font shape `TS1/Alegreya-LF/bold/n' tried instead on input line 174.
-LaTeX Font Info:    Font shape `TS1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 174.
-) [3{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc}]
-\openout2 = `"María/Un Mundo Hizo Dios.aux"'.
-
- (./María/Un Mundo Hizo Dios.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--54
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--77
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--129
-
- []
-
-)
-\openout2 = `"María/Oh Reina.aux"'.
-
- (./María/Oh Reina.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--89
-
- []
-
-
-Overfull \vbox (1.98462pt too high) has occurred while \output is active []
-
- [4])
-Cap\'{\i }tulo 3.
-\openout2 = `"Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux"'.
-
-(./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--19
-
- []
-
-LaTeX Font Info:    Font shape `TS1/Alegreya-LF/m/n' in size <10.95> not available
-(Font)              Font shape `TS1/Alegreya-LF/regular/n' tried instead on input line 56.
-LaTeX Font Info:    Font shape `TS1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 56.
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--83
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--106
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--117
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--164
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--199
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--219
-
- []
-
-) [5]
-\openout2 = `"Hora Santa/7 - Vocacionales/Jeremías.aux"'.
-
- (./Hora Santa/7 - Vocacionales/Jeremías.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--70
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--197
-
- []
-
-) [6]
-\openout2 = `"Hora Santa/7 - Vocacionales/No Temas.aux"'.
-
- (./Hora Santa/7 - Vocacionales/No Temas.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--180
-
- []
-
-) [7]
-\openout2 = `"Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux"'.
-
- (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--89
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--118
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--179
-
- []
-
-) [8]
-Cap\'{\i }tulo 4.
-\openout2 = `"Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux"'.
-
-(./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--54
-
- []
-
-)
-\openout2 = `"Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux"'.
-
- (./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--149
-
- []
-
-
-Overfull \vbox (63.11821pt too high) has occurred while \output is active []
-
- [9])
-\openout2 = `"Semana Santa/Mi Dios está vivo.aux"'.
-
- (./Semana Santa/Mi Dios está vivo.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--37
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--102
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 103--143
-
- []
-
-LaTeX Info: Redefining \. on input line 147.
-LaTeX Info: Redefining \% on input line 147.
-[10]) (./CantoralLatex.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
- (./Misa/5 - Ofertorio/Como la Uva.aux) (./Misa/5 - Ofertorio/Con el vino y con el pan.aux) (./María/Contigo María.aux) (./María/Un Mundo Hizo Dios.aux) (./María/Oh Reina.aux) (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux) (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux) (./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux) (./Semana Santa/Mi Dios está vivo.aux))
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
- ***********
-Package rerunfilecheck Info: File `CantoralLatex.out' has not changed.
-(rerunfilecheck)             Checksum: 533D02522CEF968A4AF7338631AB4287;549.
- ) 
+l.83 ...../../Alabanzas/Popurrí Pentecostés.tex}
+                                                   [1
+
+]
+/Users/diegordz/Documents/DiegoRdz99.github.io/CantoralLatex/LaTeX/Animación2025/Animación2025.tex:83: I can't write on file `"../../Alabanzas/Popurrí Pentecostés.aux"'.
+\@include ...mmediate \openout \@partaux "#1.aux" 
+                                                  \immediate \write \@partau...
+l.83 ...../../Alabanzas/Popurrí Pentecostés.tex}
+                                                  
+(Press Enter to retry, or Control-D to exit; default file extension is `.tex')
+Please type another output file name
+/Users/diegordz/Documents/DiegoRdz99.github.io/CantoralLatex/LaTeX/Animación2025/Animación2025.tex:83: Emergency stop.
+\@include ...mmediate \openout \@partaux "#1.aux" 
+                                                  \immediate \write \@partau...
+l.83 ...../../Alabanzas/Popurrí Pentecostés.tex}
+                                                  
+*** (job aborted, file error in nonstop mode)
+
+ 
 Here is how much of TeX's memory you used:
- 23118 strings out of 474116
- 444823 string characters out of 5743682
- 1986187 words of memory out of 5000000
- 44989 multiletter control sequences out of 15000+600000
- 731953 words of font info for 71 fonts, out of 8000000 for 9000
+ 22556 strings out of 474116
+ 424223 string characters out of 5743682
+ 1927187 words of memory out of 5000000
+ 44561 multiletter control sequences out of 15000+600000
+ 672103 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,9n,93p,508b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on CantoralLatex.pdf (11 pages, 257605 bytes).
-PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 83i,6n,93p,530b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
+/Users/diegordz/Documents/DiegoRdz99.github.io/CantoralLatex/LaTeX/Animación2025/Animación2025.tex:83:  ==> Fatal error occurred, no output PDF file produced!

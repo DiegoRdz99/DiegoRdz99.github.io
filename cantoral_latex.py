@@ -257,7 +257,7 @@ print(f'curent path: {path}')
 # create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.txt')
 
 # create_latex('Misa/5 - Ofertorio/Como la Uva.txt')
-# create_latex('CantoralLatex/Inmaculada/La Muralla Verde.txt')
+create_latex('CantoralLatex/Alabanzas/Alabanzas2025.txt')
 # create_latex('CantoralLatex/Villancicos/Arre Borriquito.txt')
 # create_latex('CantoralLatex/Villancicos/Burrito Sabanero.txt')
 # create_latex('CantoralLatex/Villancicos/Como en Belén.txt')
