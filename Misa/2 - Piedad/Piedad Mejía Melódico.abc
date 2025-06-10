@@ -23,7 +23,7 @@ L:1/8
 Q:1/4=80
 K:G
 % voice grouping
-%%score (s a) (t b)
+%%score s a t b
 % voice properties
 V:a octave=-1
 V:t clef=bass octave=-1

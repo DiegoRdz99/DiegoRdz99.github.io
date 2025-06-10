@@ -765,7 +765,7 @@ L:1/8
 Q:1/4=120
 K:Bb
 % voice grouping
-%%score (s a) (t b)
+%%score s a t b
 % voice properties
 V:t clef=bass octave=-1
 V:b clef=bass octave=-1
@@ -806,6 +806,12 @@ w: te~a-la-ba-mos, Es-tre--lla ra-dian-te que~a-nun--cia el dí-a.
 w: te~a-la-ba-mos, An-tor-cha de la nue-va_ Je--ru-sa-lén._
 w: te~a-la-ba-mos, re-ú-ne~a tus o-ve-jas en un_ re--dil._
 w: te~a-la-ba-mos, oh Cris-to nues-tro Rey de hu-mil-de co-ra-zón._
+%
+[V:a] [M:2/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |
+%
+[V:t] [M:2/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |
+%
+[V:b] [M:2/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |
             </script>
             
 <br><br><br><br>
@@ -819,6 +825,7 @@ w: te~a-la-ba-mos, oh Cris-to nues-tro Rey de hu-mil-de co-ra-zón._
     <button type="button" class="btn btn-dark" onclick="startInverval()" id="play-but"><span class="icon">&#9654;</span></button>
     <button type="button" class="btn btn-dark" onclick="toggleDark()" id="dark-toggle"><span class="icon">&#9788;</span></button>
     <button type="button" class="btn btn-dark" onclick="ft_sp()" id="b_but"><span class="icon">&flat;</span></button>
+    <button type="button" class="btn btn-dark" onclick="toggle_solfege()" id="solfege-toggle"><span class="icon">G</span></button>
 </div>
 </div>
 <script src="../../js/abcweb-1.js"></script>

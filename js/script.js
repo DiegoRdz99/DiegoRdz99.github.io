@@ -2,9 +2,16 @@ var chds = { "C": 0, "C♯": 1, "D♭": 1, "D": 2, "D♯": 3, "E♭": 3, "E": 4,
 var chds_sp = { 0: "C", 1: "C♯", 2: "D", 3: "D♯", 4: "E", 5: "F", 6: "F♯", 7: "G", 8: "G♯", 9: "A", 10: "A♯", 11: "B" };
 var chds_ft = { 0: "C", 1: "D♭", 2: "D", 3: "E♭", 4: "E", 5: "F", 6: "G♭", 7: "G", 8: "A♭", 9: "A", 10: "B♭", 11: "B" };
 var btos = { "C♯": "D♭", "D♯": "E♭", "F♯": "G♭", "G♯": "A♭", "A♯": "B♭", "D♭": "C♯", "E♭": "D♯", "G♭": "F♯", "A♭": "G♯", "B♭": "A♯" };
+
+var btos_sf = { "Do♯": "Re♭", "Re♯": "Mi♭", "Fa♯": "Sol♭", "Sol♯": "La♭", "La♯": "Si♭", "Re♭": "Do♯", "Mi♭": "Re♯", "Sol♭": "Fa♯", "La♭": "Sol♯", "Si♭": "La♯", "Do": "Do", "Re": "Re", "Mi": "Mi", "Fa": "Fa", "Sol": "Sol", "La": "La", "Si": "Si" };
+
+var american2solfege = { "A": "La", "A♯": "La♯", "B": "Si", "C": "Do", "C♯": "Do♯", "D": "Re", "D♯": "Re♯", "E": "Mi", "F": "Fa", "F♯": "Fa♯", "G": "Sol", "G♯": "Sol♯" }
+
+var sf = false;
 var output = document.getElementById("count");
 var chords = document.getElementsByClassName("root");
 var dark_but = document.getElementById("dark-toggle");
+var solfege_but = document.getElementById("solfege-toggle");
 var play_but = document.getElementById("play-but");
 var capo_label = document.getElementById("tr-capo");
 var qualities = document.getElementsByClassName("quality");
@@ -50,8 +57,26 @@ mod = function (m, n) {
     return ((m % n) + n) % n;
 };
 
+function swap_american2solfege() {
+    if (sf) {
+        for (var i = 0; i < base.length; i++) {
+            chords[i].innerHTML = american2solfege[chords[i].innerHTML];
+        }
+    } else {
+        if (accidental) {
+            for (var i = 0; i < base.length; i++) {
+                chords[i].innerHTML = chds_ft[chds[base[i]]];
+            }
+        } else {
+            for (var i = 0; i < base.length; i++) {
+                chords[i].innerHTML = chds_sp[chds[base[i]]];
+            }
+        }
+    }
+}
+
 function transpose() {
-    /* Transpose chords */
+
     var output = document.getElementById("count");
     for (var i = 0; i < base.length; i++) {
         if (accidental) {
@@ -77,6 +102,10 @@ function transpose() {
     /* Change Transpose number */
     if (capo) { output.innerHTML = -trans; }
     else { output.innerHTML = sign(trans); }
+
+    if (sf) {
+        swap_american2solfege()
+    }
 }
 
 function tpup() {
@@ -97,7 +126,7 @@ function tr_capo() {
     capo = !capo;
     if (capo) {
         capo_label.innerHTML = "Cp";
-        output.innerHTML = mod(12-trans,12);
+        output.innerHTML = mod(12 - trans, 12);
     }
     else {
         capo_label.innerHTML = "Tp";
@@ -116,20 +145,41 @@ function ft_sp() {
         // b_but.classList = "b_false"
         b_but.innerHTML = '<span class="icon">&sharp;</span>';
     }
-    for (var i = 0; i < chords.length; i++) {
-        if (chords[i].innerHTML.length != 1) {
-            chords[i].innerHTML = btos[chords[i].innerHTML]
+
+    if (sf) {
+        for (var i = 0; i < chords.length; i++) {
+            chords[i].innerHTML = btos_sf[chords[i].innerHTML]
             chord_names[i].innerHTML = chords[i].innerHTML + qualities[i].innerHTML
         }
-    }
 
-    for (var i = 0; i < bass_elements.length; i++) {
-        if (bass_elements[i].innerHTML.length != 1) {
-            bass_elements[i].innerHTML = btos[bass_elements[i].innerHTML]
+        for (var i = 0; i < bass_elements.length; i++) {
+            bass_elements[i].innerHTML = btos_sf[bass_elements[i].innerHTML]
+        }
+    } else {
+        for (var i = 0; i < chords.length; i++) {
+            if (chords[i].innerHTML.length != 1) {
+                chords[i].innerHTML = btos[chords[i].innerHTML]
+                chord_names[i].innerHTML = chords[i].innerHTML + qualities[i].innerHTML
+            }
+        }
+
+        for (var i = 0; i < bass_elements.length; i++) {
+            if (bass_elements[i].innerHTML.length != 1) {
+                bass_elements[i].innerHTML = btos[bass_elements[i].innerHTML]
+            }
         }
     }
 }
 
+function toggle_solfege() {
+    sf = !sf;
+    swap_american2solfege();
+    if (sf) {
+        solfege_but.innerHTML = '<span class="icon">Sol</span>'
+    } else {
+        solfege_but.innerHTML = '<span class="icon">G</span>'
+    }
+}
 
 
 function autoScroll() {

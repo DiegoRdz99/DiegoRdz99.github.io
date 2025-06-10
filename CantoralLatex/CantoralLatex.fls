@@ -263,12 +263,15 @@ INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
 INPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
-INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
-INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
-INPUT Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
+INPUT ./María/Junto a Ti María.aux
+INPUT ./María/Junto a Ti María.aux
+INPUT María/Junto a Ti María.aux
 INPUT ./Semana Santa/Mi Dios está vivo.aux
 INPUT ./Semana Santa/Mi Dios está vivo.aux
 INPUT Semana Santa/Mi Dios está vivo.aux
+INPUT ./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.aux
+INPUT ./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.aux
+INPUT Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.aux
 OUTPUT CantoralLatex.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -309,6 +312,12 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regu
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
 INPUT ./Misa/5 - Ofertorio/Como la Uva.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Regular-lf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1--base.tfm
 OUTPUT Misa/5 - Ofertorio/Como la Uva.aux
 INPUT ./Misa/5 - Ofertorio/Como la Uva.tex
 INPUT ./Misa/5 - Ofertorio/Como la Uva.tex
@@ -316,22 +325,16 @@ INPUT Misa/5 - Ofertorio/Como la Uva.tex
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Italic-lf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1--base.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Bold-lf-t1.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Regular-lf-t1.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-lf-t1--base.tfm
 INPUT ./Misa/5 - Ofertorio/Con el vino y con el pan.tex
 OUTPUT Misa/5 - Ofertorio/Con el vino y con el pan.aux
 INPUT ./Misa/5 - Ofertorio/Con el vino y con el pan.tex
 INPUT ./Misa/5 - Ofertorio/Con el vino y con el pan.tex
 INPUT Misa/5 - Ofertorio/Con el vino y con el pan.tex
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Italic-lf-t1.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Italic-lf-t1--base.tfm
 INPUT ./María/Contigo María.tex
 OUTPUT María/Contigo María.aux
 INPUT ./María/Contigo María.tex
@@ -385,16 +388,23 @@ OUTPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
 INPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
-INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
-OUTPUT Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
-INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
-INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
-INPUT Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
+INPUT ./María/Junto a Ti María.tex
+INPUT ./María/Junto a Ti María.tex
+OUTPUT María/Junto a Ti María.aux
+INPUT ./María/Junto a Ti María.tex
+INPUT ./María/Junto a Ti María.tex
+INPUT María/Junto a Ti María.tex
 INPUT ./Semana Santa/Mi Dios está vivo.tex
 OUTPUT Semana Santa/Mi Dios está vivo.aux
 INPUT ./Semana Santa/Mi Dios está vivo.tex
 INPUT ./Semana Santa/Mi Dios está vivo.tex
 INPUT Semana Santa/Mi Dios está vivo.tex
+INPUT ./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.tex
+INPUT ./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.tex
+OUTPUT Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.aux
+INPUT ./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.tex
+INPUT ./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.tex
+INPUT Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.tex
 INPUT CantoralLatex.aux
 INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
 INPUT ./Misa/5 - Ofertorio/Como la Uva.aux
@@ -426,12 +436,15 @@ INPUT Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
 INPUT ./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
 INPUT Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux
-INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
-INPUT ./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
-INPUT Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux
+INPUT ./María/Junto a Ti María.aux
+INPUT ./María/Junto a Ti María.aux
+INPUT María/Junto a Ti María.aux
 INPUT ./Semana Santa/Mi Dios está vivo.aux
 INPUT ./Semana Santa/Mi Dios está vivo.aux
 INPUT Semana Santa/Mi Dios está vivo.aux
+INPUT ./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.aux
+INPUT ./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.aux
+INPUT Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.aux
 INPUT ./CantoralLatex.out
 INPUT ./CantoralLatex.out
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb

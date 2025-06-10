@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.25)  28 MAR 2025 08:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.25)  8 MAY 2025 18:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -568,7 +568,7 @@ LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
  (./CantoralLatex.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
- (./Misa/5 - Ofertorio/Como la Uva.aux) (./Misa/5 - Ofertorio/Con el vino y con el pan.aux) (./María/Contigo María.aux) (./María/Un Mundo Hizo Dios.aux) (./María/Oh Reina.aux) (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux) (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux) (./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux) (./Semana Santa/Mi Dios está vivo.aux))
+ (./Misa/5 - Ofertorio/Como la Uva.aux) (./Misa/5 - Ofertorio/Con el vino y con el pan.aux) (./María/Contigo María.aux) (./María/Un Mundo Hizo Dios.aux) (./María/Oh Reina.aux) (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux) (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux) (./María/Junto a Ti María.aux) (./Semana Santa/Mi Dios está vivo.aux) (./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.aux))
 \openout1 = `CantoralLatex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -702,9 +702,17 @@ LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <14.4> not available
 (Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 81.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
 (Font)              scaled to size 14.4pt on input line 81.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.83 \include{Misa/5 - Ofertorio/Como la Uva.tex}
+                                                  [1
+
+]
 \openout2 = `"Misa/5 - Ofertorio/Como la Uva.aux"'.
 
-(./Misa/5 - Ofertorio/Como la Uva.tex
+ (./Misa/5 - Ofertorio/Como la Uva.tex
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <12> not available
 (Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
@@ -732,11 +740,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--136
  []
 
 )
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.85 \newpage
-              [1]
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/sl' in size <10.95> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/sl' tried instead on input line 83.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/sl' in size <10.95> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on input line 83.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 83.
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+ [2
+
+]
 \openout2 = `"Misa/5 - Ofertorio/Con el vino y con el pan.aux"'.
 
  (./Misa/5 - Ofertorio/Con el vino y con el pan.tex
@@ -765,19 +779,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--135
  []
 
 )
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/sl' in size <10.95> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/sl' tried instead on input line 88.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/sl' in size <10.95> not available
-(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on input line 88.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 88.
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
- [2]
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
+ [3
+
+
+
+]
 Cap\'{\i }tulo 2.
+[4
+
+
+
+]
 \openout2 = `"María/Contigo María.aux"'.
 
-(./María/Contigo María.tex
+ (./María/Contigo María.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--19
 
  []
@@ -820,7 +837,9 @@ LaTeX Font Info:    Font shape `TS1/Alegreya-LF/b/n' in size <12> not available
 (Font)              Font shape `TS1/Alegreya-LF/bold/n' tried instead on input line 174.
 LaTeX Font Info:    Font shape `TS1/Alegreya-LF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 174.
-) [3{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc}]
+) [5
+
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc}]
 \openout2 = `"María/Un Mundo Hizo Dios.aux"'.
 
  (./María/Un Mundo Hizo Dios.tex
@@ -848,7 +867,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--129
 
  []
 
-)
+) [6
+
+
+
+] [7
+
+
+]
 \openout2 = `"María/Oh Reina.aux"'.
 
  (./María/Oh Reina.tex
@@ -866,14 +892,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--89
 
  []
 
+) [8
 
-Overfull \vbox (1.98462pt too high) has occurred while \output is active []
-
- [4])
+]
 Cap\'{\i }tulo 3.
+[9
+
+
+
+]
 \openout2 = `"Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux"'.
 
-(./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
+ (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--19
 
  []
@@ -917,7 +947,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--219
 
  []
 
-) [5]
+) [10
+
+]
 \openout2 = `"Hora Santa/7 - Vocacionales/Jeremías.aux"'.
 
  (./Hora Santa/7 - Vocacionales/Jeremías.tex
@@ -965,7 +997,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--197
 
  []
 
-) [6]
+) [11
+
+
+
+]
 \openout2 = `"Hora Santa/7 - Vocacionales/No Temas.aux"'.
 
  (./Hora Santa/7 - Vocacionales/No Temas.tex
@@ -993,7 +1029,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--180
 
  []
 
-) [7]
+) [12
+
+
+
+]
 \openout2 = `"Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux"'.
 
  (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.tex
@@ -1026,11 +1066,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--179
 
  []
 
-) [8]
+) [13
+
+
+
+]
 Cap\'{\i }tulo 4.
+[14
+
+
+
+]
 \openout2 = `"Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux"'.
 
-(./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
+ (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--25
 
  []
@@ -1041,27 +1090,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--54
  []
 
 )
-\openout2 = `"Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux"'.
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
+ [15
 
- (./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--55
+]
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+ [16
+
+
+]
+\openout2 = `"María/Junto a Ti María.aux"'.
+
+ (./María/Junto a Ti María.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--108
+Underfull \hbox (badness 10000) in paragraph at lines 14--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--149
+Underfull \hbox (badness 10000) in paragraph at lines 67--95
 
  []
 
 
-Overfull \vbox (63.11821pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 96--148
 
- [9])
+ []
+
+)
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+ [17
+
+]
 \openout2 = `"Semana Santa/Mi Dios está vivo.aux"'.
 
  (./Semana Santa/Mi Dios está vivo.tex
@@ -1079,12 +1146,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--143
 
  []
 
-LaTeX Info: Redefining \. on input line 147.
-LaTeX Info: Redefining \% on input line 147.
-[10]) (./CantoralLatex.aux
+)
+LaTeX Info: Redefining \. on input line 134.
+LaTeX Info: Redefining \% on input line 134.
+ [18
+
+
+
+]
+\openout2 = `"Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.aux"'.
+
+ (./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--124
+
+ []
+
+)
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
+ [19
+
+
+
+] (./CantoralLatex.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
- (./Misa/5 - Ofertorio/Como la Uva.aux) (./Misa/5 - Ofertorio/Con el vino y con el pan.aux) (./María/Contigo María.aux) (./María/Un Mundo Hizo Dios.aux) (./María/Oh Reina.aux) (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux) (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux) (./Hora Santa/3 - Espiritu Santo/Háblame amado Señor.aux) (./Semana Santa/Mi Dios está vivo.aux))
+ (./Misa/5 - Ofertorio/Como la Uva.aux) (./Misa/5 - Ofertorio/Con el vino y con el pan.aux) (./María/Contigo María.aux) (./María/Un Mundo Hizo Dios.aux) (./María/Oh Reina.aux) (./Hora Santa/7 - Vocacionales/Aquí hay un muchacho.aux) (./Hora Santa/7 - Vocacionales/Jeremías.aux) (./Hora Santa/7 - Vocacionales/No Temas.aux) (./Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.aux) (./Hora Santa/5 - Eucarísticos/Que bien se está aquí II.aux) (./María/Junto a Ti María.aux) (./Semana Santa/Mi Dios está vivo.aux) (./Hora Santa/1 - Recibir Santísimo/Bendito Hakuna.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1093,18 +1195,18 @@ Package rerunfilecheck Info: File `CantoralLatex.out' has not changed.
 (rerunfilecheck)             Checksum: 533D02522CEF968A4AF7338631AB4287;549.
  ) 
 Here is how much of TeX's memory you used:
- 23118 strings out of 474116
- 444823 string characters out of 5743682
+ 23159 strings out of 474116
+ 445885 string characters out of 5743682
  1986187 words of memory out of 5000000
- 44989 multiletter control sequences out of 15000+600000
+ 45013 multiletter control sequences out of 15000+600000
  731953 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,9n,93p,508b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on CantoralLatex.pdf (11 pages, 257605 bytes).
+Output written on CantoralLatex.pdf (20 pages, 262392 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
+ 176 PDF objects out of 1000 (max. 8388607)
+ 140 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

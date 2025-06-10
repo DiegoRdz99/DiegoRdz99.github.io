@@ -1,0 +1,98 @@
+\documentclass[11pt,oneside,letterpaper]{book}
+\usepackage{graphicx}
+\usepackage{titlesec}
+
+\usepackage[T1]{fontenc}
+% \usepackage{fouriernc}
+\usepackage{Alegreya}
+% \usepackage{mathpazo}
+\usepackage{setspace}  % Line spaceing  
+\usepackage{titlesec}   % centering titles 
+\usepackage{sectsty}
+\usepackage{tcolorbox}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{lipsum}
+\usepackage{titletoc}
+\usepackage[spanish,mexico]{babel}
+\usepackage{geometry}
+\usepackage{multicol}
+\geometry{
+ letterpaper,
+%  inputhead,
+ left=10mm,
+ right=10mm,
+ top=5mm,
+ bottom=15mm
+ }
+
+
+
+\titleformat{\chapter}{\bf\huge}{\thechapter.}{20pt}{\huge\bf}
+
+\definecolor{chorus}{HTML}{E06C75}
+\definecolor{verse}{HTML}{61AFEF} 
+\definecolor{bridge}{HTML}{E5C07B}
+\definecolor{prechorus}{HTML}{E5C07B}
+\definecolor{intro}{HTML}{98C379}
+\definecolor{outro}{HTML}{98C379}
+\definecolor{intermedio}{HTML}{56B6C2}
+
+
+\definecolor{schwarz}{HTML}{282C34}
+\definecolor{cyan}{HTML}{56B6C2}
+\definecolor{lila}{HTML}{C678DD}
+\definecolor{orange}{HTML}{D19A66}
+
+
+% -----
+
+\begin{document}
+% \pagestyle{fancy}
+% \renewcommand{\headrulewidth}{0pt}
+% \setlength{\headheight}{10mm}
+\setlength\columnsep{10mm}
+\renewcommand{\tabcolsep}{0pt}
+\newcommand{\Major}{$\Delta$}
+\newcommand{\sh}{$\sharp$}
+\newcommand{\fl}{$\flat$}
+% \newcommand{\sharpmusic}[1]{{\textsharp}#1}
+\newcommand{\tit}[2]{\vspace{5pt}\noindent\begin{tcolorbox}[leftrule=3mm,top=0.5mm,bottom=0.5mm,left=1mm,colback=#2!20,colframe=#2!75!black]{\large\textbf{#1}}\end{tcolorbox}}
+\newcommand{\chorus}[1]{\vspace{5pt}\noindent\begin{tcolorbox}[leftrule=3mm,rightrule=3mm,top=2mm,bottom=2mm,left=1mm,colback=chorus!20,colframe=chorus!75!black]{\large\textbf{Coro#1}}\end{tcolorbox}}
+
+\title{\Huge\textbf{Hora Santa Carismática del Hno. Martín, dj}}
+
+% \rhead[XD\\]{Hora Santa - Adoración\\}
+% \lhead{Hora Santa}
+
+% \author{Diego Rodríguez}
+
+\date{}
+
+\maketitle
+\input{Venimos a Adorar}
+
+\input{Hay una unción}
+
+\newpage
+
+\input{Te pertenezco Señor}
+
+
+\input{Tú eres mi todo, Señor}
+
+\newpage
+
+\input{Estás Aquí}
+
+\input{Tu modo}
+
+\newpage
+
+\input{Tú eres mi Señor}
+
+\input{Bendito Hakuna}
+
+
+\end{document}

@@ -1,4 +1,5 @@
-title : Venimos a Adorar
+title : El Rey del Universo
+composer : Jésed
 key : D
 {song}
 /verse/

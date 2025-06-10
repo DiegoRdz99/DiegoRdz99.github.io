@@ -1,0 +1,16 @@
+title : Tú eres mi Señor
+composer : Misioneros del Espíritu Santo
+{song}
+/verse/
+[E]  Señor mi Dios, yo te b[Am7]usco,    [E]   mi alma tiene sed de [Am7]Ti,
+[E]  cual tierra seca agos[C#m7]tada,  [A]   sin tu [F#m]gracia 
+/Coro/
+[E]Tú\quad  [A]eres [B7]mi Se[C#m]ñor, mi [E]bien nada [F#m]hay fuera de [B7]ti.
+[E]Tú\quad  [A]eres [B7]mi Se[C#m]ñor, la [F#m]parte de he[B7]ren - [E]cia.
+/verse/
+[E]  Solo en Dios descansa mi [Am7]alma,   [E]  de él viene mi salva[Am7]ción.
+[E]  Él es mi roca, mi ba[C#m7]luarte, [A]  de él vie[F#m]ne mi espe[B7]ranza.
+/coro/
+/outro_verse/
+[E]Tú\quad  [A]eres [B7]mi Se[C#m]ñor, mi [E]bien nada [F#m]hay fuera de [B7]ti.
+[E]Tú\quad  [A]eres [B7]mi Se[C#m]ñor, la [F#m]parte de he[A]ren - [E]cia.

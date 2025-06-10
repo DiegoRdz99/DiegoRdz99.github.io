@@ -245,7 +245,7 @@ path = pathlib.Path(__file__).parent.resolve()  # Automated path retriever
 dirs = sorted(os.listdir(path))
 print(f'curent path: {path}')
 
-# create_latex('María/Contigo María.txt')
+create_latex('CantoralLatex/María/Junto a Ti María.txt')
 # create_latex('María/Un Mundo Hizo Dios.txt')
 # create_latex('Hora Santa/5 - Eucarísticos/Jesús está vivo.txt')
 # create_latex('Hora Santa/5 - Eucarísticos/Vida en Abundancia.txt')
@@ -257,7 +257,7 @@ print(f'curent path: {path}')
 # create_latex('CantoralLatex/Hora Santa/7 - Vocacionales/Qué es lo que quieres de mí.txt')
 
 # create_latex('Misa/5 - Ofertorio/Como la Uva.txt')
-create_latex('CantoralLatex/Alabanzas/Alabanzas2025.txt')
+
 # create_latex('CantoralLatex/Villancicos/Arre Borriquito.txt')
 # create_latex('CantoralLatex/Villancicos/Burrito Sabanero.txt')
 # create_latex('CantoralLatex/Villancicos/Como en Belén.txt')

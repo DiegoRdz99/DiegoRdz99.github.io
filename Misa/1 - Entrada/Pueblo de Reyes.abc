@@ -21,7 +21,7 @@ L:1/8
 Q:1/4=120
 K:Bb
 % voice grouping
-%%score (s a) (t b)
+%%score s a t b
 % voice properties
 V:t clef=bass octave=-1
 V:b clef=bass octave=-1
@@ -62,3 +62,9 @@ w: te~a-la-ba-mos, Es-tre--lla ra-dian-te que~a-nun--cia el dí-a.
 w: te~a-la-ba-mos, An-tor-cha de la nue-va_ Je--ru-sa-lén._
 w: te~a-la-ba-mos, re-ú-ne~a tus o-ve-jas en un_ re--dil._
 w: te~a-la-ba-mos, oh Cris-to nues-tro Rey de hu-mil-de co-ra-zón._
+%
+[V:a] [M:2/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |
+%
+[V:t] [M:2/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |
+%
+[V:b] [M:2/4] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |
