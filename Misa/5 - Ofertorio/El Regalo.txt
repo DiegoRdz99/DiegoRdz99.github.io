@@ -1,0 +1,9 @@
+title : El Regalo
+composer : Jesús Bulfrano MSP
+key : G
+{song}
+/intro/
+[G]
+/Coro/
+[D]Te ofre[Em]cemos, Señor, este vino y este pan,
+[D_3]el re[G]galo que das a toda la humanidad;

@@ -2,6 +2,7 @@ title : Salmo 39
 composer : L. Martínez
 subtitle : 2° Domingo del T. Ordinario
 liturgy : Ordinario
+key : Cm
 {song}
 /resp/
 A[Gm]quí estoy Se[Cm]ñor

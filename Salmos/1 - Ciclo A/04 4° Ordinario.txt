@@ -1,6 +1,7 @@
 title : Salmo 145
 subtitle : 4° Domingo del T. Ordinario
 liturgy : Ordinario
+key : C
 {song}
 /resp/
 Di[Am]chosos los [Em]pobres de es[Am]píri[Em]tu,

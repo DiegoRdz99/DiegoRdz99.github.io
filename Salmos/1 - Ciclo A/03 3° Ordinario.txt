@@ -2,9 +2,10 @@ title : Salmo 26
 composer : R. Rojas
 subtitle : 3° Domingo del T. Ordinario
 liturgy : Ordinario
+key : G
 {song}
 /resp/
-El Se[G]ñot [C]es mi [Am]luz
+El Se[G]ñor [C]es mi [Am]luz
 [C]Y mi [F#]salva[G]ción
 /salmo/
 El Señor es mi luz y mi salvacón,

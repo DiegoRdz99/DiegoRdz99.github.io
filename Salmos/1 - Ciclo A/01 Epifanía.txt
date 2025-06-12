@@ -2,6 +2,7 @@ title : Salmo 71
 composer : U. Ochoa
 subtitle : La Epifanía del Señor
 liturgy : Navidad
+key : F
 {song}
 /resp/
 Que te a[F]doren Se[C]ñor

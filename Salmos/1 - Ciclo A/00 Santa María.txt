@@ -1,6 +1,7 @@
 title : Salmo 66
 subtitle : Santa María, Madre de Dios
 liturgy : Navidad
+key : Dm
 {song}
 /resp/
 Ten pie[Dm]dad de no[C]sotros Se[F]ñor
