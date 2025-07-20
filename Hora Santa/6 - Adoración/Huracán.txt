@@ -13,7 +13,7 @@ sin sa[Am7]ber - te ver[F].
 [Am7]  me he atrevido a sal[F]tar y caer.
 /intermedio/
 [C]    [G]    [Am7]    [F]
-/Coro/
+/Coro-x2/
 Y un hura[C]cán,    [G] romperá
 el [Am7]cielo desde mi gar[F]ganta, gritándote[C]:
 «¿dónde es[G]tás cuando me haces fa[Am7]lta?»  [F]
@@ -24,3 +24,19 @@ el [Am7]cielo desde mi gar[F]ganta, gritándote[C]:
 [Am7]  pero no sé que ha[F]cer.
 [C]  He prometido se[G]guirte,
 sin [Am7]en - tende[F]r.
+[C]  Y hay un eco en lo [G]hondo
+[Am7]  que me empuja hacia [F]ti,
+[C]  y aunque sea sin sen[G]tirte te [Am7]bus - ca[F]ré.
+/coro-x2/
+/prechorus/
+Estoy aq[C]uí en el sile[Dm]ncio,
+estoy aq[Em]quí, en este vi[F]ento,
+estoy aq[Am]uí, soy este [G]trozo de p[F]an.
+Estoy aq[C]uí en tu lam[Dm]ento,
+estoy aq[Em]quí, en este e[F]co,
+estoy aq[Am]uí, soy este [G]trozo de p[F]an.
+/coro-x4/
+/outro_verse/
+Y un hura[C]cán,    [G] romperá
+el [Am7]cielo desde mi gar[F]ganta, gritándome[C]:
+«¿cuánto me [G]haces fal[C]ta?»

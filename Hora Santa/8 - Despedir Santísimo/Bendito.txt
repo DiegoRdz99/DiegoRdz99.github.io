@@ -1,0 +1,23 @@
+title : Bendito
+composer : Popular
+key : D
+{song}
+/Coro/
+Ben[D]dito, bendito, ben[G]dito sea [D]Dios,
+los [G]ángeles [D]cantan y a[A]laban a [D]Dios,
+los [G]ángeles [D]cantan y a[A]laban a [D]Dios.
+/verse/
+Yo [D]creo, Jesús mío, que es[G]tás en al al[D]tar,
+o[G]culto en la [D]hostia te [A]vengo a ado[D]rar,
+o[G]culto en la [D]hostia te [A]vengo a ado[D]rar.
+/coro/
+/verse/
+Por [D]el amor al hombre mo[G]riste en una [D]cruz,
+y al [G]cáliz des[D]ciendes por [A]nuestra sa[D]lud, 
+y al [G]cáliz des[D]ciendes por [A]nuestra sa[D]lud.
+/coro/
+/verse/
+Je[D]sús, Rey del [G]cielo, que es[A]tás en el al[D]tar,
+tu [G]cuerpo, tu [D]sangre nos [A]das sin ce[D]sar, 
+tu [G]cuerpo, tu [D]sangre nos [A]das sin ce[D]sar.
+/coro/ 
