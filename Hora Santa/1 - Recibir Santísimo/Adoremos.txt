@@ -1,0 +1,19 @@
+title : Adoremos
+composer : Beto Cervantes Yado
+key : G
+{song}
+/verse/
+Ado[G]re - mos a Je[D]sús sacramentado,
+ado[Em7]re - mos a nuestro[C]  Rey.
+Ado[G]re - mos a Je[D]sús el pan de vida,
+al Cor[Em7]de - ro que pudo ven[C] - cer.
+/Coro/
+[D]  Oh San[G]tí - simo sacra[D]mento del altar,
+te vengo a ado [Am7]- rar, te vengo a ado[C]rar.
+te vengo a ado [Am7]- rar, te vengo a ado[C]rar.
+/verse/
+Ado[G]re - mos a Je[D]sús sacramentado,
+ado[Em7]re - mos a nuestro[C]  Rey.
+Ado[G]re - mos a Je[D]sús el pan de vida,
+al Cor[Em7]de - ro que pudo ven[C] - cer.
+/coro/
