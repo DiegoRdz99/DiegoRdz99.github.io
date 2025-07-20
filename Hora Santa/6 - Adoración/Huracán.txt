@@ -1,5 +1,6 @@
 title : Huracán
 composer : Hakuna Group Music
+key : C
 {song}
 /intro/
 [C]    [G]    [Am7]    [F]
