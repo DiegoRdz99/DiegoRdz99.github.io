@@ -1,0 +1,15 @@
+title : Salmo 23
+key : D
+composer : Grupo Nueva Vida
+{song}
+/Coro/
+[D]Aunque marche [Bm]por la oscuridad,
+[G]nada he de teme[A] - r,
+[D]porque Tú con[Bm]migo vas,
+mi pas[G]tor que me hace [A]sose[D]gar.
+/verse/
+[D]Tú que me con[Bm]duces
+a [G]tus fuentes de [A]paz,
+[G]Tú me has bauti[D]za[Bm]do,
+[Em]por tu [A]senda voy.
+/coro/

@@ -1,4 +1,4 @@
-title : Aleluya Tradicional
+title : Aleluya Panamericano
 key : G
 liturgy : Ordinario
 {song}
