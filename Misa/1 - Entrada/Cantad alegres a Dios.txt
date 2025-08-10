@@ -6,15 +6,31 @@ liturgy : Ordinario
 /Coro/
 Can[G]ta - d a[C]legres a [G]Dios
 habi[C]tantes de [D]toda la [G]tie - rra;
-ser[C]vidle [D]con ale[G]grí - i[Em]a,
-ser[C]vidle [D]con [A_3]ale[D]grí - i[D7]a.
-Ve[C]nid ante [D]su pre[G]sen - cia
+ser[C]vidle [D]con ale[G]grí - i[D_3] - [Em]a,
+ser[C]vidle con [A_3]ale[D]grí - i[D7]a.
+Ve[C]nid ante [D]su pre[G]sen - [Em]cia
 con [C]reco[D]ci - i[G]jo.
 /verse/
-[G]Recono[C]cer que [D]Dios es [G]Dios
-{[G]|Recono[C]|cer que [D]|Dios es [G]|Dios
-[G]Él nos [C]hizo y [D]su - yos [G]somos
-{[G]|Él nos [C]|hizo y [D]|su - yos [G]|somos
+[G]Recono[C]cer que [D]Dios es [G]Dios.
+{[G]|Recono[C]|cer que [D]|Dios es [G]|Dios.
+[Em]Él nos [C]hizo y [D]su - yos [G]somos.
+{[G]|Él nos [C]|hizo y [D]|su - yos [G]|somos.
 [C]Pueblo suyo [G]somos,
-y o[A]ve - jas [D7]de su [G]prado.
+y o[Am7]ve - jas [D7]de su [G]prado.
+/coro/
+/verse/
+En[G]trad por sus [C]puertas con [D]grati[G]tud.
+{|En[G]|trad por sus [C]|puertas con [D]|grati[G]|tud.
+[Em]Por sus [C]atrios [D]con ala[G]banzas.
+{[Em]|Por sus [C]|atrios [D]|con ala[G]|banzas.
+[C]A - a - la[G]badlo, [Em]
+y [Am7]bende[D7]cid su [G]nombre.
+/coro/
+/verse/
+[G]Porque el Se[C]ñor es [D]bue - e - [G]no.
+{[G]|Porque el Se[C]|ñor es [D]|bue - e - [G]|no.
+[Em]Para [C]siempre su [D]miseri[G]cordia.
+{[Em]|Para [C]|siempre su [D]|miseri[G]|cordia.
+[C]Y su ver[G]da - d, [Em]
+por los [Am7]si - glos [D7]de los [G]siglos.
 /coro/
