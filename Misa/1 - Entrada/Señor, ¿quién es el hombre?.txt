@@ -1,0 +1,13 @@
+title : Señor, ¿quién es el hombre?
+key : G
+liturgy : Ordinario
+{song}
+/Coro/
+Se[G]ñor, ¿[D]quién es el [Em]hombre
+que [C]pueda hospe[G]darse [C]en tu [G]tien[D]da?
+Se[G]ñor, ¿[D]quién puede habi[Em]tar
+en [C]tu monte [G]santo, [C]en tu san[G]tua - [D]a - [G]rio?
+/verse/
+El [Em]hombre que pro[Bm]ce - de [C]hon - [A]rada[D]mente,
+el [Em]hombre que prac[Bm]ti - ca jus[C]ti - [Am]cia con sus [D]obras.
+/coro/

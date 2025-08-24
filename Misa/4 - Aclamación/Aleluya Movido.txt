@@ -1,0 +1,9 @@
+title : Aleluya Movido
+key : G
+liturgy : Ordinario
+{song}
+/Coro/
+[G]Alelu[D]ya, a[C]le - lu[D]ya.
+[Em]A - le[C]luya, a[Am]le - lu[D]ya.
+[G]Alelu[D]ya, a[C]le - lu[D]ya.
+[Em]A - le[C]luya, a[D]le - lu[G]ya.

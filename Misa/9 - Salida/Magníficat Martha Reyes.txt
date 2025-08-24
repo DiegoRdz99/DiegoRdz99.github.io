@@ -1,0 +1,14 @@
+title : Santo su nombre será
+composer : Martha Reyes
+key : G
+liturgy : Ordinario
+{song}
+/Coro/
+[G]Todo mi [D]ser a Dios, ce[Em]le - bra
+y mi es[C]píritu se alegra en la gran[Am]deza del Se[D]ñor.
+[G]Todo mi [D]ser a Dios, ce[Em]le - bra
+y mi es[C]píritu se alegra en la gran[D]deza del Señor.
+Porque ha [G]he - cho mara[Em]vi - llas,
+porque ha [Am]he - cho mara[D]vi - llas,
+porque ha [G]he - cho mara[Em]vi - llas,
+[C]santo su [D]nombre se[G]rá.

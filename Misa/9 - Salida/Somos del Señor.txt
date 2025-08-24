@@ -1,0 +1,17 @@
+title : Somos del Señor
+composer : Jésed
+key : D
+liturgy : Ordinario
+{song}
+/verse/
+[D]Nadie vive [A]ya para [G]sí
+y [D]nadie muere [A]ya para [G]sí,
+por[D]que vi[A]vir es vivi[G]r para el Se[D]ñor,
+y [Em]el morir, mo[G]rir para el Se[A]ñor.
+/Coro/
+[A7]   En vida o [D]mue - [A]er - [G]te,
+somos [G]del Se[D]ñor,
+[Bm]por lo cual [G]Cristo mu[D]rió y resuci[A]tó,
+[Bm]todos esta[A]remos en el [G]juicio ante el Se[D]ñor,
+y ante [Bm]Él toda ro[G]dilla ha de do[D]blarse
+y toda [Bm]lengua ha de ala[A]bar a [D]Dios.

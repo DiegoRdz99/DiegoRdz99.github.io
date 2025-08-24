@@ -1,0 +1,15 @@
+title : Aleluya Cantamisa Padre Gera
+composer : Pbro. Gerardo Flores
+key : E
+liturgy : Ordinario
+{song}
+/Coro/
+[E]A - le[F#m]luya, a[A]le - lu[B]ya.
+[E]A - le[F#m]luya, ale[A]lu[B]ya.
+[E]A - le[F#m]luya, a[A]le - lu[B]ya.
+[E]A - le[F#m]luya, ale[A]lu[B]ya.
+/Coro/
+[F#]A - le[G#m]luya, a[B]le - lu[C#]ya.
+[F#]A - le[G#m]luya, ale[G]lu[C#]ya.
+[F#]A - le[G#m]luya, a[B]le - lu[C#]ya.
+[F#]A - le[G#m]luya, ale[G]lu[C#]ya.

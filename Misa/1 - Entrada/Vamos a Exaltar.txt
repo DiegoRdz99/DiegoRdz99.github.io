@@ -1,0 +1,33 @@
+title : Vamos a Exaltar
+composer : Jésed
+key : G
+iturgy : Ordinario
+{song}
+/verse/
+[G]  ¡Oh nuestro Di[D]os,
+tu gran [C]nombre exelso [G]es!
+[G]  Llenas la [D]tierra con tu [C]glo - [D]ria.
+[G]  ¡Oh nuestro Di[D]os,
+eres [C]grande en majesta[G]d!
+[G]  Tu nombre es[D]tá sobre los [C]cie - [D]los.
+/Coro/
+Vamos [G]a exaltar, vamos [D]a exalta - [Em]ar,
+a nuestro [C]Dios, en [G]su trono en [D]Sión.
+Vamos [G]a exaltar, vamos [D]a exalta - [Em]ar,
+a nuestro [C]Dios, en [G]su trono en [D]Sió - [G]on.
+/verse/
+[G]  ¡Oh nuestro Di[D]os,
+tú has fun[C]dado en tu a[G]mor
+un reino [D]de esplendor e[C]ter - [D]no.
+[G]  ¡Oh nuestro Di[D]os,
+los cielos [C]claman tu loor[G]!
+[G]  Pronto lo ha[D]rá también tu [C]pue - [D]blo.
+/coro/
+/verse/
+[G]  ¡Oh nuestro Di[D]os,
+tu pa[C]labra el mundo [G]creó!
+[G]  Y en ti u[D]nido se sos[C]tie - ne.
+[G]  Para Ti, Seño[D]r,
+que eres [C]nuestro salvador[G],
+[G]  sea la ala[D]banza para [C]siem - [D]pre.
+/coro/
