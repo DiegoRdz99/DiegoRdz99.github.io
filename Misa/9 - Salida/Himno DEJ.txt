@@ -1,0 +1,24 @@
+title : Himno DEJ
+key : G
+liturgy : Ordinario
+{song}
+/verse/
+[G]Hoy encuentro algo en mí que aye[Em]r
+yo no tenía y que encon[C]tré
+[Am] que cambió mi vi [D]- da.
+[G]Ese algo eres tú, Seño[Em]r,
+te metiste en mi cora[C]zón,
+[Am]   le diste alegr[D]ía.
+/prechorus/
+[C]Ese algo y[D]o no lo esper[G]aba,
+ni tam[Em]poco imagina[C]ba
+lo que [Am]me iba a suce[D]der.
+/Coro/
+Yo te encon[G]tré, tú me encontraste, yo ca[Em]í
+y me impulsaste a segu[C]ir,
+[Am]    a levant[D]arme.
+Y ahora i[G]ré con mis hermanos, les dir[Em]é
+que yo soy tuyo y que tam[C]bién
+[Am]    yo soy tus m[A]anos.
+[G]A - [Em]a - a[C]mé - [D]n.
+/coro/
