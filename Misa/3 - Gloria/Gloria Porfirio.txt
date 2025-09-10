@@ -1,0 +1,28 @@
+title : Gloria Porfirio
+composer : Porfirio Estrada
+key : G
+{song}
+/Coro/
+[G]Gloria, [Cadd9]gloria a Dios en el cie[G]lo,
+y en la ti[Cadd9]erra paz a los hom[G]bres
+que [F]ama el Seño[D] - r. [D7]
+/verse/
+[G]   Por tu inmensa gl[C]oria te alabamos,
+[G]   te bendecimos, te[C] adoramos,
+[F] glorificamos tu no[D]mbre, Se -[G] ñor.  [C]
+/coro/
+/verse/
+[G] Gracias te damos, Re[C]y Celestial,
+[G] Dios Padre Todo p[C]oderoso,
+[F] Cordero de Di[D]os, Hijo del [G]Pa - dre.  [C]
+/bridge/
+[Em]   Tú quitas del mu[Bm]ndo el pecado,
+[G] escúchanos Seño[C] - o - o [D]- o - or.
+[Em]   Tú que estás a la de[Bm]recha del Padre,
+[G]   de nosotros te[C]n pieda - a - [G]ad.
+{[G]|   Porque solame[C]|nte tú eres santo
+{[G]    Solo tú Alt[C]ísimo J[D]esucri[Em]sto|  con el Espíritu
+{[]Sa[C]|nto en la [D]|gloria del [G]|Pa - dre.  [C]
+/coro/
+/outro_verse/
+[F]A - [C]a - aa - a - [G]mén.   [C]    [G]

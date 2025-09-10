@@ -1,0 +1,28 @@
+title : Tú eres mi Señor
+composer : Misioneros Servidores de la Palabra
+key : E
+{song}
+/intro/
+[E]    [Am]
+/verse/
+[E]   Señor mi Dios, yo te bu[Am]sco,
+[E]   mi alma tiene sed de [Am]Ti,
+[E]   cual tierra seca, agos[C#m7]ta - da,
+[A]    sin tu gr[F#m]acia desfa[B]llezco. [B7]
+/Coro/
+[E]Tú [A]eres [B7]mi Señ[C#m7]ñor,
+mi [E]bien, nada [F#m]hay fuera de Ti[B7].
+[E]Tú [A]eres [B7]mi Señ[C#m7]ñor,
+la [F#m]parte de mi he[B7]ren - [E]cia.
+/verse/
+[E]   Solo en Dios descansa mi [Am]alma,
+[E]   de Él viene mi salva[Am]ción.
+[E]   Él es mi roca, mi ba[C#m7]luarte,
+[A]     de Él vie [F#m]- ne mi espe[B]ranza. [B7]
+/coro/
+/verse/
+[E]   Se me alegra el coraz[Am]ón,
+[E]     ¡oh Dios, causa de mi [Am]go - zo!
+[E]   Tu amor vale más que [C#m7]vi - da,
+[A]     te al[F#m]abarán mis [B]la - bios. [B7]
+/coro/

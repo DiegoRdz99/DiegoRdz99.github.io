@@ -1,0 +1,19 @@
+title : Cordero Rubén Isidro
+composer : Rubén Isidro
+key : Am
+{song}
+/intro/
+[Em]
+/verse/
+[Am]   Cordero de [Em]Dios,
+que [F]quitas el pe[C]ca - do del [D]mundo,
+{[C]ten pie[D]dad, de no[C]sotros,|ten pie[D]|dad.
+/verse/
+[Am]   Cordero de [Em]Dios,
+que [F]quitas el pe[C]ca - do del [D]mundo,
+{[C]ten pie[D]dad, de no[C]sotros,|ten pie[D]|dad.
+/verse/
+[Am]   Cordero de [Em]Dios,
+que [F]quitas el pe[C]ca - do del [D]mundo,
+[C]danos la [D]paz, [C]danos la [D]paz,
+danos la paz.

@@ -1,5 +1,5 @@
-title : Cantemos un canto de gloria
-composer : Jésed
+title : Salmo 94
+composer : Pbro. Gerardo Flores
 key : E
 liturgy : Ordinario
 {song}

@@ -1,0 +1,27 @@
+title : Alabado Seas Tú Señor
+composer : Jésed
+key : G
+{song}
+/Coro/
+[G]Ala[D]bado [C]seas Tú Se[D]ñor,
+ben[G]dito entre [D]las na[C]cio - [D]nes.
+Que te a[G]laben con [D]himnos y can[C]cio - [D]nes,
+que te a[C]laben con [D]todo el cora[G]zón.
+/verse/
+A[C]laben al Se[D]ñor todos los [G]reyes,
+[Em]   porque es [C]grande [D]su miseri[G]cordia.
+A[C]laben al Se[D]ñor porque Él es [G]bue - [Em]no,
+a[C]lábenle de [D]todo cora[G]zón.
+/coro/
+/verse/
+Es el Se[D]ñor quien me pro[G]tege,
+[Em]   Él [C]es la [D]roca que me [G]salva.
+Él es [C]quien me en[D]trena en la ba[G]ta - [Em]lla,
+el que me [C]libra de [D]toda opre[G]sión.
+/coro/
+/verse/
+Al [C]Padre sea el ho[D]nor y la [G]gloria,
+[Em]   al [C]Hijo la [D]fuerza y el po[G]der.
+Y al Es[C]píritu de [D]Dios sea la ala[G]ban - [Em]za,
+por los [C]siglos de los [D]siglos. A[G]mén.
+/coro/

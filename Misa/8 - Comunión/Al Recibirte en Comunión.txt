@@ -1,0 +1,36 @@
+title : Al Recibirte en Comunión
+composer : Jésed
+key : E
+{song}
+/intro/
+[E]     [G#m]    [A]    [B]
+[E]     [G#m]    [A]    [B]
+/Coro/
+Se[E]ñor, Je[G#m]sús, [C#m] dulce bien de mi [B]alma,
+al [E]re - cib[G#m]irte en comu[A]nió - [B]n.
+Se[E]ñor, Je[G#m]sús, [C#m] dulce bien de mi [B]alma,
+al [E]re - cib[G#m]irte en comu[A]nió - [B]n.
+/verse/
+En lu[E]gar de sentirte a [G#m]Ti dentro de mí[C#m],
+me siento [A]yo dentro de Ti[F#m]
+[A]   en tu mismo cue[B]rpo. [B7]
+En lu[E]gar de sentirte a [G#m]Ti dentro de mí[C#m],
+me siento [A]yo dentro de Ti[F#m]
+[A]   en tu mismo cue[B]rpo. [B7]
+/coro/
+/intermedio/
+[E]     [G#m]    [A]    [B]
+[E]     [G#m]    [A]    [B]
+/verse/
+Me pa[E]rece que mi alma du[G#m]erme
+en brazos del am[C#m]mor,
+se desva[A]nece en suavid[F#m]ad,
+[A]  y solo sabe a[B]mar. [B7]
+Me pa[E]rece que mi alma du[G#m]erme
+en brazos del am[C#m]mor,
+se desva[A]nece en suavid[F#m]ad,
+[A]  y ya no [D]sabe otra c[B]osa más que a[A]mar,
+ya no [Am]sabe otra cosa más que a[E]mar.
+/outro/
+[E]     [G#m]    [A]    [B]
+[E]     [G#m]    [A]    [B]

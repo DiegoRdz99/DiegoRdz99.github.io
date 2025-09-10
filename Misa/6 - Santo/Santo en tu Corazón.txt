@@ -1,0 +1,18 @@
+title : Santo en tu Corazón
+composer : Padre Pako Cantú
+key : C
+{song}
+/verse/
+[C]San - [G]to, [F]San - [G]to,
+[C]santo [G]es [F]el Se[G]ñor
+/bridge/
+[E7]Dios del Uni[Am]verso,
+el [F]cielo y la [G]tierra están
+[E7]llenos de tu [Am]gloria.
+/Coro/
+Ho[F]sa - aaa - [G]nna, ho[E7]sa - aaa - [Am]nna
+en el [F]cie - e - [C]lo.
+/bridge/
+Ben[E7]dito el que [Am]viene
+en el [Bb]nombre del Se[G]ñor.
+/coro/

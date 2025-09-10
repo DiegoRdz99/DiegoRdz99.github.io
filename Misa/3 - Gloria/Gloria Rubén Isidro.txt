@@ -1,0 +1,27 @@
+title : Gloria Rubén Isidro
+composer : Rubén Isidro
+key : G
+{song}
+/Coro/
+[G]Gloria, [D]gloria,
+[C]gloria a [D]Dios en el [G]cielo,
+[C]y en [D]la tierra[G]paz
+[Em]a los [Am]hombres que [D]ama el Se[G]ñor.
+/verse/
+[G]Te ala[D]bamos, [C]te [D7]bende[G]cimos,
+[C]te [D7]ado[G]ramos, [C]te [D7]glorifi[G]camos,
+[C]te [D7]damos [G]gra[Em]cias,
+Se[Am]ñor, Dios [D7]Rey Celes[G]tial.
+/coro/
+/verse/
+[G]Hijo del [D]Padre, [C]Je [D7]- su[G]cristo,
+tú [C]eres [D7]el cor[G]dero
+que [C]quitas [D7]el pe[G]cado,
+[C]ten pie[D7]dad de no[G]so[Em]tros,
+y es[Am]cucha [D7]nuestra ora[G]ción.
+/coro/
+/verse/
+[G]Sólo tú eres [D]Santo, [C]solo [D7]tú, Se[G]ñor,
+[C]sólo [D7]tú Al[G]tísimo, [C]Jesu[D7]cris[G]to,
+[C]con el Es[D7]píritu [G]San[Em]to en
+la [Am]gloria del [D7]Padre. A[G]mén.

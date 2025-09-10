@@ -1,0 +1,28 @@
+title : No os preocupéis
+composer : Misión País
+key : A
+{song}
+/intro/
+[A]     [D]   [E] 
+/verse/
+[A]No os preocupéis, si tendrán para comer
+ma[D]ñana,      [Bm7]no.   [E]
+[A]No os preocupéis, si tendrán con que vestir
+ma[D]ñana,      [Bm7]pues:   [E]
+/Coro-1/
+Las [Bm]a - ves del cielo, no [D]siembran ni cosechan,
+y [A]Dios, vuestro padre, las [E]cuida y alimenta;
+los [Bm]li - rios del campo no [D]hilan ni se afanan,
+y [D]Dios, vuestro padre, los [E]viste como reyes.
+/verse/
+[A]No os preocupéis, Dios ya sabe lo que
+ne - ce[D]sitan,      [Bm7]tú   [E]
+[A]confía en Él, no, nunca te
+abando - nará[D],     [Bm7]y    [E]
+/Coro-2/
+[Bm]Todo lo demás, aña[D]dido se dará
+si [A]buscas su Reino, si [E]buscas la verdad.
+[Bm]Todo lo demás, aña[D]dido se dará
+si [A]buscas su Reino, si [E]buscas la verdad.
+/outro_verse/
+[A]No os preocupéis, [D]hombres  [E]  de poc[A]a fe.

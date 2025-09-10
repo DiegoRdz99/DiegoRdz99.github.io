@@ -5,7 +5,7 @@ liturgy : Ordinario
 /verse/
 {[Em]Sa-a-[D]a-a-[C]a-a-[B7]a-an[Em]to|Sa-a-[D]|a-a-[C]|a-a-[B7]|a-an[Em]|to
 {[Em]  Santo es el se[D]ñor  [C]|Dios del uni[B7]|verso
-{[Em]  Los cielos y la [D]tierra  []|Están [C]|llenos de su [B7]|gloria
+{[Em]  Los cielos y la [D]tierra  []|Están [C]|llenos de tu [B7]|gloria
 Ho[Em]sanna, ho[D]sanna, ho[C]sanna, ho[B7]sanna en el
 {[Em]Cielo-|Sa-a-[D]o|a-a-[C]|a-a-[B7]|a-an[Em]Sa-a-|to[D]a-a-[C]a-a-[B7]a-an[Em]to
 {[Em]  Bendito es el que [D]viene,  []|en el [C]|nombre del Se[B7]|ñor
