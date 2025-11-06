@@ -1,0 +1,42 @@
+title : En ti perfecto
+composer : Trigo 13
+key : A
+{song}
+/intro/
+[D]   [E]   [A]    [F#m]
+[D]   [E]   [A]    [F#m]
+/verse/
+¿[D]Cuántas veces te he [E]preguntado
+la ra[A]zón de mi exis[F#m]tir?
+¿[D]Cuántas veces [E]he dudado
+de por[A]qué me hizo as[F#m]í?
+Tan des[D]nudo, tan heri[E]do,
+inca[A]paz de [E]dar a[D]mor.
+/bridge/
+Hoy te [D]pido de rodill[E]as,
+¿por [D]qué, Se[E]ñor?
+/Coro-x2/
+Pues [F#m]yo te [D]hice así,
+per[A]fecto de verda[E]d.
+Pen[F#m]sé cada [D]uno de
+tus [A]gestos para a[E]mar.
+Pues en [F#m]ti están mis hu[D]ellas,
+para que [A]otros puedan [E]ver,
+a tra[D]vés de alguien precioso,
+mara[E]villas que cre[D]é.
+/intermedio/
+[F#m]   [D]    [A]    [E]
+/bridge-x3/
+[F#m]Oh - [D]oh - [A]oh - uhoho[E]h.
+/Coro-x2/
+Pues [F#m]yo te [D]hice así,
+per[A]fecto de verda[E]d.
+Pen[F#m]sé cada [D]uno de
+tus [A]gestos para a[E]mar.
+Pues en [F#m]ti están mis hu[D]ellas,
+para que [A]otros puedan [E]ver,
+a tra[D]vés de alguien precioso,
+mara[E]villas que cre[D]é.
+/outro_verse/
+Que tú eres [A]mi refl[D]ejo - o,
+[E]    aquí tienes tu por[D]qué
