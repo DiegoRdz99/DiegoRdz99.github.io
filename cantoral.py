@@ -6,7 +6,7 @@ class constants:
         self.navbar = f'''
 <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top shadow">
     <div class="container-fluid">
-        <a class="navbar-brand mb-0 h1" href="{backsteps}index.html"><img src="{backsteps}Logo.svg" width="20px" height="20px"></img> Coro Milites Christi</a>
+        <a class="navbar-brand mb-0 h1" href="{backsteps}index.html"><img src="{backsteps}Logo.png" width="20px" height="20px"></img> Coro Milites Christi</a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_navbar" aria-controls="collapse_navbar" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span> <!--This is the hamburger icon for the menu-->
@@ -56,7 +56,7 @@ class constants:
 <html>
 <head>
     <title>{title}</title>
-    <link rel="icon" type="image/x-icon" href="{backsteps}Logo.svg">
+    <link rel="icon" type="image/x-icon" href="{backsteps}Logo.png">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -70,7 +70,7 @@ class constants:
 <html>
 <head>
     <title>{title}</title>
-    <link rel="icon" type="image/x-icon" href="{backsteps}Logo.svg">
+    <link rel="icon" type="image/x-icon" href="{backsteps}Logo.png">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -699,7 +699,7 @@ if __name__ == '__main__':
         head = f'''
         <head>
             <title>Global Index</title>
-            <link rel="icon" type="image/x-icon" href="{backsteps}Logo.svg">
+            <link rel="icon" type="image/x-icon" href="{backsteps}Logo.png">
             <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
             <meta http-equiv="Content-Style-Type" content="text/css">
             <meta name="viewport" content="width=device-width, initial-scale=1">
