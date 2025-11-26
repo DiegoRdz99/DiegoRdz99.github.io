@@ -1,0 +1,36 @@
+title : En medio del fuego
+composer : Hakuna
+capo : 4
+key : G
+{song}
+/Coro/
+Alzo la [Em]voz, en medio del [C]  fuego,
+de pie en el do[G]lor, sin miedo te es[D]pero.
+Alzo la [Em]voz, en medio del [C]  fuego,
+de pie en el do[G]lor, sin miedo te es[D]pero.
+/prechorus/
+A[Em]hora [D_3]que no hay [G]tierra [D]que pi[C] - sar,
+aunque [Em]todo en [D_3]mí me [G]pide a[D]bando[Cadd9] - nar.
+/coro/
+/verse/
+[C]Cielos, ejércitos, luz y tinieblas,
+la [Em]noche y el día, el sol las estrellas,
+can[G]tad, bendecid al Seño[D]r.
+Que [C]rompan los mares, los ríos que corran,
+que [Em]naden los peces, retumben las olas,
+can[G]tad, bendecid al Seño[D]r.
+Los [C]montes y cumbres, los fríos y heladas,
+ga[Em]nados y fieras, las aves y plantas
+can[G]tad, bendecid al Seño[D]r.
+[C]Hijos de hombres, que rían y lloren,
+que a[Em]bracen, que corran, que griten y adoren,
+can[G]tad, bendecid al Seño[D]r.
+/coro/
+/Coro/
+{Alzo la [Em]voz, []|alzo la voz
+{[]en medio del [C]  fuego,
+{[]|en medio del fue[]de pie en el do|go[G]lor, 
+{[]|de pie en el dolor, []sin miedo te es[D]pero.
+{[]|sin miedo te espe - []Alzo la |ro[Em]voz, []|alzo la voz
+{[]en medio del [C]  fuego,
+de pie en el do[G]lor, sin miedo te es[D]pero.
