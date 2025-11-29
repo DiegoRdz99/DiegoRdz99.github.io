@@ -1,0 +1,39 @@
+title : Permanecer en ti
+composer : Manuel Lorca
+key : G
+capo : 3
+{song}
+/intro/
+[G^9]   [C^9#11]   [G^9]   [C^9#11]
+/verse/
+Je[G^9]sús, contigo quiero es[C^9#11]tar,
+me re[G^9]galas la paz del cora[C^9#11]zón.
+Se[G^9]ñor, no soy digno de te[C^9#11]nerte,
+pero [G^9]tú a mi casa quieres en[C^9#11]trar.
+/intermedio/
+[G^9]   [C^9#11]   [G^9]   [C^9#11]
+/verse/
+Je[G^9]sús no hay nada que [C^9#11]yo
+pueda [G^9] continuar anhelando si no tu a[C^9#11]mor.
+Se[G^9]ñor, no hay mayor ale[C^9#11]gría
+que po[G^9]der compartir mi vida con[C^9#11]tigo.
+/bridge/
+[Am7] Quiero permane[G^7]cer en [C^9#11]ti
+[Am7]   y que tú perma[G^7]nezcas en [C^9#11]mí.
+/Coro/
+[G]Cris - to mi [D_3]paz, mi ale[C^9#11]grí - a,
+[G]e - res la [D_3] luz de mi [C^9#11]vida.
+[G]e - res a[D_3]mor que perma[C^9#11]nece
+[Am7]go - zo del [G^7]alma,
+[C^9#11]fuente de [D]vi - da y ver[G^9]dad.
+/intermedio/
+[G^9]   [C^9#11]   [G^9]   [C^9#11]
+/verse/
+Je[G^9]sús, compañero del ca[C^9#11]mino,
+en[G^9]séñame a amar a los de[C^9#11] - más.
+Se[G^9]ñor, alimento que se en[C^9#11]trega,
+ins[G^9]críbeme en tu cora[C^9#11]zón.
+/bridge/
+[Am7] Quiero permane[G^7]cer en [C^9#11]ti
+[Am7]   y que tú perma[G^7]nezcas en [C^9#11]mí.
+/coro-(x2)/

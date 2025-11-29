@@ -1,0 +1,46 @@
+title : Sueños
+composer : Un Corazón
+key : D
+{song}
+/intro/
+[D]
+/verse/
+[D]Dicen que Dios tiene sueños,
+ocho billones de sueños,
+[G]dicen que eres uno de ellos,
+[Bm]¡mira que hermoso des[G]tello eres de Él![D]
+Dicen que hay una [D]casa,
+en donde el tiempo no pasa,
+[G] dicen que no está muy lejos,
+[Bm] puedes llegar si te a[G]treves a cre[D]er.
+/Coro/
+[Bm]Todos a la mesa, [G]nadie queda fuera,
+[D]   ya no hay tiempo que per[G]der.
+[Bm]Esta es la promesa, [G]gracia y vida eterna,
+[D]   ya no hay nada que te[G]mer.
+/intermedio/
+Oh - oh - [D]oh.  [G]   [Bm]   [G]
+/verse/
+[D]Dicen que hay un banquete,
+inagotable y creciente,
+[G]dicen que el rey quiere verte,
+[Bm]hay un lugar prepa[G]rado para ti[D].
+[Bm]Hay un lugar prepa[G]rado para mí[D].
+/coro-(x2)/
+/bridge/
+[D]Oh - oh - oh, oh - oh - [Em]oh - oh - [Bm],
+Ya no hay nada que te[Bm]mer.  [G]
+[D]Oh - oh - oh, oh - oh - [Em]oh - oh - [Bm],
+Ya no hay nada que te[Bm]mer.  [G]
+/verse/
+[D]Dicen que Dios tiene sueños,
+ocho billones de sueños,
+[G]dicen que eres uno de ellos,
+[Bm]¡mira que hermoso des[G]tello eres de Él![Bm]
+[Bm]¡mira que hermoso des[G]tello eres de Él![D]
+/outro_verse/
+Un li[D]siado a la [G]mesa se sen[D]tó,
+con ver[G]güenza sus he[G]ridas ocul[A] - tó.
+Más al [D]rey no le impor[G]tó su condi[A]ción,
+«Bienve[G]nido, hijo [A]mío» decla[D]ró.
+Y el li[G]siado en la his[A]toria era [D]yo.
